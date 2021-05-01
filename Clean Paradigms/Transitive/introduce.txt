@@ -1,0 +1,371 @@
+#35 - აცნობს - introduce:
+Screeve #1:
+აცნობს	მაცნობ	V;2;SG;1;SG;IND;PRS = macnob
+აცნობს	მაცნობს	V;3;SG;1;SG;IND;PRS = macnobs
+აცნობს	მაცნობთ	V;2;PL;1;SG;IND;PRS = macnobt
+აცნობს	მაცნობენ	V;3;PL;1;SG;IND;PRS = macnoben
+აცნობს	გაცნობ	V;1;SG;2;SG;IND;PRS = gacnob
+აცნობს	გაცნობს	V;3;SG;2;SG;IND;PRS = gacnobs
+აცნობს	გაცნობთ	V;1;PL;2;SG;IND;PRS = gacnobt
+აცნობს	გაცნობენ	V;3;PL;2;SG;IND;PRS = gacnoben
+აცნობს	ვაცნობ	V;1;SG;3;SG;IND;PRS = vacnob
+აცნობს	აცნობ	V;2;SG;3;SG;IND;PRS = acnob
+აცნობს	აცნობს	V;3;SG;3;SG;IND;PRS = acnobs
+აცნობს	ვაცნობთ	V;1;PL;3;SG;IND;PRS = vacnobt
+აცნობს	აცნობთ	V;2;PL;3;SG;IND;PRS = acnobt
+აცნობს	აცნობენ	V;3;PL;3;SG;IND;PRS = acnoben
+აცნობს	გვაცნობ	V;2;SG;1;PL;IND;PRS = gvacnob
+აცნობს	გვაცნობს	V;3;SG;1;PL;IND;PRS = gvacnobs
+აცნობს	გვაცნობთ	V;2;PL;1;PL;IND;PRS = gvacnobt
+აცნობს	გვაცნობენ	V;3;PL;1;PL;IND;PRS = gvacnoben
+აცნობს	გაცნობთ	V;1;SG;2;PL;IND;PRS = gacnobt
+აცნობს	გაცნობთ	V;3;SG;2;PL;IND;PRS = gacnobt
+აცნობს	გაცნობთ	V;1;PL;2;PL;IND;PRS = gacnobt
+აცნობს	გაცნობენ	V;3;PL;2;PL;IND;PRS = gacnoben
+აცნობს	ვაცნობ	V;1;SG;3;PL;IND;PRS = vacnob
+აცნობს	აცნობ	V;2;SG;3;PL;IND;PRS = acnob
+აცნობს	აცნობს	V;3;SG;3;PL;IND;PRS = acnobs
+აცნობს	ვაცნობთ	V;1;PL;3;PL;IND;PRS = vacnobt
+აცნობს	აცნობთ	V;2;PL;3;PL;IND;PRS = acnobt
+აცნობს	აცნობენ	V;3;PL;3;PL;IND;PRS = acnoben
+
+
+Screeve #2:
+აცნობს	მაცნობდი	V;2;SG;1;SG;IND;IPFV = macnobdi
+აცნობს	მაცნობდა	V;3;SG;1;SG;IND;IPFV = macnobda
+აცნობს	მაცნობდით	V;2;PL;1;SG;IND;IPFV = macnobdit
+აცნობს	მაცნობდნენ	V;3;PL;1;SG;IND;IPFV = macnobdnen
+აცნობს	გაცნობდი	V;1;SG;2;SG;IND;IPFV = gacnobdi
+აცნობს	გაცნობდა	V;3;SG;2;SG;IND;IPFV = gacnobda
+აცნობს	გაცნობდით	V;1;PL;2;SG;IND;IPFV = gacnobdit
+აცნობს	გაცნობდნენ	V;3;PL;2;SG;IND;IPFV = gacnobdnen
+აცნობს	ვაცნობდი	V;1;SG;3;SG;IND;IPFV = vacnobdi
+აცნობს	აცნობდი	V;2;SG;3;SG;IND;IPFV = acnobdi
+აცნობს	აცნობდა	V;3;SG;3;SG;IND;IPFV = acnobda
+აცნობს	ვაცნობდით	V;1;PL;3;SG;IND;IPFV = vacnobdit
+აცნობს	აცნობდით	V;2;PL;3;SG;IND;IPFV = acnobdit
+აცნობს	აცნობდნენ	V;3;PL;3;SG;IND;IPFV = acnobdnen
+აცნობს	გვაცნობდი	V;2;SG;1;PL;IND;IPFV = gvacnobdi
+აცნობს	გვაცნობდა	V;3;SG;1;PL;IND;IPFV = gvacnobda
+აცნობს	გვაცნობდით	V;2;PL;1;PL;IND;IPFV = gvacnobdit
+აცნობს	გვაცნობდნენ	V;3;PL;1;PL;IND;IPFV = gvacnobdnen
+აცნობს	გაცნობდით	V;1;SG;2;PL;IND;IPFV = gacnobdit
+აცნობს	გაცნობდათ	V;3;SG;2;PL;IND;IPFV = gacnobdat
+აცნობს	გაცნობდით	V;1;PL;2;PL;IND;IPFV = gacnobdit
+აცნობს	გაცნობდნენ	V;3;PL;2;PL;IND;IPFV = gacnobdnen
+აცნობს	ვაცნობდი	V;1;SG;3;PL;IND;IPFV = vacnobdi
+აცნობს	აცნობდი	V;2;SG;3;PL;IND;IPFV = acnobdi
+აცნობს	აცნობდა	V;3;SG;3;PL;IND;IPFV = acnobda
+აცნობს	ვაცნობდით	V;1;PL;3;PL;IND;IPFV = vacnobdit
+აცნობს	აცნობდით	V;2;PL;3;PL;IND;IPFV = acnobdit
+აცნობს	აცნობდნენ	V;3;PL;3;PL;IND;IPFV = acnobdnen
+
+
+Screeve #3:
+აცნობს	მაცნობდე	V;2;SG;1;SG;SBJV;PRS = macnobde
+აცნობს	მაცნობდეს	V;3;SG;1;SG;SBJV;PRS = macnobdes
+აცნობს	მაცნობდეთ	V;2;PL;1;SG;SBJV;PRS = macnobdet
+აცნობს	მაცნობდნენ	V;3;PL;1;SG;SBJV;PRS = macnobdnen
+აცნობს	გაცნობდე	V;1;SG;2;SG;SBJV;PRS = gacnobde
+აცნობს	გაცნობდეს	V;3;SG;2;SG;SBJV;PRS = gacnobdes
+აცნობს	გაცნობდეთ	V;1;PL;2;SG;SBJV;PRS = gacnobdet
+აცნობს	გაცნობდნენ	V;3;PL;2;SG;SBJV;PRS = gacnobdnen
+აცნობს	ვაცნობდე	V;1;SG;3;SG;SBJV;PRS = vacnobde
+აცნობს	აცნობდე	V;2;SG;3;SG;SBJV;PRS = acnobde
+აცნობს	აცნობდეს	V;3;SG;3;SG;SBJV;PRS = acnobdes
+აცნობს	ვაცნობდეთ	V;1;PL;3;SG;SBJV;PRS = vacnobdet
+აცნობს	აცნობდეთ	V;2;PL;3;SG;SBJV;PRS = acnobdet
+აცნობს	აცნობდნენ	V;3;PL;3;SG;SBJV;PRS = acnobdnen
+აცნობს	გვაცნობდე	V;2;SG;1;PL;SBJV;PRS = gvacnobde
+აცნობს	გვაცნობდეს	V;3;SG;1;PL;SBJV;PRS = gvacnobdes
+აცნობს	გვაცნობდეთ	V;2;PL;1;PL;SBJV;PRS = gvacnobdet
+აცნობს	გვაცნობდნენ	V;3;PL;1;PL;SBJV;PRS = gvacnobdnen
+აცნობს	გაცნობდეთ	V;1;SG;2;PL;SBJV;PRS = gacnobdet
+აცნობს	გაცნობდეთ	V;3;SG;2;PL;SBJV;PRS = gacnobdet
+აცნობს	გაცნობდეთ	V;1;PL;2;PL;SBJV;PRS = gacnobdet
+აცნობს	გაცნობდნენ	V;3;PL;2;PL;SBJV;PRS = gacnobdnen
+აცნობს	ვაცნობდე	V;1;SG;3;PL;SBJV;PRS = vacnobde
+აცნობს	აცნობდე	V;2;SG;3;PL;SBJV;PRS = acnobde
+აცნობს	აცნობდეს	V;3;SG;3;PL;SBJV;PRS = acnobdes
+აცნობს	ვაცნობდეთ	V;1;PL;3;PL;SBJV;PRS = vacnobdet
+აცნობს	აცნობდეთ	V;2;PL;3;PL;SBJV;PRS = acnobdet
+აცნობს	აცნობდნენ	V;3;PL;3;PL;SBJV;PRS = acnobdnen
+
+
+Screeve #4:
+აცნობს	გამაცნობ	V;2;SG;1;SG;IND;FUT = gamacnob
+აცნობს	გამაცნობს	V;3;SG;1;SG;IND;FUT = gamacnobs
+აცნობს	გამაცნობთ	V;2;PL;1;SG;IND;FUT = gamacnobt
+აცნობს	გამაცნობენ	V;3;PL;1;SG;IND;FUT = gamacnoben
+აცნობს	გაგაცნობ	V;1;SG;2;SG;IND;FUT = gagacnob
+აცნობს	გაგაცნობს	V;3;SG;2;SG;IND;FUT = gagacnobs
+აცნობს	გაგაცნობთ	V;1;PL;2;SG;IND;FUT = gagacnobt
+აცნობს	გაგაცნობენ	V;3;PL;2;SG;IND;FUT = gagacnoben
+აცნობს	გავაცნობ	V;1;SG;3;SG;IND;FUT = gavacnob
+აცნობს	გააცნობ	V;2;SG;3;SG;IND;FUT = gaacnob
+აცნობს	გააცნობს	V;3;SG;3;SG;IND;FUT = gaacnobs
+აცნობს	გავაცნობთ	V;1;PL;3;SG;IND;FUT = gavacnobt
+აცნობს	გააცნობთ	V;2;PL;3;SG;IND;FUT = gaacnobt
+აცნობს	გააცნობენ	V;3;PL;3;SG;IND;FUT = gaacnoben
+აცნობს	გაგვაცნობ	V;2;SG;1;PL;IND;FUT = gagvacnob
+აცნობს	გაგვაცნობს	V;3;SG;1;PL;IND;FUT = gagvacnobs
+აცნობს	გაგვაცნობთ	V;2;PL;1;PL;IND;FUT = gagvacnobt
+აცნობს	გაგვაცნობენ	V;3;PL;1;PL;IND;FUT = gagvacnoben
+აცნობს	გაგაცნობთ	V;1;SG;2;PL;IND;FUT = gagacnobt
+აცნობს	გაგაცნობთ	V;3;SG;2;PL;IND;FUT = gagacnobt
+აცნობს	გაგაცნობთ	V;1;PL;2;PL;IND;FUT = gagacnobt
+აცნობს	გაგაცნობენ	V;3;PL;2;PL;IND;FUT = gagacnoben
+აცნობს	გავაცნობ	V;1;SG;3;PL;IND;FUT = gavacnob
+აცნობს	გააცნობ	V;2;SG;3;PL;IND;FUT = gaacnob
+აცნობს	გააცნობს	V;3;SG;3;PL;IND;FUT = gaacnobs
+აცნობს	გავაცნობთ	V;1;PL;3;PL;IND;FUT = gavacnobt
+აცნობს	გააცნობთ	V;2;PL;3;PL;IND;FUT = gaacnobt
+აცნობს	გააცნობენ	V;3;PL;3;PL;IND;FUT = gaacnoben
+
+
+Screeve #5:
+აცნობს	გამაცნობდი	V;2;SG;1;SG;COND = gamacnobdi
+აცნობს	გამაცნობდა	V;3;SG;1;SG;COND = gamacnobda
+აცნობს	გამაცნობდით	V;2;PL;1;SG;COND = gamacnobdit
+აცნობს	გამაცნობდნენ	V;3;PL;1;SG;COND = gamacnobdnen
+აცნობს	გაგაცნობდი	V;1;SG;2;SG;COND = gagacnobdi
+აცნობს	გაგაცნობდა	V;3;SG;2;SG;COND = gagacnobda
+აცნობს	გაგაცნობდით	V;1;PL;2;SG;COND = gagacnobdit
+აცნობს	გაგაცნობდნენ	V;3;PL;2;SG;COND = gagacnobdnen
+აცნობს	გავაცნობდი	V;1;SG;3;SG;COND = gavacnobdi
+აცნობს	გააცნობდი	V;2;SG;3;SG;COND = gaacnobdi
+აცნობს	გააცნობდა	V;3;SG;3;SG;COND = gaacnobda
+აცნობს	გავაცნობდით	V;1;PL;3;SG;COND = gavacnobdit
+აცნობს	გააცნობდით	V;2;PL;3;SG;COND = gaacnobdit
+აცნობს	გააცნობდნენ	V;3;PL;3;SG;COND = gaacnobdnen
+აცნობს	გაგვაცნობდი	V;2;SG;1;PL;COND = gagvacnobdi
+აცნობს	გაგვაცნობდა	V;3;SG;1;PL;COND = gagvacnobda
+აცნობს	გაგვაცნობდით	V;2;PL;1;PL;COND = gagvacnobdit
+აცნობს	გაგვაცნობდნენ	V;3;PL;1;PL;COND = gagvacnobdnen
+აცნობს	გაგაცნობდით	V;1;SG;2;PL;COND = gagacnobdit
+აცნობს	გაგაცნობდათ	V;3;SG;2;PL;COND = gagacnobdat
+აცნობს	გაგაცნობდით	V;1;PL;2;PL;COND = gagacnobdit
+აცნობს	გაგაცნობდნენ	V;3;PL;2;PL;COND = gagacnobdnen
+აცნობს	გავაცნობდი	V;1;SG;3;PL;COND = gavacnobdi
+აცნობს	გააცნობდი	V;2;SG;3;PL;COND = gaacnobdi
+აცნობს	გააცნობდა	V;3;SG;3;PL;COND = gaacnobda
+აცნობს	გავაცნობდით	V;1;PL;3;PL;COND = gavacnobdit
+აცნობს	გააცნობდით	V;2;PL;3;PL;COND = gaacnobdit
+აცნობს	გააცნობდნენ	V;3;PL;3;PL;COND = gaacnobdnen
+
+
+Screeve #6:
+აცნობს	გამაცნობდე	V;2;SG;1;SG;SBJV;FUT = gamacnobde
+აცნობს	გამაცნობდეს	V;3;SG;1;SG;SBJV;FUT = gamacnobdes
+აცნობს	გამაცნობდეთ	V;2;PL;1;SG;SBJV;FUT = gamacnobdet
+აცნობს	გამაცნობდნენ	V;3;PL;1;SG;SBJV;FUT = gamacnobdnen
+აცნობს	გაგაცნობდე	V;1;SG;2;SG;SBJV;FUT = gagacnobde
+აცნობს	გაგაცნობდეს	V;3;SG;2;SG;SBJV;FUT = gagacnobdes
+აცნობს	გაგაცნობდეთ	V;1;PL;2;SG;SBJV;FUT = gagacnobdet
+აცნობს	გაგაცნობდნენ	V;3;PL;2;SG;SBJV;FUT = gagacnobdnen
+აცნობს	გავაცნობდე	V;1;SG;3;SG;SBJV;FUT = gavacnobde
+აცნობს	გააცნობდე	V;2;SG;3;SG;SBJV;FUT = gaacnobde
+აცნობს	გააცნობდეს	V;3;SG;3;SG;SBJV;FUT = gaacnobdes
+აცნობს	გავაცნობდეთ	V;1;PL;3;SG;SBJV;FUT = gavacnobdet
+აცნობს	გააცნობდეთ	V;2;PL;3;SG;SBJV;FUT = gaacnobdet
+აცნობს	გააცნობდნენ	V;3;PL;3;SG;SBJV;FUT = gaacnobdnen
+აცნობს	გაგვაცნობდე	V;2;SG;1;PL;SBJV;FUT = gagvacnobde
+აცნობს	გაგვაცნობდეს	V;3;SG;1;PL;SBJV;FUT = gagvacnobdes
+აცნობს	გაგვაცნობდეთ	V;2;PL;1;PL;SBJV;FUT = gagvacnobdet
+აცნობს	გაგვაცნობდნენ	V;3;PL;1;PL;SBJV;FUT = gagvacnobdnen
+აცნობს	გაგაცნობდეთ	V;1;SG;2;PL;SBJV;FUT = gagacnobdet
+აცნობს	გაგაცნობდეთ	V;3;SG;2;PL;SBJV;FUT = gagacnobdet
+აცნობს	გაგაცნობდეთ	V;1;PL;2;PL;SBJV;FUT = gagacnobdet
+აცნობს	გაგაცნობდნენ	V;3;PL;2;PL;SBJV;FUT = gagacnobdnen
+აცნობს	გავაცნობდე	V;1;SG;3;PL;SBJV;FUT = gavacnobde
+აცნობს	გააცნობდე	V;2;SG;3;PL;SBJV;FUT = gaacnobde
+აცნობს	გააცნობდეს	V;3;SG;3;PL;SBJV;FUT = gaacnobdes
+აცნობს	გავაცნობდეთ	V;1;PL;3;PL;SBJV;FUT = gavacnobdet
+აცნობს	გააცნობდეთ	V;2;PL;3;PL;SBJV;FUT = gaacnobdet
+აცნობს	გააცნობდნენ	V;3;PL;3;PL;SBJV;FUT = gaacnobdnen
+
+
+Screeve #7:
+აცნობს	გამაცანი	V;2;SG;1;SG;IND;PST;PFV = gamacani
+აცნობს	გამაცნო	V;3;SG;1;SG;IND;PST;PFV = gamacno
+აცნობს	გამაცანით	V;2;PL;1;SG;IND;PST;PFV = gamacanit
+აცნობს	გამაცნეს	V;3;PL;1;SG;IND;PST;PFV = gamacnes
+აცნობს	გაგაცანი	V;1;SG;2;SG;IND;PST;PFV = gagacani
+აცნობს	გაგაცნო	V;3;SG;2;SG;IND;PST;PFV = gagacno
+აცნობს	გაგაცანით	V;1;PL;2;SG;IND;PST;PFV = gagacanit
+აცნობს	გაგაცნეს	V;3;PL;2;SG;IND;PST;PFV = gagacnes
+აცნობს	გავაცანი	V;1;SG;3;SG;IND;PST;PFV = gavacani
+აცნობს	გააცანი	V;2;SG;3;SG;IND;PST;PFV = gaacani
+აცნობს	გააცნო	V;3;SG;3;SG;IND;PST;PFV = gaacno
+აცნობს	გავაცანით	V;1;PL;3;SG;IND;PST;PFV = gavacanit
+აცნობს	გააცანით	V;2;PL;3;SG;IND;PST;PFV = gaacanit
+აცნობს	გააცნეს	V;3;PL;3;SG;IND;PST;PFV = gaacnes
+აცნობს	გაგვაცანი	V;2;SG;1;PL;IND;PST;PFV = gagvacani
+აცნობს	გაგვაცნო	V;3;SG;1;PL;IND;PST;PFV = gagvacno
+აცნობს	გაგვაცანით	V;2;PL;1;PL;IND;PST;PFV = gagvacanit
+აცნობს	გაგვაცნეს	V;3;PL;1;PL;IND;PST;PFV = gagvacnes
+აცნობს	გაგაცანით	V;1;SG;2;PL;IND;PST;PFV = gagacanit
+აცნობს	გაგაცნოთ	V;3;SG;2;PL;IND;PST;PFV = gagacnot
+აცნობს	გაგაცანით	V;1;PL;2;PL;IND;PST;PFV = gagacanit
+აცნობს	გაგაცნეს	V;3;PL;2;PL;IND;PST;PFV = gagacnes
+აცნობს	გავაცანი	V;1;SG;3;PL;IND;PST;PFV = gavacani
+აცნობს	გააცანი	V;2;SG;3;PL;IND;PST;PFV = gaacani
+აცნობს	გააცნო	V;3;SG;3;PL;IND;PST;PFV = gaacno
+აცნობს	გავაცანით	V;1;PL;3;PL;IND;PST;PFV = gavacanit
+აცნობს	გააცანით	V;2;PL;3;PL;IND;PST;PFV = gaacanit
+აცნობს	გააცნეს	V;3;PL;3;PL;IND;PST;PFV = gaacnes
+
+აცნობს	გამაცანი	V;2;SG;1;SG;IMP = gamacani
+აცნობს	გამაცანით	V;2;PL;1;SG;IMP = gamacanit
+აცნობს	გააცანი	V;2;SG;3;SG;IMP = gaacani
+აცნობს	გააცანით	V;2;PL;3;SG;IMP = gaacanit
+აცნობს	გაგვაცანი	V;2;SG;1;PL;IMP = gagvacani
+აცნობს	გაგვაცანით	V;2;PL;1;PL;IMP = gagvacanit
+აცნობს	გააცანი	V;2;SG;3;PL;IMP = gaacani
+აცნობს	გააცანით	V;2;PL;3;PL;IMP = gaacanit
+
+
+
+Screeve #8:
+აცნობს	გამაცნო	V;2;SG;1;SG;OPT = gamacno
+აცნობს	გამაცნოს	V;3;SG;1;SG;OPT = gamacnos
+აცნობს	გამაცნოთ	V;2;PL;1;SG;OPT = gamacnot
+აცნობს	გამაცნონ	V;3;PL;1;SG;OPT = gamacnon
+აცნობს	გაგაცნო	V;1;SG;2;SG;OPT = gagacno
+აცნობს	გაგაცნოს	V;3;SG;2;SG;OPT = gagacnos
+აცნობს	გაგაცნოთ	V;1;PL;2;SG;OPT = gagacnot
+აცნობს	გაგაცნონ	V;3;PL;2;SG;OPT = gagacnon
+აცნობს	გავაცნო	V;1;SG;3;SG;OPT = gavacno
+აცნობს	გააცნო	V;2;SG;3;SG;OPT = gaacno
+აცნობს	გააცნოს	V;3;SG;3;SG;OPT = gaacnos
+აცნობს	გავაცნოთ	V;1;PL;3;SG;OPT = gavacnot
+აცნობს	გააცნოთ	V;2;PL;3;SG;OPT = gaacnot
+აცნობს	გააცნონ	V;3;PL;3;SG;OPT = gaacnon
+აცნობს	გაგვაცნო	V;2;SG;1;PL;OPT = gagvacno
+აცნობს	გაგვაცნოს	V;3;SG;1;PL;OPT = gagvacnos
+აცნობს	გაგვაცნოთ	V;2;PL;1;PL;OPT = gagvacnot
+აცნობს	გაგვაცნონ	V;3;PL;1;PL;OPT = gagvacnon
+აცნობს	გაგაცნოთ	V;1;SG;2;PL;OPT = gagacnot
+აცნობს	გაგაცნოთ	V;3;SG;2;PL;OPT = gagacnot
+აცნობს	გაგაცნოთ	V;1;PL;2;PL;OPT = gagacnot
+აცნობს	გაგაცნოთ	V;3;PL;2;PL;OPT = gagacnot
+აცნობს	გავაცნო	V;1;SG;3;PL;OPT = gavacno
+აცნობს	გააცნო	V;2;SG;3;PL;OPT = gaacno
+აცნობს	გააცნოს	V;3;SG;3;PL;OPT = gaacnos
+აცნობს	გავაცნოთ	V;1;PL;3;PL;OPT = gavacnot
+აცნობს	გააცნოთ	V;2;PL;3;PL;OPT = gaacnot
+აცნობს	გააცნონ	V;3;PL;3;PL;OPT = gaacnon
+
+აცნობს	გამაცნონ	V;3;PL;1;SG;IMP = gamacnon
+აცნობს	გამაცნოს	V;3;SG;1;SG;IMP = gamacnos
+აცნობს	გაგაცნონ	V;3;PL;2;SG;IMP = gagacnon
+აცნობს	გაგაცნოს	V;3;SG;2;SG;IMP = gagacnos
+აცნობს	გაგაცნოთ	V;1;PL;2;SG;IMP = gagacnot
+აცნობს	გააცნონ	V;3;PL;3;SG;IMP = gaacnon
+აცნობს	გააცნოს	V;3;SG;3;SG;IMP = gaacnos
+აცნობს	გავაცნოთ	V;1;PL;3;SG;IMP = gavacnot
+აცნობს	გაგვაცნონ	V;3;PL;1;PL;IMP = gagvacnon
+აცნობს	გაგვაცნოს	V;3;SG;1;PL;IMP = gagvacnos
+აცნობს	გაგაცნოთ	V;3;PL;2;PL;IMP = gagacnot
+აცნობს	გაგაცნოთ	V;3;SG;2;PL;IMP = gagacnot
+აცნობს	გაგაცნოთ	V;1;PL;2;PL;IMP = gagacnot
+აცნობს	გააცნონ	V;3;PL;3;PL;IMP = gaacnon
+აცნობს	გააცნოს	V;3;SG;3;PL;IMP = gaacnos
+აცნობს	გავაცნოთ	V;1;PL;3;PL;IMP = gavacnot
+
+
+
+Screeve #9:
+აცნობს	გაგიცნივარ	V;2;SG;1;SG;IND;PRF = gagicnivar
+აცნობს	გავუცნივარ	V;3;SG;1;SG;IND;PRF = gavucnivar
+აცნობს	გაგიცნივართ	V;2;PL;1;SG;IND;PRF = gagicnivart
+აცნობს	გავუცნივართ	V;3;PL;1;SG;IND;PRF = gavucnivart
+აცნობს	გამიცნიხარ	V;1;SG;2;SG;IND;PRF = gamicnixar
+აცნობს	გაუცნიხარ	V;3;SG;2;SG;IND;PRF = gaucnixar
+აცნობს	გაგვიცნიხარ	V;1;PL;2;SG;IND;PRF = gagvicnixar
+აცნობს	გაუცნიხართ	V;3;PL;2;SG;IND;PRF = gaucnixart
+აცნობს	გამიცნია	V;1;SG;3;SG;IND;PRF = gamicnia
+აცნობს	გაგიცნია	V;2;SG;3;SG;IND;PRF = gagicnia
+აცნობს	გაუცნია	V;3;SG;3;SG;IND;PRF = gaucnia
+აცნობს	გაგვიცნია	V;1;PL;3;SG;IND;PRF = gagvicnia
+აცნობს	გაგიცნიათ	V;2;PL;3;SG;IND;PRF = gagicniat
+აცნობს	გაუცნიათ	V;3;PL;3;SG;IND;PRF = gaucniat
+აცნობს	გაგიცნივართ	V;2;SG;1;PL;IND;PRF = gagicnivart
+აცნობს	გავუცნივართ	V;3;SG;1;PL;IND;PRF = gavucnivart
+აცნობს	გაგიცნივართ	V;2;PL;1;PL;IND;PRF = gagicnivart
+აცნობს	გავუცნივართ	V;3;PL;1;PL;IND;PRF = gavucnivart
+აცნობს	გამიცნიხართ	V;1;SG;2;PL;IND;PRF = gamicnixart
+აცნობს	გაუცნიხართ	V;3;SG;2;PL;IND;PRF = gaucnixart
+აცნობს	გაგვიცნიხართ	V;1;PL;2;PL;IND;PRF = gagvicnixart
+აცნობს	გაუცნიხართ	V;3;PL;2;PL;IND;PRF = gaucnixart
+აცნობს	გამიცნია	V;1;SG;3;PL;IND;PRF = gamicnia
+აცნობს	გაგიცნია	V;2;SG;3;PL;IND;PRF = gagicnia
+აცნობს	გაუცნია	V;3;SG;3;PL;IND;PRF = gaucnia
+აცნობს	გაგვიცნია	V;1;PL;3;PL;IND;PRF = gagvicnia
+აცნობს	გაგიცნიათ	V;2;PL;3;PL;IND;PRF = gagicniat
+აცნობს	გაუცნიათ	V;3;PL;3;PL;IND;PRF = gaucniat
+
+
+Screeve #10:
+აცნობს	გაგეცანი	V;2;SG;1;SG;IND;PST;PRF = gagecani
+აცნობს	გავეცანი	V;3;SG;1;SG;IND;PST;PRF = gavecani
+აცნობს	გაგეცანით	V;2;PL;1;SG;IND;PST;PRF = gagecanit
+აცნობს	გავეცანით	V;3;PL;1;SG;IND;PST;PRF = gavecanit
+აცნობს	გამეცანი	V;1;SG;2;SG;IND;PST;PRF = gamecani
+აცნობს	გაეცანი	V;3;SG;2;SG;IND;PST;PRF = gaecani
+აცნობს	გაგვეცანი	V;1;PL;2;SG;IND;PST;PRF = gagvecani
+აცნობს	გაეცანით	V;3;PL;2;SG;IND;PST;PRF = gaecanit
+აცნობს	გამეცნო	V;1;SG;3;SG;IND;PST;PRF = gamecno
+აცნობს	გაგეცნო	V;2;SG;3;SG;IND;PST;PRF = gagecno
+აცნობს	გაეცნო	V;3;SG;3;SG;IND;PST;PRF = gaecno
+აცნობს	გაგვეცნო	V;1;PL;3;SG;IND;PST;PRF = gagvecno
+აცნობს	გაგეცნოთ	V;2;PL;3;SG;IND;PST;PRF = gagecnot
+აცნობს	გაეცნოთ	V;3;PL;3;SG;IND;PST;PRF = gaecnot
+აცნობს	გაგეცანით	V;2;SG;1;PL;IND;PST;PRF = gagecanit
+აცნობს	გავეცანით	V;3;SG;1;PL;IND;PST;PRF = gavecanit
+აცნობს	გაგეცანით	V;2;PL;1;PL;IND;PST;PRF = gagecanit
+აცნობს	გავეცანით	V;3;PL;1;PL;IND;PST;PRF = gavecanit
+აცნობს	გამეცანით	V;1;SG;2;PL;IND;PST;PRF = gamecanit
+აცნობს	გაეცანით	V;3;SG;2;PL;IND;PST;PRF = gaecanit
+აცნობს	გაგვეცანით	V;1;PL;2;PL;IND;PST;PRF = gagvecanit
+აცნობს	გაეცანით	V;3;PL;2;PL;IND;PST;PRF = gaecanit
+აცნობს	გამეცნო	V;1;SG;3;PL;IND;PST;PRF = gamecno
+აცნობს	გაგეცნო	V;2;SG;3;PL;IND;PST;PRF = gagecno
+აცნობს	გაეცნო	V;3;SG;3;PL;IND;PST;PRF = gaecno
+აცნობს	გაგვეცნო	V;1;PL;3;PL;IND;PST;PRF = gagvecno
+აცნობს	გაგეცნოთ	V;2;PL;3;PL;IND;PST;PRF = gagecnot
+აცნობს	გაეცნოთ	V;3;PL;3;PL;IND;PST;PRF = gaecnot
+
+
+Screeve #11:
+აცნობს	გაგეცნო	V;2;SG;1;SG;SBJV;PRF = gagecno
+აცნობს	გავეცნო	V;3;SG;1;SG;SBJV;PRF = gavecno
+აცნობს	გაგეცნოთ	V;2;PL;1;SG;SBJV;PRF = gagecnot
+აცნობს	გავეცნოთ	V;3;PL;1;SG;SBJV;PRF = gavecnot
+აცნობს	გამეცნო	V;1;SG;2;SG;SBJV;PRF = gamecno
+აცნობს	გაეცნო	V;3;SG;2;SG;SBJV;PRF = gaecno
+აცნობს	გაგვეცნო	V;1;PL;2;SG;SBJV;PRF = gagvecno
+აცნობს	გაეცნოთ	V;3;PL;2;SG;SBJV;PRF = gaecnot
+აცნობს	გამეცნოს	V;1;SG;3;SG;SBJV;PRF = gamecnos
+აცნობს	გაგეცნოს	V;2;SG;3;SG;SBJV;PRF = gagecnos
+აცნობს	გაეცნოს	V;3;SG;3;SG;SBJV;PRF = gaecnos
+აცნობს	გაგვეცნოს	V;1;PL;3;SG;SBJV;PRF = gagvecnos
+აცნობს	გაგეცნოთ	V;2;PL;3;SG;SBJV;PRF = gagecnot
+აცნობს	გაეცნოთ	V;3;PL;3;SG;SBJV;PRF = gaecnot
+აცნობს	გაგეცნოთ	V;2;SG;1;PL;SBJV;PRF = gagecnot
+აცნობს	გავეცნოთ	V;3;SG;1;PL;SBJV;PRF = gavecnot
+აცნობს	გაგეცნოთ	V;2;PL;1;PL;SBJV;PRF = gagecnot
+აცნობს	გავეცნოთ	V;3;PL;1;PL;SBJV;PRF = gavecnot
+აცნობს	გამეცნოთ	V;1;SG;2;PL;SBJV;PRF = gamecnot
+აცნობს	გაეცნოთ	V;3;SG;2;PL;SBJV;PRF = gaecnot
+აცნობს	გაგვეცნოთ	V;1;PL;2;PL;SBJV;PRF = gagvecnot
+აცნობს	გაეცნოთ	V;3;PL;2;PL;SBJV;PRF = gaecnot
+აცნობს	გამეცნოს	V;1;SG;3;PL;SBJV;PRF = gamecnos
+აცნობს	გაგეცნოს	V;2;SG;3;PL;SBJV;PRF = gagecnos
+აცნობს	გაეცნოს	V;3;SG;3;PL;SBJV;PRF = gaecnos
+აცნობს	გაგვეცნოს	V;1;PL;3;PL;SBJV;PRF = gagvecnos
+აცნობს	გაგეცნოთ	V;2;PL;3;PL;SBJV;PRF = gagecnot
+აცნობს	გაეცნოთ	V;3;PL;3;PL;SBJV;PRF = gaecnot
+
+
+აცნობს	გაცნობა	V;V.MSDR;PRF

@@ -1,0 +1,371 @@
+#12 - არჩენს - save:
+Screeve #1:
+არჩენს	მარჩენ	V;2;SG;1;SG;IND;PRS = marčen
+არჩენს	მარჩენს	V;3;SG;1;SG;IND;PRS = marčens
+არჩენს	მარჩენთ	V;2;PL;1;SG;IND;PRS = marčent
+არჩენს	მარჩენენ	V;3;PL;1;SG;IND;PRS = marčenen
+არჩენს	გარჩენ	V;1;SG;2;SG;IND;PRS = garčen
+არჩენს	გარჩენს	V;3;SG;2;SG;IND;PRS = garčens
+არჩენს	გარჩენთ	V;1;PL;2;SG;IND;PRS = garčent
+არჩენს	გარჩენენ	V;3;PL;2;SG;IND;PRS = garčenen
+არჩენს	ვარჩენ	V;1;SG;3;SG;IND;PRS = varčen
+არჩენს	არჩენ	V;2;SG;3;SG;IND;PRS = arčen
+არჩენს	არჩენს	V;3;SG;3;SG;IND;PRS = arčens
+არჩენს	ვარჩენთ	V;1;PL;3;SG;IND;PRS = varčent
+არჩენს	არჩენთ	V;2;PL;3;SG;IND;PRS = arčent
+არჩენს	არჩენენ	V;3;PL;3;SG;IND;PRS = arčenen
+არჩენს	გვარჩენ	V;2;SG;1;PL;IND;PRS = gvarčen
+არჩენს	გვარჩენს	V;3;SG;1;PL;IND;PRS = gvarčens
+არჩენს	გვარჩენთ	V;2;PL;1;PL;IND;PRS = gvarčent
+არჩენს	გვარჩენენ	V;3;PL;1;PL;IND;PRS = gvarčenen
+არჩენს	გარჩენთ	V;1;SG;2;PL;IND;PRS = garčent
+არჩენს	გარჩენთ	V;3;SG;2;PL;IND;PRS = garčent
+არჩენს	გარჩენთ	V;1;PL;2;PL;IND;PRS = garčent
+არჩენს	გარჩენენ	V;3;PL;2;PL;IND;PRS = garčenen
+არჩენს	ვარჩენ	V;1;SG;3;PL;IND;PRS = varčen
+არჩენს	არჩენ	V;2;SG;3;PL;IND;PRS = arčen
+არჩენს	არჩენს	V;3;SG;3;PL;IND;PRS = arčens
+არჩენს	ვარჩენთ	V;1;PL;3;PL;IND;PRS = varčent
+არჩენს	არჩენთ	V;2;PL;3;PL;IND;PRS = arčent
+არჩენს	არჩენენ	V;3;PL;3;PL;IND;PRS = arčenen
+
+
+Screeve #2:
+არჩენს	მარჩენდი	V;2;SG;1;SG;IND;IPFV = marčendi
+არჩენს	მარჩენდა	V;3;SG;1;SG;IND;IPFV = marčenda
+არჩენს	მარჩენდით	V;2;PL;1;SG;IND;IPFV = marčendit
+არჩენს	მარჩენდნენ	V;3;PL;1;SG;IND;IPFV = marčendnen
+არჩენს	გარჩენდი	V;1;SG;2;SG;IND;IPFV = garčendi
+არჩენს	გარჩენდა	V;3;SG;2;SG;IND;IPFV = garčenda
+არჩენს	გარჩენდით	V;1;PL;2;SG;IND;IPFV = garčendit
+არჩენს	გარჩენდნენ	V;3;PL;2;SG;IND;IPFV = garčendnen
+არჩენს	ვარჩენდი	V;1;SG;3;SG;IND;IPFV = varčendi
+არჩენს	არჩენდი	V;2;SG;3;SG;IND;IPFV = arčendi
+არჩენს	არჩენდა	V;3;SG;3;SG;IND;IPFV = arčenda
+არჩენს	ვარჩენდით	V;1;PL;3;SG;IND;IPFV = varčendit
+არჩენს	არჩენდით	V;2;PL;3;SG;IND;IPFV = arčendit
+არჩენს	არჩენდნენ	V;3;PL;3;SG;IND;IPFV = arčendnen
+არჩენს	გვარჩენდი	V;2;SG;1;PL;IND;IPFV = gvarčendi
+არჩენს	გვარჩენდა	V;3;SG;1;PL;IND;IPFV = gvarčenda
+არჩენს	გვარჩენდით	V;2;PL;1;PL;IND;IPFV = gvarčendit
+არჩენს	გვარჩენდნენ	V;3;PL;1;PL;IND;IPFV = gvarčendnen
+არჩენს	გარჩენდით	V;1;SG;2;PL;IND;IPFV = garčendit
+არჩენს	გარჩენდათ	V;3;SG;2;PL;IND;IPFV = garčendat
+არჩენს	გარჩენდით	V;1;PL;2;PL;IND;IPFV = garčendit
+არჩენს	გარჩენდნენ	V;3;PL;2;PL;IND;IPFV = garčendnen
+არჩენს	ვარჩენდი	V;1;SG;3;PL;IND;IPFV = varčendi
+არჩენს	არჩენდი	V;2;SG;3;PL;IND;IPFV = arčendi
+არჩენს	არჩენდა	V;3;SG;3;PL;IND;IPFV = arčenda
+არჩენს	ვარჩენდით	V;1;PL;3;PL;IND;IPFV = varčendit
+არჩენს	არჩენდით	V;2;PL;3;PL;IND;IPFV = arčendit
+არჩენს	არჩენდნენ	V;3;PL;3;PL;IND;IPFV = arčendnen
+
+
+Screeve #3:
+არჩენს	მარჩენდე	V;2;SG;1;SG;SBJV;PRS = marčende
+არჩენს	მარჩენდეს	V;3;SG;1;SG;SBJV;PRS = marčendes
+არჩენს	მარჩენდეთ	V;2;PL;1;SG;SBJV;PRS = marčendet
+არჩენს	მარჩენდნენ	V;3;PL;1;SG;SBJV;PRS = marčendnen
+არჩენს	გარჩენდე	V;1;SG;2;SG;SBJV;PRS = garčende
+არჩენს	გარჩენდეს	V;3;SG;2;SG;SBJV;PRS = garčendes
+არჩენს	გარჩენდეთ	V;1;PL;2;SG;SBJV;PRS = garčendet
+არჩენს	გარჩენდნენ	V;3;PL;2;SG;SBJV;PRS = garčendnen
+არჩენს	ვარჩენდე	V;1;SG;3;SG;SBJV;PRS = varčende
+არჩენს	არჩენდე	V;2;SG;3;SG;SBJV;PRS = arčende
+არჩენს	არჩენდეს	V;3;SG;3;SG;SBJV;PRS = arčendes
+არჩენს	ვარჩენდეთ	V;1;PL;3;SG;SBJV;PRS = varčendet
+არჩენს	არჩენდეთ	V;2;PL;3;SG;SBJV;PRS = arčendet
+არჩენს	არჩენდნენ	V;3;PL;3;SG;SBJV;PRS = arčendnen
+არჩენს	გვარჩენდე	V;2;SG;1;PL;SBJV;PRS = gvarčende
+არჩენს	გვარჩენდეს	V;3;SG;1;PL;SBJV;PRS = gvarčendes
+არჩენს	გვარჩენდეთ	V;2;PL;1;PL;SBJV;PRS = gvarčendet
+არჩენს	გვარჩენდნენ	V;3;PL;1;PL;SBJV;PRS = gvarčendnen
+არჩენს	გარჩენდეთ	V;1;SG;2;PL;SBJV;PRS = garčendet
+არჩენს	გარჩენდეთ	V;3;SG;2;PL;SBJV;PRS = garčendet
+არჩენს	გარჩენდეთ	V;1;PL;2;PL;SBJV;PRS = garčendet
+არჩენს	გარჩენდნენ	V;3;PL;2;PL;SBJV;PRS = garčendnen
+არჩენს	ვარჩენდე	V;1;SG;3;PL;SBJV;PRS = varčende
+არჩენს	არჩენდე	V;2;SG;3;PL;SBJV;PRS = arčende
+არჩენს	არჩენდეს	V;3;SG;3;PL;SBJV;PRS = arčendes
+არჩენს	ვარჩენდეთ	V;1;PL;3;PL;SBJV;PRS = varčendet
+არჩენს	არჩენდეთ	V;2;PL;3;PL;SBJV;PRS = arčendet
+არჩენს	არჩენდნენ	V;3;PL;3;PL;SBJV;PRS = arčendnen
+
+
+Screeve #4:
+არჩენს	გადამარჩენ	V;2;SG;1;SG;IND;FUT = gadamarčen
+არჩენს	გადამარჩენს	V;3;SG;1;SG;IND;FUT = gadamarčens
+არჩენს	გადამარჩენთ	V;2;PL;1;SG;IND;FUT = gadamarčent
+არჩენს	გადამარჩენენ	V;3;PL;1;SG;IND;FUT = gadamarčenen
+არჩენს	გადაგარჩენ	V;1;SG;2;SG;IND;FUT = gadagarčen
+არჩენს	გადაგარჩენს	V;3;SG;2;SG;IND;FUT = gadagarčens
+არჩენს	გადაგარჩენთ	V;1;PL;2;SG;IND;FUT = gadagarčent
+არჩენს	გადაგარჩენენ	V;3;PL;2;SG;IND;FUT = gadagarčenen
+არჩენს	გადავარჩენ	V;1;SG;3;SG;IND;FUT = gadavarčen
+არჩენს	გადაარჩენ	V;2;SG;3;SG;IND;FUT = gadaarčen
+არჩენს	გადაარჩენს	V;3;SG;3;SG;IND;FUT = gadaarčens
+არჩენს	გადავარჩენთ	V;1;PL;3;SG;IND;FUT = gadavarčent
+არჩენს	გადაარჩენთ	V;2;PL;3;SG;IND;FUT = gadaarčent
+არჩენს	გადაარჩენენ	V;3;PL;3;SG;IND;FUT = gadaarčenen
+არჩენს	გადაგვარჩენ	V;2;SG;1;PL;IND;FUT = gadagvarčen
+არჩენს	გადაგვარჩენს	V;3;SG;1;PL;IND;FUT = gadagvarčens
+არჩენს	გადაგვარჩენთ	V;2;PL;1;PL;IND;FUT = gadagvarčent
+არჩენს	გადაგვარჩენენ	V;3;PL;1;PL;IND;FUT = gadagvarčenen
+არჩენს	გადაგარჩენთ	V;1;SG;2;PL;IND;FUT = gadagarčent
+არჩენს	გადაგარჩენთ	V;3;SG;2;PL;IND;FUT = gadagarčent
+არჩენს	გადაგარჩენთ	V;1;PL;2;PL;IND;FUT = gadagarčent
+არჩენს	გადაგარჩენენ	V;3;PL;2;PL;IND;FUT = gadagarčenen
+არჩენს	გადავარჩენ	V;1;SG;3;PL;IND;FUT = gadavarčen
+არჩენს	გადაარჩენ	V;2;SG;3;PL;IND;FUT = gadaarčen
+არჩენს	გადაარჩენს	V;3;SG;3;PL;IND;FUT = gadaarčens
+არჩენს	გადავარჩენთ	V;1;PL;3;PL;IND;FUT = gadavarčent
+არჩენს	გადაარჩენთ	V;2;PL;3;PL;IND;FUT = gadaarčent
+არჩენს	გადაარჩენენ	V;3;PL;3;PL;IND;FUT = gadaarčenen
+
+
+Screeve #5:
+არჩენს	გადამარჩენდი	V;2;SG;1;SG;COND = gadamarčendi
+არჩენს	გადამარჩენდა	V;3;SG;1;SG;COND = gadamarčenda
+არჩენს	გადამარჩენდით	V;2;PL;1;SG;COND = gadamarčendit
+არჩენს	გადამარჩენდნენ	V;3;PL;1;SG;COND = gadamarčendnen
+არჩენს	გადაგარჩენდი	V;1;SG;2;SG;COND = gadagarčendi
+არჩენს	გადაგარჩენდა	V;3;SG;2;SG;COND = gadagarčenda
+არჩენს	გადაგარჩენდით	V;1;PL;2;SG;COND = gadagarčendit
+არჩენს	გადაგარჩენდნენ	V;3;PL;2;SG;COND = gadagarčendnen
+არჩენს	გადავარჩენდი	V;1;SG;3;SG;COND = gadavarčendi
+არჩენს	გადაარჩენდი	V;2;SG;3;SG;COND = gadaarčendi
+არჩენს	გადაარჩენდა	V;3;SG;3;SG;COND = gadaarčenda
+არჩენს	გადავარჩენდით	V;1;PL;3;SG;COND = gadavarčendit
+არჩენს	გადაარჩენდით	V;2;PL;3;SG;COND = gadaarčendit
+არჩენს	გადაარჩენდნენ	V;3;PL;3;SG;COND = gadaarčendnen
+არჩენს	გადაგვარჩენდი	V;2;SG;1;PL;COND = gadagvarčendi
+არჩენს	გადაგვარჩენდა	V;3;SG;1;PL;COND = gadagvarčenda
+არჩენს	გადაგვარჩენდით	V;2;PL;1;PL;COND = gadagvarčendit
+არჩენს	გადაგვარჩენდნენ	V;3;PL;1;PL;COND = gadagvarčendnen
+არჩენს	გადაგარჩენდით	V;1;SG;2;PL;COND = gadagarčendit
+არჩენს	გადაგარჩენდათ	V;3;SG;2;PL;COND = gadagarčendat
+არჩენს	გადაგარჩენდით	V;1;PL;2;PL;COND = gadagarčendit
+არჩენს	გადაგარჩენდნენ	V;3;PL;2;PL;COND = gadagarčendnen
+არჩენს	გადავარჩენდი	V;1;SG;3;PL;COND = gadavarčendi
+არჩენს	გადაარჩენდი	V;2;SG;3;PL;COND = gadaarčendi
+არჩენს	გადაარჩენდა	V;3;SG;3;PL;COND = gadaarčenda
+არჩენს	გადავარჩენდით	V;1;PL;3;PL;COND = gadavarčendit
+არჩენს	გადაარჩენდით	V;2;PL;3;PL;COND = gadaarčendit
+არჩენს	გადაარჩენდნენ	V;3;PL;3;PL;COND = gadaarčendnen
+
+
+Screeve #6:
+არჩენს	გადამარჩენდე	V;2;SG;1;SG;SBJV;FUT = gadamarčende
+არჩენს	გადამარჩენდეს	V;3;SG;1;SG;SBJV;FUT = gadamarčendes
+არჩენს	გადამარჩენდეთ	V;2;PL;1;SG;SBJV;FUT = gadamarčendet
+არჩენს	გადამარჩენდნენ	V;3;PL;1;SG;SBJV;FUT = gadamarčendnen
+არჩენს	გადაგარჩენდე	V;1;SG;2;SG;SBJV;FUT = gadagarčende
+არჩენს	გადაგარჩენდეს	V;3;SG;2;SG;SBJV;FUT = gadagarčendes
+არჩენს	გადაგარჩენდეთ	V;1;PL;2;SG;SBJV;FUT = gadagarčendet
+არჩენს	გადაგარჩენდნენ	V;3;PL;2;SG;SBJV;FUT = gadagarčendnen
+არჩენს	გადავარჩენდე	V;1;SG;3;SG;SBJV;FUT = gadavarčende
+არჩენს	გადაარჩენდე	V;2;SG;3;SG;SBJV;FUT = gadaarčende
+არჩენს	გადაარჩენდეს	V;3;SG;3;SG;SBJV;FUT = gadaarčendes
+არჩენს	გადავარჩენდეთ	V;1;PL;3;SG;SBJV;FUT = gadavarčendet
+არჩენს	გადაარჩენდეთ	V;2;PL;3;SG;SBJV;FUT = gadaarčendet
+არჩენს	გადაარჩენდნენ	V;3;PL;3;SG;SBJV;FUT = gadaarčendnen
+არჩენს	გადაგვარჩენდე	V;2;SG;1;PL;SBJV;FUT = gadagvarčende
+არჩენს	გადაგვარჩენდეს	V;3;SG;1;PL;SBJV;FUT = gadagvarčendes
+არჩენს	გადაგვარჩენდეთ	V;2;PL;1;PL;SBJV;FUT = gadagvarčendet
+არჩენს	გადაგვარჩენდნენ	V;3;PL;1;PL;SBJV;FUT = gadagvarčendnen
+არჩენს	გადაგარჩენდეთ	V;1;SG;2;PL;SBJV;FUT = gadagarčendet
+არჩენს	გადაგარჩენდეთ	V;3;SG;2;PL;SBJV;FUT = gadagarčendet
+არჩენს	გადაგარჩენდეთ	V;1;PL;2;PL;SBJV;FUT = gadagarčendet
+არჩენს	გადაგარჩენდნენ	V;3;PL;2;PL;SBJV;FUT = gadagarčendnen
+არჩენს	გადავარჩენდე	V;1;SG;3;PL;SBJV;FUT = gadavarčende
+არჩენს	გადაარჩენდე	V;2;SG;3;PL;SBJV;FUT = gadaarčende
+არჩენს	გადაარჩენდეს	V;3;SG;3;PL;SBJV;FUT = gadaarčendes
+არჩენს	გადავარჩენდეთ	V;1;PL;3;PL;SBJV;FUT = gadavarčendet
+არჩენს	გადაარჩენდეთ	V;2;PL;3;PL;SBJV;FUT = gadaarčendet
+არჩენს	გადაარჩენდნენ	V;3;PL;3;PL;SBJV;FUT = gadaarčendnen
+
+
+Screeve #7:
+არჩენს	გადამარჩინე	V;2;SG;1;SG;IND;PST;PFV = gadamarčine
+არჩენს	გადამარჩინა	V;3;SG;1;SG;IND;PST;PFV = gadamarčina
+არჩენს	გადამარჩინეთ	V;2;PL;1;SG;IND;PST;PFV = gadamarčinet
+არჩენს	გადამარჩინეს	V;3;PL;1;SG;IND;PST;PFV = gadamarčines
+არჩენს	გადაგარჩინე	V;1;SG;2;SG;IND;PST;PFV = gadagarčine
+არჩენს	გადაგარჩინა	V;3;SG;2;SG;IND;PST;PFV = gadagarčina
+არჩენს	გადაგარჩინეთ	V;1;PL;2;SG;IND;PST;PFV = gadagarčinet
+არჩენს	გადაგარჩინეს	V;3;PL;2;SG;IND;PST;PFV = gadagarčines
+არჩენს	გადავარჩინე	V;1;SG;3;SG;IND;PST;PFV = gadavarčine
+არჩენს	გადაარჩინე	V;2;SG;3;SG;IND;PST;PFV = gadaarčine
+არჩენს	გადაარჩინა	V;3;SG;3;SG;IND;PST;PFV = gadaarčina
+არჩენს	გადავარჩინეთ	V;1;PL;3;SG;IND;PST;PFV = gadavarčinet
+არჩენს	გადაარჩინეთ	V;2;PL;3;SG;IND;PST;PFV = gadaarčinet
+არჩენს	გადაარჩინეს	V;3;PL;3;SG;IND;PST;PFV = gadaarčines
+არჩენს	გადაგვარჩინე	V;2;SG;1;PL;IND;PST;PFV = gadagvarčine
+არჩენს	გადაგვარჩინა	V;3;SG;1;PL;IND;PST;PFV = gadagvarčina
+არჩენს	გადაგვარჩინეთ	V;2;PL;1;PL;IND;PST;PFV = gadagvarčinet
+არჩენს	გადაგვარჩინეს	V;3;PL;1;PL;IND;PST;PFV = gadagvarčines
+არჩენს	გადაგარჩინეთ	V;1;SG;2;PL;IND;PST;PFV = gadagarčinet
+არჩენს	გადაგარჩინათ	V;3;SG;2;PL;IND;PST;PFV = gadagarčinat
+არჩენს	გადაგარჩინეთ	V;1;PL;2;PL;IND;PST;PFV = gadagarčinet
+არჩენს	გადაგარჩინეს	V;3;PL;2;PL;IND;PST;PFV = gadagarčines
+არჩენს	გადავარჩინე	V;1;SG;3;PL;IND;PST;PFV = gadavarčine
+არჩენს	გადაარჩინე	V;2;SG;3;PL;IND;PST;PFV = gadaarčine
+არჩენს	გადაარჩინა	V;3;SG;3;PL;IND;PST;PFV = gadaarčina
+არჩენს	გადავარჩინეთ	V;1;PL;3;PL;IND;PST;PFV = gadavarčinet
+არჩენს	გადაარჩინეთ	V;2;PL;3;PL;IND;PST;PFV = gadaarčinet
+არჩენს	გადაარჩინეს	V;3;PL;3;PL;IND;PST;PFV = gadaarčines
+
+არჩენს	გადამარჩინეთ	V;2;PL;1;SG;IMP = gadamarčinet
+არჩენს	გადამარჩინე	V;2;SG;1;SG;IMP = gadamarčine
+არჩენს	გადაარჩინეთ	V;2;PL;3;SG;IMP = gadaarčinet
+არჩენს	გადაარჩინე	V;2;SG;3;SG;IMP = gadaarčine
+არჩენს	გადაგვარჩინეთ	V;2;PL;1;PL;IMP = gadagvarčinet
+არჩენს	გადაგვარჩინე	V;2;SG;1;PL;IMP = gadagvarčine
+არჩენს	გადაარჩინეთ	V;2;PL;3;PL;IMP = gadaarčinet
+არჩენს	გადაარჩინე	V;2;SG;3;PL;IMP = gadaarčine
+
+
+
+Screeve #8:
+არჩენს	გადამარჩინო	V;2;SG;1;SG;OPT = gadamarčino
+არჩენს	გადამარჩინოს	V;3;SG;1;SG;OPT = gadamarčinos
+არჩენს	გადამარჩინოთ	V;2;PL;1;SG;OPT = gadamarčinot
+არჩენს	გადამარჩინონ	V;3;PL;1;SG;OPT = gadamarčinon
+არჩენს	გადაგარჩინო	V;1;SG;2;SG;OPT = gadagarčino
+არჩენს	გადაგარჩინოს	V;3;SG;2;SG;OPT = gadagarčinos
+არჩენს	გადაგარჩინოთ	V;1;PL;2;SG;OPT = gadagarčinot
+არჩენს	გადაგარჩინონ	V;3;PL;2;SG;OPT = gadagarčinon
+არჩენს	გადავარჩინო	V;1;SG;3;SG;OPT = gadavarčino
+არჩენს	გადაარჩინო	V;2;SG;3;SG;OPT = gadaarčino
+არჩენს	გადაარჩინოს	V;3;SG;3;SG;OPT = gadaarčinos
+არჩენს	გადავარჩინოთ	V;1;PL;3;SG;OPT = gadavarčinot
+არჩენს	გადაარჩინოთ	V;2;PL;3;SG;OPT = gadaarčinot
+არჩენს	გადაარჩინონ	V;3;PL;3;SG;OPT = gadaarčinon
+არჩენს	გადაგვარჩინო	V;2;SG;1;PL;OPT = gadagvarčino
+არჩენს	გადაგვარჩინოს	V;3;SG;1;PL;OPT = gadagvarčinos
+არჩენს	გადაგვარჩინოთ	V;2;PL;1;PL;OPT = gadagvarčinot
+არჩენს	გადაგვარჩინონ	V;3;PL;1;PL;OPT = gadagvarčinon
+არჩენს	გადაგარჩინოთ	V;1;SG;2;PL;OPT = gadagarčinot
+არჩენს	გადაგარჩინოთ	V;3;SG;2;PL;OPT = gadagarčinot
+არჩენს	გადაგარჩინოთ	V;1;PL;2;PL;OPT = gadagarčinot
+არჩენს	გადაგარჩინოთ	V;3;PL;2;PL;OPT = gadagarčinot
+არჩენს	გადავარჩინო	V;1;SG;3;PL;OPT = gadavarčino
+არჩენს	გადაარჩინო	V;2;SG;3;PL;OPT = gadaarčino
+არჩენს	გადაარჩინოს	V;3;SG;3;PL;OPT = gadaarčinos
+არჩენს	გადავარჩინოთ	V;1;PL;3;PL;OPT = gadavarčinot
+არჩენს	გადაარჩინოთ	V;2;PL;3;PL;OPT = gadaarčinot
+არჩენს	გადაარჩინონ	V;3;PL;3;PL;OPT = gadaarčinon
+
+არჩენს	გადამარჩინონ	V;3;PL;1;SG;IMP = gadamarčinon
+არჩენს	გადამარჩინოს	V;3;SG;1;SG;IMP = gadamarčinos
+არჩენს	გადაგარჩინონ	V;3;PL;2;SG;IMP = gadagarčinon
+არჩენს	გადაგარჩინოთ	V;1;PL;2;SG;IMP = gadagarčinot
+არჩენს	გადაგარჩინოს	V;3;SG;2;SG;IMP = gadagarčinos
+არჩენს	გადაარჩინონ	V;3;PL;3;SG;IMP = gadaarčinon
+არჩენს	გადავარჩინოთ	V;1;PL;3;SG;IMP = gadavarčinot
+არჩენს	გადაარჩინოს	V;3;SG;3;SG;IMP = gadaarčinos
+არჩენს	გადაგვარჩინონ	V;3;PL;1;PL;IMP = gadagvarčinon
+არჩენს	გადაგვარჩინოს	V;3;SG;1;PL;IMP = gadagvarčinos
+არჩენს	გადაგარჩინოთ	V;3;PL;2;PL;IMP = gadagarčinot
+არჩენს	გადაგარჩინოთ	V;1;PL;2;PL;IMP = gadagarčinot
+არჩენს	გადაგარჩინოთ	V;3;SG;2;PL;IMP = gadagarčinot
+არჩენს	გადაარჩინონ	V;3;PL;3;PL;IMP = gadaarčinon
+არჩენს	გადავარჩინოთ	V;1;PL;3;PL;IMP = gadavarčinot
+არჩენს	გადაარჩინოს	V;3;SG;3;PL;IMP = gadaarčinos
+
+
+
+Screeve #9:
+არჩენს	გადაგირჩენივარ	V;2;SG;1;SG;IND;PRF = gadagirčenivar
+არჩენს	გადავურჩენივარ	V;3;SG;1;SG;IND;PRF = gadavurčenivar
+არჩენს	გადაგირჩენივართ	V;2;PL;1;SG;IND;PRF = gadagirčenivart
+არჩენს	გადავურჩენივართ	V;3;PL;1;SG;IND;PRF = gadavurčenivart
+არჩენს	გადამირჩენიხარ	V;1;SG;2;SG;IND;PRF = gadamirčenixar
+არჩენს	გადაურჩენიხარ	V;3;SG;2;SG;IND;PRF = gadaurčenixar
+არჩენს	გადაგვირჩენიხარ	V;1;PL;2;SG;IND;PRF = gadagvirčenixar
+არჩენს	გადაურჩენიხართ	V;3;PL;2;SG;IND;PRF = gadaurčenixart
+არჩენს	გადამირჩენია	V;1;SG;3;SG;IND;PRF = gadamirčenia
+არჩენს	გადაგირჩენია	V;2;SG;3;SG;IND;PRF = gadagirčenia
+არჩენს	გადაურჩენია	V;3;SG;3;SG;IND;PRF = gadaurčenia
+არჩენს	გადაგვირჩენია	V;1;PL;3;SG;IND;PRF = gadagvirčenia
+არჩენს	გადაგირჩენიათ	V;2;PL;3;SG;IND;PRF = gadagirčeniat
+არჩენს	გადაურჩენიათ	V;3;PL;3;SG;IND;PRF = gadaurčeniat
+არჩენს	გადაგირჩენივართ	V;2;SG;1;PL;IND;PRF = gadagirčenivart
+არჩენს	გადავურჩენივართ	V;3;SG;1;PL;IND;PRF = gadavurčenivart
+არჩენს	გადაგირჩენივართ	V;2;PL;1;PL;IND;PRF = gadagirčenivart
+არჩენს	გადავურჩენივართ	V;3;PL;1;PL;IND;PRF = gadavurčenivart
+არჩენს	გადამირჩენიხართ	V;1;SG;2;PL;IND;PRF = gadamirčenixart
+არჩენს	გადაურჩენიხართ	V;3;SG;2;PL;IND;PRF = gadaurčenixart
+არჩენს	გადაგვირჩენიხართ	V;1;PL;2;PL;IND;PRF = gadagvirčenixart
+არჩენს	გადაურჩენიხართ	V;3;PL;2;PL;IND;PRF = gadaurčenixart
+არჩენს	გადამირჩენია	V;1;SG;3;PL;IND;PRF = gadamirčenia
+არჩენს	გადაგირჩენია	V;2;SG;3;PL;IND;PRF = gadagirčenia
+არჩენს	გადაურჩენია	V;3;SG;3;PL;IND;PRF = gadaurčenia
+არჩენს	გადაგვირჩენია	V;1;PL;3;PL;IND;PRF = gadagvirčenia
+არჩენს	გადაგირჩენიათ	V;2;PL;3;PL;IND;PRF = gadagirčeniat
+არჩენს	გადაურჩენიათ	V;3;PL;3;PL;IND;PRF = gadaurčeniat
+
+
+Screeve #10:
+არჩენს	გადაგერჩინე	V;2;SG;1;SG;IND;PST;PRF = gadagerčine
+არჩენს	გადავერჩინე	V;3;SG;1;SG;IND;PST;PRF = gadaverčine
+არჩენს	გადაგერჩინეთ	V;2;PL;1;SG;IND;PST;PRF = gadagerčinet
+არჩენს	გადავერჩინეთ	V;3;PL;1;SG;IND;PST;PRF = gadaverčinet
+არჩენს	გადამერჩინე	V;1;SG;2;SG;IND;PST;PRF = gadamerčine
+არჩენს	გადაერჩინე	V;3;SG;2;SG;IND;PST;PRF = gadaerčine
+არჩენს	გადაგვერჩინე	V;1;PL;2;SG;IND;PST;PRF = gadagverčine
+არჩენს	გადაერჩინეთ	V;3;PL;2;SG;IND;PST;PRF = gadaerčinet
+არჩენს	გადამერჩინა	V;1;SG;3;SG;IND;PST;PRF = gadamerčina
+არჩენს	გადაგერჩინა	V;2;SG;3;SG;IND;PST;PRF = gadagerčina
+არჩენს	გადაერჩინა	V;3;SG;3;SG;IND;PST;PRF = gadaerčina
+არჩენს	გადაგვერჩინა	V;1;PL;3;SG;IND;PST;PRF = gadagverčina
+არჩენს	გადაგერჩინათ	V;2;PL;3;SG;IND;PST;PRF = gadagerčinat
+არჩენს	გადაერჩინათ	V;3;PL;3;SG;IND;PST;PRF = gadaerčinat
+არჩენს	გადაგერჩინეთ	V;2;SG;1;PL;IND;PST;PRF = gadagerčinet
+არჩენს	გადავერჩინეთ	V;3;SG;1;PL;IND;PST;PRF = gadaverčinet
+არჩენს	გადაგერჩინეთ	V;2;PL;1;PL;IND;PST;PRF = gadagerčinet
+არჩენს	გადავერჩინეთ	V;3;PL;1;PL;IND;PST;PRF = gadaverčinet
+არჩენს	გადამერჩინეთ	V;1;SG;2;PL;IND;PST;PRF = gadamerčinet
+არჩენს	გადაერჩინეთ	V;3;SG;2;PL;IND;PST;PRF = gadaerčinet
+არჩენს	გადაგვერჩინეთ	V;1;PL;2;PL;IND;PST;PRF = gadagverčinet
+არჩენს	გადაერჩინეთ	V;3;PL;2;PL;IND;PST;PRF = gadaerčinet
+არჩენს	გადამერჩინა	V;1;SG;3;PL;IND;PST;PRF = gadamerčina
+არჩენს	გადაგერჩინა	V;2;SG;3;PL;IND;PST;PRF = gadagerčina
+არჩენს	გადაერჩინა	V;3;SG;3;PL;IND;PST;PRF = gadaerčina
+არჩენს	გადაგვერჩინა	V;1;PL;3;PL;IND;PST;PRF = gadagverčina
+არჩენს	გადაგერჩინათ	V;2;PL;3;PL;IND;PST;PRF = gadagerčinat
+არჩენს	გადაერჩინათ	V;3;PL;3;PL;IND;PST;PRF = gadaerčinat
+
+
+Screeve #11:
+არჩენს	გადაგერჩინო	V;2;SG;1;SG;SBJV;PRF = gadagerčino
+არჩენს	გადავერჩინო	V;3;SG;1;SG;SBJV;PRF = gadaverčino
+არჩენს	გადაგერჩინოთ	V;2;PL;1;SG;SBJV;PRF = gadagerčinot
+არჩენს	გადავერჩინოთ	V;3;PL;1;SG;SBJV;PRF = gadaverčinot
+არჩენს	გადამერჩინო	V;1;SG;2;SG;SBJV;PRF = gadamerčino
+არჩენს	გადაერჩინო	V;3;SG;2;SG;SBJV;PRF = gadaerčino
+არჩენს	გადაგვერჩინო	V;1;PL;2;SG;SBJV;PRF = gadagverčino
+არჩენს	გადაერჩინოთ	V;3;PL;2;SG;SBJV;PRF = gadaerčinot
+არჩენს	გადამერჩინოს	V;1;SG;3;SG;SBJV;PRF = gadamerčinos
+არჩენს	გადაგერჩინოს	V;2;SG;3;SG;SBJV;PRF = gadagerčinos
+არჩენს	გადაერჩინოს	V;3;SG;3;SG;SBJV;PRF = gadaerčinos
+არჩენს	გადაგვერჩინოს	V;1;PL;3;SG;SBJV;PRF = gadagverčinos
+არჩენს	გადაგერჩინოთ	V;2;PL;3;SG;SBJV;PRF = gadagerčinot
+არჩენს	გადაერჩინოთ	V;3;PL;3;SG;SBJV;PRF = gadaerčinot
+არჩენს	გადაგერჩინოთ	V;2;SG;1;PL;SBJV;PRF = gadagerčinot
+არჩენს	გადავერჩინოთ	V;3;SG;1;PL;SBJV;PRF = gadaverčinot
+არჩენს	გადაგერჩინოთ	V;2;PL;1;PL;SBJV;PRF = gadagerčinot
+არჩენს	გადავერჩინოთ	V;3;PL;1;PL;SBJV;PRF = gadaverčinot
+არჩენს	გადამერჩინოთ	V;1;SG;2;PL;SBJV;PRF = gadamerčinot
+არჩენს	გადაერჩინოთ	V;3;SG;2;PL;SBJV;PRF = gadaerčinot
+არჩენს	გადაგვერჩინოთ	V;1;PL;2;PL;SBJV;PRF = gadagverčinot
+არჩენს	გადაერჩინოთ	V;3;PL;2;PL;SBJV;PRF = gadaerčinot
+არჩენს	გადამერჩინოს	V;1;SG;3;PL;SBJV;PRF = gadamerčinos
+არჩენს	გადაგერჩინოს	V;2;SG;3;PL;SBJV;PRF = gadagerčinos
+არჩენს	გადაერჩინოს	V;3;SG;3;PL;SBJV;PRF = gadaerčinos
+არჩენს	გადაგვერჩინოს	V;1;PL;3;PL;SBJV;PRF = gadagverčinos
+არჩენს	გადაგერჩინოთ	V;2;PL;3;PL;SBJV;PRF = gadagerčinot
+არჩენს	გადაერჩინოთ	V;3;PL;3;PL;SBJV;PRF = gadaerčinot
+
+
+არჩენს	გადარჩენა	V;V.MSDR;PRF

@@ -1,0 +1,371 @@
+#16 - წონის - weigh:
+Screeve #1:
+წონის	მწონი	V;2;SG;1;SG;IND;PRS = mc'oni
+წონის	მწონის	V;3;SG;1;SG;IND;PRS = mc'onis
+წონის	მწონით	V;2;PL;1;SG;IND;PRS = mc'onit
+წონის	მწონიან	V;3;PL;1;SG;IND;PRS = mc'onian
+წონის	გწონი	V;1;SG;2;SG;IND;PRS = gc'oni
+წონის	გწონის	V;3;SG;2;SG;IND;PRS = gc'onis
+წონის	გწონით	V;1;PL;2;SG;IND;PRS = gc'onit
+წონის	გწონიან	V;3;PL;2;SG;IND;PRS = gc'onian
+წონის	ვწონი	V;1;SG;3;SG;IND;PRS = vc'oni
+წონის	წონი	V;2;SG;3;SG;IND;PRS = c'oni
+წონის	წონის	V;3;SG;3;SG;IND;PRS = c'onis
+წონის	ვწონით	V;1;PL;3;SG;IND;PRS = vc'onit
+წონის	წონით	V;2;PL;3;SG;IND;PRS = c'onit
+წონის	წონიან	V;3;PL;3;SG;IND;PRS = c'onian
+წონის	გვწონი	V;2;SG;1;PL;IND;PRS = gvc'oni
+წონის	გვწონის	V;3;SG;1;PL;IND;PRS = gvc'onis
+წონის	გვწონით	V;2;PL;1;PL;IND;PRS = gvc'onit
+წონის	გვწონიან	V;3;PL;1;PL;IND;PRS = gvc'onian
+წონის	გწონით	V;1;SG;2;PL;IND;PRS = gc'onit
+წონის	გწონით	V;3;SG;2;PL;IND;PRS = gc'onit
+წონის	გწონით	V;1;PL;2;PL;IND;PRS = gc'onit
+წონის	გწონიან	V;3;PL;2;PL;IND;PRS = gc'onian
+წონის	ვწონი	V;1;SG;3;PL;IND;PRS = vc'oni
+წონის	წონი	V;2;SG;3;PL;IND;PRS = c'oni
+წონის	წონის	V;3;SG;3;PL;IND;PRS = c'onis
+წონის	ვწონით	V;1;PL;3;PL;IND;PRS = vc'onit
+წონის	წონით	V;2;PL;3;PL;IND;PRS = c'onit
+წონის	წონიან	V;3;PL;3;PL;IND;PRS = c'onian
+
+
+Screeve #2:
+წონის	მწონიდი	V;2;SG;1;SG;IND;IPFV = mc'onidi
+წონის	მწონიდა	V;3;SG;1;SG;IND;IPFV = mc'onida
+წონის	მწონიდით	V;2;PL;1;SG;IND;IPFV = mc'onidit
+წონის	მწონიდნენ	V;3;PL;1;SG;IND;IPFV = mc'onidnen
+წონის	გწონიდი	V;1;SG;2;SG;IND;IPFV = gc'onidi
+წონის	გწონიდა	V;3;SG;2;SG;IND;IPFV = gc'onida
+წონის	გწონიდით	V;1;PL;2;SG;IND;IPFV = gc'onidit
+წონის	გწონიდნენ	V;3;PL;2;SG;IND;IPFV = gc'onidnen
+წონის	ვწონიდი	V;1;SG;3;SG;IND;IPFV = vc'onidi
+წონის	წონიდი	V;2;SG;3;SG;IND;IPFV = c'onidi
+წონის	წონიდა	V;3;SG;3;SG;IND;IPFV = c'onida
+წონის	ვწონიდით	V;1;PL;3;SG;IND;IPFV = vc'onidit
+წონის	წონიდით	V;2;PL;3;SG;IND;IPFV = c'onidit
+წონის	წონიდნენ	V;3;PL;3;SG;IND;IPFV = c'onidnen
+წონის	გვწონიდი	V;2;SG;1;PL;IND;IPFV = gvc'onidi
+წონის	გვწონიდა	V;3;SG;1;PL;IND;IPFV = gvc'onida
+წონის	გვწონიდით	V;2;PL;1;PL;IND;IPFV = gvc'onidit
+წონის	გვწონიდნენ	V;3;PL;1;PL;IND;IPFV = gvc'onidnen
+წონის	გწონიდით	V;1;SG;2;PL;IND;IPFV = gc'onidit
+წონის	გწონიდათ	V;3;SG;2;PL;IND;IPFV = gc'onidat
+წონის	გწონიდით	V;1;PL;2;PL;IND;IPFV = gc'onidit
+წონის	გწონიდნენ	V;3;PL;2;PL;IND;IPFV = gc'onidnen
+წონის	ვწონიდი	V;1;SG;3;PL;IND;IPFV = vc'onidi
+წონის	წონიდი	V;2;SG;3;PL;IND;IPFV = c'onidi
+წონის	წონიდა	V;3;SG;3;PL;IND;IPFV = c'onida
+წონის	ვწონიდით	V;1;PL;3;PL;IND;IPFV = vc'onidit
+წონის	წონიდით	V;2;PL;3;PL;IND;IPFV = c'onidit
+წონის	წონიდნენ	V;3;PL;3;PL;IND;IPFV = c'onidnen
+
+
+Screeve #3:
+წონის	მწონიდე	V;2;SG;1;SG;SBJV;PRS = mc'onide
+წონის	მწონიდეს	V;3;SG;1;SG;SBJV;PRS = mc'onides
+წონის	მწონიდეთ	V;2;PL;1;SG;SBJV;PRS = mc'onidet
+წონის	მწონიდნენ	V;3;PL;1;SG;SBJV;PRS = mc'onidnen
+წონის	გწონიდე	V;1;SG;2;SG;SBJV;PRS = gc'onide
+წონის	გწონიდეს	V;3;SG;2;SG;SBJV;PRS = gc'onides
+წონის	გწონიდეთ	V;1;PL;2;SG;SBJV;PRS = gc'onidet
+წონის	გწონიდნენ	V;3;PL;2;SG;SBJV;PRS = gc'onidnen
+წონის	ვწონიდე	V;1;SG;3;SG;SBJV;PRS = vc'onide
+წონის	წონიდე	V;2;SG;3;SG;SBJV;PRS = c'onide
+წონის	წონიდეს	V;3;SG;3;SG;SBJV;PRS = c'onides
+წონის	ვწონიდეთ	V;1;PL;3;SG;SBJV;PRS = vc'onidet
+წონის	წონიდეთ	V;2;PL;3;SG;SBJV;PRS = c'onidet
+წონის	წონიდნენ	V;3;PL;3;SG;SBJV;PRS = c'onidnen
+წონის	გვწონიდე	V;2;SG;1;PL;SBJV;PRS = gvc'onide
+წონის	გვწონიდეს	V;3;SG;1;PL;SBJV;PRS = gvc'onides
+წონის	გვწონიდეთ	V;2;PL;1;PL;SBJV;PRS = gvc'onidet
+წონის	გვწონიდნენ	V;3;PL;1;PL;SBJV;PRS = gvc'onidnen
+წონის	გწონიდეთ	V;1;SG;2;PL;SBJV;PRS = gc'onidet
+წონის	გწონიდეთ	V;3;SG;2;PL;SBJV;PRS = gc'onidet
+წონის	გწონიდეთ	V;1;PL;2;PL;SBJV;PRS = gc'onidet
+წონის	გწონიდნენ	V;3;PL;2;PL;SBJV;PRS = gc'onidnen
+წონის	ვწონიდე	V;1;SG;3;PL;SBJV;PRS = vc'onide
+წონის	წონიდე	V;2;SG;3;PL;SBJV;PRS = c'onide
+წონის	წონიდეს	V;3;SG;3;PL;SBJV;PRS = c'onides
+წონის	ვწონიდეთ	V;1;PL;3;PL;SBJV;PRS = vc'onidet
+წონის	წონიდეთ	V;2;PL;3;PL;SBJV;PRS = c'onidet
+წონის	წონიდნენ	V;3;PL;3;PL;SBJV;PRS = c'onidnen
+
+
+Screeve #4:
+წონის	ამწონი	V;2;SG;1;SG;IND;FUT = amc'oni
+წონის	ამწონის	V;3;SG;1;SG;IND;FUT = amc'onis
+წონის	ამწონით	V;2;PL;1;SG;IND;FUT = amc'onit
+წონის	ამწონიან	V;3;PL;1;SG;IND;FUT = amc'onian
+წონის	აგწონი	V;1;SG;2;SG;IND;FUT = agc'oni
+წონის	აგწონის	V;3;SG;2;SG;IND;FUT = agc'onis
+წონის	აგწონით	V;1;PL;2;SG;IND;FUT = agc'onit
+წონის	აგწონიან	V;3;PL;2;SG;IND;FUT = agc'onian
+წონის	ავწონი	V;1;SG;3;SG;IND;FUT = avc'oni
+წონის	აწონი	V;2;SG;3;SG;IND;FUT = ac'oni
+წონის	აწონის	V;3;SG;3;SG;IND;FUT = ac'onis
+წონის	ავწონით	V;1;PL;3;SG;IND;FUT = avc'onit
+წონის	აწონით	V;2;PL;3;SG;IND;FUT = ac'onit
+წონის	აწონიან	V;3;PL;3;SG;IND;FUT = ac'onian
+წონის	აგვწონი	V;2;SG;1;PL;IND;FUT = agvc'oni
+წონის	აგვწონის	V;3;SG;1;PL;IND;FUT = agvc'onis
+წონის	აგვწონით	V;2;PL;1;PL;IND;FUT = agvc'onit
+წონის	აგვწონიან	V;3;PL;1;PL;IND;FUT = agvc'onian
+წონის	აგწონით	V;1;SG;2;PL;IND;FUT = agc'onit
+წონის	აგწონით	V;3;SG;2;PL;IND;FUT = agc'onit
+წონის	აგწონით	V;1;PL;2;PL;IND;FUT = agc'onit
+წონის	აგწონიან	V;3;PL;2;PL;IND;FUT = agc'onian
+წონის	ავწონი	V;1;SG;3;PL;IND;FUT = avc'oni
+წონის	აწონი	V;2;SG;3;PL;IND;FUT = ac'oni
+წონის	აწონის	V;3;SG;3;PL;IND;FUT = ac'onis
+წონის	ავწონით	V;1;PL;3;PL;IND;FUT = avc'onit
+წონის	აწონით	V;2;PL;3;PL;IND;FUT = ac'onit
+წონის	აწონიან	V;3;PL;3;PL;IND;FUT = ac'onian
+
+
+Screeve #5:
+წონის	ამწონიდი	V;2;SG;1;SG;COND = amc'onidi
+წონის	ამწონიდა	V;3;SG;1;SG;COND = amc'onida
+წონის	ამწონიდით	V;2;PL;1;SG;COND = amc'onidit
+წონის	ამწონიდნენ	V;3;PL;1;SG;COND = amc'onidnen
+წონის	აგწონიდი	V;1;SG;2;SG;COND = agc'onidi
+წონის	აგწონიდა	V;3;SG;2;SG;COND = agc'onida
+წონის	აგწონიდით	V;1;PL;2;SG;COND = agc'onidit
+წონის	აგწონიდნენ	V;3;PL;2;SG;COND = agc'onidnen
+წონის	ავწონიდი	V;1;SG;3;SG;COND = avc'onidi
+წონის	აწონიდი	V;2;SG;3;SG;COND = ac'onidi
+წონის	აწონიდა	V;3;SG;3;SG;COND = ac'onida
+წონის	ავწონიდით	V;1;PL;3;SG;COND = avc'onidit
+წონის	აწონიდით	V;2;PL;3;SG;COND = ac'onidit
+წონის	აწონიდნენ	V;3;PL;3;SG;COND = ac'onidnen
+წონის	აგვწონიდი	V;2;SG;1;PL;COND = agvc'onidi
+წონის	აგვწონიდა	V;3;SG;1;PL;COND = agvc'onida
+წონის	აგვწონიდით	V;2;PL;1;PL;COND = agvc'onidit
+წონის	აგვწონიდნენ	V;3;PL;1;PL;COND = agvc'onidnen
+წონის	აგწონიდით	V;1;SG;2;PL;COND = agc'onidit
+წონის	აგწონიდათ	V;3;SG;2;PL;COND = agc'onidat
+წონის	აგწონიდით	V;1;PL;2;PL;COND = agc'onidit
+წონის	აგწონიდნენ	V;3;PL;2;PL;COND = agc'onidnen
+წონის	ავწონიდი	V;1;SG;3;PL;COND = avc'onidi
+წონის	აწონიდი	V;2;SG;3;PL;COND = ac'onidi
+წონის	აწონიდა	V;3;SG;3;PL;COND = ac'onida
+წონის	ავწონიდით	V;1;PL;3;PL;COND = avc'onidit
+წონის	აწონიდით	V;2;PL;3;PL;COND = ac'onidit
+წონის	აწონიდნენ	V;3;PL;3;PL;COND = ac'onidnen
+
+
+Screeve #6:
+წონის	ამწონიდე	V;2;SG;1;SG;SBJV;FUT = amc'onide
+წონის	ამწონიდეს	V;3;SG;1;SG;SBJV;FUT = amc'onides
+წონის	ამწონიდეთ	V;2;PL;1;SG;SBJV;FUT = amc'onidet
+წონის	ამწონიდნენ	V;3;PL;1;SG;SBJV;FUT = amc'onidnen
+წონის	აგწონიდე	V;1;SG;2;SG;SBJV;FUT = agc'onide
+წონის	აგწონიდეს	V;3;SG;2;SG;SBJV;FUT = agc'onides
+წონის	აგწონიდეთ	V;1;PL;2;SG;SBJV;FUT = agc'onidet
+წონის	აგწონიდნენ	V;3;PL;2;SG;SBJV;FUT = agc'onidnen
+წონის	ავწონიდე	V;1;SG;3;SG;SBJV;FUT = avc'onide
+წონის	აწონიდე	V;2;SG;3;SG;SBJV;FUT = ac'onide
+წონის	აწონიდეს	V;3;SG;3;SG;SBJV;FUT = ac'onides
+წონის	ავწონიდეთ	V;1;PL;3;SG;SBJV;FUT = avc'onidet
+წონის	აწონიდეთ	V;2;PL;3;SG;SBJV;FUT = ac'onidet
+წონის	აწონიდნენ	V;3;PL;3;SG;SBJV;FUT = ac'onidnen
+წონის	აგვწონიდე	V;2;SG;1;PL;SBJV;FUT = agvc'onide
+წონის	აგვწონიდეს	V;3;SG;1;PL;SBJV;FUT = agvc'onides
+წონის	აგვწონიდეთ	V;2;PL;1;PL;SBJV;FUT = agvc'onidet
+წონის	აგვწონიდნენ	V;3;PL;1;PL;SBJV;FUT = agvc'onidnen
+წონის	აგწონიდეთ	V;1;SG;2;PL;SBJV;FUT = agc'onidet
+წონის	აგწონიდეთ	V;3;SG;2;PL;SBJV;FUT = agc'onidet
+წონის	აგწონიდეთ	V;1;PL;2;PL;SBJV;FUT = agc'onidet
+წონის	აგწონიდნენ	V;3;PL;2;PL;SBJV;FUT = agc'onidnen
+წონის	ავწონიდე	V;1;SG;3;PL;SBJV;FUT = avc'onide
+წონის	აწონიდე	V;2;SG;3;PL;SBJV;FUT = ac'onide
+წონის	აწონიდეს	V;3;SG;3;PL;SBJV;FUT = ac'onides
+წონის	ავწონიდეთ	V;1;PL;3;PL;SBJV;FUT = avc'onidet
+წონის	აწონიდეთ	V;2;PL;3;PL;SBJV;FUT = ac'onidet
+წონის	აწონიდნენ	V;3;PL;3;PL;SBJV;FUT = ac'onidnen
+
+
+Screeve #7:
+წონის	ამწონე	V;2;SG;1;SG;IND;PST;PFV = amc'one
+წონის	ამწონა	V;3;SG;1;SG;IND;PST;PFV = amc'ona
+წონის	ამწონეთ	V;2;PL;1;SG;IND;PST;PFV = amc'onet
+წონის	ამწონეს	V;3;PL;1;SG;IND;PST;PFV = amc'ones
+წონის	აგწონე	V;1;SG;2;SG;IND;PST;PFV = agc'one
+წონის	აგწონა	V;3;SG;2;SG;IND;PST;PFV = agc'ona
+წონის	აგწონეთ	V;1;PL;2;SG;IND;PST;PFV = agc'onet
+წონის	აგწონეს	V;3;PL;2;SG;IND;PST;PFV = agc'ones
+წონის	ავწონე	V;1;SG;3;SG;IND;PST;PFV = avc'one
+წონის	აწონე	V;2;SG;3;SG;IND;PST;PFV = ac'one
+წონის	აწონა	V;3;SG;3;SG;IND;PST;PFV = ac'ona
+წონის	ავწონეთ	V;1;PL;3;SG;IND;PST;PFV = avc'onet
+წონის	აწონეთ	V;2;PL;3;SG;IND;PST;PFV = ac'onet
+წონის	აწონეს	V;3;PL;3;SG;IND;PST;PFV = ac'ones
+წონის	აგვწონე	V;2;SG;1;PL;IND;PST;PFV = agvc'one
+წონის	აგვწონა	V;3;SG;1;PL;IND;PST;PFV = agvc'ona
+წონის	აგვწონეთ	V;2;PL;1;PL;IND;PST;PFV = agvc'onet
+წონის	აგვწონეს	V;3;PL;1;PL;IND;PST;PFV = agvc'ones
+წონის	აგწონეთ	V;1;SG;2;PL;IND;PST;PFV = agc'onet
+წონის	აგწონათ	V;3;SG;2;PL;IND;PST;PFV = agc'onat
+წონის	აგწონეთ	V;1;PL;2;PL;IND;PST;PFV = agc'onet
+წონის	აგწონეს	V;3;PL;2;PL;IND;PST;PFV = agc'ones
+წონის	ავწონე	V;1;SG;3;PL;IND;PST;PFV = avc'one
+წონის	აწონე	V;2;SG;3;PL;IND;PST;PFV = ac'one
+წონის	აწონა	V;3;SG;3;PL;IND;PST;PFV = ac'ona
+წონის	ავწონეთ	V;1;PL;3;PL;IND;PST;PFV = avc'onet
+წონის	აწონეთ	V;2;PL;3;PL;IND;PST;PFV = ac'onet
+წონის	აწონეს	V;3;PL;3;PL;IND;PST;PFV = ac'ones
+
+წონის	ამწონეთ	V;2;PL;1;SG;IMP = amc'onet
+წონის	ამწონე	V;2;SG;1;SG;IMP = amc'one
+წონის	აწონეთ	V;2;PL;3;SG;IMP = ac'onet
+წონის	აწონე	V;2;SG;3;SG;IMP = ac'one
+წონის	აგვწონეთ	V;2;PL;1;PL;IMP = agvc'onet
+წონის	აგვწონე	V;2;SG;1;PL;IMP = agvc'one
+წონის	აწონეთ	V;2;PL;3;PL;IMP = ac'onet
+წონის	აწონე	V;2;SG;3;PL;IMP = ac'one
+
+
+
+Screeve #8:
+წონის	ამწონო	V;2;SG;1;SG;OPT = amc'ono
+წონის	ამწონოს	V;3;SG;1;SG;OPT = amc'onos
+წონის	ამწონოთ	V;2;PL;1;SG;OPT = amc'onot
+წონის	ამწონონ	V;3;PL;1;SG;OPT = amc'onon
+წონის	აგწონო	V;1;SG;2;SG;OPT = agc'ono
+წონის	აგწონოს	V;3;SG;2;SG;OPT = agc'onos
+წონის	აგწონოთ	V;1;PL;2;SG;OPT = agc'onot
+წონის	აგწონონ	V;3;PL;2;SG;OPT = agc'onon
+წონის	ავწონო	V;1;SG;3;SG;OPT = avc'ono
+წონის	აწონო	V;2;SG;3;SG;OPT = ac'ono
+წონის	აწონოს	V;3;SG;3;SG;OPT = ac'onos
+წონის	ავწონოთ	V;1;PL;3;SG;OPT = avc'onot
+წონის	აწონოთ	V;2;PL;3;SG;OPT = ac'onot
+წონის	აწონონ	V;3;PL;3;SG;OPT = ac'onon
+წონის	აგვწონო	V;2;SG;1;PL;OPT = agvc'ono
+წონის	აგვწონოს	V;3;SG;1;PL;OPT = agvc'onos
+წონის	აგვწონოთ	V;2;PL;1;PL;OPT = agvc'onot
+წონის	აგვწონონ	V;3;PL;1;PL;OPT = agvc'onon
+წონის	აგწონოთ	V;1;SG;2;PL;OPT = agc'onot
+წონის	აგწონოთ	V;3;SG;2;PL;OPT = agc'onot
+წონის	აგწონოთ	V;1;PL;2;PL;OPT = agc'onot
+წონის	აგწონოთ	V;3;PL;2;PL;OPT = agc'onot
+წონის	ავწონო	V;1;SG;3;PL;OPT = avc'ono
+წონის	აწონო	V;2;SG;3;PL;OPT = ac'ono
+წონის	აწონოს	V;3;SG;3;PL;OPT = ac'onos
+წონის	ავწონოთ	V;1;PL;3;PL;OPT = avc'onot
+წონის	აწონოთ	V;2;PL;3;PL;OPT = ac'onot
+წონის	აწონონ	V;3;PL;3;PL;OPT = ac'onon
+
+წონის	ამწონონ	V;3;PL;1;SG;IMP = amc'onon
+წონის	ამწონოს	V;3;SG;1;SG;IMP = amc'onos
+წონის	აგწონონ	V;3;PL;2;SG;IMP = agc'onon
+წონის	აგწონოთ	V;1;PL;2;SG;IMP = agc'onot
+წონის	აგწონოს	V;3;SG;2;SG;IMP = agc'onos
+წონის	აწონონ	V;3;PL;3;SG;IMP = ac'onon
+წონის	ავწონოთ	V;1;PL;3;SG;IMP = avc'onot
+წონის	აწონოს	V;3;SG;3;SG;IMP = ac'onos
+წონის	აგვწონონ	V;3;PL;1;PL;IMP = agvc'onon
+წონის	აგვწონოს	V;3;SG;1;PL;IMP = agvc'onos
+წონის	აგწონოთ	V;3;PL;2;PL;IMP = agc'onot
+წონის	აგწონოთ	V;1;PL;2;PL;IMP = agc'onot
+წონის	აგწონოთ	V;3;SG;2;PL;IMP = agc'onot
+წონის	აწონონ	V;3;PL;3;PL;IMP = ac'onon
+წონის	ავწონოთ	V;1;PL;3;PL;IMP = avc'onot
+წონის	აწონოს	V;3;SG;3;PL;IMP = ac'onos
+
+
+
+Screeve #9:
+წონის	აგიწონივარ	V;2;SG;1;SG;IND;PRF = agic'onivar
+წონის	ავუწონივარ	V;3;SG;1;SG;IND;PRF = avuc'onivar
+წონის	აგიწონივართ	V;2;PL;1;SG;IND;PRF = agic'onivart
+წონის	ავუწონივართ	V;3;PL;1;SG;IND;PRF = avuc'onivart
+წონის	ამიწონიხარ	V;1;SG;2;SG;IND;PRF = amic'onixar
+წონის	აუწონიხარ	V;3;SG;2;SG;IND;PRF = auc'onixar
+წონის	აგვიწონიხარ	V;1;PL;2;SG;IND;PRF = agvic'onixar
+წონის	აუწონიხართ	V;3;PL;2;SG;IND;PRF = auc'onixart
+წონის	ამიწონია	V;1;SG;3;SG;IND;PRF = amic'onia
+წონის	აგიწონია	V;2;SG;3;SG;IND;PRF = agic'onia
+წონის	აუწონია	V;3;SG;3;SG;IND;PRF = auc'onia
+წონის	აგვიწონია	V;1;PL;3;SG;IND;PRF = agvic'onia
+წონის	აგიწონიათ	V;2;PL;3;SG;IND;PRF = agic'oniat
+წონის	აუწონიათ	V;3;PL;3;SG;IND;PRF = auc'oniat
+წონის	აგიწონივართ	V;2;SG;1;PL;IND;PRF = agic'onivart
+წონის	ავუწონივართ	V;3;SG;1;PL;IND;PRF = avuc'onivart
+წონის	აგიწონივართ	V;2;PL;1;PL;IND;PRF = agic'onivart
+წონის	ავუწონივართ	V;3;PL;1;PL;IND;PRF = avuc'onivart
+წონის	ამიწონიხართ	V;1;SG;2;PL;IND;PRF = amic'onixart
+წონის	აუწონიხართ	V;3;SG;2;PL;IND;PRF = auc'onixart
+წონის	აგვიწონიხართ	V;1;PL;2;PL;IND;PRF = agvic'onixart
+წონის	აუწონიხართ	V;3;PL;2;PL;IND;PRF = auc'onixart
+წონის	ამიწონია	V;1;SG;3;PL;IND;PRF = amic'onia
+წონის	აგიწონია	V;2;SG;3;PL;IND;PRF = agic'onia
+წონის	აუწონია	V;3;SG;3;PL;IND;PRF = auc'onia
+წონის	აგვიწონია	V;1;PL;3;PL;IND;PRF = agvic'onia
+წონის	აგიწონიათ	V;2;PL;3;PL;IND;PRF = agic'oniat
+წონის	აუწონიათ	V;3;PL;3;PL;IND;PRF = auc'oniat
+
+
+Screeve #10:
+წონის	აგეწონე	V;2;SG;1;SG;IND;PST;PRF = agec'one
+წონის	ავეწონე	V;3;SG;1;SG;IND;PST;PRF = avec'one
+წონის	აგეწონეთ	V;2;PL;1;SG;IND;PST;PRF = agec'onet
+წონის	ავეწონეთ	V;3;PL;1;SG;IND;PST;PRF = avec'onet
+წონის	ამეწონე	V;1;SG;2;SG;IND;PST;PRF = amec'one
+წონის	აეწონე	V;3;SG;2;SG;IND;PST;PRF = aec'one
+წონის	აგვეწონე	V;1;PL;2;SG;IND;PST;PRF = agvec'one
+წონის	აეწონეთ	V;3;PL;2;SG;IND;PST;PRF = aec'onet
+წონის	ამეწონა	V;1;SG;3;SG;IND;PST;PRF = amec'ona
+წონის	აგეწონა	V;2;SG;3;SG;IND;PST;PRF = agec'ona
+წონის	აეწონა	V;3;SG;3;SG;IND;PST;PRF = aec'ona
+წონის	აგვეწონა	V;1;PL;3;SG;IND;PST;PRF = agvec'ona
+წონის	აგეწონათ	V;2;PL;3;SG;IND;PST;PRF = agec'onat
+წონის	აეწონათ	V;3;PL;3;SG;IND;PST;PRF = aec'onat
+წონის	აგეწონეთ	V;2;SG;1;PL;IND;PST;PRF = agec'onet
+წონის	ავეწონეთ	V;3;SG;1;PL;IND;PST;PRF = avec'onet
+წონის	აგეწონეთ	V;2;PL;1;PL;IND;PST;PRF = agec'onet
+წონის	ავეწონეთ	V;3;PL;1;PL;IND;PST;PRF = avec'onet
+წონის	ამეწონეთ	V;1;SG;2;PL;IND;PST;PRF = amec'onet
+წონის	აეწონეთ	V;3;SG;2;PL;IND;PST;PRF = aec'onet
+წონის	აგვეწონეთ	V;1;PL;2;PL;IND;PST;PRF = agvec'onet
+წონის	აეწონეთ	V;3;PL;2;PL;IND;PST;PRF = aec'onet
+წონის	ამეწონა	V;1;SG;3;PL;IND;PST;PRF = amec'ona
+წონის	აგეწონა	V;2;SG;3;PL;IND;PST;PRF = agec'ona
+წონის	აეწონა	V;3;SG;3;PL;IND;PST;PRF = aec'ona
+წონის	აგვეწონა	V;1;PL;3;PL;IND;PST;PRF = agvec'ona
+წონის	აგეწონათ	V;2;PL;3;PL;IND;PST;PRF = agec'onat
+წონის	აეწონათ	V;3;PL;3;PL;IND;PST;PRF = aec'onat
+
+
+Screeve #11:
+წონის	აგეწონო	V;2;SG;1;SG;SBJV;PRF = agec'ono
+წონის	ავეწონო	V;3;SG;1;SG;SBJV;PRF = avec'ono
+წონის	აგეწონოთ	V;2;PL;1;SG;SBJV;PRF = agec'onot
+წონის	ავეწონოთ	V;3;PL;1;SG;SBJV;PRF = avec'onot
+წონის	ამეწონო	V;1;SG;2;SG;SBJV;PRF = amec'ono
+წონის	აეწონო	V;3;SG;2;SG;SBJV;PRF = aec'ono
+წონის	აგვეწონო	V;1;PL;2;SG;SBJV;PRF = agvec'ono
+წონის	აეწონოთ	V;3;PL;2;SG;SBJV;PRF = aec'onot
+წონის	ამეწონოს	V;1;SG;3;SG;SBJV;PRF = amec'onos
+წონის	აგეწონოს	V;2;SG;3;SG;SBJV;PRF = agec'onos
+წონის	აეწონოს	V;3;SG;3;SG;SBJV;PRF = aec'onos
+წონის	აგვეწონოს	V;1;PL;3;SG;SBJV;PRF = agvec'onos
+წონის	აგეწონოთ	V;2;PL;3;SG;SBJV;PRF = agec'onot
+წონის	აეწონოთ	V;3;PL;3;SG;SBJV;PRF = aec'onot
+წონის	აგეწონოთ	V;2;SG;1;PL;SBJV;PRF = agec'onot
+წონის	ავეწონოთ	V;3;SG;1;PL;SBJV;PRF = avec'onot
+წონის	აგეწონოთ	V;2;PL;1;PL;SBJV;PRF = agec'onot
+წონის	ავეწონოთ	V;3;PL;1;PL;SBJV;PRF = avec'onot
+წონის	ამეწონოთ	V;1;SG;2;PL;SBJV;PRF = amec'onot
+წონის	აეწონოთ	V;3;SG;2;PL;SBJV;PRF = aec'onot
+წონის	აგვეწონოთ	V;1;PL;2;PL;SBJV;PRF = agvec'onot
+წონის	აეწონოთ	V;3;PL;2;PL;SBJV;PRF = aec'onot
+წონის	ამეწონოს	V;1;SG;3;PL;SBJV;PRF = amec'onos
+წონის	აგეწონოს	V;2;SG;3;PL;SBJV;PRF = agec'onos
+წონის	აეწონოს	V;3;SG;3;PL;SBJV;PRF = aec'onos
+წონის	აგვეწონოს	V;1;PL;3;PL;SBJV;PRF = agvec'onos
+წონის	აგეწონოთ	V;2;PL;3;PL;SBJV;PRF = agec'onot
+წონის	აეწონოთ	V;3;PL;3;PL;SBJV;PRF = aec'onot
+
+
+წონის	აწონვა	V;V.MSDR;PRF

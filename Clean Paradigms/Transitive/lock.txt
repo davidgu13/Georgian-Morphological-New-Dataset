@@ -1,0 +1,371 @@
+#42 - კეტავს - lock:
+Screeve #1:
+კეტავს	მკეტავ	V;2;SG;1;SG;IND;PRS = mk'et'av
+კეტავს	მკეტავს	V;3;SG;1;SG;IND;PRS = mk'et'avs
+კეტავს	მკეტავთ	V;2;PL;1;SG;IND;PRS = mk'et'avt
+კეტავს	მკეტავენ	V;3;PL;1;SG;IND;PRS = mk'et'aven
+კეტავს	გკეტავ	V;1;SG;2;SG;IND;PRS = gk'et'av
+კეტავს	გკეტავს	V;3;SG;2;SG;IND;PRS = gk'et'avs
+კეტავს	გკეტავთ	V;1;PL;2;SG;IND;PRS = gk'et'avt
+კეტავს	გკეტავენ	V;3;PL;2;SG;IND;PRS = gk'et'aven
+კეტავს	ვკეტავ	V;1;SG;3;SG;IND;PRS = vk'et'av
+კეტავს	კეტავ	V;2;SG;3;SG;IND;PRS = k'et'av
+კეტავს	კეტავს	V;3;SG;3;SG;IND;PRS = k'et'avs
+კეტავს	ვკეტავთ	V;1;PL;3;SG;IND;PRS = vk'et'avt
+კეტავს	კეტავთ	V;2;PL;3;SG;IND;PRS = k'et'avt
+კეტავს	კეტავენ	V;3;PL;3;SG;IND;PRS = k'et'aven
+კეტავს	გვკეტავ	V;2;SG;1;PL;IND;PRS = gvk'et'av
+კეტავს	გვკეტავს	V;3;SG;1;PL;IND;PRS = gvk'et'avs
+კეტავს	გვკეტავთ	V;2;PL;1;PL;IND;PRS = gvk'et'avt
+კეტავს	გვკეტავენ	V;3;PL;1;PL;IND;PRS = gvk'et'aven
+კეტავს	გკეტავთ	V;1;SG;2;PL;IND;PRS = gk'et'avt
+კეტავს	გკეტავთ	V;3;SG;2;PL;IND;PRS = gk'et'avt
+კეტავს	გკეტავთ	V;1;PL;2;PL;IND;PRS = gk'et'avt
+კეტავს	გკეტავენ	V;3;PL;2;PL;IND;PRS = gk'et'aven
+კეტავს	ვკეტავ	V;1;SG;3;PL;IND;PRS = vk'et'av
+კეტავს	კეტავ	V;2;SG;3;PL;IND;PRS = k'et'av
+კეტავს	კეტავს	V;3;SG;3;PL;IND;PRS = k'et'avs
+კეტავს	ვკეტავთ	V;1;PL;3;PL;IND;PRS = vk'et'avt
+კეტავს	კეტავთ	V;2;PL;3;PL;IND;PRS = k'et'avt
+კეტავს	კეტავენ	V;3;PL;3;PL;IND;PRS = k'et'aven
+
+
+Screeve #2:
+კეტავს	მკეტავდი	V;2;SG;1;SG;IND;IPFV = mk'et'avdi
+კეტავს	მკეტავდა	V;3;SG;1;SG;IND;IPFV = mk'et'avda
+კეტავს	მკეტავდით	V;2;PL;1;SG;IND;IPFV = mk'et'avdit
+კეტავს	მკეტავდნენ	V;3;PL;1;SG;IND;IPFV = mk'et'avdnen
+კეტავს	გკეტავდი	V;1;SG;2;SG;IND;IPFV = gk'et'avdi
+კეტავს	გკეტავდა	V;3;SG;2;SG;IND;IPFV = gk'et'avda
+კეტავს	გკეტავდით	V;1;PL;2;SG;IND;IPFV = gk'et'avdit
+კეტავს	გკეტავდნენ	V;3;PL;2;SG;IND;IPFV = gk'et'avdnen
+კეტავს	ვკეტავდი	V;1;SG;3;SG;IND;IPFV = vk'et'avdi
+კეტავს	კეტავდი	V;2;SG;3;SG;IND;IPFV = k'et'avdi
+კეტავს	კეტავდა	V;3;SG;3;SG;IND;IPFV = k'et'avda
+კეტავს	ვკეტავდით	V;1;PL;3;SG;IND;IPFV = vk'et'avdit
+კეტავს	კეტავდით	V;2;PL;3;SG;IND;IPFV = k'et'avdit
+კეტავს	კეტავდნენ	V;3;PL;3;SG;IND;IPFV = k'et'avdnen
+კეტავს	გვკეტავდი	V;2;SG;1;PL;IND;IPFV = gvk'et'avdi
+კეტავს	გვკეტავდა	V;3;SG;1;PL;IND;IPFV = gvk'et'avda
+კეტავს	გვკეტავდით	V;2;PL;1;PL;IND;IPFV = gvk'et'avdit
+კეტავს	გვკეტავდნენ	V;3;PL;1;PL;IND;IPFV = gvk'et'avdnen
+კეტავს	გკეტავდით	V;1;SG;2;PL;IND;IPFV = gk'et'avdit
+კეტავს	გკეტავდათ	V;3;SG;2;PL;IND;IPFV = gk'et'avdat
+კეტავს	გკეტავდით	V;1;PL;2;PL;IND;IPFV = gk'et'avdit
+კეტავს	გკეტავდნენ	V;3;PL;2;PL;IND;IPFV = gk'et'avdnen
+კეტავს	ვკეტავდი	V;1;SG;3;PL;IND;IPFV = vk'et'avdi
+კეტავს	კეტავდი	V;2;SG;3;PL;IND;IPFV = k'et'avdi
+კეტავს	კეტავდა	V;3;SG;3;PL;IND;IPFV = k'et'avda
+კეტავს	ვკეტავდით	V;1;PL;3;PL;IND;IPFV = vk'et'avdit
+კეტავს	კეტავდით	V;2;PL;3;PL;IND;IPFV = k'et'avdit
+კეტავს	კეტავდნენ	V;3;PL;3;PL;IND;IPFV = k'et'avdnen
+
+
+Screeve #3:
+კეტავს	მკეტავდე	V;2;SG;1;SG;SBJV;PRS = mk'et'avde
+კეტავს	მკეტავდეს	V;3;SG;1;SG;SBJV;PRS = mk'et'avdes
+კეტავს	მკეტავდეთ	V;2;PL;1;SG;SBJV;PRS = mk'et'avdet
+კეტავს	მკეტავდნენ	V;3;PL;1;SG;SBJV;PRS = mk'et'avdnen
+კეტავს	გკეტავდე	V;1;SG;2;SG;SBJV;PRS = gk'et'avde
+კეტავს	გკეტავდეს	V;3;SG;2;SG;SBJV;PRS = gk'et'avdes
+კეტავს	გკეტავდეთ	V;1;PL;2;SG;SBJV;PRS = gk'et'avdet
+კეტავს	გკეტავდნენ	V;3;PL;2;SG;SBJV;PRS = gk'et'avdnen
+კეტავს	ვკეტავდე	V;1;SG;3;SG;SBJV;PRS = vk'et'avde
+კეტავს	კეტავდე	V;2;SG;3;SG;SBJV;PRS = k'et'avde
+კეტავს	კეტავდეს	V;3;SG;3;SG;SBJV;PRS = k'et'avdes
+კეტავს	ვკეტავდეთ	V;1;PL;3;SG;SBJV;PRS = vk'et'avdet
+კეტავს	კეტავდეთ	V;2;PL;3;SG;SBJV;PRS = k'et'avdet
+კეტავს	კეტავდნენ	V;3;PL;3;SG;SBJV;PRS = k'et'avdnen
+კეტავს	გვკეტავდე	V;2;SG;1;PL;SBJV;PRS = gvk'et'avde
+კეტავს	გვკეტავდეს	V;3;SG;1;PL;SBJV;PRS = gvk'et'avdes
+კეტავს	გვკეტავდეთ	V;2;PL;1;PL;SBJV;PRS = gvk'et'avdet
+კეტავს	გვკეტავდნენ	V;3;PL;1;PL;SBJV;PRS = gvk'et'avdnen
+კეტავს	გკეტავდეთ	V;1;SG;2;PL;SBJV;PRS = gk'et'avdet
+კეტავს	გკეტავდეთ	V;3;SG;2;PL;SBJV;PRS = gk'et'avdet
+კეტავს	გკეტავდეთ	V;1;PL;2;PL;SBJV;PRS = gk'et'avdet
+კეტავს	გკეტავდნენ	V;3;PL;2;PL;SBJV;PRS = gk'et'avdnen
+კეტავს	ვკეტავდე	V;1;SG;3;PL;SBJV;PRS = vk'et'avde
+კეტავს	კეტავდე	V;2;SG;3;PL;SBJV;PRS = k'et'avde
+კეტავს	კეტავდეს	V;3;SG;3;PL;SBJV;PRS = k'et'avdes
+კეტავს	ვკეტავდეთ	V;1;PL;3;PL;SBJV;PRS = vk'et'avdet
+კეტავს	კეტავდეთ	V;2;PL;3;PL;SBJV;PRS = k'et'avdet
+კეტავს	კეტავდნენ	V;3;PL;3;PL;SBJV;PRS = k'et'avdnen
+
+
+Screeve #4:
+კეტავს	დამკეტავ	V;2;SG;1;SG;IND;FUT = damk'et'av
+კეტავს	დამკეტავს	V;3;SG;1;SG;IND;FUT = damk'et'avs
+კეტავს	დამკეტავთ	V;2;PL;1;SG;IND;FUT = damk'et'avt
+კეტავს	დამკეტავენ	V;3;PL;1;SG;IND;FUT = damk'et'aven
+კეტავს	დაგკეტავ	V;1;SG;2;SG;IND;FUT = dagk'et'av
+კეტავს	დაგკეტავს	V;3;SG;2;SG;IND;FUT = dagk'et'avs
+კეტავს	დაგკეტავთ	V;1;PL;2;SG;IND;FUT = dagk'et'avt
+კეტავს	დაგკეტავენ	V;3;PL;2;SG;IND;FUT = dagk'et'aven
+კეტავს	დავკეტავ	V;1;SG;3;SG;IND;FUT = davk'et'av
+კეტავს	დაკეტავ	V;2;SG;3;SG;IND;FUT = dak'et'av
+კეტავს	დაკეტავს	V;3;SG;3;SG;IND;FUT = dak'et'avs
+კეტავს	დავკეტავთ	V;1;PL;3;SG;IND;FUT = davk'et'avt
+კეტავს	დაკეტავთ	V;2;PL;3;SG;IND;FUT = dak'et'avt
+კეტავს	დაკეტავენ	V;3;PL;3;SG;IND;FUT = dak'et'aven
+კეტავს	დაგვკეტავ	V;2;SG;1;PL;IND;FUT = dagvk'et'av
+კეტავს	დაგვკეტავს	V;3;SG;1;PL;IND;FUT = dagvk'et'avs
+კეტავს	დაგვკეტავთ	V;2;PL;1;PL;IND;FUT = dagvk'et'avt
+კეტავს	დაგვკეტავენ	V;3;PL;1;PL;IND;FUT = dagvk'et'aven
+კეტავს	დაგკეტავთ	V;1;SG;2;PL;IND;FUT = dagk'et'avt
+კეტავს	დაგკეტავთ	V;3;SG;2;PL;IND;FUT = dagk'et'avt
+კეტავს	დაგკეტავთ	V;1;PL;2;PL;IND;FUT = dagk'et'avt
+კეტავს	დაგკეტავენ	V;3;PL;2;PL;IND;FUT = dagk'et'aven
+კეტავს	დავკეტავ	V;1;SG;3;PL;IND;FUT = davk'et'av
+კეტავს	დაკეტავ	V;2;SG;3;PL;IND;FUT = dak'et'av
+კეტავს	დაკეტავს	V;3;SG;3;PL;IND;FUT = dak'et'avs
+კეტავს	დავკეტავთ	V;1;PL;3;PL;IND;FUT = davk'et'avt
+კეტავს	დაკეტავთ	V;2;PL;3;PL;IND;FUT = dak'et'avt
+კეტავს	დაკეტავენ	V;3;PL;3;PL;IND;FUT = dak'et'aven
+
+
+Screeve #5:
+კეტავს	დამკეტავდი	V;2;SG;1;SG;COND = damk'et'avdi
+კეტავს	დამკეტავდა	V;3;SG;1;SG;COND = damk'et'avda
+კეტავს	დამკეტავდით	V;2;PL;1;SG;COND = damk'et'avdit
+კეტავს	დამკეტავდნენ	V;3;PL;1;SG;COND = damk'et'avdnen
+კეტავს	დაგკეტავდი	V;1;SG;2;SG;COND = dagk'et'avdi
+კეტავს	დაგკეტავდა	V;3;SG;2;SG;COND = dagk'et'avda
+კეტავს	დაგკეტავდით	V;1;PL;2;SG;COND = dagk'et'avdit
+კეტავს	დაგკეტავდნენ	V;3;PL;2;SG;COND = dagk'et'avdnen
+კეტავს	დავკეტავდი	V;1;SG;3;SG;COND = davk'et'avdi
+კეტავს	დაკეტავდი	V;2;SG;3;SG;COND = dak'et'avdi
+კეტავს	დაკეტავდა	V;3;SG;3;SG;COND = dak'et'avda
+კეტავს	დავკეტავდით	V;1;PL;3;SG;COND = davk'et'avdit
+კეტავს	დაკეტავდით	V;2;PL;3;SG;COND = dak'et'avdit
+კეტავს	დაკეტავდნენ	V;3;PL;3;SG;COND = dak'et'avdnen
+კეტავს	დაგვკეტავდი	V;2;SG;1;PL;COND = dagvk'et'avdi
+კეტავს	დაგვკეტავდა	V;3;SG;1;PL;COND = dagvk'et'avda
+კეტავს	დაგვკეტავდით	V;2;PL;1;PL;COND = dagvk'et'avdit
+კეტავს	დაგვკეტავდნენ	V;3;PL;1;PL;COND = dagvk'et'avdnen
+კეტავს	დაგკეტავდით	V;1;SG;2;PL;COND = dagk'et'avdit
+კეტავს	დაგკეტავდათ	V;3;SG;2;PL;COND = dagk'et'avdat
+კეტავს	დაგკეტავდით	V;1;PL;2;PL;COND = dagk'et'avdit
+კეტავს	დაგკეტავდნენ	V;3;PL;2;PL;COND = dagk'et'avdnen
+კეტავს	დავკეტავდი	V;1;SG;3;PL;COND = davk'et'avdi
+კეტავს	დაკეტავდი	V;2;SG;3;PL;COND = dak'et'avdi
+კეტავს	დაკეტავდა	V;3;SG;3;PL;COND = dak'et'avda
+კეტავს	დავკეტავდით	V;1;PL;3;PL;COND = davk'et'avdit
+კეტავს	დაკეტავდით	V;2;PL;3;PL;COND = dak'et'avdit
+კეტავს	დაკეტავდნენ	V;3;PL;3;PL;COND = dak'et'avdnen
+
+
+Screeve #6:
+კეტავს	დამკეტავდე	V;2;SG;1;SG;SBJV;FUT = damk'et'avde
+კეტავს	დამკეტავდეს	V;3;SG;1;SG;SBJV;FUT = damk'et'avdes
+კეტავს	დამკეტავდეთ	V;2;PL;1;SG;SBJV;FUT = damk'et'avdet
+კეტავს	დამკეტავდნენ	V;3;PL;1;SG;SBJV;FUT = damk'et'avdnen
+კეტავს	დაგკეტავდე	V;1;SG;2;SG;SBJV;FUT = dagk'et'avde
+კეტავს	დაგკეტავდეს	V;3;SG;2;SG;SBJV;FUT = dagk'et'avdes
+კეტავს	დაგკეტავდეთ	V;1;PL;2;SG;SBJV;FUT = dagk'et'avdet
+კეტავს	დაგკეტავდნენ	V;3;PL;2;SG;SBJV;FUT = dagk'et'avdnen
+კეტავს	დავკეტავდე	V;1;SG;3;SG;SBJV;FUT = davk'et'avde
+კეტავს	დაკეტავდე	V;2;SG;3;SG;SBJV;FUT = dak'et'avde
+კეტავს	დაკეტავდეს	V;3;SG;3;SG;SBJV;FUT = dak'et'avdes
+კეტავს	დავკეტავდეთ	V;1;PL;3;SG;SBJV;FUT = davk'et'avdet
+კეტავს	დაკეტავდეთ	V;2;PL;3;SG;SBJV;FUT = dak'et'avdet
+კეტავს	დაკეტავდნენ	V;3;PL;3;SG;SBJV;FUT = dak'et'avdnen
+კეტავს	დაგვკეტავდე	V;2;SG;1;PL;SBJV;FUT = dagvk'et'avde
+კეტავს	დაგვკეტავდეს	V;3;SG;1;PL;SBJV;FUT = dagvk'et'avdes
+კეტავს	დაგვკეტავდეთ	V;2;PL;1;PL;SBJV;FUT = dagvk'et'avdet
+კეტავს	დაგვკეტავდნენ	V;3;PL;1;PL;SBJV;FUT = dagvk'et'avdnen
+კეტავს	დაგკეტავდეთ	V;1;SG;2;PL;SBJV;FUT = dagk'et'avdet
+კეტავს	დაგკეტავდეთ	V;3;SG;2;PL;SBJV;FUT = dagk'et'avdet
+კეტავს	დაგკეტავდეთ	V;1;PL;2;PL;SBJV;FUT = dagk'et'avdet
+კეტავს	დაგკეტავდნენ	V;3;PL;2;PL;SBJV;FUT = dagk'et'avdnen
+კეტავს	დავკეტავდე	V;1;SG;3;PL;SBJV;FUT = davk'et'avde
+კეტავს	დაკეტავდე	V;2;SG;3;PL;SBJV;FUT = dak'et'avde
+კეტავს	დაკეტავდეს	V;3;SG;3;PL;SBJV;FUT = dak'et'avdes
+კეტავს	დავკეტავდეთ	V;1;PL;3;PL;SBJV;FUT = davk'et'avdet
+კეტავს	დაკეტავდეთ	V;2;PL;3;PL;SBJV;FUT = dak'et'avdet
+კეტავს	დაკეტავდნენ	V;3;PL;3;PL;SBJV;FUT = dak'et'avdnen
+
+
+Screeve #7:
+კეტავს	დამკეტე	V;2;SG;1;SG;IND;PST;PFV = damk'et'e
+კეტავს	დამკეტა	V;3;SG;1;SG;IND;PST;PFV = damk'et'a
+კეტავს	დამკეტეთ	V;2;PL;1;SG;IND;PST;PFV = damk'et'et
+კეტავს	დამკეტეს	V;3;PL;1;SG;IND;PST;PFV = damk'et'es
+კეტავს	დაგკეტე	V;1;SG;2;SG;IND;PST;PFV = dagk'et'e
+კეტავს	დაგკეტა	V;3;SG;2;SG;IND;PST;PFV = dagk'et'a
+კეტავს	დაგკეტეთ	V;1;PL;2;SG;IND;PST;PFV = dagk'et'et
+კეტავს	დაგკეტეს	V;3;PL;2;SG;IND;PST;PFV = dagk'et'es
+კეტავს	დავკეტე	V;1;SG;3;SG;IND;PST;PFV = davk'et'e
+კეტავს	დაკეტე	V;2;SG;3;SG;IND;PST;PFV = dak'et'e
+კეტავს	დაკეტა	V;3;SG;3;SG;IND;PST;PFV = dak'et'a
+კეტავს	დავკეტეთ	V;1;PL;3;SG;IND;PST;PFV = davk'et'et
+კეტავს	დაკეტეთ	V;2;PL;3;SG;IND;PST;PFV = dak'et'et
+კეტავს	დაკეტეს	V;3;PL;3;SG;IND;PST;PFV = dak'et'es
+კეტავს	დაგვკეტე	V;2;SG;1;PL;IND;PST;PFV = dagvk'et'e
+კეტავს	დაგვკეტა	V;3;SG;1;PL;IND;PST;PFV = dagvk'et'a
+კეტავს	დაგვკეტეთ	V;2;PL;1;PL;IND;PST;PFV = dagvk'et'et
+კეტავს	დაგვკეტეს	V;3;PL;1;PL;IND;PST;PFV = dagvk'et'es
+კეტავს	დაგკეტეთ	V;1;SG;2;PL;IND;PST;PFV = dagk'et'et
+კეტავს	დაგკეტათ	V;3;SG;2;PL;IND;PST;PFV = dagk'et'at
+კეტავს	დაგკეტეთ	V;1;PL;2;PL;IND;PST;PFV = dagk'et'et
+კეტავს	დაგკეტეს	V;3;PL;2;PL;IND;PST;PFV = dagk'et'es
+კეტავს	დავკეტე	V;1;SG;3;PL;IND;PST;PFV = davk'et'e
+კეტავს	დაკეტე	V;2;SG;3;PL;IND;PST;PFV = dak'et'e
+კეტავს	დაკეტა	V;3;SG;3;PL;IND;PST;PFV = dak'et'a
+კეტავს	დავკეტეთ	V;1;PL;3;PL;IND;PST;PFV = davk'et'et
+კეტავს	დაკეტეთ	V;2;PL;3;PL;IND;PST;PFV = dak'et'et
+კეტავს	დაკეტეს	V;3;PL;3;PL;IND;PST;PFV = dak'et'es
+
+კეტავს	დამკეტე	V;2;SG;1;SG;IMP = damk'et'e
+კეტავს	დამკეტეთ	V;2;PL;1;SG;IMP = damk'et'et
+კეტავს	დაკეტე	V;2;SG;3;SG;IMP = dak'et'e
+კეტავს	დაკეტეთ	V;2;PL;3;SG;IMP = dak'et'et
+კეტავს	დაგვკეტე	V;2;SG;1;PL;IMP = dagvk'et'e
+კეტავს	დაგვკეტეთ	V;2;PL;1;PL;IMP = dagvk'et'et
+კეტავს	დაკეტე	V;2;SG;3;PL;IMP = dak'et'e
+კეტავს	დაკეტეთ	V;2;PL;3;PL;IMP = dak'et'et
+
+
+
+Screeve #8:
+კეტავს	დამკეტო	V;2;SG;1;SG;OPT = damk'et'o
+კეტავს	დამკეტოს	V;3;SG;1;SG;OPT = damk'et'os
+კეტავს	დამკეტოთ	V;2;PL;1;SG;OPT = damk'et'ot
+კეტავს	დამკეტონ	V;3;PL;1;SG;OPT = damk'et'on
+კეტავს	დაგკეტო	V;1;SG;2;SG;OPT = dagk'et'o
+კეტავს	დაგკეტოს	V;3;SG;2;SG;OPT = dagk'et'os
+კეტავს	დაგკეტოთ	V;1;PL;2;SG;OPT = dagk'et'ot
+კეტავს	დაგკეტონ	V;3;PL;2;SG;OPT = dagk'et'on
+კეტავს	დავკეტო	V;1;SG;3;SG;OPT = davk'et'o
+კეტავს	დაკეტო	V;2;SG;3;SG;OPT = dak'et'o
+კეტავს	დაკეტოს	V;3;SG;3;SG;OPT = dak'et'os
+კეტავს	დავკეტოთ	V;1;PL;3;SG;OPT = davk'et'ot
+კეტავს	დაკეტოთ	V;2;PL;3;SG;OPT = dak'et'ot
+კეტავს	დაკეტონ	V;3;PL;3;SG;OPT = dak'et'on
+კეტავს	დაგვკეტო	V;2;SG;1;PL;OPT = dagvk'et'o
+კეტავს	დაგვკეტოს	V;3;SG;1;PL;OPT = dagvk'et'os
+კეტავს	დაგვკეტოთ	V;2;PL;1;PL;OPT = dagvk'et'ot
+კეტავს	დაგვკეტონ	V;3;PL;1;PL;OPT = dagvk'et'on
+კეტავს	დაგკეტოთ	V;1;SG;2;PL;OPT = dagk'et'ot
+კეტავს	დაგკეტოთ	V;3;SG;2;PL;OPT = dagk'et'ot
+კეტავს	დაგკეტოთ	V;1;PL;2;PL;OPT = dagk'et'ot
+კეტავს	დაგკეტოთ	V;3;PL;2;PL;OPT = dagk'et'ot
+კეტავს	დავკეტო	V;1;SG;3;PL;OPT = davk'et'o
+კეტავს	დაკეტო	V;2;SG;3;PL;OPT = dak'et'o
+კეტავს	დაკეტოს	V;3;SG;3;PL;OPT = dak'et'os
+კეტავს	დავკეტოთ	V;1;PL;3;PL;OPT = davk'et'ot
+კეტავს	დაკეტოთ	V;2;PL;3;PL;OPT = dak'et'ot
+კეტავს	დაკეტონ	V;3;PL;3;PL;OPT = dak'et'on
+
+კეტავს	დამკეტონ	V;3;PL;1;SG;IMP = damk'et'on
+კეტავს	დამკეტოს	V;3;SG;1;SG;IMP = damk'et'os
+კეტავს	დაგკეტონ	V;3;PL;2;SG;IMP = dagk'et'on
+კეტავს	დაგკეტოს	V;3;SG;2;SG;IMP = dagk'et'os
+კეტავს	დაგკეტოთ	V;1;PL;2;SG;IMP = dagk'et'ot
+კეტავს	დაკეტონ	V;3;PL;3;SG;IMP = dak'et'on
+კეტავს	დაკეტოს	V;3;SG;3;SG;IMP = dak'et'os
+კეტავს	დავკეტოთ	V;1;PL;3;SG;IMP = davk'et'ot
+კეტავს	დაგვკეტონ	V;3;PL;1;PL;IMP = dagvk'et'on
+კეტავს	დაგვკეტოს	V;3;SG;1;PL;IMP = dagvk'et'os
+კეტავს	დაგკეტოთ	V;3;PL;2;PL;IMP = dagk'et'ot
+კეტავს	დაგკეტოთ	V;3;SG;2;PL;IMP = dagk'et'ot
+კეტავს	დაგკეტოთ	V;1;PL;2;PL;IMP = dagk'et'ot
+კეტავს	დაკეტონ	V;3;PL;3;PL;IMP = dak'et'on
+კეტავს	დაკეტოს	V;3;SG;3;PL;IMP = dak'et'os
+კეტავს	დავკეტოთ	V;1;PL;3;PL;IMP = davk'et'ot
+
+
+
+Screeve #9:
+კეტავს	დაგიკეტივარ	V;2;SG;1;SG;IND;PRF = dagik'et'ivar
+კეტავს	დავუკეტივარ	V;3;SG;1;SG;IND;PRF = davuk'et'ivar
+კეტავს	დაგიკეტივართ	V;2;PL;1;SG;IND;PRF = dagik'et'ivart
+კეტავს	დავუკეტივართ	V;3;PL;1;SG;IND;PRF = davuk'et'ivart
+კეტავს	დამიკეტიხარ	V;1;SG;2;SG;IND;PRF = damik'et'ixar
+კეტავს	დაუკეტიხარ	V;3;SG;2;SG;IND;PRF = dauk'et'ixar
+კეტავს	დაგვიკეტიხარ	V;1;PL;2;SG;IND;PRF = dagvik'et'ixar
+კეტავს	დაუკეტიხართ	V;3;PL;2;SG;IND;PRF = dauk'et'ixart
+კეტავს	დამიკეტია	V;1;SG;3;SG;IND;PRF = damik'et'ia
+კეტავს	დაგიკეტია	V;2;SG;3;SG;IND;PRF = dagik'et'ia
+კეტავს	დაუკეტია	V;3;SG;3;SG;IND;PRF = dauk'et'ia
+კეტავს	დაგვიკეტია	V;1;PL;3;SG;IND;PRF = dagvik'et'ia
+კეტავს	დაგიკეტიათ	V;2;PL;3;SG;IND;PRF = dagik'et'iat
+კეტავს	დაუკეტიათ	V;3;PL;3;SG;IND;PRF = dauk'et'iat
+კეტავს	დაგიკეტივართ	V;2;SG;1;PL;IND;PRF = dagik'et'ivart
+კეტავს	დავუკეტივართ	V;3;SG;1;PL;IND;PRF = davuk'et'ivart
+კეტავს	დაგიკეტივართ	V;2;PL;1;PL;IND;PRF = dagik'et'ivart
+კეტავს	დავუკეტივართ	V;3;PL;1;PL;IND;PRF = davuk'et'ivart
+კეტავს	დამიკეტიხართ	V;1;SG;2;PL;IND;PRF = damik'et'ixart
+კეტავს	დაუკეტიხართ	V;3;SG;2;PL;IND;PRF = dauk'et'ixart
+კეტავს	დაგვიკეტიხართ	V;1;PL;2;PL;IND;PRF = dagvik'et'ixart
+კეტავს	დაუკეტიხართ	V;3;PL;2;PL;IND;PRF = dauk'et'ixart
+კეტავს	დამიკეტია	V;1;SG;3;PL;IND;PRF = damik'et'ia
+კეტავს	დაგიკეტია	V;2;SG;3;PL;IND;PRF = dagik'et'ia
+კეტავს	დაუკეტია	V;3;SG;3;PL;IND;PRF = dauk'et'ia
+კეტავს	დაგვიკეტია	V;1;PL;3;PL;IND;PRF = dagvik'et'ia
+კეტავს	დაგიკეტიათ	V;2;PL;3;PL;IND;PRF = dagik'et'iat
+კეტავს	დაუკეტიათ	V;3;PL;3;PL;IND;PRF = dauk'et'iat
+
+
+Screeve #10:
+კეტავს	დაგეკეტე	V;2;SG;1;SG;IND;PST;PRF = dagek'et'e
+კეტავს	დავეკეტე	V;3;SG;1;SG;IND;PST;PRF = davek'et'e
+კეტავს	დაგეკეტეთ	V;2;PL;1;SG;IND;PST;PRF = dagek'et'et
+კეტავს	დავეკეტეთ	V;3;PL;1;SG;IND;PST;PRF = davek'et'et
+კეტავს	დამეკეტე	V;1;SG;2;SG;IND;PST;PRF = damek'et'e
+კეტავს	დაეკეტე	V;3;SG;2;SG;IND;PST;PRF = daek'et'e
+კეტავს	დაგვეკეტე	V;1;PL;2;SG;IND;PST;PRF = dagvek'et'e
+კეტავს	დაეკეტეთ	V;3;PL;2;SG;IND;PST;PRF = daek'et'et
+კეტავს	დამეკეტა	V;1;SG;3;SG;IND;PST;PRF = damek'et'a
+კეტავს	დაგეკეტა	V;2;SG;3;SG;IND;PST;PRF = dagek'et'a
+კეტავს	დაეკეტა	V;3;SG;3;SG;IND;PST;PRF = daek'et'a
+კეტავს	დაგვეკეტა	V;1;PL;3;SG;IND;PST;PRF = dagvek'et'a
+კეტავს	დაგეკეტათ	V;2;PL;3;SG;IND;PST;PRF = dagek'et'at
+კეტავს	დაეკეტათ	V;3;PL;3;SG;IND;PST;PRF = daek'et'at
+კეტავს	დაგეკეტეთ	V;2;SG;1;PL;IND;PST;PRF = dagek'et'et
+კეტავს	დავეკეტეთ	V;3;SG;1;PL;IND;PST;PRF = davek'et'et
+კეტავს	დაგეკეტეთ	V;2;PL;1;PL;IND;PST;PRF = dagek'et'et
+კეტავს	დავეკეტეთ	V;3;PL;1;PL;IND;PST;PRF = davek'et'et
+კეტავს	დამეკეტეთ	V;1;SG;2;PL;IND;PST;PRF = damek'et'et
+კეტავს	დაეკეტეთ	V;3;SG;2;PL;IND;PST;PRF = daek'et'et
+კეტავს	დაგვეკეტეთ	V;1;PL;2;PL;IND;PST;PRF = dagvek'et'et
+კეტავს	დაეკეტეთ	V;3;PL;2;PL;IND;PST;PRF = daek'et'et
+კეტავს	დამეკეტა	V;1;SG;3;PL;IND;PST;PRF = damek'et'a
+კეტავს	დაგეკეტა	V;2;SG;3;PL;IND;PST;PRF = dagek'et'a
+კეტავს	დაეკეტა	V;3;SG;3;PL;IND;PST;PRF = daek'et'a
+კეტავს	დაგვეკეტა	V;1;PL;3;PL;IND;PST;PRF = dagvek'et'a
+კეტავს	დაგეკეტათ	V;2;PL;3;PL;IND;PST;PRF = dagek'et'at
+კეტავს	დაეკეტათ	V;3;PL;3;PL;IND;PST;PRF = daek'et'at
+
+
+Screeve #11:
+კეტავს	დაგეკეტო	V;2;SG;1;SG;SBJV;PRF = dagek'et'o
+კეტავს	დავეკეტო	V;3;SG;1;SG;SBJV;PRF = davek'et'o
+კეტავს	დაგეკეტოთ	V;2;PL;1;SG;SBJV;PRF = dagek'et'ot
+კეტავს	დავეკეტოთ	V;3;PL;1;SG;SBJV;PRF = davek'et'ot
+კეტავს	დამეკეტო	V;1;SG;2;SG;SBJV;PRF = damek'et'o
+კეტავს	დაეკეტო	V;3;SG;2;SG;SBJV;PRF = daek'et'o
+კეტავს	დაგვეკეტო	V;1;PL;2;SG;SBJV;PRF = dagvek'et'o
+კეტავს	დაეკეტოთ	V;3;PL;2;SG;SBJV;PRF = daek'et'ot
+კეტავს	დამეკეტოს	V;1;SG;3;SG;SBJV;PRF = damek'et'os
+კეტავს	დაგეკეტოს	V;2;SG;3;SG;SBJV;PRF = dagek'et'os
+კეტავს	დაეკეტოს	V;3;SG;3;SG;SBJV;PRF = daek'et'os
+კეტავს	დაგვეკეტოს	V;1;PL;3;SG;SBJV;PRF = dagvek'et'os
+კეტავს	დაგეკეტოთ	V;2;PL;3;SG;SBJV;PRF = dagek'et'ot
+კეტავს	დაეკეტოთ	V;3;PL;3;SG;SBJV;PRF = daek'et'ot
+კეტავს	დაგეკეტოთ	V;2;SG;1;PL;SBJV;PRF = dagek'et'ot
+კეტავს	დავეკეტოთ	V;3;SG;1;PL;SBJV;PRF = davek'et'ot
+კეტავს	დაგეკეტოთ	V;2;PL;1;PL;SBJV;PRF = dagek'et'ot
+კეტავს	დავეკეტოთ	V;3;PL;1;PL;SBJV;PRF = davek'et'ot
+კეტავს	დამეკეტოთ	V;1;SG;2;PL;SBJV;PRF = damek'et'ot
+კეტავს	დაეკეტოთ	V;3;SG;2;PL;SBJV;PRF = daek'et'ot
+კეტავს	დაგვეკეტოთ	V;1;PL;2;PL;SBJV;PRF = dagvek'et'ot
+კეტავს	დაეკეტოთ	V;3;PL;2;PL;SBJV;PRF = daek'et'ot
+კეტავს	დამეკეტოს	V;1;SG;3;PL;SBJV;PRF = damek'et'os
+კეტავს	დაგეკეტოს	V;2;SG;3;PL;SBJV;PRF = dagek'et'os
+კეტავს	დაეკეტოს	V;3;SG;3;PL;SBJV;PRF = daek'et'os
+კეტავს	დაგვეკეტოს	V;1;PL;3;PL;SBJV;PRF = dagvek'et'os
+კეტავს	დაგეკეტოთ	V;2;PL;3;PL;SBJV;PRF = dagek'et'ot
+კეტავს	დაეკეტოთ	V;3;PL;3;PL;SBJV;PRF = daek'et'ot
+
+
+კეტავს	დაკეტვა	V;V.MSDR;PRF

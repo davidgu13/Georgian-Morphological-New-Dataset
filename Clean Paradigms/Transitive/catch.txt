@@ -1,0 +1,371 @@
+#10 - იჭერს - catch:
+Screeve #1:
+იჭერს	მიჭერ	V;2;SG;1;SG;IND;PRS = mič'er
+იჭერს	მიჭერს	V;3;SG;1;SG;IND;PRS = mič'ers
+იჭერს	მიჭერთ	V;2;PL;1;SG;IND;PRS = mič'ert
+იჭერს	მიჭერენ	V;3;PL;1;SG;IND;PRS = mič'eren
+იჭერს	გიჭერ	V;1;SG;2;SG;IND;PRS = gič'er
+იჭერს	გიჭერს	V;3;SG;2;SG;IND;PRS = gič'ers
+იჭერს	გიჭერთ	V;1;PL;2;SG;IND;PRS = gič'ert
+იჭერს	გიჭერენ	V;3;PL;2;SG;IND;PRS = gič'eren
+იჭერს	ვიჭერ	V;1;SG;3;SG;IND;PRS = vič'er
+იჭერს	იჭერ	V;2;SG;3;SG;IND;PRS = ič'er
+იჭერს	იჭერს	V;3;SG;3;SG;IND;PRS = ič'ers
+იჭერს	ვიჭერთ	V;1;PL;3;SG;IND;PRS = vič'ert
+იჭერს	იჭერთ	V;2;PL;3;SG;IND;PRS = ič'ert
+იჭერს	იჭერენ	V;3;PL;3;SG;IND;PRS = ič'eren
+იჭერს	გვიჭერ	V;2;SG;1;PL;IND;PRS = gvič'er
+იჭერს	გვიჭერს	V;3;SG;1;PL;IND;PRS = gvič'ers
+იჭერს	გვიჭერთ	V;2;PL;1;PL;IND;PRS = gvič'ert
+იჭერს	გვიჭერენ	V;3;PL;1;PL;IND;PRS = gvič'eren
+იჭერს	გიჭერთ	V;1;SG;2;PL;IND;PRS = gič'ert
+იჭერს	გიჭერთ	V;3;SG;2;PL;IND;PRS = gič'ert
+იჭერს	გიჭერთ	V;1;PL;2;PL;IND;PRS = gič'ert
+იჭერს	გიჭერენ	V;3;PL;2;PL;IND;PRS = gič'eren
+იჭერს	ვიჭერ	V;1;SG;3;PL;IND;PRS = vič'er
+იჭერს	იჭერ	V;2;SG;3;PL;IND;PRS = ič'er
+იჭერს	იჭერს	V;3;SG;3;PL;IND;PRS = ič'ers
+იჭერს	ვიჭერთ	V;1;PL;3;PL;IND;PRS = vič'ert
+იჭერს	იჭერთ	V;2;PL;3;PL;IND;PRS = ič'ert
+იჭერს	იჭერენ	V;3;PL;3;PL;IND;PRS = ič'eren
+
+
+Screeve #2:
+იჭერს	მიჭერდი	V;2;SG;1;SG;IND;IPFV = mič'erdi
+იჭერს	მიჭერდა	V;3;SG;1;SG;IND;IPFV = mič'erda
+იჭერს	მიჭერდით	V;2;PL;1;SG;IND;IPFV = mič'erdit
+იჭერს	მიჭერდნენ	V;3;PL;1;SG;IND;IPFV = mič'erdnen
+იჭერს	გიჭერდი	V;1;SG;2;SG;IND;IPFV = gič'erdi
+იჭერს	გიჭერდა	V;3;SG;2;SG;IND;IPFV = gič'erda
+იჭერს	გიჭერდით	V;1;PL;2;SG;IND;IPFV = gič'erdit
+იჭერს	გიჭერდნენ	V;3;PL;2;SG;IND;IPFV = gič'erdnen
+იჭერს	ვიჭერდი	V;1;SG;3;SG;IND;IPFV = vič'erdi
+იჭერს	იჭერდი	V;2;SG;3;SG;IND;IPFV = ič'erdi
+იჭერს	იჭერდა	V;3;SG;3;SG;IND;IPFV = ič'erda
+იჭერს	ვიჭერდით	V;1;PL;3;SG;IND;IPFV = vič'erdit
+იჭერს	იჭერდით	V;2;PL;3;SG;IND;IPFV = ič'erdit
+იჭერს	იჭერდნენ	V;3;PL;3;SG;IND;IPFV = ič'erdnen
+იჭერს	გვიჭერდი	V;2;SG;1;PL;IND;IPFV = gvič'erdi
+იჭერს	გვიჭერდა	V;3;SG;1;PL;IND;IPFV = gvič'erda
+იჭერს	გვიჭერდით	V;2;PL;1;PL;IND;IPFV = gvič'erdit
+იჭერს	გვიჭერდნენ	V;3;PL;1;PL;IND;IPFV = gvič'erdnen
+იჭერს	გიჭერდით	V;1;SG;2;PL;IND;IPFV = gič'erdit
+იჭერს	გიჭერდათ	V;3;SG;2;PL;IND;IPFV = gič'erdat
+იჭერს	გიჭერდით	V;1;PL;2;PL;IND;IPFV = gič'erdit
+იჭერს	გიჭერდნენ	V;3;PL;2;PL;IND;IPFV = gič'erdnen
+იჭერს	ვიჭერდი	V;1;SG;3;PL;IND;IPFV = vič'erdi
+იჭერს	იჭერდი	V;2;SG;3;PL;IND;IPFV = ič'erdi
+იჭერს	იჭერდა	V;3;SG;3;PL;IND;IPFV = ič'erda
+იჭერს	ვიჭერდით	V;1;PL;3;PL;IND;IPFV = vič'erdit
+იჭერს	იჭერდით	V;2;PL;3;PL;IND;IPFV = ič'erdit
+იჭერს	იჭერდნენ	V;3;PL;3;PL;IND;IPFV = ič'erdnen
+
+
+Screeve #3:
+იჭერს	მიჭერდე	V;2;SG;1;SG;SBJV;PRS = mič'erde
+იჭერს	მიჭერდეს	V;3;SG;1;SG;SBJV;PRS = mič'erdes
+იჭერს	მიჭერდეთ	V;2;PL;1;SG;SBJV;PRS = mič'erdet
+იჭერს	მიჭერდნენ	V;3;PL;1;SG;SBJV;PRS = mič'erdnen
+იჭერს	გიჭერდე	V;1;SG;2;SG;SBJV;PRS = gič'erde
+იჭერს	გიჭერდეს	V;3;SG;2;SG;SBJV;PRS = gič'erdes
+იჭერს	გიჭერდეთ	V;1;PL;2;SG;SBJV;PRS = gič'erdet
+იჭერს	გიჭერდნენ	V;3;PL;2;SG;SBJV;PRS = gič'erdnen
+იჭერს	ვიჭერდე	V;1;SG;3;SG;SBJV;PRS = vič'erde
+იჭერს	იჭერდე	V;2;SG;3;SG;SBJV;PRS = ič'erde
+იჭერს	იჭერდეს	V;3;SG;3;SG;SBJV;PRS = ič'erdes
+იჭერს	ვიჭერდეთ	V;1;PL;3;SG;SBJV;PRS = vič'erdet
+იჭერს	იჭერდეთ	V;2;PL;3;SG;SBJV;PRS = ič'erdet
+იჭერს	იჭერდნენ	V;3;PL;3;SG;SBJV;PRS = ič'erdnen
+იჭერს	გვიჭერდე	V;2;SG;1;PL;SBJV;PRS = gvič'erde
+იჭერს	გვიჭერდეს	V;3;SG;1;PL;SBJV;PRS = gvič'erdes
+იჭერს	გვიჭერდეთ	V;2;PL;1;PL;SBJV;PRS = gvič'erdet
+იჭერს	გვიჭერდნენ	V;3;PL;1;PL;SBJV;PRS = gvič'erdnen
+იჭერს	გიჭერდეთ	V;1;SG;2;PL;SBJV;PRS = gič'erdet
+იჭერს	გიჭერდეთ	V;3;SG;2;PL;SBJV;PRS = gič'erdet
+იჭერს	გიჭერდეთ	V;1;PL;2;PL;SBJV;PRS = gič'erdet
+იჭერს	გიჭერდნენ	V;3;PL;2;PL;SBJV;PRS = gič'erdnen
+იჭერს	ვიჭერდე	V;1;SG;3;PL;SBJV;PRS = vič'erde
+იჭერს	იჭერდე	V;2;SG;3;PL;SBJV;PRS = ič'erde
+იჭერს	იჭერდეს	V;3;SG;3;PL;SBJV;PRS = ič'erdes
+იჭერს	ვიჭერდეთ	V;1;PL;3;PL;SBJV;PRS = vič'erdet
+იჭერს	იჭერდეთ	V;2;PL;3;PL;SBJV;PRS = ič'erdet
+იჭერს	იჭერდნენ	V;3;PL;3;PL;SBJV;PRS = ič'erdnen
+
+
+Screeve #4:
+იჭერს	დამიჭერ	V;2;SG;1;SG;IND;FUT = damič'er
+იჭერს	დამიჭერს	V;3;SG;1;SG;IND;FUT = damič'ers
+იჭერს	დამიჭერთ	V;2;PL;1;SG;IND;FUT = damič'ert
+იჭერს	დამიჭერენ	V;3;PL;1;SG;IND;FUT = damič'eren
+იჭერს	დაგიჭერ	V;1;SG;2;SG;IND;FUT = dagič'er
+იჭერს	დაგიჭერს	V;3;SG;2;SG;IND;FUT = dagič'ers
+იჭერს	დაგიჭერთ	V;1;PL;2;SG;IND;FUT = dagič'ert
+იჭერს	დაგიჭერენ	V;3;PL;2;SG;IND;FUT = dagič'eren
+იჭერს	დავიჭერ	V;1;SG;3;SG;IND;FUT = davič'er
+იჭერს	დაიჭერ	V;2;SG;3;SG;IND;FUT = daič'er
+იჭერს	დაიჭერს	V;3;SG;3;SG;IND;FUT = daič'ers
+იჭერს	დავიჭერთ	V;1;PL;3;SG;IND;FUT = davič'ert
+იჭერს	დაიჭერთ	V;2;PL;3;SG;IND;FUT = daič'ert
+იჭერს	დაიჭერენ	V;3;PL;3;SG;IND;FUT = daič'eren
+იჭერს	დაგვიჭერ	V;2;SG;1;PL;IND;FUT = dagvič'er
+იჭერს	დაგვიჭერს	V;3;SG;1;PL;IND;FUT = dagvič'ers
+იჭერს	დაგვიჭერთ	V;2;PL;1;PL;IND;FUT = dagvič'ert
+იჭერს	დაგვიჭერენ	V;3;PL;1;PL;IND;FUT = dagvič'eren
+იჭერს	დაგიჭერთ	V;1;SG;2;PL;IND;FUT = dagič'ert
+იჭერს	დაგიჭერთ	V;3;SG;2;PL;IND;FUT = dagič'ert
+იჭერს	დაგიჭერთ	V;1;PL;2;PL;IND;FUT = dagič'ert
+იჭერს	დაგიჭერენ	V;3;PL;2;PL;IND;FUT = dagič'eren
+იჭერს	დავიჭერ	V;1;SG;3;PL;IND;FUT = davič'er
+იჭერს	დაიჭერ	V;2;SG;3;PL;IND;FUT = daič'er
+იჭერს	დაიჭერს	V;3;SG;3;PL;IND;FUT = daič'ers
+იჭერს	დავიჭერთ	V;1;PL;3;PL;IND;FUT = davič'ert
+იჭერს	დაიჭერთ	V;2;PL;3;PL;IND;FUT = daič'ert
+იჭერს	დაიჭერენ	V;3;PL;3;PL;IND;FUT = daič'eren
+
+
+Screeve #5:
+იჭერს	დამიჭერდი	V;2;SG;1;SG;COND = damič'erdi
+იჭერს	დამიჭერდა	V;3;SG;1;SG;COND = damič'erda
+იჭერს	დამიჭერდით	V;2;PL;1;SG;COND = damič'erdit
+იჭერს	დამიჭერდნენ	V;3;PL;1;SG;COND = damič'erdnen
+იჭერს	დაგიჭერდი	V;1;SG;2;SG;COND = dagič'erdi
+იჭერს	დაგიჭერდა	V;3;SG;2;SG;COND = dagič'erda
+იჭერს	დაგიჭერდით	V;1;PL;2;SG;COND = dagič'erdit
+იჭერს	დაგიჭერდნენ	V;3;PL;2;SG;COND = dagič'erdnen
+იჭერს	დავიჭერდი	V;1;SG;3;SG;COND = davič'erdi
+იჭერს	დაიჭერდი	V;2;SG;3;SG;COND = daič'erdi
+იჭერს	დაიჭერდა	V;3;SG;3;SG;COND = daič'erda
+იჭერს	დავიჭერდით	V;1;PL;3;SG;COND = davič'erdit
+იჭერს	დაიჭერდით	V;2;PL;3;SG;COND = daič'erdit
+იჭერს	დაიჭერდნენ	V;3;PL;3;SG;COND = daič'erdnen
+იჭერს	დაგვიჭერდი	V;2;SG;1;PL;COND = dagvič'erdi
+იჭერს	დაგვიჭერდა	V;3;SG;1;PL;COND = dagvič'erda
+იჭერს	დაგვიჭერდით	V;2;PL;1;PL;COND = dagvič'erdit
+იჭერს	დაგვიჭერდნენ	V;3;PL;1;PL;COND = dagvič'erdnen
+იჭერს	დაგიჭერდით	V;1;SG;2;PL;COND = dagič'erdit
+იჭერს	დაგიჭერდათ	V;3;SG;2;PL;COND = dagič'erdat
+იჭერს	დაგიჭერდით	V;1;PL;2;PL;COND = dagič'erdit
+იჭერს	დაგიჭერდნენ	V;3;PL;2;PL;COND = dagič'erdnen
+იჭერს	დავიჭერდი	V;1;SG;3;PL;COND = davič'erdi
+იჭერს	დაიჭერდი	V;2;SG;3;PL;COND = daič'erdi
+იჭერს	დაიჭერდა	V;3;SG;3;PL;COND = daič'erda
+იჭერს	დავიჭერდით	V;1;PL;3;PL;COND = davič'erdit
+იჭერს	დაიჭერდით	V;2;PL;3;PL;COND = daič'erdit
+იჭერს	დაიჭერდნენ	V;3;PL;3;PL;COND = daič'erdnen
+
+
+Screeve #6:
+იჭერს	დამიჭერდე	V;2;SG;1;SG;SBJV;FUT = damič'erde
+იჭერს	დამიჭერდეს	V;3;SG;1;SG;SBJV;FUT = damič'erdes
+იჭერს	დამიჭერდეთ	V;2;PL;1;SG;SBJV;FUT = damič'erdet
+იჭერს	დამიჭერდნენ	V;3;PL;1;SG;SBJV;FUT = damič'erdnen
+იჭერს	დაგიჭერდე	V;1;SG;2;SG;SBJV;FUT = dagič'erde
+იჭერს	დაგიჭერდეს	V;3;SG;2;SG;SBJV;FUT = dagič'erdes
+იჭერს	დაგიჭერდეთ	V;1;PL;2;SG;SBJV;FUT = dagič'erdet
+იჭერს	დაგიჭერდნენ	V;3;PL;2;SG;SBJV;FUT = dagič'erdnen
+იჭერს	დავიჭერდე	V;1;SG;3;SG;SBJV;FUT = davič'erde
+იჭერს	დაიჭერდე	V;2;SG;3;SG;SBJV;FUT = daič'erde
+იჭერს	დაიჭერდეს	V;3;SG;3;SG;SBJV;FUT = daič'erdes
+იჭერს	დავიჭერდეთ	V;1;PL;3;SG;SBJV;FUT = davič'erdet
+იჭერს	დაიჭერდეთ	V;2;PL;3;SG;SBJV;FUT = daič'erdet
+იჭერს	დაიჭერდნენ	V;3;PL;3;SG;SBJV;FUT = daič'erdnen
+იჭერს	დაგვიჭერდე	V;2;SG;1;PL;SBJV;FUT = dagvič'erde
+იჭერს	დაგვიჭერდეს	V;3;SG;1;PL;SBJV;FUT = dagvič'erdes
+იჭერს	დაგვიჭერდეთ	V;2;PL;1;PL;SBJV;FUT = dagvič'erdet
+იჭერს	დაგვიჭერდნენ	V;3;PL;1;PL;SBJV;FUT = dagvič'erdnen
+იჭერს	დაგიჭერდეთ	V;1;SG;2;PL;SBJV;FUT = dagič'erdet
+იჭერს	დაგიჭერდეთ	V;3;SG;2;PL;SBJV;FUT = dagič'erdet
+იჭერს	დაგიჭერდეთ	V;1;PL;2;PL;SBJV;FUT = dagič'erdet
+იჭერს	დაგიჭერდნენ	V;3;PL;2;PL;SBJV;FUT = dagič'erdnen
+იჭერს	დავიჭერდე	V;1;SG;3;PL;SBJV;FUT = davič'erde
+იჭერს	დაიჭერდე	V;2;SG;3;PL;SBJV;FUT = daič'erde
+იჭერს	დაიჭერდეს	V;3;SG;3;PL;SBJV;FUT = daič'erdes
+იჭერს	დავიჭერდეთ	V;1;PL;3;PL;SBJV;FUT = davič'erdet
+იჭერს	დაიჭერდეთ	V;2;PL;3;PL;SBJV;FUT = daič'erdet
+იჭერს	დაიჭერდნენ	V;3;PL;3;PL;SBJV;FUT = daič'erdnen
+
+
+Screeve #7:
+იჭერს	დამიჭირე	V;2;SG;1;SG;IND;PST;PFV = damič'ire
+იჭერს	დამიჭირა	V;3;SG;1;SG;IND;PST;PFV = damič'ira
+იჭერს	დამიჭირეთ	V;2;PL;1;SG;IND;PST;PFV = damič'iret
+იჭერს	დამიჭირეს	V;3;PL;1;SG;IND;PST;PFV = damič'ires
+იჭერს	დაგიჭირე	V;1;SG;2;SG;IND;PST;PFV = dagič'ire
+იჭერს	დაგიჭირა	V;3;SG;2;SG;IND;PST;PFV = dagič'ira
+იჭერს	დაგიჭირეთ	V;1;PL;2;SG;IND;PST;PFV = dagič'iret
+იჭერს	დაგიჭირეს	V;3;PL;2;SG;IND;PST;PFV = dagič'ires
+იჭერს	დავიჭირე	V;1;SG;3;SG;IND;PST;PFV = davič'ire
+იჭერს	დაიჭირე	V;2;SG;3;SG;IND;PST;PFV = daič'ire
+იჭერს	დაიჭირა	V;3;SG;3;SG;IND;PST;PFV = daič'ira
+იჭერს	დავიჭირეთ	V;1;PL;3;SG;IND;PST;PFV = davič'iret
+იჭერს	დაიჭირეთ	V;2;PL;3;SG;IND;PST;PFV = daič'iret
+იჭერს	დაიჭირეს	V;3;PL;3;SG;IND;PST;PFV = daič'ires
+იჭერს	დაგვიჭირე	V;2;SG;1;PL;IND;PST;PFV = dagvič'ire
+იჭერს	დაგვიჭირა	V;3;SG;1;PL;IND;PST;PFV = dagvič'ira
+იჭერს	დაგვიჭირეთ	V;2;PL;1;PL;IND;PST;PFV = dagvič'iret
+იჭერს	დაგვიჭირეს	V;3;PL;1;PL;IND;PST;PFV = dagvič'ires
+იჭერს	დაგიჭირეთ	V;1;SG;2;PL;IND;PST;PFV = dagič'iret
+იჭერს	დაგიჭირათ	V;3;SG;2;PL;IND;PST;PFV = dagič'irat
+იჭერს	დაგიჭირეთ	V;1;PL;2;PL;IND;PST;PFV = dagič'iret
+იჭერს	დაგიჭირეს	V;3;PL;2;PL;IND;PST;PFV = dagič'ires
+იჭერს	დავიჭირე	V;1;SG;3;PL;IND;PST;PFV = davič'ire
+იჭერს	დაიჭირე	V;2;SG;3;PL;IND;PST;PFV = daič'ire
+იჭერს	დაიჭირა	V;3;SG;3;PL;IND;PST;PFV = daič'ira
+იჭერს	დავიჭირეთ	V;1;PL;3;PL;IND;PST;PFV = davič'iret
+იჭერს	დაიჭირეთ	V;2;PL;3;PL;IND;PST;PFV = daič'iret
+იჭერს	დაიჭირეს	V;3;PL;3;PL;IND;PST;PFV = daič'ires
+
+იჭერს	დამიჭირეთ	V;2;PL;1;SG;IMP = damič'iret
+იჭერს	დამიჭირე	V;2;SG;1;SG;IMP = damič'ire
+იჭერს	დაიჭირეთ	V;2;PL;3;SG;IMP = daič'iret
+იჭერს	დაიჭირე	V;2;SG;3;SG;IMP = daič'ire
+იჭერს	დაგვიჭირეთ	V;2;PL;1;PL;IMP = dagvič'iret
+იჭერს	დაგვიჭირე	V;2;SG;1;PL;IMP = dagvič'ire
+იჭერს	დაიჭირეთ	V;2;PL;3;PL;IMP = daič'iret
+იჭერს	დაიჭირე	V;2;SG;3;PL;IMP = daič'ire
+
+
+
+Screeve #8:
+იჭერს	დამიჭირო	V;2;SG;1;SG;OPT = damič'iro
+იჭერს	დამიჭიროს	V;3;SG;1;SG;OPT = damič'iros
+იჭერს	დამიჭიროთ	V;2;PL;1;SG;OPT = damič'irot
+იჭერს	დამიჭირონ	V;3;PL;1;SG;OPT = damič'iron
+იჭერს	დაგიჭირო	V;1;SG;2;SG;OPT = dagič'iro
+იჭერს	დაგიჭიროს	V;3;SG;2;SG;OPT = dagič'iros
+იჭერს	დაგიჭიროთ	V;1;PL;2;SG;OPT = dagič'irot
+იჭერს	დაგიჭირონ	V;3;PL;2;SG;OPT = dagič'iron
+იჭერს	დავიჭირო	V;1;SG;3;SG;OPT = davič'iro
+იჭერს	დაიჭირო	V;2;SG;3;SG;OPT = daič'iro
+იჭერს	დაიჭიროს	V;3;SG;3;SG;OPT = daič'iros
+იჭერს	დავიჭიროთ	V;1;PL;3;SG;OPT = davič'irot
+იჭერს	დაიჭიროთ	V;2;PL;3;SG;OPT = daič'irot
+იჭერს	დაიჭირონ	V;3;PL;3;SG;OPT = daič'iron
+იჭერს	დაგვიჭირო	V;2;SG;1;PL;OPT = dagvič'iro
+იჭერს	დაგვიჭიროს	V;3;SG;1;PL;OPT = dagvič'iros
+იჭერს	დაგვიჭიროთ	V;2;PL;1;PL;OPT = dagvič'irot
+იჭერს	დაგვიჭირონ	V;3;PL;1;PL;OPT = dagvič'iron
+იჭერს	დაგიჭიროთ	V;1;SG;2;PL;OPT = dagič'irot
+იჭერს	დაგიჭიროთ	V;3;SG;2;PL;OPT = dagič'irot
+იჭერს	დაგიჭიროთ	V;1;PL;2;PL;OPT = dagič'irot
+იჭერს	დაგიჭიროთ	V;3;PL;2;PL;OPT = dagič'irot
+იჭერს	დავიჭირო	V;1;SG;3;PL;OPT = davič'iro
+იჭერს	დაიჭირო	V;2;SG;3;PL;OPT = daič'iro
+იჭერს	დაიჭიროს	V;3;SG;3;PL;OPT = daič'iros
+იჭერს	დავიჭიროთ	V;1;PL;3;PL;OPT = davič'irot
+იჭერს	დაიჭიროთ	V;2;PL;3;PL;OPT = daič'irot
+იჭერს	დაიჭირონ	V;3;PL;3;PL;OPT = daič'iron
+
+იჭერს	დამიჭირონ	V;3;PL;1;SG;IMP = damič'iron
+იჭერს	დამიჭიროს	V;3;SG;1;SG;IMP = damič'iros
+იჭერს	დაგიჭირონ	V;3;PL;2;SG;IMP = dagič'iron
+იჭერს	დაგიჭიროთ	V;1;PL;2;SG;IMP = dagič'irot
+იჭერს	დაგიჭიროს	V;3;SG;2;SG;IMP = dagič'iros
+იჭერს	დაიჭირონ	V;3;PL;3;SG;IMP = daič'iron
+იჭერს	დავიჭიროთ	V;1;PL;3;SG;IMP = davič'irot
+იჭერს	დაიჭიროს	V;3;SG;3;SG;IMP = daič'iros
+იჭერს	დაგვიჭირონ	V;3;PL;1;PL;IMP = dagvič'iron
+იჭერს	დაგვიჭიროს	V;3;SG;1;PL;IMP = dagvič'iros
+იჭერს	დაგიჭიროთ	V;3;PL;2;PL;IMP = dagič'irot
+იჭერს	დაგიჭიროთ	V;1;PL;2;PL;IMP = dagič'irot
+იჭერს	დაგიჭიროთ	V;3;SG;2;PL;IMP = dagič'irot
+იჭერს	დაიჭირონ	V;3;PL;3;PL;IMP = daič'iron
+იჭერს	დავიჭიროთ	V;1;PL;3;PL;IMP = davič'irot
+იჭერს	დაიჭიროს	V;3;SG;3;PL;IMP = daič'iros
+
+
+
+Screeve #9:
+იჭერს	დაგიჭერივარ	V;2;SG;1;SG;IND;PRF = dagič'erivar
+იჭერს	დავუჭერივარ	V;3;SG;1;SG;IND;PRF = davuč'erivar
+იჭერს	დაგიჭერივართ	V;2;PL;1;SG;IND;PRF = dagič'erivart
+იჭერს	დავუჭერივართ	V;3;PL;1;SG;IND;PRF = davuč'erivart
+იჭერს	დამიჭერიხარ	V;1;SG;2;SG;IND;PRF = damič'erixar
+იჭერს	დაუჭერიხარ	V;3;SG;2;SG;IND;PRF = dauč'erixar
+იჭერს	დაგვიჭერიხარ	V;1;PL;2;SG;IND;PRF = dagvič'erixar
+იჭერს	დაუჭერიხართ	V;3;PL;2;SG;IND;PRF = dauč'erixart
+იჭერს	დამიჭერია	V;1;SG;3;SG;IND;PRF = damič'eria
+იჭერს	დაგიჭერია	V;2;SG;3;SG;IND;PRF = dagič'eria
+იჭერს	დაუჭერია	V;3;SG;3;SG;IND;PRF = dauč'eria
+იჭერს	დაგვიჭერია	V;1;PL;3;SG;IND;PRF = dagvič'eria
+იჭერს	დაგიჭერიათ	V;2;PL;3;SG;IND;PRF = dagič'eriat
+იჭერს	დაუჭერიათ	V;3;PL;3;SG;IND;PRF = dauč'eriat
+იჭერს	დაგიჭერივართ	V;2;SG;1;PL;IND;PRF = dagič'erivart
+იჭერს	დავუჭერივართ	V;3;SG;1;PL;IND;PRF = davuč'erivart
+იჭერს	დაგიჭერივართ	V;2;PL;1;PL;IND;PRF = dagič'erivart
+იჭერს	დავუჭერივართ	V;3;PL;1;PL;IND;PRF = davuč'erivart
+იჭერს	დამიჭერიხართ	V;1;SG;2;PL;IND;PRF = damič'erixart
+იჭერს	დაუჭერიხართ	V;3;SG;2;PL;IND;PRF = dauč'erixart
+იჭერს	დაგვიჭერიხართ	V;1;PL;2;PL;IND;PRF = dagvič'erixart
+იჭერს	დაუჭერიხართ	V;3;PL;2;PL;IND;PRF = dauč'erixart
+იჭერს	დამიჭერია	V;1;SG;3;PL;IND;PRF = damič'eria
+იჭერს	დაგიჭერია	V;2;SG;3;PL;IND;PRF = dagič'eria
+იჭერს	დაუჭერია	V;3;SG;3;PL;IND;PRF = dauč'eria
+იჭერს	დაგვიჭერია	V;1;PL;3;PL;IND;PRF = dagvič'eria
+იჭერს	დაგიჭერიათ	V;2;PL;3;PL;IND;PRF = dagič'eriat
+იჭერს	დაუჭერიათ	V;3;PL;3;PL;IND;PRF = dauč'eriat
+
+
+Screeve #10:
+იჭერს	დაგეჭირე	V;2;SG;1;SG;IND;PST;PRF = dageč'ire
+იჭერს	დავეჭირე	V;3;SG;1;SG;IND;PST;PRF = daveč'ire
+იჭერს	დაგეჭირეთ	V;2;PL;1;SG;IND;PST;PRF = dageč'iret
+იჭერს	დავეჭირეთ	V;3;PL;1;SG;IND;PST;PRF = daveč'iret
+იჭერს	დამეჭირე	V;1;SG;2;SG;IND;PST;PRF = dameč'ire
+იჭერს	დაეჭირე	V;3;SG;2;SG;IND;PST;PRF = daeč'ire
+იჭერს	დაგვეჭირე	V;1;PL;2;SG;IND;PST;PRF = dagveč'ire
+იჭერს	დაეჭირეთ	V;3;PL;2;SG;IND;PST;PRF = daeč'iret
+იჭერს	დამეჭირა	V;1;SG;3;SG;IND;PST;PRF = dameč'ira
+იჭერს	დაგეჭირა	V;2;SG;3;SG;IND;PST;PRF = dageč'ira
+იჭერს	დაეჭირა	V;3;SG;3;SG;IND;PST;PRF = daeč'ira
+იჭერს	დაგვეჭირა	V;1;PL;3;SG;IND;PST;PRF = dagveč'ira
+იჭერს	დაგეჭირათ	V;2;PL;3;SG;IND;PST;PRF = dageč'irat
+იჭერს	დაეჭირათ	V;3;PL;3;SG;IND;PST;PRF = daeč'irat
+იჭერს	დაგეჭირეთ	V;2;SG;1;PL;IND;PST;PRF = dageč'iret
+იჭერს	დავეჭირეთ	V;3;SG;1;PL;IND;PST;PRF = daveč'iret
+იჭერს	დაგეჭირეთ	V;2;PL;1;PL;IND;PST;PRF = dageč'iret
+იჭერს	დავეჭირეთ	V;3;PL;1;PL;IND;PST;PRF = daveč'iret
+იჭერს	დამეჭირეთ	V;1;SG;2;PL;IND;PST;PRF = dameč'iret
+იჭერს	დაეჭირეთ	V;3;SG;2;PL;IND;PST;PRF = daeč'iret
+იჭერს	დაგვეჭირეთ	V;1;PL;2;PL;IND;PST;PRF = dagveč'iret
+იჭერს	დაეჭირეთ	V;3;PL;2;PL;IND;PST;PRF = daeč'iret
+იჭერს	დამეჭირა	V;1;SG;3;PL;IND;PST;PRF = dameč'ira
+იჭერს	დაგეჭირა	V;2;SG;3;PL;IND;PST;PRF = dageč'ira
+იჭერს	დაეჭირა	V;3;SG;3;PL;IND;PST;PRF = daeč'ira
+იჭერს	დაგვეჭირა	V;1;PL;3;PL;IND;PST;PRF = dagveč'ira
+იჭერს	დაგეჭირათ	V;2;PL;3;PL;IND;PST;PRF = dageč'irat
+იჭერს	დაეჭირათ	V;3;PL;3;PL;IND;PST;PRF = daeč'irat
+
+
+Screeve #11:
+იჭერს	დაგეჭირო	V;2;SG;1;SG;SBJV;PRF = dageč'iro
+იჭერს	დავეჭირო	V;3;SG;1;SG;SBJV;PRF = daveč'iro
+იჭერს	დაგეჭიროთ	V;2;PL;1;SG;SBJV;PRF = dageč'irot
+იჭერს	დავეჭიროთ	V;3;PL;1;SG;SBJV;PRF = daveč'irot
+იჭერს	დამეჭირო	V;1;SG;2;SG;SBJV;PRF = dameč'iro
+იჭერს	დაეჭირო	V;3;SG;2;SG;SBJV;PRF = daeč'iro
+იჭერს	დაგვეჭირო	V;1;PL;2;SG;SBJV;PRF = dagveč'iro
+იჭერს	დაეჭიროთ	V;3;PL;2;SG;SBJV;PRF = daeč'irot
+იჭერს	დამეჭიროს	V;1;SG;3;SG;SBJV;PRF = dameč'iros
+იჭერს	დაგეჭიროს	V;2;SG;3;SG;SBJV;PRF = dageč'iros
+იჭერს	დაეჭიროს	V;3;SG;3;SG;SBJV;PRF = daeč'iros
+იჭერს	დაგვეჭიროს	V;1;PL;3;SG;SBJV;PRF = dagveč'iros
+იჭერს	დაგეჭიროთ	V;2;PL;3;SG;SBJV;PRF = dageč'irot
+იჭერს	დაეჭიროთ	V;3;PL;3;SG;SBJV;PRF = daeč'irot
+იჭერს	დაგეჭიროთ	V;2;SG;1;PL;SBJV;PRF = dageč'irot
+იჭერს	დავეჭიროთ	V;3;SG;1;PL;SBJV;PRF = daveč'irot
+იჭერს	დაგეჭიროთ	V;2;PL;1;PL;SBJV;PRF = dageč'irot
+იჭერს	დავეჭიროთ	V;3;PL;1;PL;SBJV;PRF = daveč'irot
+იჭერს	დამეჭიროთ	V;1;SG;2;PL;SBJV;PRF = dameč'irot
+იჭერს	დაეჭიროთ	V;3;SG;2;PL;SBJV;PRF = daeč'irot
+იჭერს	დაგვეჭიროთ	V;1;PL;2;PL;SBJV;PRF = dagveč'irot
+იჭერს	დაეჭიროთ	V;3;PL;2;PL;SBJV;PRF = daeč'irot
+იჭერს	დამეჭიროს	V;1;SG;3;PL;SBJV;PRF = dameč'iros
+იჭერს	დაგეჭიროს	V;2;SG;3;PL;SBJV;PRF = dageč'iros
+იჭერს	დაეჭიროს	V;3;SG;3;PL;SBJV;PRF = daeč'iros
+იჭერს	დაგვეჭიროს	V;1;PL;3;PL;SBJV;PRF = dagveč'iros
+იჭერს	დაგეჭიროთ	V;2;PL;3;PL;SBJV;PRF = dageč'irot
+იჭერს	დაეჭიროთ	V;3;PL;3;PL;SBJV;PRF = daeč'irot
+
+
+იჭერს	დაჭერა	V;V.MSDR;PRF

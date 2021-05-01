@@ -1,0 +1,372 @@
+#32 - წვავს - burn:
+Screeve #1:
+წვავს	მწვავ	V;2;SG;1;SG;IND;PRS = mc'vav
+წვავს	მწვავს	V;3;SG;1;SG;IND;PRS = mc'vavs
+წვავს	მწვავთ	V;2;PL;1;SG;IND;PRS = mc'vavt
+წვავს	მწვავენ	V;3;PL;1;SG;IND;PRS = mc'vaven
+წვავს	გწვავ	V;1;SG;2;SG;IND;PRS = gc'vav
+წვავს	გწვავს	V;3;SG;2;SG;IND;PRS = gc'vavs
+წვავს	გწვავთ	V;1;PL;2;SG;IND;PRS = gc'vavt
+წვავს	გწვავენ	V;3;PL;2;SG;IND;PRS = gc'vaven
+წვავს	ვწვავ	V;1;SG;3;SG;IND;PRS = vc'vav
+წვავს	წვავ	V;2;SG;3;SG;IND;PRS = c'vav
+წვავს	წვავს	V;3;SG;3;SG;IND;PRS = c'vavs
+წვავს	ვწვავთ	V;1;PL;3;SG;IND;PRS = vc'vavt
+წვავს	წვავთ	V;2;PL;3;SG;IND;PRS = c'vavt
+წვავს	წვავენ	V;3;PL;3;SG;IND;PRS = c'vaven
+წვავს	გვწვავ	V;2;SG;1;PL;IND;PRS = gvc'vav
+წვავს	გვწვავს	V;3;SG;1;PL;IND;PRS = gvc'vavs
+წვავს	გვწვავთ	V;2;PL;1;PL;IND;PRS = gvc'vavt
+წვავს	გვწვავენ	V;3;PL;1;PL;IND;PRS = gvc'vaven
+წვავს	გწვავთ	V;1;SG;2;PL;IND;PRS = gc'vavt
+წვავს	გწვავთ	V;3;SG;2;PL;IND;PRS = gc'vavt
+წვავს	გწვავთ	V;1;PL;2;PL;IND;PRS = gc'vavt
+წვავს	გწვავენ	V;3;PL;2;PL;IND;PRS = gc'vaven
+წვავს	ვწვავ	V;1;SG;3;PL;IND;PRS = vc'vav
+წვავს	წვავ	V;2;SG;3;PL;IND;PRS = c'vav
+წვავს	წვავს	V;3;SG;3;PL;IND;PRS = c'vavs
+წვავს	ვწვავთ	V;1;PL;3;PL;IND;PRS = vc'vavt
+წვავს	წვავთ	V;2;PL;3;PL;IND;PRS = c'vavt
+წვავს	წვავენ	V;3;PL;3;PL;IND;PRS = c'vaven
+
+
+Screeve #2:
+წვავს	მწვავდი	V;2;SG;1;SG;IND;IPFV = mc'vavdi
+წვავს	მწვავდა	V;3;SG;1;SG;IND;IPFV = mc'vavda
+წვავს	მწვავდით	V;2;PL;1;SG;IND;IPFV = mc'vavdit
+წვავს	მწვავდნენ	V;3;PL;1;SG;IND;IPFV = mc'vavdnen
+წვავს	გწვავდი	V;1;SG;2;SG;IND;IPFV = gc'vavdi
+წვავს	გწვავდა	V;3;SG;2;SG;IND;IPFV = gc'vavda
+წვავს	გწვავდით	V;1;PL;2;SG;IND;IPFV = gc'vavdit
+წვავს	გწვავდნენ	V;3;PL;2;SG;IND;IPFV = gc'vavdnen
+წვავს	ვწვავდი	V;1;SG;3;SG;IND;IPFV = vc'vavdi
+წვავს	წვავდი	V;2;SG;3;SG;IND;IPFV = c'vavdi
+წვავს	წვავდა	V;3;SG;3;SG;IND;IPFV = c'vavda
+წვავს	ვწვავდით	V;1;PL;3;SG;IND;IPFV = vc'vavdit
+წვავს	წვავდით	V;2;PL;3;SG;IND;IPFV = c'vavdit
+წვავს	წვავდნენ	V;3;PL;3;SG;IND;IPFV = c'vavdnen
+წვავს	გვწვავდი	V;2;SG;1;PL;IND;IPFV = gvc'vavdi
+წვავს	გვწვავდა	V;3;SG;1;PL;IND;IPFV = gvc'vavda
+წვავს	გვწვავდით	V;2;PL;1;PL;IND;IPFV = gvc'vavdit
+წვავს	გვწვავდნენ	V;3;PL;1;PL;IND;IPFV = gvc'vavdnen
+წვავს	გწვავდით	V;1;SG;2;PL;IND;IPFV = gc'vavdit
+წვავს	გწვავდათ	V;3;SG;2;PL;IND;IPFV = gc'vavdat
+წვავს	გწვავდით	V;1;PL;2;PL;IND;IPFV = gc'vavdit
+წვავს	გწვავდნენ	V;3;PL;2;PL;IND;IPFV = gc'vavdnen
+წვავს	ვწვავდი	V;1;SG;3;PL;IND;IPFV = vc'vavdi
+წვავს	წვავდი	V;2;SG;3;PL;IND;IPFV = c'vavdi
+წვავს	წვავდა	V;3;SG;3;PL;IND;IPFV = c'vavda
+წვავს	ვწვავდით	V;1;PL;3;PL;IND;IPFV = vc'vavdit
+წვავს	წვავდით	V;2;PL;3;PL;IND;IPFV = c'vavdit
+წვავს	წვავდნენ	V;3;PL;3;PL;IND;IPFV = c'vavdnen
+
+
+Screeve #3:
+წვავს	მწვავდე	V;2;SG;1;SG;SBJV;PRS = mc'vavde
+წვავს	მწვავდეს	V;3;SG;1;SG;SBJV;PRS = mc'vavdes
+წვავს	მწვავდეთ	V;2;PL;1;SG;SBJV;PRS = mc'vavdet
+წვავს	მწვავდნენ	V;3;PL;1;SG;SBJV;PRS = mc'vavdnen
+წვავს	გწვავდე	V;1;SG;2;SG;SBJV;PRS = gc'vavde
+წვავს	გწვავდეს	V;3;SG;2;SG;SBJV;PRS = gc'vavdes
+წვავს	გწვავდეთ	V;1;PL;2;SG;SBJV;PRS = gc'vavdet
+წვავს	გწვავდნენ	V;3;PL;2;SG;SBJV;PRS = gc'vavdnen
+წვავს	ვწვავდე	V;1;SG;3;SG;SBJV;PRS = vc'vavde
+წვავს	წვავდე	V;2;SG;3;SG;SBJV;PRS = c'vavde
+წვავს	წვავდეს	V;3;SG;3;SG;SBJV;PRS = c'vavdes
+წვავს	ვწვავდეთ	V;1;PL;3;SG;SBJV;PRS = vc'vavdet
+წვავს	წვავდეთ	V;2;PL;3;SG;SBJV;PRS = c'vavdet
+წვავს	წვავდნენ	V;3;PL;3;SG;SBJV;PRS = c'vavdnen
+წვავს	გვწვავდე	V;2;SG;1;PL;SBJV;PRS = gvc'vavde
+წვავს	გვწვავდეს	V;3;SG;1;PL;SBJV;PRS = gvc'vavdes
+წვავს	გვწვავდეთ	V;2;PL;1;PL;SBJV;PRS = gvc'vavdet
+წვავს	გვწვავდნენ	V;3;PL;1;PL;SBJV;PRS = gvc'vavdnen
+წვავს	გწვავდეთ	V;1;SG;2;PL;SBJV;PRS = gc'vavdet
+წვავს	გწვავდეთ	V;3;SG;2;PL;SBJV;PRS = gc'vavdet
+წვავს	გწვავდეთ	V;1;PL;2;PL;SBJV;PRS = gc'vavdet
+წვავს	გწვავდნენ	V;3;PL;2;PL;SBJV;PRS = gc'vavdnen
+წვავს	ვწვავდე	V;1;SG;3;PL;SBJV;PRS = vc'vavde
+წვავს	წვავდე	V;2;SG;3;PL;SBJV;PRS = c'vavde
+წვავს	წვავდეს	V;3;SG;3;PL;SBJV;PRS = c'vavdes
+წვავს	ვწვავდეთ	V;1;PL;3;PL;SBJV;PRS = vc'vavdet
+წვავს	წვავდეთ	V;2;PL;3;PL;SBJV;PRS = c'vavdet
+წვავს	წვავდნენ	V;3;PL;3;PL;SBJV;PRS = c'vavdnen
+
+
+Screeve #4:
+წვავს	დამწვავ	V;2;SG;1;SG;IND;FUT = damc'vav
+წვავს	დამწვავს	V;3;SG;1;SG;IND;FUT = damc'vavs
+წვავს	დამწვავთ	V;2;PL;1;SG;IND;FUT = damc'vavt
+წვავს	დამწვავენ	V;3;PL;1;SG;IND;FUT = damc'vaven
+წვავს	დაგწვავ	V;1;SG;2;SG;IND;FUT = dagc'vav
+წვავს	დაგწვავს	V;3;SG;2;SG;IND;FUT = dagc'vavs
+წვავს	დაგწვავთ	V;1;PL;2;SG;IND;FUT = dagc'vavt
+წვავს	დაგწვავენ	V;3;PL;2;SG;IND;FUT = dagc'vaven
+წვავს	დავწვავ	V;1;SG;3;SG;IND;FUT = davc'vav
+წვავს	დაწვავ	V;2;SG;3;SG;IND;FUT = dac'vav
+წვავს	დაწვავს	V;3;SG;3;SG;IND;FUT = dac'vavs
+წვავს	დავწვავთ	V;1;PL;3;SG;IND;FUT = davc'vavt
+წვავს	დაწვავთ	V;2;PL;3;SG;IND;FUT = dac'vavt
+წვავს	დაწვავენ	V;3;PL;3;SG;IND;FUT = dac'vaven
+წვავს	დაგვწვავ	V;2;SG;1;PL;IND;FUT = dagvc'vav
+წვავს	დაგვწვავს	V;3;SG;1;PL;IND;FUT = dagvc'vavs
+წვავს	დაგვწვავთ	V;2;PL;1;PL;IND;FUT = dagvc'vavt
+წვავს	დაგვწვავენ	V;3;PL;1;PL;IND;FUT = dagvc'vaven
+წვავს	დაგწვავთ	V;1;SG;2;PL;IND;FUT = dagc'vavt
+წვავს	დაგწვავთ	V;3;SG;2;PL;IND;FUT = dagc'vavt
+წვავს	დაგწვავთ	V;1;PL;2;PL;IND;FUT = dagc'vavt
+წვავს	დაგწვავენ	V;3;PL;2;PL;IND;FUT = dagc'vaven
+წვავს	დავწვავ	V;1;SG;3;PL;IND;FUT = davc'vav
+წვავს	დაწვავ	V;2;SG;3;PL;IND;FUT = dac'vav
+წვავს	დაწვავს	V;3;SG;3;PL;IND;FUT = dac'vavs
+წვავს	დავწვავთ	V;1;PL;3;PL;IND;FUT = davc'vavt
+წვავს	დაწვავთ	V;2;PL;3;PL;IND;FUT = dac'vavt
+წვავს	დაწვავენ	V;3;PL;3;PL;IND;FUT = dac'vaven
+
+
+Screeve #5:
+წვავს	დამწვავდი	V;2;SG;1;SG;COND = damc'vavdi
+წვავს	დამწვავდა	V;3;SG;1;SG;COND = damc'vavda
+წვავს	დამწვავდით	V;2;PL;1;SG;COND = damc'vavdit
+წვავს	დამწვავდნენ	V;3;PL;1;SG;COND = damc'vavdnen
+წვავს	დაგწვავდი	V;1;SG;2;SG;COND = dagc'vavdi
+წვავს	დაგწვავდა	V;3;SG;2;SG;COND = dagc'vavda
+წვავს	დაგწვავდით	V;1;PL;2;SG;COND = dagc'vavdit
+წვავს	დაგწვავდნენ	V;3;PL;2;SG;COND = dagc'vavdnen
+წვავს	დავწვავდი	V;1;SG;3;SG;COND = davc'vavdi
+წვავს	დაწვავდი	V;2;SG;3;SG;COND = dac'vavdi
+წვავს	დაწვავდა	V;3;SG;3;SG;COND = dac'vavda
+წვავს	დავწვავდით	V;1;PL;3;SG;COND = davc'vavdit
+წვავს	დაწვავდით	V;2;PL;3;SG;COND = dac'vavdit
+წვავს	დაწვავდნენ	V;3;PL;3;SG;COND = dac'vavdnen
+წვავს	დაგვწვავდი	V;2;SG;1;PL;COND = dagvc'vavdi
+წვავს	დაგვწვავდა	V;3;SG;1;PL;COND = dagvc'vavda
+წვავს	დაგვწვავდით	V;2;PL;1;PL;COND = dagvc'vavdit
+წვავს	დაგვწვავდნენ	V;3;PL;1;PL;COND = dagvc'vavdnen
+წვავს	დაგწვავდით	V;1;SG;2;PL;COND = dagc'vavdit
+წვავს	დაგწვავდათ	V;3;SG;2;PL;COND = dagc'vavdat
+წვავს	დაგწვავდით	V;1;PL;2;PL;COND = dagc'vavdit
+წვავს	დაგწვავდნენ	V;3;PL;2;PL;COND = dagc'vavdnen
+წვავს	დავწვავდი	V;1;SG;3;PL;COND = davc'vavdi
+წვავს	დაწვავდი	V;2;SG;3;PL;COND = dac'vavdi
+წვავს	დაწვავდა	V;3;SG;3;PL;COND = dac'vavda
+წვავს	დავწვავდით	V;1;PL;3;PL;COND = davc'vavdit
+წვავს	დაწვავდით	V;2;PL;3;PL;COND = dac'vavdit
+წვავს	დაწვავდნენ	V;3;PL;3;PL;COND = dac'vavdnen
+
+
+Screeve #6:
+წვავს	დამწვავდე	V;2;SG;1;SG;SBJV;FUT = damc'vavde
+წვავს	დამწვავდეს	V;3;SG;1;SG;SBJV;FUT = damc'vavdes
+წვავს	დამწვავდეთ	V;2;PL;1;SG;SBJV;FUT = damc'vavdet
+წვავს	დამწვავდნენ	V;3;PL;1;SG;SBJV;FUT = damc'vavdnen
+წვავს	დაგწვავდე	V;1;SG;2;SG;SBJV;FUT = dagc'vavde
+წვავს	დაგწვავდეს	V;3;SG;2;SG;SBJV;FUT = dagc'vavdes
+წვავს	დაგწვავდეთ	V;1;PL;2;SG;SBJV;FUT = dagc'vavdet
+წვავს	დაგწვავდნენ	V;3;PL;2;SG;SBJV;FUT = dagc'vavdnen
+წვავს	დავწვავდე	V;1;SG;3;SG;SBJV;FUT = davc'vavde
+წვავს	დაწვავდე	V;2;SG;3;SG;SBJV;FUT = dac'vavde
+წვავს	დაწვავდეს	V;3;SG;3;SG;SBJV;FUT = dac'vavdes
+წვავს	დავწვავდეთ	V;1;PL;3;SG;SBJV;FUT = davc'vavdet
+წვავს	დაწვავდეთ	V;2;PL;3;SG;SBJV;FUT = dac'vavdet
+წვავს	დაწვავდნენ	V;3;PL;3;SG;SBJV;FUT = dac'vavdnen
+წვავს	დაგვწვავდე	V;2;SG;1;PL;SBJV;FUT = dagvc'vavde
+წვავს	დაგვწვავდეს	V;3;SG;1;PL;SBJV;FUT = dagvc'vavdes
+წვავს	დაგვწვავდეთ	V;2;PL;1;PL;SBJV;FUT = dagvc'vavdet
+წვავს	დაგვწვავდნენ	V;3;PL;1;PL;SBJV;FUT = dagvc'vavdnen
+წვავს	დაგწვავდეთ	V;1;SG;2;PL;SBJV;FUT = dagc'vavdet
+წვავს	დაგწვავდეთ	V;3;SG;2;PL;SBJV;FUT = dagc'vavdet
+წვავს	დაგწვავდეთ	V;1;PL;2;PL;SBJV;FUT = dagc'vavdet
+წვავს	დაგწვავდნენ	V;3;PL;2;PL;SBJV;FUT = dagc'vavdnen
+წვავს	დავწვავდე	V;1;SG;3;PL;SBJV;FUT = davc'vavde
+წვავს	დაწვავდე	V;2;SG;3;PL;SBJV;FUT = dac'vavde
+წვავს	დაწვავდეს	V;3;SG;3;PL;SBJV;FUT = dac'vavdes
+წვავს	დავწვავდეთ	V;1;PL;3;PL;SBJV;FUT = davc'vavdet
+წვავს	დაწვავდეთ	V;2;PL;3;PL;SBJV;FUT = dac'vavdet
+წვავს	დაწვავდნენ	V;3;PL;3;PL;SBJV;FUT = dac'vavdnen
+
+
+Screeve #7:
+წვავს	დამწვი	V;2;SG;1;SG;IND;PST;PFV = damc'vi
+წვავს	დამწვა	V;3;SG;1;SG;IND;PST;PFV = damc'va
+წვავს	დამწვით	V;2;PL;1;SG;IND;PST;PFV = damc'vit
+წვავს	დამწვეს	V;3;PL;1;SG;IND;PST;PFV = damc'ves
+წვავს	დაგწვი	V;1;SG;2;SG;IND;PST;PFV = dagc'vi
+წვავს	დაგწვა	V;3;SG;2;SG;IND;PST;PFV = dagc'va
+წვავს	დაგწვით	V;1;PL;2;SG;IND;PST;PFV = dagc'vit
+წვავს	დაგწვეს	V;3;PL;2;SG;IND;PST;PFV = dagc'ves
+წვავს	დავწვი	V;1;SG;3;SG;IND;PST;PFV = davc'vi
+წვავს	დაწვი	V;2;SG;3;SG;IND;PST;PFV = dac'vi
+წვავს	დაწვა	V;3;SG;3;SG;IND;PST;PFV = dac'va
+წვავს	დავწვით	V;1;PL;3;SG;IND;PST;PFV = davc'vit
+წვავს	დაწვით	V;2;PL;3;SG;IND;PST;PFV = dac'vit
+წვავს	დაწვეს	V;3;PL;3;SG;IND;PST;PFV = dac'ves
+წვავს	დაგვწვი	V;2;SG;1;PL;IND;PST;PFV = dagvc'vi
+წვავს	დაგვწვა	V;3;SG;1;PL;IND;PST;PFV = dagvc'va
+წვავს	დაგვწვით	V;2;PL;1;PL;IND;PST;PFV = dagvc'vit
+წვავს	დაგვწვეს	V;3;PL;1;PL;IND;PST;PFV = dagvc'ves
+წვავს	დაგწვით	V;1;SG;2;PL;IND;PST;PFV = dagc'vit
+წვავს	დაგწვათ	V;3;SG;2;PL;IND;PST;PFV = dagc'vat
+წვავს	დაგწვით	V;1;PL;2;PL;IND;PST;PFV = dagc'vit
+წვავს	დაგწვეს	V;3;PL;2;PL;IND;PST;PFV = dagc'ves
+წვავს	დავწვი	V;1;SG;3;PL;IND;PST;PFV = davc'vi
+წვავს	დაწვი	V;2;SG;3;PL;IND;PST;PFV = dac'vi
+წვავს	დაწვა	V;3;SG;3;PL;IND;PST;PFV = dac'va
+წვავს	დავწვით	V;1;PL;3;PL;IND;PST;PFV = davc'vit
+წვავს	დაწვით	V;2;PL;3;PL;IND;PST;PFV = dac'vit
+წვავს	დაწვეს	V;3;PL;3;PL;IND;PST;PFV = dac'ves
+
+წვავს	დამწვი	V;2;SG;1;SG;IMP = damc'vi
+წვავს	დამწვით	V;2;PL;1;SG;IMP = damc'vit
+წვავს	დაწვი	V;2;SG;3;SG;IMP = dac'vi
+წვავს	დაწვით	V;2;PL;3;SG;IMP = dac'vit
+წვავს	დაგვწვი	V;2;SG;1;PL;IMP = dagvc'vi
+წვავს	დაგვწვით	V;2;PL;1;PL;IMP = dagvc'vit
+წვავს	დაწვი	V;2;SG;3;PL;IMP = dac'vi
+წვავს	დაწვით	V;2;PL;3;PL;IMP = dac'vit
+
+
+
+Screeve #8:
+წვავს	დამწვა	V;2;SG;1;SG;OPT = damc'va
+წვავს	დამწვას	V;3;SG;1;SG;OPT = damc'vas
+წვავს	დამწვათ	V;2;PL;1;SG;OPT = damc'vat
+წვავს	დამწვან	V;3;PL;1;SG;OPT = damc'van
+წვავს	დაგწვა	V;1;SG;2;SG;OPT = dagc'va
+წვავს	დაგწვას	V;3;SG;2;SG;OPT = dagc'vas
+წვავს	დაგწვათ	V;1;PL;2;SG;OPT = dagc'vat
+წვავს	დაგწვან	V;3;PL;2;SG;OPT = dagc'van
+წვავს	დავწვა	V;1;SG;3;SG;OPT = davc'va
+წვავს	დაწვა	V;2;SG;3;SG;OPT = dac'va
+წვავს	დაწვას	V;3;SG;3;SG;OPT = dac'vas
+წვავს	დავწვათ	V;1;PL;3;SG;OPT = davc'vat
+წვავს	დაწვათ	V;2;PL;3;SG;OPT = dac'vat
+წვავს	დაწვან	V;3;PL;3;SG;OPT = dac'van
+წვავს	დაგვწვა	V;2;SG;1;PL;OPT = dagvc'va
+წვავს	დაგვწვას	V;3;SG;1;PL;OPT = dagvc'vas
+წვავს	დაგვწვათ	V;2;PL;1;PL;OPT = dagvc'vat
+წვავს	დაგვწვან	V;3;PL;1;PL;OPT = dagvc'van
+წვავს	დაგწვათ	V;1;SG;2;PL;OPT = dagc'vat
+წვავს	დაგწვათ	V;3;SG;2;PL;OPT = dagc'vat
+წვავს	დაგწვათ	V;1;PL;2;PL;OPT = dagc'vat
+წვავს	დაგწვათ	V;3;PL;2;PL;OPT = dagc'vat
+წვავს	დავწვა	V;1;SG;3;PL;OPT = davc'va
+წვავს	დაწვა	V;2;SG;3;PL;OPT = dac'va
+წვავს	დაწვას	V;3;SG;3;PL;OPT = dac'vas
+წვავს	დავწვათ	V;1;PL;3;PL;OPT = davc'vat
+წვავს	დაწვათ	V;2;PL;3;PL;OPT = dac'vat
+წვავს	დაწვან	V;3;PL;3;PL;OPT = dac'van
+
+წვავს	დამწვან	V;3;PL;1;SG;IMP = damc'van
+წვავს	დამწვას	V;3;SG;1;SG;IMP = damc'vas
+წვავს	დაგწვან	V;3;PL;2;SG;IMP = dagc'van
+წვავს	დაგწვას	V;3;SG;2;SG;IMP = dagc'vas
+წვავს	დაგწვათ	V;1;PL;2;SG;IMP = dagc'vat
+წვავს	დაწვან	V;3;PL;3;SG;IMP = dac'van
+წვავს	დაწვას	V;3;SG;3;SG;IMP = dac'vas
+წვავს	დავწვათ	V;1;PL;3;SG;IMP = davc'vat
+წვავს	დაგვწვან	V;3;PL;1;PL;IMP = dagvc'van
+წვავს	დაგვწვას	V;3;SG;1;PL;IMP = dagvc'vas
+წვავს	დაგწვათ	V;3;PL;2;PL;IMP = dagc'vat
+წვავს	დაგწვათ	V;3;SG;2;PL;IMP = dagc'vat
+წვავს	დაგწვათ	V;1;PL;2;PL;IMP = dagc'vat
+წვავს	დაწვან	V;3;PL;3;PL;IMP = dac'van
+წვავს	დაწვას	V;3;SG;3;PL;IMP = dac'vas
+წვავს	დავწვათ	V;1;PL;3;PL;IMP = davc'vat
+
+
+
+Screeve #9:
+წვავს	დაგიწვივარ	V;2;SG;1;SG;IND;PRF = dagic'vivar
+წვავს	დავუწვივარ	V;3;SG;1;SG;IND;PRF = davuc'vivar
+წვავს	დაგიწვივართ	V;2;PL;1;SG;IND;PRF = dagic'vivart
+წვავს	დავუწვივართ	V;3;PL;1;SG;IND;PRF = davuc'vivart
+წვავს	დამიწვიხარ	V;1;SG;2;SG;IND;PRF = damic'vixar
+წვავს	დაუწვიხარ	V;3;SG;2;SG;IND;PRF = dauc'vixar
+წვავს	დაგვიწვიხარ	V;1;PL;2;SG;IND;PRF = dagvic'vixar
+წვავს	დაუწვიხართ	V;3;PL;2;SG;IND;PRF = dauc'vixart
+წვავს	დამიწვია	V;1;SG;3;SG;IND;PRF = damic'via
+წვავს	დაგიწვია	V;2;SG;3;SG;IND;PRF = dagic'via
+წვავს	დაუწვია	V;3;SG;3;SG;IND;PRF = dauc'via
+წვავს	დაგვიწვია	V;1;PL;3;SG;IND;PRF = dagvic'via
+წვავს	დაგიწვიათ	V;2;PL;3;SG;IND;PRF = dagic'viat
+წვავს	დაუწვიათ	V;3;PL;3;SG;IND;PRF = dauc'viat
+წვავს	დაგიწვივართ	V;2;SG;1;PL;IND;PRF = dagic'vivart
+წვავს	დავუწვივართ	V;3;SG;1;PL;IND;PRF = davuc'vivart
+წვავს	დაგიწვივართ	V;2;PL;1;PL;IND;PRF = dagic'vivart
+წვავს	დავუწვივართ	V;3;PL;1;PL;IND;PRF = davuc'vivart
+წვავს	დამიწვიხართ	V;1;SG;2;PL;IND;PRF = damic'vixart
+წვავს	დაუწვიხართ	V;3;SG;2;PL;IND;PRF = dauc'vixart
+წვავს	დაგვიწვიხართ	V;1;PL;2;PL;IND;PRF = dagvic'vixart
+წვავს	დაუწვიხართ	V;3;PL;2;PL;IND;PRF = dauc'vixart
+წვავს	დამიწვია	V;1;SG;3;PL;IND;PRF = damic'via
+წვავს	დაგიწვია	V;2;SG;3;PL;IND;PRF = dagic'via
+წვავს	დაუწვია	V;3;SG;3;PL;IND;PRF = dauc'via
+წვავს	დაგვიწვია	V;1;PL;3;PL;IND;PRF = dagvic'via
+წვავს	დაგიწვიათ	V;2;PL;3;PL;IND;PRF = dagic'viat
+წვავს	დაუწვიათ	V;3;PL;3;PL;IND;PRF = dauc'viat
+
+
+Screeve #10:
+წვავს	დაგეწვი	V;2;SG;1;SG;IND;PST;PRF = dagec'vi
+წვავს	დავეწვი	V;3;SG;1;SG;IND;PST;PRF = davec'vi
+წვავს	დაგეწვით	V;2;PL;1;SG;IND;PST;PRF = dagec'vit
+წვავს	დავეწვით	V;3;PL;1;SG;IND;PST;PRF = davec'vit
+წვავს	დამეწვი	V;1;SG;2;SG;IND;PST;PRF = damec'vi
+წვავს	დაეწვი	V;3;SG;2;SG;IND;PST;PRF = daec'vi
+წვავს	დაგვეწვი	V;1;PL;2;SG;IND;PST;PRF = dagvec'vi
+წვავს	დაეწვით	V;3;PL;2;SG;IND;PST;PRF = daec'vit
+წვავს	დამეწვა	V;1;SG;3;SG;IND;PST;PRF = damec'va
+წვავს	დაგეწვა	V;2;SG;3;SG;IND;PST;PRF = dagec'va
+წვავს	დაეწვა	V;3;SG;3;SG;IND;PST;PRF = daec'va
+წვავს	დაგვეწვა	V;1;PL;3;SG;IND;PST;PRF = dagvec'va
+წვავს	დაგეწვათ	V;2;PL;3;SG;IND;PST;PRF = dagec'vat
+წვავს	დაეწვათ	V;3;PL;3;SG;IND;PST;PRF = daec'vat
+წვავს	დაგეწვით	V;2;SG;1;PL;IND;PST;PRF = dagec'vit
+წვავს	დავეწვით	V;3;SG;1;PL;IND;PST;PRF = davec'vit
+წვავს	დაგეწვით	V;2;PL;1;PL;IND;PST;PRF = dagec'vit
+წვავს	დავეწვით	V;3;PL;1;PL;IND;PST;PRF = davec'vit
+წვავს	დამეწვით	V;1;SG;2;PL;IND;PST;PRF = damec'vit
+წვავს	დაეწვით	V;3;SG;2;PL;IND;PST;PRF = daec'vit
+წვავს	დაგვეწვით	V;1;PL;2;PL;IND;PST;PRF = dagvec'vit
+წვავს	დაეწვით	V;3;PL;2;PL;IND;PST;PRF = daec'vit
+წვავს	დამეწვა	V;1;SG;3;PL;IND;PST;PRF = damec'va
+წვავს	დაგეწვა	V;2;SG;3;PL;IND;PST;PRF = dagec'va
+წვავს	დაეწვა	V;3;SG;3;PL;IND;PST;PRF = daec'va
+წვავს	დაგვეწვა	V;1;PL;3;PL;IND;PST;PRF = dagvec'va
+წვავს	დაგეწვათ	V;2;PL;3;PL;IND;PST;PRF = dagec'vat
+წვავს	დაეწვათ	V;3;PL;3;PL;IND;PST;PRF = daec'vat
+
+
+Screeve #11:
+წვავს	დაგეწვა	V;2;SG;1;SG;SBJV;PRF = dagec'va
+წვავს	დავეწვა	V;3;SG;1;SG;SBJV;PRF = davec'va
+წვავს	დაგეწვათ	V;2;PL;1;SG;SBJV;PRF = dagec'vat
+წვავს	დავეწვათ	V;3;PL;1;SG;SBJV;PRF = davec'vat
+წვავს	დამეწვა	V;1;SG;2;SG;SBJV;PRF = damec'va
+წვავს	დაეწვა	V;3;SG;2;SG;SBJV;PRF = daec'va
+წვავს	დაგვეწვა	V;1;PL;2;SG;SBJV;PRF = dagvec'va
+წვავს	დაეწვათ	V;3;PL;2;SG;SBJV;PRF = daec'vat
+წვავს	დამეწვას	V;1;SG;3;SG;SBJV;PRF = damec'vas
+წვავს	დაგეწვას	V;2;SG;3;SG;SBJV;PRF = dagec'vas
+წვავს	დაეწვას	V;3;SG;3;SG;SBJV;PRF = daec'vas
+წვავს	დაგვეწვას	V;1;PL;3;SG;SBJV;PRF = dagvec'vas
+წვავს	დაგეწვათ	V;2;PL;3;SG;SBJV;PRF = dagec'vat
+წვავს	დაეწვათ	V;3;PL;3;SG;SBJV;PRF = daec'vat
+წვავს	დაგეწვათ	V;2;SG;1;PL;SBJV;PRF = dagec'vat
+წვავს	დავეწვათ	V;3;SG;1;PL;SBJV;PRF = davec'vat
+წვავს	დაგეწვათ	V;2;PL;1;PL;SBJV;PRF = dagec'vat
+წვავს	დავეწვათ	V;3;PL;1;PL;SBJV;PRF = davec'vat
+წვავს	დამეწვათ	V;1;SG;2;PL;SBJV;PRF = damec'vat
+წვავს	დაეწვათ	V;3;SG;2;PL;SBJV;PRF = daec'vat
+წვავს	დაგვეწვათ	V;1;PL;2;PL;SBJV;PRF = dagvec'vat
+წვავს	დაეწვათ	V;3;PL;2;PL;SBJV;PRF = daec'vat
+წვავს	დამეწვას	V;1;SG;3;PL;SBJV;PRF = damec'vas
+წვავს	დაგეწვას	V;2;SG;3;PL;SBJV;PRF = dagec'vas
+წვავს	დაეწვას	V;3;SG;3;PL;SBJV;PRF = daec'vas
+წვავს	დაგვეწვას	V;1;PL;3;PL;SBJV;PRF = dagvec'vas
+წვავს	დაგეწვათ	V;2;PL;3;PL;SBJV;PRF = dagec'vat
+წვავს	დაეწვათ	V;3;PL;3;PL;SBJV;PRF = daec'vat
+
+
+წვავს	დაწვა	V;V.MSDR;PRF
+წვავს	წვა	V;V.MSDR;IPFV

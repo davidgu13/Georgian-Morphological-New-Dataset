@@ -1,0 +1,372 @@
+#23 - აქებს - praise:
+Screeve #1:
+აქებს	მაქებ	V;2;SG;1;SG;IND;PRS = makeb
+აქებს	მაქებს	V;3;SG;1;SG;IND;PRS = makebs
+აქებს	მაქებთ	V;2;PL;1;SG;IND;PRS = makebt
+აქებს	მაქებენ	V;3;PL;1;SG;IND;PRS = makeben
+აქებს	გაქებ	V;1;SG;2;SG;IND;PRS = gakeb
+აქებს	გაქებს	V;3;SG;2;SG;IND;PRS = gakebs
+აქებს	გაქებთ	V;1;PL;2;SG;IND;PRS = gakebt
+აქებს	გაქებენ	V;3;PL;2;SG;IND;PRS = gakeben
+აქებს	ვაქებ	V;1;SG;3;SG;IND;PRS = vakeb
+აქებს	აქებ	V;2;SG;3;SG;IND;PRS = akeb
+აქებს	აქებს	V;3;SG;3;SG;IND;PRS = akebs
+აქებს	ვაქებთ	V;1;PL;3;SG;IND;PRS = vakebt
+აქებს	აქებთ	V;2;PL;3;SG;IND;PRS = akebt
+აქებს	აქებენ	V;3;PL;3;SG;IND;PRS = akeben
+აქებს	გვაქებ	V;2;SG;1;PL;IND;PRS = gvakeb
+აქებს	გვაქებს	V;3;SG;1;PL;IND;PRS = gvakebs
+აქებს	გვაქებთ	V;2;PL;1;PL;IND;PRS = gvakebt
+აქებს	გვაქებენ	V;3;PL;1;PL;IND;PRS = gvakeben
+აქებს	გაქებთ	V;1;SG;2;PL;IND;PRS = gakebt
+აქებს	გაქებთ	V;3;SG;2;PL;IND;PRS = gakebt
+აქებს	გაქებთ	V;1;PL;2;PL;IND;PRS = gakebt
+აქებს	გაქებენ	V;3;PL;2;PL;IND;PRS = gakeben
+აქებს	ვაქებ	V;1;SG;3;PL;IND;PRS = vakeb
+აქებს	აქებ	V;2;SG;3;PL;IND;PRS = akeb
+აქებს	აქებს	V;3;SG;3;PL;IND;PRS = akebs
+აქებს	ვაქებთ	V;1;PL;3;PL;IND;PRS = vakebt
+აქებს	აქებთ	V;2;PL;3;PL;IND;PRS = akebt
+აქებს	აქებენ	V;3;PL;3;PL;IND;PRS = akeben
+
+
+Screeve #2:
+აქებს	მაქებდი	V;2;SG;1;SG;IND;IPFV = makebdi
+აქებს	მაქებდა	V;3;SG;1;SG;IND;IPFV = makebda
+აქებს	მაქებდით	V;2;PL;1;SG;IND;IPFV = makebdit
+აქებს	მაქებდნენ	V;3;PL;1;SG;IND;IPFV = makebdnen
+აქებს	გაქებდი	V;1;SG;2;SG;IND;IPFV = gakebdi
+აქებს	გაქებდა	V;3;SG;2;SG;IND;IPFV = gakebda
+აქებს	გაქებდით	V;1;PL;2;SG;IND;IPFV = gakebdit
+აქებს	გაქებდნენ	V;3;PL;2;SG;IND;IPFV = gakebdnen
+აქებს	ვაქებდი	V;1;SG;3;SG;IND;IPFV = vakebdi
+აქებს	აქებდი	V;2;SG;3;SG;IND;IPFV = akebdi
+აქებს	აქებდა	V;3;SG;3;SG;IND;IPFV = akebda
+აქებს	ვაქებდით	V;1;PL;3;SG;IND;IPFV = vakebdit
+აქებს	აქებდით	V;2;PL;3;SG;IND;IPFV = akebdit
+აქებს	აქებდნენ	V;3;PL;3;SG;IND;IPFV = akebdnen
+აქებს	გვაქებდი	V;2;SG;1;PL;IND;IPFV = gvakebdi
+აქებს	გვაქებდა	V;3;SG;1;PL;IND;IPFV = gvakebda
+აქებს	გვაქებდით	V;2;PL;1;PL;IND;IPFV = gvakebdit
+აქებს	გვაქებდნენ	V;3;PL;1;PL;IND;IPFV = gvakebdnen
+აქებს	გაქებდით	V;1;SG;2;PL;IND;IPFV = gakebdit
+აქებს	გაქებდათ	V;3;SG;2;PL;IND;IPFV = gakebdat
+აქებს	გაქებდით	V;1;PL;2;PL;IND;IPFV = gakebdit
+აქებს	გაქებდნენ	V;3;PL;2;PL;IND;IPFV = gakebdnen
+აქებს	ვაქებდი	V;1;SG;3;PL;IND;IPFV = vakebdi
+აქებს	აქებდი	V;2;SG;3;PL;IND;IPFV = akebdi
+აქებს	აქებდა	V;3;SG;3;PL;IND;IPFV = akebda
+აქებს	ვაქებდით	V;1;PL;3;PL;IND;IPFV = vakebdit
+აქებს	აქებდით	V;2;PL;3;PL;IND;IPFV = akebdit
+აქებს	აქებდნენ	V;3;PL;3;PL;IND;IPFV = akebdnen
+
+
+Screeve #3:
+აქებს	მაქებდე	V;2;SG;1;SG;SBJV;PRS = makebde
+აქებს	მაქებდეს	V;3;SG;1;SG;SBJV;PRS = makebdes
+აქებს	მაქებდეთ	V;2;PL;1;SG;SBJV;PRS = makebdet
+აქებს	მაქებდნენ	V;3;PL;1;SG;SBJV;PRS = makebdnen
+აქებს	გაქებდე	V;1;SG;2;SG;SBJV;PRS = gakebde
+აქებს	გაქებდეს	V;3;SG;2;SG;SBJV;PRS = gakebdes
+აქებს	გაქებდეთ	V;1;PL;2;SG;SBJV;PRS = gakebdet
+აქებს	გაქებდნენ	V;3;PL;2;SG;SBJV;PRS = gakebdnen
+აქებს	ვაქებდე	V;1;SG;3;SG;SBJV;PRS = vakebde
+აქებს	აქებდე	V;2;SG;3;SG;SBJV;PRS = akebde
+აქებს	აქებდეს	V;3;SG;3;SG;SBJV;PRS = akebdes
+აქებს	ვაქებდეთ	V;1;PL;3;SG;SBJV;PRS = vakebdet
+აქებს	აქებდეთ	V;2;PL;3;SG;SBJV;PRS = akebdet
+აქებს	აქებდნენ	V;3;PL;3;SG;SBJV;PRS = akebdnen
+აქებს	გვაქებდე	V;2;SG;1;PL;SBJV;PRS = gvakebde
+აქებს	გვაქებდეს	V;3;SG;1;PL;SBJV;PRS = gvakebdes
+აქებს	გვაქებდეთ	V;2;PL;1;PL;SBJV;PRS = gvakebdet
+აქებს	გვაქებდნენ	V;3;PL;1;PL;SBJV;PRS = gvakebdnen
+აქებს	გაქებდეთ	V;1;SG;2;PL;SBJV;PRS = gakebdet
+აქებს	გაქებდეთ	V;3;SG;2;PL;SBJV;PRS = gakebdet
+აქებს	გაქებდეთ	V;1;PL;2;PL;SBJV;PRS = gakebdet
+აქებს	გაქებდნენ	V;3;PL;2;PL;SBJV;PRS = gakebdnen
+აქებს	ვაქებდე	V;1;SG;3;PL;SBJV;PRS = vakebde
+აქებს	აქებდე	V;2;SG;3;PL;SBJV;PRS = akebde
+აქებს	აქებდეს	V;3;SG;3;PL;SBJV;PRS = akebdes
+აქებს	ვაქებდეთ	V;1;PL;3;PL;SBJV;PRS = vakebdet
+აქებს	აქებდეთ	V;2;PL;3;PL;SBJV;PRS = akebdet
+აქებს	აქებდნენ	V;3;PL;3;PL;SBJV;PRS = akebdnen
+
+
+Screeve #4:
+აქებს	შემაქებ	V;2;SG;1;SG;IND;FUT = šemakeb
+აქებს	შემაქებს	V;3;SG;1;SG;IND;FUT = šemakebs
+აქებს	შემაქებთ	V;2;PL;1;SG;IND;FUT = šemakebt
+აქებს	შემაქებენ	V;3;PL;1;SG;IND;FUT = šemakeben
+აქებს	შეგაქებ	V;1;SG;2;SG;IND;FUT = šegakeb
+აქებს	შეგაქებს	V;3;SG;2;SG;IND;FUT = šegakebs
+აქებს	შეგაქებთ	V;1;PL;2;SG;IND;FUT = šegakebt
+აქებს	შეგაქებენ	V;3;PL;2;SG;IND;FUT = šegakeben
+აქებს	შევაქებ	V;1;SG;3;SG;IND;FUT = ševakeb
+აქებს	შეაქებ	V;2;SG;3;SG;IND;FUT = šeakeb
+აქებს	შეაქებს	V;3;SG;3;SG;IND;FUT = šeakebs
+აქებს	შევაქებთ	V;1;PL;3;SG;IND;FUT = ševakebt
+აქებს	შეაქებთ	V;2;PL;3;SG;IND;FUT = šeakebt
+აქებს	შეაქებენ	V;3;PL;3;SG;IND;FUT = šeakeben
+აქებს	შეგვაქებ	V;2;SG;1;PL;IND;FUT = šegvakeb
+აქებს	შეგვაქებს	V;3;SG;1;PL;IND;FUT = šegvakebs
+აქებს	შეგვაქებთ	V;2;PL;1;PL;IND;FUT = šegvakebt
+აქებს	შეგვაქებენ	V;3;PL;1;PL;IND;FUT = šegvakeben
+აქებს	შეგაქებთ	V;1;SG;2;PL;IND;FUT = šegakebt
+აქებს	შეგაქებთ	V;3;SG;2;PL;IND;FUT = šegakebt
+აქებს	შეგაქებთ	V;1;PL;2;PL;IND;FUT = šegakebt
+აქებს	შეგაქებენ	V;3;PL;2;PL;IND;FUT = šegakeben
+აქებს	შევაქებ	V;1;SG;3;PL;IND;FUT = ševakeb
+აქებს	შეაქებ	V;2;SG;3;PL;IND;FUT = šeakeb
+აქებს	შეაქებს	V;3;SG;3;PL;IND;FUT = šeakebs
+აქებს	შევაქებთ	V;1;PL;3;PL;IND;FUT = ševakebt
+აქებს	შეაქებთ	V;2;PL;3;PL;IND;FUT = šeakebt
+აქებს	შეაქებენ	V;3;PL;3;PL;IND;FUT = šeakeben
+
+
+Screeve #5:
+აქებს	შემაქებდი	V;2;SG;1;SG;COND = šemakebdi
+აქებს	შემაქებდა	V;3;SG;1;SG;COND = šemakebda
+აქებს	შემაქებდით	V;2;PL;1;SG;COND = šemakebdit
+აქებს	შემაქებდნენ	V;3;PL;1;SG;COND = šemakebdnen
+აქებს	შეგაქებდი	V;1;SG;2;SG;COND = šegakebdi
+აქებს	შეგაქებდა	V;3;SG;2;SG;COND = šegakebda
+აქებს	შეგაქებდით	V;1;PL;2;SG;COND = šegakebdit
+აქებს	შეგაქებდნენ	V;3;PL;2;SG;COND = šegakebdnen
+აქებს	შევაქებდი	V;1;SG;3;SG;COND = ševakebdi
+აქებს	შეაქებდი	V;2;SG;3;SG;COND = šeakebdi
+აქებს	შეაქებდა	V;3;SG;3;SG;COND = šeakebda
+აქებს	შევაქებდით	V;1;PL;3;SG;COND = ševakebdit
+აქებს	შეაქებდით	V;2;PL;3;SG;COND = šeakebdit
+აქებს	შეაქებდნენ	V;3;PL;3;SG;COND = šeakebdnen
+აქებს	შეგვაქებდი	V;2;SG;1;PL;COND = šegvakebdi
+აქებს	შეგვაქებდა	V;3;SG;1;PL;COND = šegvakebda
+აქებს	შეგვაქებდით	V;2;PL;1;PL;COND = šegvakebdit
+აქებს	შეგვაქებდნენ	V;3;PL;1;PL;COND = šegvakebdnen
+აქებს	შეგაქებდით	V;1;SG;2;PL;COND = šegakebdit
+აქებს	შეგაქებდათ	V;3;SG;2;PL;COND = šegakebdat
+აქებს	შეგაქებდით	V;1;PL;2;PL;COND = šegakebdit
+აქებს	შეგაქებდნენ	V;3;PL;2;PL;COND = šegakebdnen
+აქებს	შევაქებდი	V;1;SG;3;PL;COND = ševakebdi
+აქებს	შეაქებდი	V;2;SG;3;PL;COND = šeakebdi
+აქებს	შეაქებდა	V;3;SG;3;PL;COND = šeakebda
+აქებს	შევაქებდით	V;1;PL;3;PL;COND = ševakebdit
+აქებს	შეაქებდით	V;2;PL;3;PL;COND = šeakebdit
+აქებს	შეაქებდნენ	V;3;PL;3;PL;COND = šeakebdnen
+
+
+Screeve #6:
+აქებს	შემაქებდე	V;2;SG;1;SG;SBJV;FUT = šemakebde
+აქებს	შემაქებდეს	V;3;SG;1;SG;SBJV;FUT = šemakebdes
+აქებს	შემაქებდეთ	V;2;PL;1;SG;SBJV;FUT = šemakebdet
+აქებს	შემაქებდნენ	V;3;PL;1;SG;SBJV;FUT = šemakebdnen
+აქებს	შეგაქებდე	V;1;SG;2;SG;SBJV;FUT = šegakebde
+აქებს	შეგაქებდეს	V;3;SG;2;SG;SBJV;FUT = šegakebdes
+აქებს	შეგაქებდეთ	V;1;PL;2;SG;SBJV;FUT = šegakebdet
+აქებს	შეგაქებდნენ	V;3;PL;2;SG;SBJV;FUT = šegakebdnen
+აქებს	შევაქებდე	V;1;SG;3;SG;SBJV;FUT = ševakebde
+აქებს	შეაქებდე	V;2;SG;3;SG;SBJV;FUT = šeakebde
+აქებს	შეაქებდეს	V;3;SG;3;SG;SBJV;FUT = šeakebdes
+აქებს	შევაქებდეთ	V;1;PL;3;SG;SBJV;FUT = ševakebdet
+აქებს	შეაქებდეთ	V;2;PL;3;SG;SBJV;FUT = šeakebdet
+აქებს	შეაქებდნენ	V;3;PL;3;SG;SBJV;FUT = šeakebdnen
+აქებს	შეგვაქებდე	V;2;SG;1;PL;SBJV;FUT = šegvakebde
+აქებს	შეგვაქებდეს	V;3;SG;1;PL;SBJV;FUT = šegvakebdes
+აქებს	შეგვაქებდეთ	V;2;PL;1;PL;SBJV;FUT = šegvakebdet
+აქებს	შეგვაქებდნენ	V;3;PL;1;PL;SBJV;FUT = šegvakebdnen
+აქებს	შეგაქებდეთ	V;1;SG;2;PL;SBJV;FUT = šegakebdet
+აქებს	შეგაქებდეთ	V;3;SG;2;PL;SBJV;FUT = šegakebdet
+აქებს	შეგაქებდეთ	V;1;PL;2;PL;SBJV;FUT = šegakebdet
+აქებს	შეგაქებდნენ	V;3;PL;2;PL;SBJV;FUT = šegakebdnen
+აქებს	შევაქებდე	V;1;SG;3;PL;SBJV;FUT = ševakebde
+აქებს	შეაქებდე	V;2;SG;3;PL;SBJV;FUT = šeakebde
+აქებს	შეაქებდეს	V;3;SG;3;PL;SBJV;FUT = šeakebdes
+აქებს	შევაქებდეთ	V;1;PL;3;PL;SBJV;FUT = ševakebdet
+აქებს	შეაქებდეთ	V;2;PL;3;PL;SBJV;FUT = šeakebdet
+აქებს	შეაქებდნენ	V;3;PL;3;PL;SBJV;FUT = šeakebdnen
+
+
+Screeve #7:
+აქებს	შემაქე	V;2;SG;1;SG;IND;PST;PFV = šemake
+აქებს	შემაქო	V;3;SG;1;SG;IND;PST;PFV = šemako
+აქებს	შემაქეთ	V;2;PL;1;SG;IND;PST;PFV = šemaket
+აქებს	შემაქეს	V;3;PL;1;SG;IND;PST;PFV = šemakes
+აქებს	შეგაქე	V;1;SG;2;SG;IND;PST;PFV = šegake
+აქებს	შეგაქო	V;3;SG;2;SG;IND;PST;PFV = šegako
+აქებს	შეგაქეთ	V;1;PL;2;SG;IND;PST;PFV = šegaket
+აქებს	შეგაქეს	V;3;PL;2;SG;IND;PST;PFV = šegakes
+აქებს	შევაქე	V;1;SG;3;SG;IND;PST;PFV = ševake
+აქებს	შეაქე	V;2;SG;3;SG;IND;PST;PFV = šeake
+აქებს	შეაქო	V;3;SG;3;SG;IND;PST;PFV = šeako
+აქებს	შევაქეთ	V;1;PL;3;SG;IND;PST;PFV = ševaket
+აქებს	შეაქეთ	V;2;PL;3;SG;IND;PST;PFV = šeaket
+აქებს	შეაქეს	V;3;PL;3;SG;IND;PST;PFV = šeakes
+აქებს	შეგვაქე	V;2;SG;1;PL;IND;PST;PFV = šegvake
+აქებს	შეგვაქო	V;3;SG;1;PL;IND;PST;PFV = šegvako
+აქებს	შეგვაქეთ	V;2;PL;1;PL;IND;PST;PFV = šegvaket
+აქებს	შეგვაქეს	V;3;PL;1;PL;IND;PST;PFV = šegvakes
+აქებს	შეგაქეთ	V;1;SG;2;PL;IND;PST;PFV = šegaket
+აქებს	შეგაქოთ	V;3;SG;2;PL;IND;PST;PFV = šegakot
+აქებს	შეგაქეთ	V;1;PL;2;PL;IND;PST;PFV = šegaket
+აქებს	შეგაქეს	V;3;PL;2;PL;IND;PST;PFV = šegakes
+აქებს	შევაქე	V;1;SG;3;PL;IND;PST;PFV = ševake
+აქებს	შეაქე	V;2;SG;3;PL;IND;PST;PFV = šeake
+აქებს	შეაქო	V;3;SG;3;PL;IND;PST;PFV = šeako
+აქებს	შევაქეთ	V;1;PL;3;PL;IND;PST;PFV = ševaket
+აქებს	შეაქეთ	V;2;PL;3;PL;IND;PST;PFV = šeaket
+აქებს	შეაქეს	V;3;PL;3;PL;IND;PST;PFV = šeakes
+
+აქებს	შემაქე	V;2;SG;1;SG;IMP = šemake
+აქებს	შემაქეთ	V;2;PL;1;SG;IMP = šemaket
+აქებს	შეაქე	V;2;SG;3;SG;IMP = šeake
+აქებს	შეაქეთ	V;2;PL;3;SG;IMP = šeaket
+აქებს	შეგვაქე	V;2;SG;1;PL;IMP = šegvake
+აქებს	შეგვაქეთ	V;2;PL;1;PL;IMP = šegvaket
+აქებს	შეაქე	V;2;SG;3;PL;IMP = šeake
+აქებს	შეაქეთ	V;2;PL;3;PL;IMP = šeaket
+
+
+
+Screeve #8:
+აქებს	შემაქო	V;2;SG;1;SG;OPT = šemako
+აქებს	შემაქოს	V;3;SG;1;SG;OPT = šemakos
+აქებს	შემაქოთ	V;2;PL;1;SG;OPT = šemakot
+აქებს	შემაქონ	V;3;PL;1;SG;OPT = šemakon
+აქებს	შეგაქო	V;1;SG;2;SG;OPT = šegako
+აქებს	შეგაქოს	V;3;SG;2;SG;OPT = šegakos
+აქებს	შეგაქოთ	V;1;PL;2;SG;OPT = šegakot
+აქებს	შეგაქონ	V;3;PL;2;SG;OPT = šegakon
+აქებს	შევაქო	V;1;SG;3;SG;OPT = ševako
+აქებს	შეაქო	V;2;SG;3;SG;OPT = šeako
+აქებს	შეაქოს	V;3;SG;3;SG;OPT = šeakos
+აქებს	შევაქოთ	V;1;PL;3;SG;OPT = ševakot
+აქებს	შეაქოთ	V;2;PL;3;SG;OPT = šeakot
+აქებს	შეაქონ	V;3;PL;3;SG;OPT = šeakon
+აქებს	შეგვაქო	V;2;SG;1;PL;OPT = šegvako
+აქებს	შეგვაქოს	V;3;SG;1;PL;OPT = šegvakos
+აქებს	შეგვაქოთ	V;2;PL;1;PL;OPT = šegvakot
+აქებს	შეგვაქონ	V;3;PL;1;PL;OPT = šegvakon
+აქებს	შეგაქოთ	V;1;SG;2;PL;OPT = šegakot
+აქებს	შეგაქოთ	V;3;SG;2;PL;OPT = šegakot
+აქებს	შეგაქოთ	V;1;PL;2;PL;OPT = šegakot
+აქებს	შეგაქოთ	V;3;PL;2;PL;OPT = šegakot
+აქებს	შევაქო	V;1;SG;3;PL;OPT = ševako
+აქებს	შეაქო	V;2;SG;3;PL;OPT = šeako
+აქებს	შეაქოს	V;3;SG;3;PL;OPT = šeakos
+აქებს	შევაქოთ	V;1;PL;3;PL;OPT = ševakot
+აქებს	შეაქოთ	V;2;PL;3;PL;OPT = šeakot
+აქებს	შეაქონ	V;3;PL;3;PL;OPT = šeakon
+
+აქებს	შემაქოს	V;3;SG;1;SG;IMP = šemakos
+აქებს	შემაქონ	V;3;PL;1;SG;IMP = šemakon
+აქებს	შეგაქოს	V;3;SG;2;SG;IMP = šegakos
+აქებს	შეგაქოთ	V;1;PL;2;SG;IMP = šegakot
+აქებს	შეგაქონ	V;3;PL;2;SG;IMP = šegakon
+აქებს	შეაქოს	V;3;SG;3;SG;IMP = šeakos
+აქებს	შევაქოთ	V;1;PL;3;SG;IMP = ševakot
+აქებს	შეაქონ	V;3;PL;3;SG;IMP = šeakon
+აქებს	შეგვაქოს	V;3;SG;1;PL;IMP = šegvakos
+აქებს	შეგვაქონ	V;3;PL;1;PL;IMP = šegvakon
+აქებს	შეგაქოთ	V;3;SG;2;PL;IMP = šegakot
+აქებს	შეგაქოთ	V;1;PL;2;PL;IMP = šegakot
+აქებს	შეგაქოთ	V;3;PL;2;PL;IMP = šegakot
+აქებს	შეაქოს	V;3;SG;3;PL;IMP = šeakos
+აქებს	შევაქოთ	V;1;PL;3;PL;IMP = ševakot
+აქებს	შეაქონ	V;3;PL;3;PL;IMP = šeakon
+
+
+
+Screeve #9:
+აქებს	შეგიქივარ	V;2;SG;1;SG;IND;PRF = šegikivar
+აქებს	შევუქივარ	V;3;SG;1;SG;IND;PRF = ševukivar
+აქებს	შეგიქივართ	V;2;PL;1;SG;IND;PRF = šegikivart
+აქებს	შევუქივართ	V;3;PL;1;SG;IND;PRF = ševukivart
+აქებს	შემიქიხარ	V;1;SG;2;SG;IND;PRF = šemikixar
+აქებს	შეუქიხარ	V;3;SG;2;SG;IND;PRF = šeukixar
+აქებს	შეგვიქიხარ	V;1;PL;2;SG;IND;PRF = šegvikixar
+აქებს	შეუქიხართ	V;3;PL;2;SG;IND;PRF = šeukixart
+აქებს	შემიქია	V;1;SG;3;SG;IND;PRF = šemikia
+აქებს	შეგიქია	V;2;SG;3;SG;IND;PRF = šegikia
+აქებს	შეუქია	V;3;SG;3;SG;IND;PRF = šeukia
+აქებს	შეგვიქია	V;1;PL;3;SG;IND;PRF = šegvikia
+აქებს	შეგიქიათ	V;2;PL;3;SG;IND;PRF = šegikiat
+აქებს	შეუქიათ	V;3;PL;3;SG;IND;PRF = šeukiat
+აქებს	შეგიქივართ	V;2;SG;1;PL;IND;PRF = šegikivart
+აქებს	შევუქივართ	V;3;SG;1;PL;IND;PRF = ševukivart
+აქებს	შეგიქივართ	V;2;PL;1;PL;IND;PRF = šegikivart
+აქებს	შევუქივართ	V;3;PL;1;PL;IND;PRF = ševukivart
+აქებს	შემიქიხართ	V;1;SG;2;PL;IND;PRF = šemikixart
+აქებს	შეუქიხართ	V;3;SG;2;PL;IND;PRF = šeukixart
+აქებს	შეგვიქიხართ	V;1;PL;2;PL;IND;PRF = šegvikixart
+აქებს	შეუქიხართ	V;3;PL;2;PL;IND;PRF = šeukixart
+აქებს	შემიქია	V;1;SG;3;PL;IND;PRF = šemikia
+აქებს	შეგიქია	V;2;SG;3;PL;IND;PRF = šegikia
+აქებს	შეუქია	V;3;SG;3;PL;IND;PRF = šeukia
+აქებს	შეგვიქია	V;1;PL;3;PL;IND;PRF = šegvikia
+აქებს	შეგიქიათ	V;2;PL;3;PL;IND;PRF = šegikiat
+აქებს	შეუქიათ	V;3;PL;3;PL;IND;PRF = šeukiat
+
+
+Screeve #10:
+აქებს	შეგექე	V;2;SG;1;SG;IND;PST;PRF = šegeke
+აქებს	შევექე	V;3;SG;1;SG;IND;PST;PRF = ševeke
+აქებს	შეგექეთ	V;2;PL;1;SG;IND;PST;PRF = šegeket
+აქებს	შევექეთ	V;3;PL;1;SG;IND;PST;PRF = ševeket
+აქებს	შემექე	V;1;SG;2;SG;IND;PST;PRF = šemeke
+აქებს	შეექე	V;3;SG;2;SG;IND;PST;PRF = šeeke
+აქებს	შეგვექე	V;1;PL;2;SG;IND;PST;PRF = šegveke
+აქებს	შეექეთ	V;3;PL;2;SG;IND;PST;PRF = šeeket
+აქებს	შემექო	V;1;SG;3;SG;IND;PST;PRF = šemeko
+აქებს	შეგექო	V;2;SG;3;SG;IND;PST;PRF = šegeko
+აქებს	შეექო	V;3;SG;3;SG;IND;PST;PRF = šeeko
+აქებს	შეგვექო	V;1;PL;3;SG;IND;PST;PRF = šegveko
+აქებს	შეგექოთ	V;2;PL;3;SG;IND;PST;PRF = šegekot
+აქებს	შეექოთ	V;3;PL;3;SG;IND;PST;PRF = šeekot
+აქებს	შეგექეთ	V;2;SG;1;PL;IND;PST;PRF = šegeket
+აქებს	შევექეთ	V;3;SG;1;PL;IND;PST;PRF = ševeket
+აქებს	შეგექეთ	V;2;PL;1;PL;IND;PST;PRF = šegeket
+აქებს	შევექეთ	V;3;PL;1;PL;IND;PST;PRF = ševeket
+აქებს	შემექეთ	V;1;SG;2;PL;IND;PST;PRF = šemeket
+აქებს	შეექეთ	V;3;SG;2;PL;IND;PST;PRF = šeeket
+აქებს	შეგვექეთ	V;1;PL;2;PL;IND;PST;PRF = šegveket
+აქებს	შეექეთ	V;3;PL;2;PL;IND;PST;PRF = šeeket
+აქებს	შემექო	V;1;SG;3;PL;IND;PST;PRF = šemeko
+აქებს	შეგექო	V;2;SG;3;PL;IND;PST;PRF = šegeko
+აქებს	შეექო	V;3;SG;3;PL;IND;PST;PRF = šeeko
+აქებს	შეგვექო	V;1;PL;3;PL;IND;PST;PRF = šegveko
+აქებს	შეგექოთ	V;2;PL;3;PL;IND;PST;PRF = šegekot
+აქებს	შეექოთ	V;3;PL;3;PL;IND;PST;PRF = šeekot
+
+
+Screeve #11:
+აქებს	შეგექო	V;2;SG;1;SG;SBJV;PRF = šegeko
+აქებს	შევექო	V;3;SG;1;SG;SBJV;PRF = ševeko
+აქებს	შეგექოთ	V;2;PL;1;SG;SBJV;PRF = šegekot
+აქებს	შევექოთ	V;3;PL;1;SG;SBJV;PRF = ševekot
+აქებს	შემექო	V;1;SG;2;SG;SBJV;PRF = šemeko
+აქებს	შეექო	V;3;SG;2;SG;SBJV;PRF = šeeko
+აქებს	შეგვექო	V;1;PL;2;SG;SBJV;PRF = šegveko
+აქებს	შეექოთ	V;3;PL;2;SG;SBJV;PRF = šeekot
+აქებს	შემექოს	V;1;SG;3;SG;SBJV;PRF = šemekos
+აქებს	შეგექოს	V;2;SG;3;SG;SBJV;PRF = šegekos
+აქებს	შეექოს	V;3;SG;3;SG;SBJV;PRF = šeekos
+აქებს	შეგვექოს	V;1;PL;3;SG;SBJV;PRF = šegvekos
+აქებს	შეგექოთ	V;2;PL;3;SG;SBJV;PRF = šegekot
+აქებს	შეექოთ	V;3;PL;3;SG;SBJV;PRF = šeekot
+აქებს	შეგექოთ	V;2;SG;1;PL;SBJV;PRF = šegekot
+აქებს	შევექოთ	V;3;SG;1;PL;SBJV;PRF = ševekot
+აქებს	შეგექოთ	V;2;PL;1;PL;SBJV;PRF = šegekot
+აქებს	შევექოთ	V;3;PL;1;PL;SBJV;PRF = ševekot
+აქებს	შემექოთ	V;1;SG;2;PL;SBJV;PRF = šemekot
+აქებს	შეექოთ	V;3;SG;2;PL;SBJV;PRF = šeekot
+აქებს	შეგვექოთ	V;1;PL;2;PL;SBJV;PRF = šegvekot
+აქებს	შეექოთ	V;3;PL;2;PL;SBJV;PRF = šeekot
+აქებს	შემექოს	V;1;SG;3;PL;SBJV;PRF = šemekos
+აქებს	შეგექოს	V;2;SG;3;PL;SBJV;PRF = šegekos
+აქებს	შეექოს	V;3;SG;3;PL;SBJV;PRF = šeekos
+აქებს	შეგვექოს	V;1;PL;3;PL;SBJV;PRF = šegvekos
+აქებს	შეგექოთ	V;2;PL;3;PL;SBJV;PRF = šegekot
+აქებს	შეექოთ	V;3;PL;3;PL;SBJV;PRF = šeekot
+
+
+აქებს	შექება	V;V.MSDR;PRF
+აქებს	ქება	V;V.MSDR;IPFV

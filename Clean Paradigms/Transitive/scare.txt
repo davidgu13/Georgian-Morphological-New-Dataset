@@ -1,0 +1,371 @@
+#43 - აშინებს - scare:
+Screeve #1:
+აშინებს	მაშინებ	V;2;SG;1;SG;IND;PRS = mašineb
+აშინებს	მაშინებს	V;3;SG;1;SG;IND;PRS = mašinebs
+აშინებს	მაშინებთ	V;2;PL;1;SG;IND;PRS = mašinebt
+აშინებს	მაშინებენ	V;3;PL;1;SG;IND;PRS = mašineben
+აშინებს	გაშინებ	V;1;SG;2;SG;IND;PRS = gašineb
+აშინებს	გაშინებს	V;3;SG;2;SG;IND;PRS = gašinebs
+აშინებს	გაშინებთ	V;1;PL;2;SG;IND;PRS = gašinebt
+აშინებს	გაშინებენ	V;3;PL;2;SG;IND;PRS = gašineben
+აშინებს	ვაშინებ	V;1;SG;3;SG;IND;PRS = vašineb
+აშინებს	აშინებ	V;2;SG;3;SG;IND;PRS = ašineb
+აშინებს	აშინებს	V;3;SG;3;SG;IND;PRS = ašinebs
+აშინებს	ვაშინებთ	V;1;PL;3;SG;IND;PRS = vašinebt
+აშინებს	აშინებთ	V;2;PL;3;SG;IND;PRS = ašinebt
+აშინებს	აშინებენ	V;3;PL;3;SG;IND;PRS = ašineben
+აშინებს	გვაშინებ	V;2;SG;1;PL;IND;PRS = gvašineb
+აშინებს	გვაშინებს	V;3;SG;1;PL;IND;PRS = gvašinebs
+აშინებს	გვაშინებთ	V;2;PL;1;PL;IND;PRS = gvašinebt
+აშინებს	გვაშინებენ	V;3;PL;1;PL;IND;PRS = gvašineben
+აშინებს	გაშინებთ	V;1;SG;2;PL;IND;PRS = gašinebt
+აშინებს	გაშინებთ	V;3;SG;2;PL;IND;PRS = gašinebt
+აშინებს	გაშინებთ	V;1;PL;2;PL;IND;PRS = gašinebt
+აშინებს	გაშინებენ	V;3;PL;2;PL;IND;PRS = gašineben
+აშინებს	ვაშინებ	V;1;SG;3;PL;IND;PRS = vašineb
+აშინებს	აშინებ	V;2;SG;3;PL;IND;PRS = ašineb
+აშინებს	აშინებს	V;3;SG;3;PL;IND;PRS = ašinebs
+აშინებს	ვაშინებთ	V;1;PL;3;PL;IND;PRS = vašinebt
+აშინებს	აშინებთ	V;2;PL;3;PL;IND;PRS = ašinebt
+აშინებს	აშინებენ	V;3;PL;3;PL;IND;PRS = ašineben
+
+
+Screeve #2:
+აშინებს	მაშინებდი	V;2;SG;1;SG;IND;IPFV = mašinebdi
+აშინებს	მაშინებდა	V;3;SG;1;SG;IND;IPFV = mašinebda
+აშინებს	მაშინებდით	V;2;PL;1;SG;IND;IPFV = mašinebdit
+აშინებს	მაშინებდნენ	V;3;PL;1;SG;IND;IPFV = mašinebdnen
+აშინებს	გაშინებდი	V;1;SG;2;SG;IND;IPFV = gašinebdi
+აშინებს	გაშინებდა	V;3;SG;2;SG;IND;IPFV = gašinebda
+აშინებს	გაშინებდით	V;1;PL;2;SG;IND;IPFV = gašinebdit
+აშინებს	გაშინებდნენ	V;3;PL;2;SG;IND;IPFV = gašinebdnen
+აშინებს	ვაშინებდი	V;1;SG;3;SG;IND;IPFV = vašinebdi
+აშინებს	აშინებდი	V;2;SG;3;SG;IND;IPFV = ašinebdi
+აშინებს	აშინებდა	V;3;SG;3;SG;IND;IPFV = ašinebda
+აშინებს	ვაშინებდით	V;1;PL;3;SG;IND;IPFV = vašinebdit
+აშინებს	აშინებდით	V;2;PL;3;SG;IND;IPFV = ašinebdit
+აშინებს	აშინებდნენ	V;3;PL;3;SG;IND;IPFV = ašinebdnen
+აშინებს	გვაშინებდი	V;2;SG;1;PL;IND;IPFV = gvašinebdi
+აშინებს	გვაშინებდა	V;3;SG;1;PL;IND;IPFV = gvašinebda
+აშინებს	გვაშინებდით	V;2;PL;1;PL;IND;IPFV = gvašinebdit
+აშინებს	გვაშინებდნენ	V;3;PL;1;PL;IND;IPFV = gvašinebdnen
+აშინებს	გაშინებდით	V;1;SG;2;PL;IND;IPFV = gašinebdit
+აშინებს	გაშინებდათ	V;3;SG;2;PL;IND;IPFV = gašinebdat
+აშინებს	გაშინებდით	V;1;PL;2;PL;IND;IPFV = gašinebdit
+აშინებს	გაშინებდნენ	V;3;PL;2;PL;IND;IPFV = gašinebdnen
+აშინებს	ვაშინებდი	V;1;SG;3;PL;IND;IPFV = vašinebdi
+აშინებს	აშინებდი	V;2;SG;3;PL;IND;IPFV = ašinebdi
+აშინებს	აშინებდა	V;3;SG;3;PL;IND;IPFV = ašinebda
+აშინებს	ვაშინებდით	V;1;PL;3;PL;IND;IPFV = vašinebdit
+აშინებს	აშინებდით	V;2;PL;3;PL;IND;IPFV = ašinebdit
+აშინებს	აშინებდნენ	V;3;PL;3;PL;IND;IPFV = ašinebdnen
+
+
+Screeve #3:
+აშინებს	მაშინებდე	V;2;SG;1;SG;SBJV;PRS = mašinebde
+აშინებს	მაშინებდეს	V;3;SG;1;SG;SBJV;PRS = mašinebdes
+აშინებს	მაშინებდეთ	V;2;PL;1;SG;SBJV;PRS = mašinebdet
+აშინებს	მაშინებდნენ	V;3;PL;1;SG;SBJV;PRS = mašinebdnen
+აშინებს	გაშინებდე	V;1;SG;2;SG;SBJV;PRS = gašinebde
+აშინებს	გაშინებდეს	V;3;SG;2;SG;SBJV;PRS = gašinebdes
+აშინებს	გაშინებდეთ	V;1;PL;2;SG;SBJV;PRS = gašinebdet
+აშინებს	გაშინებდნენ	V;3;PL;2;SG;SBJV;PRS = gašinebdnen
+აშინებს	ვაშინებდე	V;1;SG;3;SG;SBJV;PRS = vašinebde
+აშინებს	აშინებდე	V;2;SG;3;SG;SBJV;PRS = ašinebde
+აშინებს	აშინებდეს	V;3;SG;3;SG;SBJV;PRS = ašinebdes
+აშინებს	ვაშინებდეთ	V;1;PL;3;SG;SBJV;PRS = vašinebdet
+აშინებს	აშინებდეთ	V;2;PL;3;SG;SBJV;PRS = ašinebdet
+აშინებს	აშინებდნენ	V;3;PL;3;SG;SBJV;PRS = ašinebdnen
+აშინებს	გვაშინებდე	V;2;SG;1;PL;SBJV;PRS = gvašinebde
+აშინებს	გვაშინებდეს	V;3;SG;1;PL;SBJV;PRS = gvašinebdes
+აშინებს	გვაშინებდეთ	V;2;PL;1;PL;SBJV;PRS = gvašinebdet
+აშინებს	გვაშინებდნენ	V;3;PL;1;PL;SBJV;PRS = gvašinebdnen
+აშინებს	გაშინებდეთ	V;1;SG;2;PL;SBJV;PRS = gašinebdet
+აშინებს	გაშინებდეთ	V;3;SG;2;PL;SBJV;PRS = gašinebdet
+აშინებს	გაშინებდეთ	V;1;PL;2;PL;SBJV;PRS = gašinebdet
+აშინებს	გაშინებდნენ	V;3;PL;2;PL;SBJV;PRS = gašinebdnen
+აშინებს	ვაშინებდე	V;1;SG;3;PL;SBJV;PRS = vašinebde
+აშინებს	აშინებდე	V;2;SG;3;PL;SBJV;PRS = ašinebde
+აშინებს	აშინებდეს	V;3;SG;3;PL;SBJV;PRS = ašinebdes
+აშინებს	ვაშინებდეთ	V;1;PL;3;PL;SBJV;PRS = vašinebdet
+აშინებს	აშინებდეთ	V;2;PL;3;PL;SBJV;PRS = ašinebdet
+აშინებს	აშინებდნენ	V;3;PL;3;PL;SBJV;PRS = ašinebdnen
+
+
+Screeve #4:
+აშინებს	შემაშინებ	V;2;SG;1;SG;IND;FUT = šemašineb
+აშინებს	შემაშინებს	V;3;SG;1;SG;IND;FUT = šemašinebs
+აშინებს	შემაშინებთ	V;2;PL;1;SG;IND;FUT = šemašinebt
+აშინებს	შემაშინებენ	V;3;PL;1;SG;IND;FUT = šemašineben
+აშინებს	შეგაშინებ	V;1;SG;2;SG;IND;FUT = šegašineb
+აშინებს	შეგაშინებს	V;3;SG;2;SG;IND;FUT = šegašinebs
+აშინებს	შეგაშინებთ	V;1;PL;2;SG;IND;FUT = šegašinebt
+აშინებს	შეგაშინებენ	V;3;PL;2;SG;IND;FUT = šegašineben
+აშინებს	შევაშინებ	V;1;SG;3;SG;IND;FUT = ševašineb
+აშინებს	შეაშინებ	V;2;SG;3;SG;IND;FUT = šeašineb
+აშინებს	შეაშინებს	V;3;SG;3;SG;IND;FUT = šeašinebs
+აშინებს	შევაშინებთ	V;1;PL;3;SG;IND;FUT = ševašinebt
+აშინებს	შეაშინებთ	V;2;PL;3;SG;IND;FUT = šeašinebt
+აშინებს	შეაშინებენ	V;3;PL;3;SG;IND;FUT = šeašineben
+აშინებს	შეგვაშინებ	V;2;SG;1;PL;IND;FUT = šegvašineb
+აშინებს	შეგვაშინებს	V;3;SG;1;PL;IND;FUT = šegvašinebs
+აშინებს	შეგვაშინებთ	V;2;PL;1;PL;IND;FUT = šegvašinebt
+აშინებს	შეგვაშინებენ	V;3;PL;1;PL;IND;FUT = šegvašineben
+აშინებს	შეგაშინებთ	V;1;SG;2;PL;IND;FUT = šegašinebt
+აშინებს	შეგაშინებთ	V;3;SG;2;PL;IND;FUT = šegašinebt
+აშინებს	შეგაშინებთ	V;1;PL;2;PL;IND;FUT = šegašinebt
+აშინებს	შეგაშინებენ	V;3;PL;2;PL;IND;FUT = šegašineben
+აშინებს	შევაშინებ	V;1;SG;3;PL;IND;FUT = ševašineb
+აშინებს	შეაშინებ	V;2;SG;3;PL;IND;FUT = šeašineb
+აშინებს	შეაშინებს	V;3;SG;3;PL;IND;FUT = šeašinebs
+აშინებს	შევაშინებთ	V;1;PL;3;PL;IND;FUT = ševašinebt
+აშინებს	შეაშინებთ	V;2;PL;3;PL;IND;FUT = šeašinebt
+აშინებს	შეაშინებენ	V;3;PL;3;PL;IND;FUT = šeašineben
+
+
+Screeve #5:
+აშინებს	შემაშინებდი	V;2;SG;1;SG;COND = šemašinebdi
+აშინებს	შემაშინებდა	V;3;SG;1;SG;COND = šemašinebda
+აშინებს	შემაშინებდით	V;2;PL;1;SG;COND = šemašinebdit
+აშინებს	შემაშინებდნენ	V;3;PL;1;SG;COND = šemašinebdnen
+აშინებს	შეგაშინებდი	V;1;SG;2;SG;COND = šegašinebdi
+აშინებს	შეგაშინებდა	V;3;SG;2;SG;COND = šegašinebda
+აშინებს	შეგაშინებდით	V;1;PL;2;SG;COND = šegašinebdit
+აშინებს	შეგაშინებდნენ	V;3;PL;2;SG;COND = šegašinebdnen
+აშინებს	შევაშინებდი	V;1;SG;3;SG;COND = ševašinebdi
+აშინებს	შეაშინებდი	V;2;SG;3;SG;COND = šeašinebdi
+აშინებს	შეაშინებდა	V;3;SG;3;SG;COND = šeašinebda
+აშინებს	შევაშინებდით	V;1;PL;3;SG;COND = ševašinebdit
+აშინებს	შეაშინებდით	V;2;PL;3;SG;COND = šeašinebdit
+აშინებს	შეაშინებდნენ	V;3;PL;3;SG;COND = šeašinebdnen
+აშინებს	შეგვაშინებდი	V;2;SG;1;PL;COND = šegvašinebdi
+აშინებს	შეგვაშინებდა	V;3;SG;1;PL;COND = šegvašinebda
+აშინებს	შეგვაშინებდით	V;2;PL;1;PL;COND = šegvašinebdit
+აშინებს	შეგვაშინებდნენ	V;3;PL;1;PL;COND = šegvašinebdnen
+აშინებს	შეგაშინებდით	V;1;SG;2;PL;COND = šegašinebdit
+აშინებს	შეგაშინებდათ	V;3;SG;2;PL;COND = šegašinebdat
+აშინებს	შეგაშინებდით	V;1;PL;2;PL;COND = šegašinebdit
+აშინებს	შეგაშინებდნენ	V;3;PL;2;PL;COND = šegašinebdnen
+აშინებს	შევაშინებდი	V;1;SG;3;PL;COND = ševašinebdi
+აშინებს	შეაშინებდი	V;2;SG;3;PL;COND = šeašinebdi
+აშინებს	შეაშინებდა	V;3;SG;3;PL;COND = šeašinebda
+აშინებს	შევაშინებდით	V;1;PL;3;PL;COND = ševašinebdit
+აშინებს	შეაშინებდით	V;2;PL;3;PL;COND = šeašinebdit
+აშინებს	შეაშინებდნენ	V;3;PL;3;PL;COND = šeašinebdnen
+
+
+Screeve #6:
+აშინებს	შემაშინებდე	V;2;SG;1;SG;SBJV;FUT = šemašinebde
+აშინებს	შემაშინებდეს	V;3;SG;1;SG;SBJV;FUT = šemašinebdes
+აშინებს	შემაშინებდეთ	V;2;PL;1;SG;SBJV;FUT = šemašinebdet
+აშინებს	შემაშინებდნენ	V;3;PL;1;SG;SBJV;FUT = šemašinebdnen
+აშინებს	შეგაშინებდე	V;1;SG;2;SG;SBJV;FUT = šegašinebde
+აშინებს	შეგაშინებდეს	V;3;SG;2;SG;SBJV;FUT = šegašinebdes
+აშინებს	შეგაშინებდეთ	V;1;PL;2;SG;SBJV;FUT = šegašinebdet
+აშინებს	შეგაშინებდნენ	V;3;PL;2;SG;SBJV;FUT = šegašinebdnen
+აშინებს	შევაშინებდე	V;1;SG;3;SG;SBJV;FUT = ševašinebde
+აშინებს	შეაშინებდე	V;2;SG;3;SG;SBJV;FUT = šeašinebde
+აშინებს	შეაშინებდეს	V;3;SG;3;SG;SBJV;FUT = šeašinebdes
+აშინებს	შევაშინებდეთ	V;1;PL;3;SG;SBJV;FUT = ševašinebdet
+აშინებს	შეაშინებდეთ	V;2;PL;3;SG;SBJV;FUT = šeašinebdet
+აშინებს	შეაშინებდნენ	V;3;PL;3;SG;SBJV;FUT = šeašinebdnen
+აშინებს	შეგვაშინებდე	V;2;SG;1;PL;SBJV;FUT = šegvašinebde
+აშინებს	შეგვაშინებდეს	V;3;SG;1;PL;SBJV;FUT = šegvašinebdes
+აშინებს	შეგვაშინებდეთ	V;2;PL;1;PL;SBJV;FUT = šegvašinebdet
+აშინებს	შეგვაშინებდნენ	V;3;PL;1;PL;SBJV;FUT = šegvašinebdnen
+აშინებს	შეგაშინებდეთ	V;1;SG;2;PL;SBJV;FUT = šegašinebdet
+აშინებს	შეგაშინებდეთ	V;3;SG;2;PL;SBJV;FUT = šegašinebdet
+აშინებს	შეგაშინებდეთ	V;1;PL;2;PL;SBJV;FUT = šegašinebdet
+აშინებს	შეგაშინებდნენ	V;3;PL;2;PL;SBJV;FUT = šegašinebdnen
+აშინებს	შევაშინებდე	V;1;SG;3;PL;SBJV;FUT = ševašinebde
+აშინებს	შეაშინებდე	V;2;SG;3;PL;SBJV;FUT = šeašinebde
+აშინებს	შეაშინებდეს	V;3;SG;3;PL;SBJV;FUT = šeašinebdes
+აშინებს	შევაშინებდეთ	V;1;PL;3;PL;SBJV;FUT = ševašinebdet
+აშინებს	შეაშინებდეთ	V;2;PL;3;PL;SBJV;FUT = šeašinebdet
+აშინებს	შეაშინებდნენ	V;3;PL;3;PL;SBJV;FUT = šeašinebdnen
+
+
+Screeve #7:
+აშინებს	შემაშინე	V;2;SG;1;SG;IND;PST;PFV = šemašine
+აშინებს	შემაშინა	V;3;SG;1;SG;IND;PST;PFV = šemašina
+აშინებს	შემაშინეთ	V;2;PL;1;SG;IND;PST;PFV = šemašinet
+აშინებს	შემაშინეს	V;3;PL;1;SG;IND;PST;PFV = šemašines
+აშინებს	შეგაშინე	V;1;SG;2;SG;IND;PST;PFV = šegašine
+აშინებს	შეგაშინა	V;3;SG;2;SG;IND;PST;PFV = šegašina
+აშინებს	შეგაშინეთ	V;1;PL;2;SG;IND;PST;PFV = šegašinet
+აშინებს	შეგაშინეს	V;3;PL;2;SG;IND;PST;PFV = šegašines
+აშინებს	შევაშინე	V;1;SG;3;SG;IND;PST;PFV = ševašine
+აშინებს	შეაშინე	V;2;SG;3;SG;IND;PST;PFV = šeašine
+აშინებს	შეაშინა	V;3;SG;3;SG;IND;PST;PFV = šeašina
+აშინებს	შევაშინეთ	V;1;PL;3;SG;IND;PST;PFV = ševašinet
+აშინებს	შეაშინეთ	V;2;PL;3;SG;IND;PST;PFV = šeašinet
+აშინებს	შეაშინეს	V;3;PL;3;SG;IND;PST;PFV = šeašines
+აშინებს	შეგვაშინე	V;2;SG;1;PL;IND;PST;PFV = šegvašine
+აშინებს	შეგვაშინა	V;3;SG;1;PL;IND;PST;PFV = šegvašina
+აშინებს	შეგვაშინეთ	V;2;PL;1;PL;IND;PST;PFV = šegvašinet
+აშინებს	შეგვაშინეს	V;3;PL;1;PL;IND;PST;PFV = šegvašines
+აშინებს	შეგაშინეთ	V;1;SG;2;PL;IND;PST;PFV = šegašinet
+აშინებს	შეგაშინათ	V;3;SG;2;PL;IND;PST;PFV = šegašinat
+აშინებს	შეგაშინეთ	V;1;PL;2;PL;IND;PST;PFV = šegašinet
+აშინებს	შეგაშინეს	V;3;PL;2;PL;IND;PST;PFV = šegašines
+აშინებს	შევაშინე	V;1;SG;3;PL;IND;PST;PFV = ševašine
+აშინებს	შეაშინე	V;2;SG;3;PL;IND;PST;PFV = šeašine
+აშინებს	შეაშინა	V;3;SG;3;PL;IND;PST;PFV = šeašina
+აშინებს	შევაშინეთ	V;1;PL;3;PL;IND;PST;PFV = ševašinet
+აშინებს	შეაშინეთ	V;2;PL;3;PL;IND;PST;PFV = šeašinet
+აშინებს	შეაშინეს	V;3;PL;3;PL;IND;PST;PFV = šeašines
+
+აშინებს	შემაშინე	V;2;SG;1;SG;IMP = šemašine
+აშინებს	შემაშინეთ	V;2;PL;1;SG;IMP = šemašinet
+აშინებს	შეაშინე	V;2;SG;3;SG;IMP = šeašine
+აშინებს	შეაშინეთ	V;2;PL;3;SG;IMP = šeašinet
+აშინებს	შეგვაშინე	V;2;SG;1;PL;IMP = šegvašine
+აშინებს	შეგვაშინეთ	V;2;PL;1;PL;IMP = šegvašinet
+აშინებს	შეაშინე	V;2;SG;3;PL;IMP = šeašine
+აშინებს	შეაშინეთ	V;2;PL;3;PL;IMP = šeašinet
+
+
+
+Screeve #8:
+აშინებს	შემაშინო	V;2;SG;1;SG;OPT = šemašino
+აშინებს	შემაშინოს	V;3;SG;1;SG;OPT = šemašinos
+აშინებს	შემაშინოთ	V;2;PL;1;SG;OPT = šemašinot
+აშინებს	შემაშინონ	V;3;PL;1;SG;OPT = šemašinon
+აშინებს	შეგაშინო	V;1;SG;2;SG;OPT = šegašino
+აშინებს	შეგაშინოს	V;3;SG;2;SG;OPT = šegašinos
+აშინებს	შეგაშინოთ	V;1;PL;2;SG;OPT = šegašinot
+აშინებს	შეგაშინონ	V;3;PL;2;SG;OPT = šegašinon
+აშინებს	შევაშინო	V;1;SG;3;SG;OPT = ševašino
+აშინებს	შეაშინო	V;2;SG;3;SG;OPT = šeašino
+აშინებს	შეაშინოს	V;3;SG;3;SG;OPT = šeašinos
+აშინებს	შევაშინოთ	V;1;PL;3;SG;OPT = ševašinot
+აშინებს	შეაშინოთ	V;2;PL;3;SG;OPT = šeašinot
+აშინებს	შეაშინონ	V;3;PL;3;SG;OPT = šeašinon
+აშინებს	შეგვაშინო	V;2;SG;1;PL;OPT = šegvašino
+აშინებს	შეგვაშინოს	V;3;SG;1;PL;OPT = šegvašinos
+აშინებს	შეგვაშინოთ	V;2;PL;1;PL;OPT = šegvašinot
+აშინებს	შეგვაშინონ	V;3;PL;1;PL;OPT = šegvašinon
+აშინებს	შეგაშინოთ	V;1;SG;2;PL;OPT = šegašinot
+აშინებს	შეგაშინოთ	V;3;SG;2;PL;OPT = šegašinot
+აშინებს	შეგაშინოთ	V;1;PL;2;PL;OPT = šegašinot
+აშინებს	შეგაშინოთ	V;3;PL;2;PL;OPT = šegašinot
+აშინებს	შევაშინო	V;1;SG;3;PL;OPT = ševašino
+აშინებს	შეაშინო	V;2;SG;3;PL;OPT = šeašino
+აშინებს	შეაშინოს	V;3;SG;3;PL;OPT = šeašinos
+აშინებს	შევაშინოთ	V;1;PL;3;PL;OPT = ševašinot
+აშინებს	შეაშინოთ	V;2;PL;3;PL;OPT = šeašinot
+აშინებს	შეაშინონ	V;3;PL;3;PL;OPT = šeašinon
+
+აშინებს	შემაშინონ	V;3;PL;1;SG;IMP = šemašinon
+აშინებს	შემაშინოს	V;3;SG;1;SG;IMP = šemašinos
+აშინებს	შეგაშინონ	V;3;PL;2;SG;IMP = šegašinon
+აშინებს	შეგაშინოს	V;3;SG;2;SG;IMP = šegašinos
+აშინებს	შეგაშინოთ	V;1;PL;2;SG;IMP = šegašinot
+აშინებს	შეაშინონ	V;3;PL;3;SG;IMP = šeašinon
+აშინებს	შეაშინოს	V;3;SG;3;SG;IMP = šeašinos
+აშინებს	შევაშინოთ	V;1;PL;3;SG;IMP = ševašinot
+აშინებს	შეგვაშინონ	V;3;PL;1;PL;IMP = šegvašinon
+აშინებს	შეგვაშინოს	V;3;SG;1;PL;IMP = šegvašinos
+აშინებს	შეგაშინოთ	V;3;PL;2;PL;IMP = šegašinot
+აშინებს	შეგაშინოთ	V;3;SG;2;PL;IMP = šegašinot
+აშინებს	შეგაშინოთ	V;1;PL;2;PL;IMP = šegašinot
+აშინებს	შეაშინონ	V;3;PL;3;PL;IMP = šeašinon
+აშინებს	შეაშინოს	V;3;SG;3;PL;IMP = šeašinos
+აშინებს	შევაშინოთ	V;1;PL;3;PL;IMP = ševašinot
+
+
+
+Screeve #9:
+აშინებს	შეგიშინებივარ	V;2;SG;1;SG;IND;PRF = šegišinebivar
+აშინებს	შევუშინებივარ	V;3;SG;1;SG;IND;PRF = ševušinebivar
+აშინებს	შეგიშინებივართ	V;2;PL;1;SG;IND;PRF = šegišinebivart
+აშინებს	შევუშინებივართ	V;3;PL;1;SG;IND;PRF = ševušinebivart
+აშინებს	შემიშინებიხარ	V;1;SG;2;SG;IND;PRF = šemišinebixar
+აშინებს	შეუშინებიხარ	V;3;SG;2;SG;IND;PRF = šeušinebixar
+აშინებს	შეგვიშინებიხარ	V;1;PL;2;SG;IND;PRF = šegvišinebixar
+აშინებს	შეუშინებიხართ	V;3;PL;2;SG;IND;PRF = šeušinebixart
+აშინებს	შემიშინებია	V;1;SG;3;SG;IND;PRF = šemišinebia
+აშინებს	შეგიშინებია	V;2;SG;3;SG;IND;PRF = šegišinebia
+აშინებს	შეუშინებია	V;3;SG;3;SG;IND;PRF = šeušinebia
+აშინებს	შეგვიშინებია	V;1;PL;3;SG;IND;PRF = šegvišinebia
+აშინებს	შეგიშინებიათ	V;2;PL;3;SG;IND;PRF = šegišinebiat
+აშინებს	შეუშინებიათ	V;3;PL;3;SG;IND;PRF = šeušinebiat
+აშინებს	შეგიშინებივართ	V;2;SG;1;PL;IND;PRF = šegišinebivart
+აშინებს	შევუშინებივართ	V;3;SG;1;PL;IND;PRF = ševušinebivart
+აშინებს	შეგიშინებივართ	V;2;PL;1;PL;IND;PRF = šegišinebivart
+აშინებს	შევუშინებივართ	V;3;PL;1;PL;IND;PRF = ševušinebivart
+აშინებს	შემიშინებიხართ	V;1;SG;2;PL;IND;PRF = šemišinebixart
+აშინებს	შეუშინებიხართ	V;3;SG;2;PL;IND;PRF = šeušinebixart
+აშინებს	შეგვიშინებიხართ	V;1;PL;2;PL;IND;PRF = šegvišinebixart
+აშინებს	შეუშინებიხართ	V;3;PL;2;PL;IND;PRF = šeušinebixart
+აშინებს	შემიშინებია	V;1;SG;3;PL;IND;PRF = šemišinebia
+აშინებს	შეგიშინებია	V;2;SG;3;PL;IND;PRF = šegišinebia
+აშინებს	შეუშინებია	V;3;SG;3;PL;IND;PRF = šeušinebia
+აშინებს	შეგვიშინებია	V;1;PL;3;PL;IND;PRF = šegvišinebia
+აშინებს	შეგიშინებიათ	V;2;PL;3;PL;IND;PRF = šegišinebiat
+აშინებს	შეუშინებიათ	V;3;PL;3;PL;IND;PRF = šeušinebiat
+
+
+Screeve #10:
+აშინებს	შეგეშინებინე	V;2;SG;1;SG;IND;PST;PRF = šegešinebine
+აშინებს	შევეშინებინე	V;3;SG;1;SG;IND;PST;PRF = ševešinebine
+აშინებს	შეგეშინებინეთ	V;2;PL;1;SG;IND;PST;PRF = šegešinebinet
+აშინებს	შევეშინებინეთ	V;3;PL;1;SG;IND;PST;PRF = ševešinebinet
+აშინებს	შემეშინებინე	V;1;SG;2;SG;IND;PST;PRF = šemešinebine
+აშინებს	შეეშინებინე	V;3;SG;2;SG;IND;PST;PRF = šeešinebine
+აშინებს	შეგვეშინებინე	V;1;PL;2;SG;IND;PST;PRF = šegvešinebine
+აშინებს	შეეშინებინეთ	V;3;PL;2;SG;IND;PST;PRF = šeešinebinet
+აშინებს	შემეშინებინა	V;1;SG;3;SG;IND;PST;PRF = šemešinebina
+აშინებს	შეგეშინებინა	V;2;SG;3;SG;IND;PST;PRF = šegešinebina
+აშინებს	შეეშინებინა	V;3;SG;3;SG;IND;PST;PRF = šeešinebina
+აშინებს	შეგვეშინებინა	V;1;PL;3;SG;IND;PST;PRF = šegvešinebina
+აშინებს	შეგეშინებინათ	V;2;PL;3;SG;IND;PST;PRF = šegešinebinat
+აშინებს	შეეშინებინათ	V;3;PL;3;SG;IND;PST;PRF = šeešinebinat
+აშინებს	შეგეშინებინეთ	V;2;SG;1;PL;IND;PST;PRF = šegešinebinet
+აშინებს	შევეშინებინეთ	V;3;SG;1;PL;IND;PST;PRF = ševešinebinet
+აშინებს	შეგეშინებინეთ	V;2;PL;1;PL;IND;PST;PRF = šegešinebinet
+აშინებს	შევეშინებინეთ	V;3;PL;1;PL;IND;PST;PRF = ševešinebinet
+აშინებს	შემეშინებინეთ	V;1;SG;2;PL;IND;PST;PRF = šemešinebinet
+აშინებს	შეეშინებინეთ	V;3;SG;2;PL;IND;PST;PRF = šeešinebinet
+აშინებს	შეგვეშინებინეთ	V;1;PL;2;PL;IND;PST;PRF = šegvešinebinet
+აშინებს	შეეშინებინეთ	V;3;PL;2;PL;IND;PST;PRF = šeešinebinet
+აშინებს	შემეშინებინა	V;1;SG;3;PL;IND;PST;PRF = šemešinebina
+აშინებს	შეგეშინებინა	V;2;SG;3;PL;IND;PST;PRF = šegešinebina
+აშინებს	შეეშინებინა	V;3;SG;3;PL;IND;PST;PRF = šeešinebina
+აშინებს	შეგვეშინებინა	V;1;PL;3;PL;IND;PST;PRF = šegvešinebina
+აშინებს	შეგეშინებინათ	V;2;PL;3;PL;IND;PST;PRF = šegešinebinat
+აშინებს	შეეშინებინათ	V;3;PL;3;PL;IND;PST;PRF = šeešinebinat
+
+
+Screeve #11:
+აშინებს	შეგეშინებინო	V;2;SG;1;SG;SBJV;PRF = šegešinebino
+აშინებს	შევეშინებინო	V;3;SG;1;SG;SBJV;PRF = ševešinebino
+აშინებს	შეგეშინებინოთ	V;2;PL;1;SG;SBJV;PRF = šegešinebinot
+აშინებს	შევეშინებინოთ	V;3;PL;1;SG;SBJV;PRF = ševešinebinot
+აშინებს	შემეშინებინო	V;1;SG;2;SG;SBJV;PRF = šemešinebino
+აშინებს	შეეშინებინო	V;3;SG;2;SG;SBJV;PRF = šeešinebino
+აშინებს	შეგვეშინებინო	V;1;PL;2;SG;SBJV;PRF = šegvešinebino
+აშინებს	შეეშინებინოთ	V;3;PL;2;SG;SBJV;PRF = šeešinebinot
+აშინებს	შემეშინებინოს	V;1;SG;3;SG;SBJV;PRF = šemešinebinos
+აშინებს	შეგეშინებინოს	V;2;SG;3;SG;SBJV;PRF = šegešinebinos
+აშინებს	შეეშინებინოს	V;3;SG;3;SG;SBJV;PRF = šeešinebinos
+აშინებს	შეგვეშინებინოს	V;1;PL;3;SG;SBJV;PRF = šegvešinebinos
+აშინებს	შეგეშინებინოთ	V;2;PL;3;SG;SBJV;PRF = šegešinebinot
+აშინებს	შეეშინებინოთ	V;3;PL;3;SG;SBJV;PRF = šeešinebinot
+აშინებს	შეგეშინებინოთ	V;2;SG;1;PL;SBJV;PRF = šegešinebinot
+აშინებს	შევეშინებინოთ	V;3;SG;1;PL;SBJV;PRF = ševešinebinot
+აშინებს	შეგეშინებინოთ	V;2;PL;1;PL;SBJV;PRF = šegešinebinot
+აშინებს	შევეშინებინოთ	V;3;PL;1;PL;SBJV;PRF = ševešinebinot
+აშინებს	შემეშინებინოთ	V;1;SG;2;PL;SBJV;PRF = šemešinebinot
+აშინებს	შეეშინებინოთ	V;3;SG;2;PL;SBJV;PRF = šeešinebinot
+აშინებს	შეგვეშინებინოთ	V;1;PL;2;PL;SBJV;PRF = šegvešinebinot
+აშინებს	შეეშინებინოთ	V;3;PL;2;PL;SBJV;PRF = šeešinebinot
+აშინებს	შემეშინებინოს	V;1;SG;3;PL;SBJV;PRF = šemešinebinos
+აშინებს	შეგეშინებინოს	V;2;SG;3;PL;SBJV;PRF = šegešinebinos
+აშინებს	შეეშინებინოს	V;3;SG;3;PL;SBJV;PRF = šeešinebinos
+აშინებს	შეგვეშინებინოს	V;1;PL;3;PL;SBJV;PRF = šegvešinebinos
+აშინებს	შეგეშინებინოთ	V;2;PL;3;PL;SBJV;PRF = šegešinebinot
+აშინებს	შეეშინებინოთ	V;3;PL;3;PL;SBJV;PRF = šeešinebinot
+
+
+აშინებს	შეშინება	V;V.MSDR;PRF

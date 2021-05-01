@@ -1,0 +1,371 @@
+#13 - ანგრევს - ruin:
+Screeve #1:
+ანგრევს	მანგრევ	V;2;SG;1;SG;IND;PRS = mangrev
+ანგრევს	მანგრევს	V;3;SG;1;SG;IND;PRS = mangrevs
+ანგრევს	მანგრევთ	V;2;PL;1;SG;IND;PRS = mangrevt
+ანგრევს	მანგრევენ	V;3;PL;1;SG;IND;PRS = mangreven
+ანგრევს	განგრევ	V;1;SG;2;SG;IND;PRS = gangrev
+ანგრევს	განგრევს	V;3;SG;2;SG;IND;PRS = gangrevs
+ანგრევს	განგრევთ	V;1;PL;2;SG;IND;PRS = gangrevt
+ანგრევს	განგრევენ	V;3;PL;2;SG;IND;PRS = gangreven
+ანგრევს	ვანგრევ	V;1;SG;3;SG;IND;PRS = vangrev
+ანგრევს	ანგრევ	V;2;SG;3;SG;IND;PRS = angrev
+ანგრევს	ანგრევს	V;3;SG;3;SG;IND;PRS = angrevs
+ანგრევს	ვანგრევთ	V;1;PL;3;SG;IND;PRS = vangrevt
+ანგრევს	ანგრევთ	V;2;PL;3;SG;IND;PRS = angrevt
+ანგრევს	ანგრევენ	V;3;PL;3;SG;IND;PRS = angreven
+ანგრევს	გვანგრევ	V;2;SG;1;PL;IND;PRS = gvangrev
+ანგრევს	გვანგრევს	V;3;SG;1;PL;IND;PRS = gvangrevs
+ანგრევს	გვანგრევთ	V;2;PL;1;PL;IND;PRS = gvangrevt
+ანგრევს	გვანგრევენ	V;3;PL;1;PL;IND;PRS = gvangreven
+ანგრევს	განგრევთ	V;1;SG;2;PL;IND;PRS = gangrevt
+ანგრევს	განგრევთ	V;3;SG;2;PL;IND;PRS = gangrevt
+ანგრევს	განგრევთ	V;1;PL;2;PL;IND;PRS = gangrevt
+ანგრევს	განგრევენ	V;3;PL;2;PL;IND;PRS = gangreven
+ანგრევს	ვანგრევ	V;1;SG;3;PL;IND;PRS = vangrev
+ანგრევს	ანგრევ	V;2;SG;3;PL;IND;PRS = angrev
+ანგრევს	ანგრევს	V;3;SG;3;PL;IND;PRS = angrevs
+ანგრევს	ვანგრევთ	V;1;PL;3;PL;IND;PRS = vangrevt
+ანგრევს	ანგრევთ	V;2;PL;3;PL;IND;PRS = angrevt
+ანგრევს	ანგრევენ	V;3;PL;3;PL;IND;PRS = angreven
+
+
+Screeve #2:
+ანგრევს	მანგრევდი	V;2;SG;1;SG;IND;IPFV = mangrevdi
+ანგრევს	მანგრევდა	V;3;SG;1;SG;IND;IPFV = mangrevda
+ანგრევს	მანგრევდით	V;2;PL;1;SG;IND;IPFV = mangrevdit
+ანგრევს	მანგრევდნენ	V;3;PL;1;SG;IND;IPFV = mangrevdnen
+ანგრევს	განგრევდი	V;1;SG;2;SG;IND;IPFV = gangrevdi
+ანგრევს	განგრევდა	V;3;SG;2;SG;IND;IPFV = gangrevda
+ანგრევს	განგრევდით	V;1;PL;2;SG;IND;IPFV = gangrevdit
+ანგრევს	განგრევდნენ	V;3;PL;2;SG;IND;IPFV = gangrevdnen
+ანგრევს	ვანგრევდი	V;1;SG;3;SG;IND;IPFV = vangrevdi
+ანგრევს	ანგრევდი	V;2;SG;3;SG;IND;IPFV = angrevdi
+ანგრევს	ანგრევდა	V;3;SG;3;SG;IND;IPFV = angrevda
+ანგრევს	ვანგრევდით	V;1;PL;3;SG;IND;IPFV = vangrevdit
+ანგრევს	ანგრევდით	V;2;PL;3;SG;IND;IPFV = angrevdit
+ანგრევს	ანგრევდნენ	V;3;PL;3;SG;IND;IPFV = angrevdnen
+ანგრევს	გვანგრევდი	V;2;SG;1;PL;IND;IPFV = gvangrevdi
+ანგრევს	გვანგრევდა	V;3;SG;1;PL;IND;IPFV = gvangrevda
+ანგრევს	გვანგრევდით	V;2;PL;1;PL;IND;IPFV = gvangrevdit
+ანგრევს	გვანგრევდნენ	V;3;PL;1;PL;IND;IPFV = gvangrevdnen
+ანგრევს	განგრევდით	V;1;SG;2;PL;IND;IPFV = gangrevdit
+ანგრევს	განგრევდათ	V;3;SG;2;PL;IND;IPFV = gangrevdat
+ანგრევს	განგრევდით	V;1;PL;2;PL;IND;IPFV = gangrevdit
+ანგრევს	განგრევდნენ	V;3;PL;2;PL;IND;IPFV = gangrevdnen
+ანგრევს	ვანგრევდი	V;1;SG;3;PL;IND;IPFV = vangrevdi
+ანგრევს	ანგრევდი	V;2;SG;3;PL;IND;IPFV = angrevdi
+ანგრევს	ანგრევდა	V;3;SG;3;PL;IND;IPFV = angrevda
+ანგრევს	ვანგრევდით	V;1;PL;3;PL;IND;IPFV = vangrevdit
+ანგრევს	ანგრევდით	V;2;PL;3;PL;IND;IPFV = angrevdit
+ანგრევს	ანგრევდნენ	V;3;PL;3;PL;IND;IPFV = angrevdnen
+
+
+Screeve #3:
+ანგრევს	მანგრევდე	V;2;SG;1;SG;SBJV;PRS = mangrevde
+ანგრევს	მანგრევდეს	V;3;SG;1;SG;SBJV;PRS = mangrevdes
+ანგრევს	მანგრევდეთ	V;2;PL;1;SG;SBJV;PRS = mangrevdet
+ანგრევს	მანგრევდნენ	V;3;PL;1;SG;SBJV;PRS = mangrevdnen
+ანგრევს	განგრევდე	V;1;SG;2;SG;SBJV;PRS = gangrevde
+ანგრევს	განგრევდეს	V;3;SG;2;SG;SBJV;PRS = gangrevdes
+ანგრევს	განგრევდეთ	V;1;PL;2;SG;SBJV;PRS = gangrevdet
+ანგრევს	განგრევდნენ	V;3;PL;2;SG;SBJV;PRS = gangrevdnen
+ანგრევს	ვანგრევდე	V;1;SG;3;SG;SBJV;PRS = vangrevde
+ანგრევს	ანგრევდე	V;2;SG;3;SG;SBJV;PRS = angrevde
+ანგრევს	ანგრევდეს	V;3;SG;3;SG;SBJV;PRS = angrevdes
+ანგრევს	ვანგრევდეთ	V;1;PL;3;SG;SBJV;PRS = vangrevdet
+ანგრევს	ანგრევდეთ	V;2;PL;3;SG;SBJV;PRS = angrevdet
+ანგრევს	ანგრევდნენ	V;3;PL;3;SG;SBJV;PRS = angrevdnen
+ანგრევს	გვანგრევდე	V;2;SG;1;PL;SBJV;PRS = gvangrevde
+ანგრევს	გვანგრევდეს	V;3;SG;1;PL;SBJV;PRS = gvangrevdes
+ანგრევს	გვანგრევდეთ	V;2;PL;1;PL;SBJV;PRS = gvangrevdet
+ანგრევს	გვანგრევდნენ	V;3;PL;1;PL;SBJV;PRS = gvangrevdnen
+ანგრევს	განგრევდეთ	V;1;SG;2;PL;SBJV;PRS = gangrevdet
+ანგრევს	განგრევდეთ	V;3;SG;2;PL;SBJV;PRS = gangrevdet
+ანგრევს	განგრევდეთ	V;1;PL;2;PL;SBJV;PRS = gangrevdet
+ანგრევს	განგრევდნენ	V;3;PL;2;PL;SBJV;PRS = gangrevdnen
+ანგრევს	ვანგრევდე	V;1;SG;3;PL;SBJV;PRS = vangrevde
+ანგრევს	ანგრევდე	V;2;SG;3;PL;SBJV;PRS = angrevde
+ანგრევს	ანგრევდეს	V;3;SG;3;PL;SBJV;PRS = angrevdes
+ანგრევს	ვანგრევდეთ	V;1;PL;3;PL;SBJV;PRS = vangrevdet
+ანგრევს	ანგრევდეთ	V;2;PL;3;PL;SBJV;PRS = angrevdet
+ანგრევს	ანგრევდნენ	V;3;PL;3;PL;SBJV;PRS = angrevdnen
+
+
+Screeve #4:
+ანგრევს	დამანგრევ	V;2;SG;1;SG;IND;FUT = damangrev
+ანგრევს	დამანგრევს	V;3;SG;1;SG;IND;FUT = damangrevs
+ანგრევს	დამანგრევთ	V;2;PL;1;SG;IND;FUT = damangrevt
+ანგრევს	დამანგრევენ	V;3;PL;1;SG;IND;FUT = damangreven
+ანგრევს	დაგანგრევ	V;1;SG;2;SG;IND;FUT = dagangrev
+ანგრევს	დაგანგრევს	V;3;SG;2;SG;IND;FUT = dagangrevs
+ანგრევს	დაგანგრევთ	V;1;PL;2;SG;IND;FUT = dagangrevt
+ანგრევს	დაგანგრევენ	V;3;PL;2;SG;IND;FUT = dagangreven
+ანგრევს	დავანგრევ	V;1;SG;3;SG;IND;FUT = davangrev
+ანგრევს	დაანგრევ	V;2;SG;3;SG;IND;FUT = daangrev
+ანგრევს	დაანგრევს	V;3;SG;3;SG;IND;FUT = daangrevs
+ანგრევს	დავანგრევთ	V;1;PL;3;SG;IND;FUT = davangrevt
+ანგრევს	დაანგრევთ	V;2;PL;3;SG;IND;FUT = daangrevt
+ანგრევს	დაანგრევენ	V;3;PL;3;SG;IND;FUT = daangreven
+ანგრევს	დაგვანგრევ	V;2;SG;1;PL;IND;FUT = dagvangrev
+ანგრევს	დაგვანგრევს	V;3;SG;1;PL;IND;FUT = dagvangrevs
+ანგრევს	დაგვანგრევთ	V;2;PL;1;PL;IND;FUT = dagvangrevt
+ანგრევს	დაგვანგრევენ	V;3;PL;1;PL;IND;FUT = dagvangreven
+ანგრევს	დაგანგრევთ	V;1;SG;2;PL;IND;FUT = dagangrevt
+ანგრევს	დაგანგრევთ	V;3;SG;2;PL;IND;FUT = dagangrevt
+ანგრევს	დაგანგრევთ	V;1;PL;2;PL;IND;FUT = dagangrevt
+ანგრევს	დაგანგრევენ	V;3;PL;2;PL;IND;FUT = dagangreven
+ანგრევს	დავანგრევ	V;1;SG;3;PL;IND;FUT = davangrev
+ანგრევს	დაანგრევ	V;2;SG;3;PL;IND;FUT = daangrev
+ანგრევს	დაანგრევს	V;3;SG;3;PL;IND;FUT = daangrevs
+ანგრევს	დავანგრევთ	V;1;PL;3;PL;IND;FUT = davangrevt
+ანგრევს	დაანგრევთ	V;2;PL;3;PL;IND;FUT = daangrevt
+ანგრევს	დაანგრევენ	V;3;PL;3;PL;IND;FUT = daangreven
+
+
+Screeve #5:
+ანგრევს	დამანგრევდი	V;2;SG;1;SG;COND = damangrevdi
+ანგრევს	დამანგრევდა	V;3;SG;1;SG;COND = damangrevda
+ანგრევს	დამანგრევდით	V;2;PL;1;SG;COND = damangrevdit
+ანგრევს	დამანგრევდნენ	V;3;PL;1;SG;COND = damangrevdnen
+ანგრევს	დაგანგრევდი	V;1;SG;2;SG;COND = dagangrevdi
+ანგრევს	დაგანგრევდა	V;3;SG;2;SG;COND = dagangrevda
+ანგრევს	დაგანგრევდით	V;1;PL;2;SG;COND = dagangrevdit
+ანგრევს	დაგანგრევდნენ	V;3;PL;2;SG;COND = dagangrevdnen
+ანგრევს	დავანგრევდი	V;1;SG;3;SG;COND = davangrevdi
+ანგრევს	დაანგრევდი	V;2;SG;3;SG;COND = daangrevdi
+ანგრევს	დაანგრევდა	V;3;SG;3;SG;COND = daangrevda
+ანგრევს	დავანგრევდით	V;1;PL;3;SG;COND = davangrevdit
+ანგრევს	დაანგრევდით	V;2;PL;3;SG;COND = daangrevdit
+ანგრევს	დაანგრევდნენ	V;3;PL;3;SG;COND = daangrevdnen
+ანგრევს	დაგვანგრევდი	V;2;SG;1;PL;COND = dagvangrevdi
+ანგრევს	დაგვანგრევდა	V;3;SG;1;PL;COND = dagvangrevda
+ანგრევს	დაგვანგრევდით	V;2;PL;1;PL;COND = dagvangrevdit
+ანგრევს	დაგვანგრევდნენ	V;3;PL;1;PL;COND = dagvangrevdnen
+ანგრევს	დაგანგრევდით	V;1;SG;2;PL;COND = dagangrevdit
+ანგრევს	დაგანგრევდათ	V;3;SG;2;PL;COND = dagangrevdat
+ანგრევს	დაგანგრევდით	V;1;PL;2;PL;COND = dagangrevdit
+ანგრევს	დაგანგრევდნენ	V;3;PL;2;PL;COND = dagangrevdnen
+ანგრევს	დავანგრევდი	V;1;SG;3;PL;COND = davangrevdi
+ანგრევს	დაანგრევდი	V;2;SG;3;PL;COND = daangrevdi
+ანგრევს	დაანგრევდა	V;3;SG;3;PL;COND = daangrevda
+ანგრევს	დავანგრევდით	V;1;PL;3;PL;COND = davangrevdit
+ანგრევს	დაანგრევდით	V;2;PL;3;PL;COND = daangrevdit
+ანგრევს	დაანგრევდნენ	V;3;PL;3;PL;COND = daangrevdnen
+
+
+Screeve #6:
+ანგრევს	დამანგრევდე	V;2;SG;1;SG;SBJV;FUT = damangrevde
+ანგრევს	დამანგრევდეს	V;3;SG;1;SG;SBJV;FUT = damangrevdes
+ანგრევს	დამანგრევდეთ	V;2;PL;1;SG;SBJV;FUT = damangrevdet
+ანგრევს	დამანგრევდნენ	V;3;PL;1;SG;SBJV;FUT = damangrevdnen
+ანგრევს	დაგანგრევდე	V;1;SG;2;SG;SBJV;FUT = dagangrevde
+ანგრევს	დაგანგრევდეს	V;3;SG;2;SG;SBJV;FUT = dagangrevdes
+ანგრევს	დაგანგრევდეთ	V;1;PL;2;SG;SBJV;FUT = dagangrevdet
+ანგრევს	დაგანგრევდნენ	V;3;PL;2;SG;SBJV;FUT = dagangrevdnen
+ანგრევს	დავანგრევდე	V;1;SG;3;SG;SBJV;FUT = davangrevde
+ანგრევს	დაანგრევდე	V;2;SG;3;SG;SBJV;FUT = daangrevde
+ანგრევს	დაანგრევდეს	V;3;SG;3;SG;SBJV;FUT = daangrevdes
+ანგრევს	დავანგრევდეთ	V;1;PL;3;SG;SBJV;FUT = davangrevdet
+ანგრევს	დაანგრევდეთ	V;2;PL;3;SG;SBJV;FUT = daangrevdet
+ანგრევს	დაანგრევდნენ	V;3;PL;3;SG;SBJV;FUT = daangrevdnen
+ანგრევს	დაგვანგრევდე	V;2;SG;1;PL;SBJV;FUT = dagvangrevde
+ანგრევს	დაგვანგრევდეს	V;3;SG;1;PL;SBJV;FUT = dagvangrevdes
+ანგრევს	დაგვანგრევდეთ	V;2;PL;1;PL;SBJV;FUT = dagvangrevdet
+ანგრევს	დაგვანგრევდნენ	V;3;PL;1;PL;SBJV;FUT = dagvangrevdnen
+ანგრევს	დაგანგრევდეთ	V;1;SG;2;PL;SBJV;FUT = dagangrevdet
+ანგრევს	დაგანგრევდეთ	V;3;SG;2;PL;SBJV;FUT = dagangrevdet
+ანგრევს	დაგანგრევდეთ	V;1;PL;2;PL;SBJV;FUT = dagangrevdet
+ანგრევს	დაგანგრევდნენ	V;3;PL;2;PL;SBJV;FUT = dagangrevdnen
+ანგრევს	დავანგრევდე	V;1;SG;3;PL;SBJV;FUT = davangrevde
+ანგრევს	დაანგრევდე	V;2;SG;3;PL;SBJV;FUT = daangrevde
+ანგრევს	დაანგრევდეს	V;3;SG;3;PL;SBJV;FUT = daangrevdes
+ანგრევს	დავანგრევდეთ	V;1;PL;3;PL;SBJV;FUT = davangrevdet
+ანგრევს	დაანგრევდეთ	V;2;PL;3;PL;SBJV;FUT = daangrevdet
+ანგრევს	დაანგრევდნენ	V;3;PL;3;PL;SBJV;FUT = daangrevdnen
+
+
+Screeve #7:
+ანგრევს	დამანგრიე	V;2;SG;1;SG;IND;PST;PFV = damangrie
+ანგრევს	დამანგრია	V;3;SG;1;SG;IND;PST;PFV = damangria
+ანგრევს	დამანგრიეთ	V;2;PL;1;SG;IND;PST;PFV = damangriet
+ანგრევს	დამანგრიეს	V;3;PL;1;SG;IND;PST;PFV = damangries
+ანგრევს	დაგანგრიე	V;1;SG;2;SG;IND;PST;PFV = dagangrie
+ანგრევს	დაგანგრია	V;3;SG;2;SG;IND;PST;PFV = dagangria
+ანგრევს	დაგანგრიეთ	V;1;PL;2;SG;IND;PST;PFV = dagangriet
+ანგრევს	დაგანგრიეს	V;3;PL;2;SG;IND;PST;PFV = dagangries
+ანგრევს	დავანგრიე	V;1;SG;3;SG;IND;PST;PFV = davangrie
+ანგრევს	დაანგრიე	V;2;SG;3;SG;IND;PST;PFV = daangrie
+ანგრევს	დაანგრია	V;3;SG;3;SG;IND;PST;PFV = daangria
+ანგრევს	დავანგრიეთ	V;1;PL;3;SG;IND;PST;PFV = davangriet
+ანგრევს	დაანგრიეთ	V;2;PL;3;SG;IND;PST;PFV = daangriet
+ანგრევს	დაანგრიეს	V;3;PL;3;SG;IND;PST;PFV = daangries
+ანგრევს	დაგვანგრიე	V;2;SG;1;PL;IND;PST;PFV = dagvangrie
+ანგრევს	დაგვანგრია	V;3;SG;1;PL;IND;PST;PFV = dagvangria
+ანგრევს	დაგვანგრიეთ	V;2;PL;1;PL;IND;PST;PFV = dagvangriet
+ანგრევს	დაგვანგრიეს	V;3;PL;1;PL;IND;PST;PFV = dagvangries
+ანგრევს	დაგანგრიეთ	V;1;SG;2;PL;IND;PST;PFV = dagangriet
+ანგრევს	დაგანგრიათ	V;3;SG;2;PL;IND;PST;PFV = dagangriat
+ანგრევს	დაგანგრიეთ	V;1;PL;2;PL;IND;PST;PFV = dagangriet
+ანგრევს	დაგანგრიეს	V;3;PL;2;PL;IND;PST;PFV = dagangries
+ანგრევს	დავანგრიე	V;1;SG;3;PL;IND;PST;PFV = davangrie
+ანგრევს	დაანგრიე	V;2;SG;3;PL;IND;PST;PFV = daangrie
+ანგრევს	დაანგრია	V;3;SG;3;PL;IND;PST;PFV = daangria
+ანგრევს	დავანგრიეთ	V;1;PL;3;PL;IND;PST;PFV = davangriet
+ანგრევს	დაანგრიეთ	V;2;PL;3;PL;IND;PST;PFV = daangriet
+ანგრევს	დაანგრიეს	V;3;PL;3;PL;IND;PST;PFV = daangries
+
+ანგრევს	დამანგრიეთ	V;2;PL;1;SG;IMP = damangriet
+ანგრევს	დამანგრიე	V;2;SG;1;SG;IMP = damangrie
+ანგრევს	დაანგრიეთ	V;2;PL;3;SG;IMP = daangriet
+ანგრევს	დაანგრიე	V;2;SG;3;SG;IMP = daangrie
+ანგრევს	დაგვანგრიეთ	V;2;PL;1;PL;IMP = dagvangriet
+ანგრევს	დაგვანგრიე	V;2;SG;1;PL;IMP = dagvangrie
+ანგრევს	დაანგრიეთ	V;2;PL;3;PL;IMP = daangriet
+ანგრევს	დაანგრიე	V;2;SG;3;PL;IMP = daangrie
+
+
+
+Screeve #8:
+ანგრევს	დამანგრიო	V;2;SG;1;SG;OPT = damangrio
+ანგრევს	დამანგრიოს	V;3;SG;1;SG;OPT = damangrios
+ანგრევს	დამანგრიოთ	V;2;PL;1;SG;OPT = damangriot
+ანგრევს	დამანგრიონ	V;3;PL;1;SG;OPT = damangrion
+ანგრევს	დაგანგრიო	V;1;SG;2;SG;OPT = dagangrio
+ანგრევს	დაგანგრიოს	V;3;SG;2;SG;OPT = dagangrios
+ანგრევს	დაგანგრიოთ	V;1;PL;2;SG;OPT = dagangriot
+ანგრევს	დაგანგრიონ	V;3;PL;2;SG;OPT = dagangrion
+ანგრევს	დავანგრიო	V;1;SG;3;SG;OPT = davangrio
+ანგრევს	დაანგრიო	V;2;SG;3;SG;OPT = daangrio
+ანგრევს	დაანგრიოს	V;3;SG;3;SG;OPT = daangrios
+ანგრევს	დავანგრიოთ	V;1;PL;3;SG;OPT = davangriot
+ანგრევს	დაანგრიოთ	V;2;PL;3;SG;OPT = daangriot
+ანგრევს	დაანგრიონ	V;3;PL;3;SG;OPT = daangrion
+ანგრევს	დაგვანგრიო	V;2;SG;1;PL;OPT = dagvangrio
+ანგრევს	დაგვანგრიოს	V;3;SG;1;PL;OPT = dagvangrios
+ანგრევს	დაგვანგრიოთ	V;2;PL;1;PL;OPT = dagvangriot
+ანგრევს	დაგვანგრიონ	V;3;PL;1;PL;OPT = dagvangrion
+ანგრევს	დაგანგრიოთ	V;1;SG;2;PL;OPT = dagangriot
+ანგრევს	დაგანგრიოთ	V;3;SG;2;PL;OPT = dagangriot
+ანგრევს	დაგანგრიოთ	V;1;PL;2;PL;OPT = dagangriot
+ანგრევს	დაგანგრიოთ	V;3;PL;2;PL;OPT = dagangriot
+ანგრევს	დავანგრიო	V;1;SG;3;PL;OPT = davangrio
+ანგრევს	დაანგრიო	V;2;SG;3;PL;OPT = daangrio
+ანგრევს	დაანგრიოს	V;3;SG;3;PL;OPT = daangrios
+ანგრევს	დავანგრიოთ	V;1;PL;3;PL;OPT = davangriot
+ანგრევს	დაანგრიოთ	V;2;PL;3;PL;OPT = daangriot
+ანგრევს	დაანგრიონ	V;3;PL;3;PL;OPT = daangrion
+
+ანგრევს	დამანგრიონ	V;3;PL;1;SG;IMP = damangrion
+ანგრევს	დამანგრიოს	V;3;SG;1;SG;IMP = damangrios
+ანგრევს	დაგანგრიოთ	V;1;PL;2;SG;IMP = dagangriot
+ანგრევს	დაგანგრიონ	V;3;PL;2;SG;IMP = dagangrion
+ანგრევს	დაგანგრიოს	V;3;SG;2;SG;IMP = dagangrios
+ანგრევს	დავანგრიოთ	V;1;PL;3;SG;IMP = davangriot
+ანგრევს	დაანგრიონ	V;3;PL;3;SG;IMP = daangrion
+ანგრევს	დაანგრიოს	V;3;SG;3;SG;IMP = daangrios
+ანგრევს	დაგვანგრიონ	V;3;PL;1;PL;IMP = dagvangrion
+ანგრევს	დაგვანგრიოს	V;3;SG;1;PL;IMP = dagvangrios
+ანგრევს	დაგანგრიოთ	V;1;PL;2;PL;IMP = dagangriot
+ანგრევს	დაგანგრიოთ	V;3;PL;2;PL;IMP = dagangriot
+ანგრევს	დაგანგრიოთ	V;3;SG;2;PL;IMP = dagangriot
+ანგრევს	დავანგრიოთ	V;1;PL;3;PL;IMP = davangriot
+ანგრევს	დაანგრიონ	V;3;PL;3;PL;IMP = daangrion
+ანგრევს	დაანგრიოს	V;3;SG;3;PL;IMP = daangrios
+
+
+
+Screeve #9:
+ანგრევს	დაგინგრევივარ	V;2;SG;1;SG;IND;PRF = dagingrevivar
+ანგრევს	დავუნგრევივარ	V;3;SG;1;SG;IND;PRF = davungrevivar
+ანგრევს	დაგინგრევივართ	V;2;PL;1;SG;IND;PRF = dagingrevivart
+ანგრევს	დავუნგრევივართ	V;3;PL;1;SG;IND;PRF = davungrevivart
+ანგრევს	დამინგრევიხარ	V;1;SG;2;SG;IND;PRF = damingrevixar
+ანგრევს	დაუნგრევიხარ	V;3;SG;2;SG;IND;PRF = daungrevixar
+ანგრევს	დაგვინგრევიხარ	V;1;PL;2;SG;IND;PRF = dagvingrevixar
+ანგრევს	დაუნგრევიხართ	V;3;PL;2;SG;IND;PRF = daungrevixart
+ანგრევს	დამინგრევია	V;1;SG;3;SG;IND;PRF = damingrevia
+ანგრევს	დაგინგრევია	V;2;SG;3;SG;IND;PRF = dagingrevia
+ანგრევს	დაუნგრევია	V;3;SG;3;SG;IND;PRF = daungrevia
+ანგრევს	დაგვინგრევია	V;1;PL;3;SG;IND;PRF = dagvingrevia
+ანგრევს	დაგინგრევიათ	V;2;PL;3;SG;IND;PRF = dagingreviat
+ანგრევს	დაუნგრევიათ	V;3;PL;3;SG;IND;PRF = daungreviat
+ანგრევს	დაგინგრევივართ	V;2;SG;1;PL;IND;PRF = dagingrevivart
+ანგრევს	დავუნგრევივართ	V;3;SG;1;PL;IND;PRF = davungrevivart
+ანგრევს	დაგინგრევივართ	V;2;PL;1;PL;IND;PRF = dagingrevivart
+ანგრევს	დავუნგრევივართ	V;3;PL;1;PL;IND;PRF = davungrevivart
+ანგრევს	დამინგრევიხართ	V;1;SG;2;PL;IND;PRF = damingrevixart
+ანგრევს	დაუნგრევიხართ	V;3;SG;2;PL;IND;PRF = daungrevixart
+ანგრევს	დაგვინგრევიხართ	V;1;PL;2;PL;IND;PRF = dagvingrevixart
+ანგრევს	დაუნგრევიხართ	V;3;PL;2;PL;IND;PRF = daungrevixart
+ანგრევს	დამინგრევია	V;1;SG;3;PL;IND;PRF = damingrevia
+ანგრევს	დაგინგრევია	V;2;SG;3;PL;IND;PRF = dagingrevia
+ანგრევს	დაუნგრევია	V;3;SG;3;PL;IND;PRF = daungrevia
+ანგრევს	დაგვინგრევია	V;1;PL;3;PL;IND;PRF = dagvingrevia
+ანგრევს	დაგინგრევიათ	V;2;PL;3;PL;IND;PRF = dagingreviat
+ანგრევს	დაუნგრევიათ	V;3;PL;3;PL;IND;PRF = daungreviat
+
+
+Screeve #10:
+ანგრევს	დაგენგრიე	V;2;SG;1;SG;IND;PST;PRF = dagengrie
+ანგრევს	დავენგრიე	V;3;SG;1;SG;IND;PST;PRF = davengrie
+ანგრევს	დაგენგრიეთ	V;2;PL;1;SG;IND;PST;PRF = dagengriet
+ანგრევს	დავენგრიეთ	V;3;PL;1;SG;IND;PST;PRF = davengriet
+ანგრევს	დამენგრიე	V;1;SG;2;SG;IND;PST;PRF = damengrie
+ანგრევს	დაენგრიე	V;3;SG;2;SG;IND;PST;PRF = daengrie
+ანგრევს	დაგვენგრიე	V;1;PL;2;SG;IND;PST;PRF = dagvengrie
+ანგრევს	დაენგრიეთ	V;3;PL;2;SG;IND;PST;PRF = daengriet
+ანგრევს	დამენგრია	V;1;SG;3;SG;IND;PST;PRF = damengria
+ანგრევს	დაგენგრია	V;2;SG;3;SG;IND;PST;PRF = dagengria
+ანგრევს	დაენგრია	V;3;SG;3;SG;IND;PST;PRF = daengria
+ანგრევს	დაგვენგრია	V;1;PL;3;SG;IND;PST;PRF = dagvengria
+ანგრევს	დაგენგრიათ	V;2;PL;3;SG;IND;PST;PRF = dagengriat
+ანგრევს	დაენგრიათ	V;3;PL;3;SG;IND;PST;PRF = daengriat
+ანგრევს	დაგენგრიეთ	V;2;SG;1;PL;IND;PST;PRF = dagengriet
+ანგრევს	დავენგრიეთ	V;3;SG;1;PL;IND;PST;PRF = davengriet
+ანგრევს	დაგენგრიეთ	V;2;PL;1;PL;IND;PST;PRF = dagengriet
+ანგრევს	დავენგრიეთ	V;3;PL;1;PL;IND;PST;PRF = davengriet
+ანგრევს	დამენგრიეთ	V;1;SG;2;PL;IND;PST;PRF = damengriet
+ანგრევს	დაენგრიეთ	V;3;SG;2;PL;IND;PST;PRF = daengriet
+ანგრევს	დაგვენგრიეთ	V;1;PL;2;PL;IND;PST;PRF = dagvengriet
+ანგრევს	დაენგრიეთ	V;3;PL;2;PL;IND;PST;PRF = daengriet
+ანგრევს	დამენგრია	V;1;SG;3;PL;IND;PST;PRF = damengria
+ანგრევს	დაგენგრია	V;2;SG;3;PL;IND;PST;PRF = dagengria
+ანგრევს	დაენგრია	V;3;SG;3;PL;IND;PST;PRF = daengria
+ანგრევს	დაგვენგრია	V;1;PL;3;PL;IND;PST;PRF = dagvengria
+ანგრევს	დაგენგრიათ	V;2;PL;3;PL;IND;PST;PRF = dagengriat
+ანგრევს	დაენგრიათ	V;3;PL;3;PL;IND;PST;PRF = daengriat
+
+
+Screeve #11:
+ანგრევს	დაგენგრიო	V;2;SG;1;SG;SBJV;PRF = dagengrio
+ანგრევს	დავენგრიო	V;3;SG;1;SG;SBJV;PRF = davengrio
+ანგრევს	დაგენგრიოთ	V;2;PL;1;SG;SBJV;PRF = dagengriot
+ანგრევს	დავენგრიოთ	V;3;PL;1;SG;SBJV;PRF = davengriot
+ანგრევს	დამენგრიო	V;1;SG;2;SG;SBJV;PRF = damengrio
+ანგრევს	დაენგრიო	V;3;SG;2;SG;SBJV;PRF = daengrio
+ანგრევს	დაგვენგრიო	V;1;PL;2;SG;SBJV;PRF = dagvengrio
+ანგრევს	დაენგრიოთ	V;3;PL;2;SG;SBJV;PRF = daengriot
+ანგრევს	დამენგრიოს	V;1;SG;3;SG;SBJV;PRF = damengrios
+ანგრევს	დაგენგრიოს	V;2;SG;3;SG;SBJV;PRF = dagengrios
+ანგრევს	დაენგრიოს	V;3;SG;3;SG;SBJV;PRF = daengrios
+ანგრევს	დაგვენგრიოს	V;1;PL;3;SG;SBJV;PRF = dagvengrios
+ანგრევს	დაგენგრიოთ	V;2;PL;3;SG;SBJV;PRF = dagengriot
+ანგრევს	დაენგრიოთ	V;3;PL;3;SG;SBJV;PRF = daengriot
+ანგრევს	დაგენგრიოთ	V;2;SG;1;PL;SBJV;PRF = dagengriot
+ანგრევს	დავენგრიოთ	V;3;SG;1;PL;SBJV;PRF = davengriot
+ანგრევს	დაგენგრიოთ	V;2;PL;1;PL;SBJV;PRF = dagengriot
+ანგრევს	დავენგრიოთ	V;3;PL;1;PL;SBJV;PRF = davengriot
+ანგრევს	დამენგრიოთ	V;1;SG;2;PL;SBJV;PRF = damengriot
+ანგრევს	დაენგრიოთ	V;3;SG;2;PL;SBJV;PRF = daengriot
+ანგრევს	დაგვენგრიოთ	V;1;PL;2;PL;SBJV;PRF = dagvengriot
+ანგრევს	დაენგრიოთ	V;3;PL;2;PL;SBJV;PRF = daengriot
+ანგრევს	დამენგრიოს	V;1;SG;3;PL;SBJV;PRF = damengrios
+ანგრევს	დაგენგრიოს	V;2;SG;3;PL;SBJV;PRF = dagengrios
+ანგრევს	დაენგრიოს	V;3;SG;3;PL;SBJV;PRF = daengrios
+ანგრევს	დაგვენგრიოს	V;1;PL;3;PL;SBJV;PRF = dagvengrios
+ანგრევს	დაგენგრიოთ	V;2;PL;3;PL;SBJV;PRF = dagengriot
+ანგრევს	დაენგრიოთ	V;3;PL;3;PL;SBJV;PRF = daengriot
+
+
+ანგრევს	დანრგევა	V;V.MSDR;PRF

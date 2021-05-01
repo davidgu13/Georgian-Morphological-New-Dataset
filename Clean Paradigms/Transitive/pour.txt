@@ -1,0 +1,372 @@
+#21 - ასხავს - pour:
+Screeve #1:
+ასხავს	მასხავ	V;2;SG;1;SG;IND;PRS = masxav
+ასხავს	მასხავს	V;3;SG;1;SG;IND;PRS = masxavs
+ასხავს	მასხავთ	V;2;PL;1;SG;IND;PRS = masxavt
+ასხავს	მასხავენ	V;3;PL;1;SG;IND;PRS = masxaven
+ასხავს	გასხავ	V;1;SG;2;SG;IND;PRS = gasxav
+ასხავს	გასხავს	V;3;SG;2;SG;IND;PRS = gasxavs
+ასხავს	გასხავთ	V;1;PL;2;SG;IND;PRS = gasxavt
+ასხავს	გასხავენ	V;3;PL;2;SG;IND;PRS = gasxaven
+ასხავს	ვასხავ	V;1;SG;3;SG;IND;PRS = vasxav
+ასხავს	ასხავ	V;2;SG;3;SG;IND;PRS = asxav
+ასხავს	ასხავს	V;3;SG;3;SG;IND;PRS = asxavs
+ასხავს	ვასხავთ	V;1;PL;3;SG;IND;PRS = vasxavt
+ასხავს	ასხავთ	V;2;PL;3;SG;IND;PRS = asxavt
+ასხავს	ასხავენ	V;3;PL;3;SG;IND;PRS = asxaven
+ასხავს	გვასხავ	V;2;SG;1;PL;IND;PRS = gvasxav
+ასხავს	გვასხავს	V;3;SG;1;PL;IND;PRS = gvasxavs
+ასხავს	გვასხავთ	V;2;PL;1;PL;IND;PRS = gvasxavt
+ასხავს	გვასხავენ	V;3;PL;1;PL;IND;PRS = gvasxaven
+ასხავს	გასხავთ	V;1;SG;2;PL;IND;PRS = gasxavt
+ასხავს	გასხავთ	V;3;SG;2;PL;IND;PRS = gasxavt
+ასხავს	გასხავთ	V;1;PL;2;PL;IND;PRS = gasxavt
+ასხავს	გასხავენ	V;3;PL;2;PL;IND;PRS = gasxaven
+ასხავს	ვასხავ	V;1;SG;3;PL;IND;PRS = vasxav
+ასხავს	ასხავ	V;2;SG;3;PL;IND;PRS = asxav
+ასხავს	ასხავს	V;3;SG;3;PL;IND;PRS = asxavs
+ასხავს	ვასხავთ	V;1;PL;3;PL;IND;PRS = vasxavt
+ასხავს	ასხავთ	V;2;PL;3;PL;IND;PRS = asxavt
+ასხავს	ასხავენ	V;3;PL;3;PL;IND;PRS = asxaven
+
+
+Screeve #2:
+ასხავს	მასხავდი	V;2;SG;1;SG;IND;IPFV = masxavdi
+ასხავს	მასხავდა	V;3;SG;1;SG;IND;IPFV = masxavda
+ასხავს	მასხავდით	V;2;PL;1;SG;IND;IPFV = masxavdit
+ასხავს	მასხავდნენ	V;3;PL;1;SG;IND;IPFV = masxavdnen
+ასხავს	გასხავდი	V;1;SG;2;SG;IND;IPFV = gasxavdi
+ასხავს	გასხავდა	V;3;SG;2;SG;IND;IPFV = gasxavda
+ასხავს	გასხავდით	V;1;PL;2;SG;IND;IPFV = gasxavdit
+ასხავს	გასხავდნენ	V;3;PL;2;SG;IND;IPFV = gasxavdnen
+ასხავს	ვასხავდი	V;1;SG;3;SG;IND;IPFV = vasxavdi
+ასხავს	ასხავდი	V;2;SG;3;SG;IND;IPFV = asxavdi
+ასხავს	ასხავდა	V;3;SG;3;SG;IND;IPFV = asxavda
+ასხავს	ვასხავდით	V;1;PL;3;SG;IND;IPFV = vasxavdit
+ასხავს	ასხავდით	V;2;PL;3;SG;IND;IPFV = asxavdit
+ასხავს	ასხავდნენ	V;3;PL;3;SG;IND;IPFV = asxavdnen
+ასხავს	გვასხავდი	V;2;SG;1;PL;IND;IPFV = gvasxavdi
+ასხავს	გვასხავდა	V;3;SG;1;PL;IND;IPFV = gvasxavda
+ასხავს	გვასხავდით	V;2;PL;1;PL;IND;IPFV = gvasxavdit
+ასხავს	გვასხავდნენ	V;3;PL;1;PL;IND;IPFV = gvasxavdnen
+ასხავს	გასხავდით	V;1;SG;2;PL;IND;IPFV = gasxavdit
+ასხავს	გასხავდათ	V;3;SG;2;PL;IND;IPFV = gasxavdat
+ასხავს	გასხავდით	V;1;PL;2;PL;IND;IPFV = gasxavdit
+ასხავს	გასხავდნენ	V;3;PL;2;PL;IND;IPFV = gasxavdnen
+ასხავს	ვასხავდი	V;1;SG;3;PL;IND;IPFV = vasxavdi
+ასხავს	ასხავდი	V;2;SG;3;PL;IND;IPFV = asxavdi
+ასხავს	ასხავდა	V;3;SG;3;PL;IND;IPFV = asxavda
+ასხავს	ვასხავდით	V;1;PL;3;PL;IND;IPFV = vasxavdit
+ასხავს	ასხავდით	V;2;PL;3;PL;IND;IPFV = asxavdit
+ასხავს	ასხავდნენ	V;3;PL;3;PL;IND;IPFV = asxavdnen
+
+
+Screeve #3:
+ასხავს	მასხავდე	V;2;SG;1;SG;SBJV;PRS = masxavde
+ასხავს	მასხავდეს	V;3;SG;1;SG;SBJV;PRS = masxavdes
+ასხავს	მასხავდეთ	V;2;PL;1;SG;SBJV;PRS = masxavdet
+ასხავს	მასხავდნენ	V;3;PL;1;SG;SBJV;PRS = masxavdnen
+ასხავს	გასხავდე	V;1;SG;2;SG;SBJV;PRS = gasxavde
+ასხავს	გასხავდეს	V;3;SG;2;SG;SBJV;PRS = gasxavdes
+ასხავს	გასხავდეთ	V;1;PL;2;SG;SBJV;PRS = gasxavdet
+ასხავს	გასხავდნენ	V;3;PL;2;SG;SBJV;PRS = gasxavdnen
+ასხავს	ვასხავდე	V;1;SG;3;SG;SBJV;PRS = vasxavde
+ასხავს	ასხავდე	V;2;SG;3;SG;SBJV;PRS = asxavde
+ასხავს	ასხავდეს	V;3;SG;3;SG;SBJV;PRS = asxavdes
+ასხავს	ვასხავდეთ	V;1;PL;3;SG;SBJV;PRS = vasxavdet
+ასხავს	ასხავდეთ	V;2;PL;3;SG;SBJV;PRS = asxavdet
+ასხავს	ასხავდნენ	V;3;PL;3;SG;SBJV;PRS = asxavdnen
+ასხავს	გვასხავდე	V;2;SG;1;PL;SBJV;PRS = gvasxavde
+ასხავს	გვასხავდეს	V;3;SG;1;PL;SBJV;PRS = gvasxavdes
+ასხავს	გვასხავდეთ	V;2;PL;1;PL;SBJV;PRS = gvasxavdet
+ასხავს	გვასხავდნენ	V;3;PL;1;PL;SBJV;PRS = gvasxavdnen
+ასხავს	გასხავდეთ	V;1;SG;2;PL;SBJV;PRS = gasxavdet
+ასხავს	გასხავდეთ	V;3;SG;2;PL;SBJV;PRS = gasxavdet
+ასხავს	გასხავდეთ	V;1;PL;2;PL;SBJV;PRS = gasxavdet
+ასხავს	გასხავდნენ	V;3;PL;2;PL;SBJV;PRS = gasxavdnen
+ასხავს	ვასხავდე	V;1;SG;3;PL;SBJV;PRS = vasxavde
+ასხავს	ასხავდე	V;2;SG;3;PL;SBJV;PRS = asxavde
+ასხავს	ასხავდეს	V;3;SG;3;PL;SBJV;PRS = asxavdes
+ასხავს	ვასხავდეთ	V;1;PL;3;PL;SBJV;PRS = vasxavdet
+ასხავს	ასხავდეთ	V;2;PL;3;PL;SBJV;PRS = asxavdet
+ასხავს	ასხავდნენ	V;3;PL;3;PL;SBJV;PRS = asxavdnen
+
+
+Screeve #4:
+ასხავს	დამასხავ	V;2;SG;1;SG;IND;FUT = damasxav
+ასხავს	დამასხავს	V;3;SG;1;SG;IND;FUT = damasxavs
+ასხავს	დამასხავთ	V;2;PL;1;SG;IND;FUT = damasxavt
+ასხავს	დამასხავენ	V;3;PL;1;SG;IND;FUT = damasxaven
+ასხავს	დაგასხავ	V;1;SG;2;SG;IND;FUT = dagasxav
+ასხავს	დაგასხავს	V;3;SG;2;SG;IND;FUT = dagasxavs
+ასხავს	დაგასხავთ	V;1;PL;2;SG;IND;FUT = dagasxavt
+ასხავს	დაგასხავენ	V;3;PL;2;SG;IND;FUT = dagasxaven
+ასხავს	დავასხავ	V;1;SG;3;SG;IND;FUT = davasxav
+ასხავს	დაასხავ	V;2;SG;3;SG;IND;FUT = daasxav
+ასხავს	დაასხავს	V;3;SG;3;SG;IND;FUT = daasxavs
+ასხავს	დავასხავთ	V;1;PL;3;SG;IND;FUT = davasxavt
+ასხავს	დაასხავთ	V;2;PL;3;SG;IND;FUT = daasxavt
+ასხავს	დაასხავენ	V;3;PL;3;SG;IND;FUT = daasxaven
+ასხავს	დაგვასხავ	V;2;SG;1;PL;IND;FUT = dagvasxav
+ასხავს	დაგვასხავს	V;3;SG;1;PL;IND;FUT = dagvasxavs
+ასხავს	დაგვასხავთ	V;2;PL;1;PL;IND;FUT = dagvasxavt
+ასხავს	დაგვასხავენ	V;3;PL;1;PL;IND;FUT = dagvasxaven
+ასხავს	დაგასხავთ	V;1;SG;2;PL;IND;FUT = dagasxavt
+ასხავს	დაგასხავთ	V;3;SG;2;PL;IND;FUT = dagasxavt
+ასხავს	დაგასხავთ	V;1;PL;2;PL;IND;FUT = dagasxavt
+ასხავს	დაგასხავენ	V;3;PL;2;PL;IND;FUT = dagasxaven
+ასხავს	დავასხავ	V;1;SG;3;PL;IND;FUT = davasxav
+ასხავს	დაასხავ	V;2;SG;3;PL;IND;FUT = daasxav
+ასხავს	დაასხავს	V;3;SG;3;PL;IND;FUT = daasxavs
+ასხავს	დავასხავთ	V;1;PL;3;PL;IND;FUT = davasxavt
+ასხავს	დაასხავთ	V;2;PL;3;PL;IND;FUT = daasxavt
+ასხავს	დაასხავენ	V;3;PL;3;PL;IND;FUT = daasxaven
+
+
+Screeve #5:
+ასხავს	დამასხავდი	V;2;SG;1;SG;COND = damasxavdi
+ასხავს	დამასხავდა	V;3;SG;1;SG;COND = damasxavda
+ასხავს	დამასხავდით	V;2;PL;1;SG;COND = damasxavdit
+ასხავს	დამასხავდნენ	V;3;PL;1;SG;COND = damasxavdnen
+ასხავს	დაგასხავდი	V;1;SG;2;SG;COND = dagasxavdi
+ასხავს	დაგასხავდა	V;3;SG;2;SG;COND = dagasxavda
+ასხავს	დაგასხავდით	V;1;PL;2;SG;COND = dagasxavdit
+ასხავს	დაგასხავდნენ	V;3;PL;2;SG;COND = dagasxavdnen
+ასხავს	დავასხავდი	V;1;SG;3;SG;COND = davasxavdi
+ასხავს	დაასხავდი	V;2;SG;3;SG;COND = daasxavdi
+ასხავს	დაასხავდა	V;3;SG;3;SG;COND = daasxavda
+ასხავს	დავასხავდით	V;1;PL;3;SG;COND = davasxavdit
+ასხავს	დაასხავდით	V;2;PL;3;SG;COND = daasxavdit
+ასხავს	დაასხავდნენ	V;3;PL;3;SG;COND = daasxavdnen
+ასხავს	დაგვასხავდი	V;2;SG;1;PL;COND = dagvasxavdi
+ასხავს	დაგვასხავდა	V;3;SG;1;PL;COND = dagvasxavda
+ასხავს	დაგვასხავდით	V;2;PL;1;PL;COND = dagvasxavdit
+ასხავს	დაგვასხავდნენ	V;3;PL;1;PL;COND = dagvasxavdnen
+ასხავს	დაგასხავდით	V;1;SG;2;PL;COND = dagasxavdit
+ასხავს	დაგასხავდათ	V;3;SG;2;PL;COND = dagasxavdat
+ასხავს	დაგასხავდით	V;1;PL;2;PL;COND = dagasxavdit
+ასხავს	დაგასხავდნენ	V;3;PL;2;PL;COND = dagasxavdnen
+ასხავს	დავასხავდი	V;1;SG;3;PL;COND = davasxavdi
+ასხავს	დაასხავდი	V;2;SG;3;PL;COND = daasxavdi
+ასხავს	დაასხავდა	V;3;SG;3;PL;COND = daasxavda
+ასხავს	დავასხავდით	V;1;PL;3;PL;COND = davasxavdit
+ასხავს	დაასხავდით	V;2;PL;3;PL;COND = daasxavdit
+ასხავს	დაასხავდნენ	V;3;PL;3;PL;COND = daasxavdnen
+
+
+Screeve #6:
+ასხავს	დამასხავდე	V;2;SG;1;SG;SBJV;FUT = damasxavde
+ასხავს	დამასხავდეს	V;3;SG;1;SG;SBJV;FUT = damasxavdes
+ასხავს	დამასხავდეთ	V;2;PL;1;SG;SBJV;FUT = damasxavdet
+ასხავს	დამასხავდნენ	V;3;PL;1;SG;SBJV;FUT = damasxavdnen
+ასხავს	დაგასხავდე	V;1;SG;2;SG;SBJV;FUT = dagasxavde
+ასხავს	დაგასხავდეს	V;3;SG;2;SG;SBJV;FUT = dagasxavdes
+ასხავს	დაგასხავდეთ	V;1;PL;2;SG;SBJV;FUT = dagasxavdet
+ასხავს	დაგასხავდნენ	V;3;PL;2;SG;SBJV;FUT = dagasxavdnen
+ასხავს	დავასხავდე	V;1;SG;3;SG;SBJV;FUT = davasxavde
+ასხავს	დაასხავდე	V;2;SG;3;SG;SBJV;FUT = daasxavde
+ასხავს	დაასხავდეს	V;3;SG;3;SG;SBJV;FUT = daasxavdes
+ასხავს	დავასხავდეთ	V;1;PL;3;SG;SBJV;FUT = davasxavdet
+ასხავს	დაასხავდეთ	V;2;PL;3;SG;SBJV;FUT = daasxavdet
+ასხავს	დაასხავდნენ	V;3;PL;3;SG;SBJV;FUT = daasxavdnen
+ასხავს	დაგვასხავდე	V;2;SG;1;PL;SBJV;FUT = dagvasxavde
+ასხავს	დაგვასხავდეს	V;3;SG;1;PL;SBJV;FUT = dagvasxavdes
+ასხავს	დაგვასხავდეთ	V;2;PL;1;PL;SBJV;FUT = dagvasxavdet
+ასხავს	დაგვასხავდნენ	V;3;PL;1;PL;SBJV;FUT = dagvasxavdnen
+ასხავს	დაგასხავდეთ	V;1;SG;2;PL;SBJV;FUT = dagasxavdet
+ასხავს	დაგასხავდეთ	V;3;SG;2;PL;SBJV;FUT = dagasxavdet
+ასხავს	დაგასხავდეთ	V;1;PL;2;PL;SBJV;FUT = dagasxavdet
+ასხავს	დაგასხავდნენ	V;3;PL;2;PL;SBJV;FUT = dagasxavdnen
+ასხავს	დავასხავდე	V;1;SG;3;PL;SBJV;FUT = davasxavde
+ასხავს	დაასხავდე	V;2;SG;3;PL;SBJV;FUT = daasxavde
+ასხავს	დაასხავდეს	V;3;SG;3;PL;SBJV;FUT = daasxavdes
+ასხავს	დავასხავდეთ	V;1;PL;3;PL;SBJV;FUT = davasxavdet
+ასხავს	დაასხავდეთ	V;2;PL;3;PL;SBJV;FUT = daasxavdet
+ასხავს	დაასხავდნენ	V;3;PL;3;PL;SBJV;FUT = daasxavdnen
+
+
+Screeve #7:
+ასხავს	დამასხი	V;2;SG;1;SG;IND;PST;PFV = damasxi
+ასხავს	დამასხა	V;3;SG;1;SG;IND;PST;PFV = damasxa
+ასხავს	დამასხით	V;2;PL;1;SG;IND;PST;PFV = damasxit
+ასხავს	დამასხეს	V;3;PL;1;SG;IND;PST;PFV = damasxes
+ასხავს	დაგასხი	V;1;SG;2;SG;IND;PST;PFV = dagasxi
+ასხავს	დაგასხა	V;3;SG;2;SG;IND;PST;PFV = dagasxa
+ასხავს	დაგასხით	V;1;PL;2;SG;IND;PST;PFV = dagasxit
+ასხავს	დაგასხეს	V;3;PL;2;SG;IND;PST;PFV = dagasxes
+ასხავს	დავასხი	V;1;SG;3;SG;IND;PST;PFV = davasxi
+ასხავს	დაასხი	V;2;SG;3;SG;IND;PST;PFV = daasxi
+ასხავს	დაასხა	V;3;SG;3;SG;IND;PST;PFV = daasxa
+ასხავს	დავასხით	V;1;PL;3;SG;IND;PST;PFV = davasxit
+ასხავს	დაასხით	V;2;PL;3;SG;IND;PST;PFV = daasxit
+ასხავს	დაასხეს	V;3;PL;3;SG;IND;PST;PFV = daasxes
+ასხავს	დაგვასხი	V;2;SG;1;PL;IND;PST;PFV = dagvasxi
+ასხავს	დაგვასხა	V;3;SG;1;PL;IND;PST;PFV = dagvasxa
+ასხავს	დაგვასხით	V;2;PL;1;PL;IND;PST;PFV = dagvasxit
+ასხავს	დაგვასხეს	V;3;PL;1;PL;IND;PST;PFV = dagvasxes
+ასხავს	დაგასხით	V;1;SG;2;PL;IND;PST;PFV = dagasxit
+ასხავს	დაგასხათ	V;3;SG;2;PL;IND;PST;PFV = dagasxat
+ასხავს	დაგასხით	V;1;PL;2;PL;IND;PST;PFV = dagasxit
+ასხავს	დაგასხეს	V;3;PL;2;PL;IND;PST;PFV = dagasxes
+ასხავს	დავასხი	V;1;SG;3;PL;IND;PST;PFV = davasxi
+ასხავს	დაასხი	V;2;SG;3;PL;IND;PST;PFV = daasxi
+ასხავს	დაასხა	V;3;SG;3;PL;IND;PST;PFV = daasxa
+ასხავს	დავასხით	V;1;PL;3;PL;IND;PST;PFV = davasxit
+ასხავს	დაასხით	V;2;PL;3;PL;IND;PST;PFV = daasxit
+ასხავს	დაასხეს	V;3;PL;3;PL;IND;PST;PFV = daasxes
+
+ასხავს	დამასხი	V;2;SG;1;SG;IMP = damasxi
+ასხავს	დამასხით	V;2;PL;1;SG;IMP = damasxit
+ასხავს	დაასხი	V;2;SG;3;SG;IMP = daasxi
+ასხავს	დაასხით	V;2;PL;3;SG;IMP = daasxit
+ასხავს	დაგვასხი	V;2;SG;1;PL;IMP = dagvasxi
+ასხავს	დაგვასხით	V;2;PL;1;PL;IMP = dagvasxit
+ასხავს	დაასხი	V;2;SG;3;PL;IMP = daasxi
+ასხავს	დაასხით	V;2;PL;3;PL;IMP = daasxit
+
+
+
+Screeve #8:
+ასხავს	დამასხა	V;2;SG;1;SG;OPT = damasxa
+ასხავს	დამასხას	V;3;SG;1;SG;OPT = damasxas
+ასხავს	დამასხათ	V;2;PL;1;SG;OPT = damasxat
+ასხავს	დამასხან	V;3;PL;1;SG;OPT = damasxan
+ასხავს	დაგასხა	V;1;SG;2;SG;OPT = dagasxa
+ასხავს	დაგასხას	V;3;SG;2;SG;OPT = dagasxas
+ასხავს	დაგასხათ	V;1;PL;2;SG;OPT = dagasxat
+ასხავს	დაგასხან	V;3;PL;2;SG;OPT = dagasxan
+ასხავს	დავასხა	V;1;SG;3;SG;OPT = davasxa
+ასხავს	დაასხა	V;2;SG;3;SG;OPT = daasxa
+ასხავს	დაასხას	V;3;SG;3;SG;OPT = daasxas
+ასხავს	დავასხათ	V;1;PL;3;SG;OPT = davasxat
+ასხავს	დაასხათ	V;2;PL;3;SG;OPT = daasxat
+ასხავს	დაასხან	V;3;PL;3;SG;OPT = daasxan
+ასხავს	დაგვასხა	V;2;SG;1;PL;OPT = dagvasxa
+ასხავს	დაგვასხას	V;3;SG;1;PL;OPT = dagvasxas
+ასხავს	დაგვასხათ	V;2;PL;1;PL;OPT = dagvasxat
+ასხავს	დაგვასხან	V;3;PL;1;PL;OPT = dagvasxan
+ასხავს	დაგასხათ	V;1;SG;2;PL;OPT = dagasxat
+ასხავს	დაგასხათ	V;3;SG;2;PL;OPT = dagasxat
+ასხავს	დაგასხათ	V;1;PL;2;PL;OPT = dagasxat
+ასხავს	დაგასხათ	V;3;PL;2;PL;OPT = dagasxat
+ასხავს	დავასხა	V;1;SG;3;PL;OPT = davasxa
+ასხავს	დაასხა	V;2;SG;3;PL;OPT = daasxa
+ასხავს	დაასხას	V;3;SG;3;PL;OPT = daasxas
+ასხავს	დავასხათ	V;1;PL;3;PL;OPT = davasxat
+ასხავს	დაასხათ	V;2;PL;3;PL;OPT = daasxat
+ასხავს	დაასხან	V;3;PL;3;PL;OPT = daasxan
+
+ასხავს	დამასხას	V;3;SG;1;SG;IMP = damasxas
+ასხავს	დამასხან	V;3;PL;1;SG;IMP = damasxan
+ასხავს	დაგასხათ	V;1;PL;2;SG;IMP = dagasxat
+ასხავს	დაგასხას	V;3;SG;2;SG;IMP = dagasxas
+ასხავს	დაგასხან	V;3;PL;2;SG;IMP = dagasxan
+ასხავს	დავასხათ	V;1;PL;3;SG;IMP = davasxat
+ასხავს	დაასხას	V;3;SG;3;SG;IMP = daasxas
+ასხავს	დაასხან	V;3;PL;3;SG;IMP = daasxan
+ასხავს	დაგვასხას	V;3;SG;1;PL;IMP = dagvasxas
+ასხავს	დაგვასხან	V;3;PL;1;PL;IMP = dagvasxan
+ასხავს	დაგასხათ	V;1;PL;2;PL;IMP = dagasxat
+ასხავს	დაგასხათ	V;3;SG;2;PL;IMP = dagasxat
+ასხავს	დაგასხათ	V;3;PL;2;PL;IMP = dagasxat
+ასხავს	დავასხათ	V;1;PL;3;PL;IMP = davasxat
+ასხავს	დაასხას	V;3;SG;3;PL;IMP = daasxas
+ასხავს	დაასხან	V;3;PL;3;PL;IMP = daasxan
+
+
+
+Screeve #9:
+ასხავს	დაგისხივარ	V;2;SG;1;SG;IND;PRF = dagisxivar
+ასხავს	დავუსხივარ	V;3;SG;1;SG;IND;PRF = davusxivar
+ასხავს	დაგისხივართ	V;2;PL;1;SG;IND;PRF = dagisxivart
+ასხავს	დავუსხივართ	V;3;PL;1;SG;IND;PRF = davusxivart
+ასხავს	დამისხიხარ	V;1;SG;2;SG;IND;PRF = damisxixar
+ასხავს	დაუსხიხარ	V;3;SG;2;SG;IND;PRF = dausxixar
+ასხავს	დაგვისხიხარ	V;1;PL;2;SG;IND;PRF = dagvisxixar
+ასხავს	დაუსხიხართ	V;3;PL;2;SG;IND;PRF = dausxixart
+ასხავს	დამისხია	V;1;SG;3;SG;IND;PRF = damisxia
+ასხავს	დაგისხია	V;2;SG;3;SG;IND;PRF = dagisxia
+ასხავს	დაუსხია	V;3;SG;3;SG;IND;PRF = dausxia
+ასხავს	დაგვისხია	V;1;PL;3;SG;IND;PRF = dagvisxia
+ასხავს	დაგისხიათ	V;2;PL;3;SG;IND;PRF = dagisxiat
+ასხავს	დაუსხიათ	V;3;PL;3;SG;IND;PRF = dausxiat
+ასხავს	დაგისხივართ	V;2;SG;1;PL;IND;PRF = dagisxivart
+ასხავს	დავუსხივართ	V;3;SG;1;PL;IND;PRF = davusxivart
+ასხავს	დაგისხივართ	V;2;PL;1;PL;IND;PRF = dagisxivart
+ასხავს	დავუსხივართ	V;3;PL;1;PL;IND;PRF = davusxivart
+ასხავს	დამისხიხართ	V;1;SG;2;PL;IND;PRF = damisxixart
+ასხავს	დაუსხიხართ	V;3;SG;2;PL;IND;PRF = dausxixart
+ასხავს	დაგვისხიხართ	V;1;PL;2;PL;IND;PRF = dagvisxixart
+ასხავს	დაუსხიხართ	V;3;PL;2;PL;IND;PRF = dausxixart
+ასხავს	დამისხია	V;1;SG;3;PL;IND;PRF = damisxia
+ასხავს	დაგისხია	V;2;SG;3;PL;IND;PRF = dagisxia
+ასხავს	დაუსხია	V;3;SG;3;PL;IND;PRF = dausxia
+ასხავს	დაგვისხია	V;1;PL;3;PL;IND;PRF = dagvisxia
+ასხავს	დაგისხიათ	V;2;PL;3;PL;IND;PRF = dagisxiat
+ასხავს	დაუსხიათ	V;3;PL;3;PL;IND;PRF = dausxiat
+
+
+Screeve #10:
+ასხავს	დაგესხი	V;2;SG;1;SG;IND;PST;PRF = dagesxi
+ასხავს	დავესხი	V;3;SG;1;SG;IND;PST;PRF = davesxi
+ასხავს	დაგესხით	V;2;PL;1;SG;IND;PST;PRF = dagesxit
+ასხავს	დავესხით	V;3;PL;1;SG;IND;PST;PRF = davesxit
+ასხავს	დამესხი	V;1;SG;2;SG;IND;PST;PRF = damesxi
+ასხავს	დაესხი	V;3;SG;2;SG;IND;PST;PRF = daesxi
+ასხავს	დაგვესხი	V;1;PL;2;SG;IND;PST;PRF = dagvesxi
+ასხავს	დაესხით	V;3;PL;2;SG;IND;PST;PRF = daesxit
+ასხავს	დამესხა	V;1;SG;3;SG;IND;PST;PRF = damesxa
+ასხავს	დაგესხა	V;2;SG;3;SG;IND;PST;PRF = dagesxa
+ასხავს	დაესხა	V;3;SG;3;SG;IND;PST;PRF = daesxa
+ასხავს	დაგვესხა	V;1;PL;3;SG;IND;PST;PRF = dagvesxa
+ასხავს	დაგესხათ	V;2;PL;3;SG;IND;PST;PRF = dagesxat
+ასხავს	დაესხათ	V;3;PL;3;SG;IND;PST;PRF = daesxat
+ასხავს	დაგესხით	V;2;SG;1;PL;IND;PST;PRF = dagesxit
+ასხავს	დავესხით	V;3;SG;1;PL;IND;PST;PRF = davesxit
+ასხავს	დაგესხით	V;2;PL;1;PL;IND;PST;PRF = dagesxit
+ასხავს	დავესხით	V;3;PL;1;PL;IND;PST;PRF = davesxit
+ასხავს	დამესხით	V;1;SG;2;PL;IND;PST;PRF = damesxit
+ასხავს	დაესხით	V;3;SG;2;PL;IND;PST;PRF = daesxit
+ასხავს	დაგვესხით	V;1;PL;2;PL;IND;PST;PRF = dagvesxit
+ასხავს	დაესხით	V;3;PL;2;PL;IND;PST;PRF = daesxit
+ასხავს	დამესხა	V;1;SG;3;PL;IND;PST;PRF = damesxa
+ასხავს	დაგესხა	V;2;SG;3;PL;IND;PST;PRF = dagesxa
+ასხავს	დაესხა	V;3;SG;3;PL;IND;PST;PRF = daesxa
+ასხავს	დაგვესხა	V;1;PL;3;PL;IND;PST;PRF = dagvesxa
+ასხავს	დაგესხათ	V;2;PL;3;PL;IND;PST;PRF = dagesxat
+ასხავს	დაესხათ	V;3;PL;3;PL;IND;PST;PRF = daesxat
+
+
+Screeve #11:
+ასხავს	დაგესხა	V;2;SG;1;SG;SBJV;PRF = dagesxa
+ასხავს	დავესხა	V;3;SG;1;SG;SBJV;PRF = davesxa
+ასხავს	დაგესხათ	V;2;PL;1;SG;SBJV;PRF = dagesxat
+ასხავს	დავესხათ	V;3;PL;1;SG;SBJV;PRF = davesxat
+ასხავს	დამესხა	V;1;SG;2;SG;SBJV;PRF = damesxa
+ასხავს	დაესხა	V;3;SG;2;SG;SBJV;PRF = daesxa
+ასხავს	დაგვესხა	V;1;PL;2;SG;SBJV;PRF = dagvesxa
+ასხავს	დაესხათ	V;3;PL;2;SG;SBJV;PRF = daesxat
+ასხავს	დამესხას	V;1;SG;3;SG;SBJV;PRF = damesxas
+ასხავს	დაგესხას	V;2;SG;3;SG;SBJV;PRF = dagesxas
+ასხავს	დაესხას	V;3;SG;3;SG;SBJV;PRF = daesxas
+ასხავს	დაგვესხას	V;1;PL;3;SG;SBJV;PRF = dagvesxas
+ასხავს	დაგესხათ	V;2;PL;3;SG;SBJV;PRF = dagesxat
+ასხავს	დაესხათ	V;3;PL;3;SG;SBJV;PRF = daesxat
+ასხავს	დაგესხათ	V;2;SG;1;PL;SBJV;PRF = dagesxat
+ასხავს	დავესხათ	V;3;SG;1;PL;SBJV;PRF = davesxat
+ასხავს	დაგესხათ	V;2;PL;1;PL;SBJV;PRF = dagesxat
+ასხავს	დავესხათ	V;3;PL;1;PL;SBJV;PRF = davesxat
+ასხავს	დამესხათ	V;1;SG;2;PL;SBJV;PRF = damesxat
+ასხავს	დაესხათ	V;3;SG;2;PL;SBJV;PRF = daesxat
+ასხავს	დაგვესხათ	V;1;PL;2;PL;SBJV;PRF = dagvesxat
+ასხავს	დაესხათ	V;3;PL;2;PL;SBJV;PRF = daesxat
+ასხავს	დამესხას	V;1;SG;3;PL;SBJV;PRF = damesxas
+ასხავს	დაგესხას	V;2;SG;3;PL;SBJV;PRF = dagesxas
+ასხავს	დაესხას	V;3;SG;3;PL;SBJV;PRF = daesxas
+ასხავს	დაგვესხას	V;1;PL;3;PL;SBJV;PRF = dagvesxas
+ასხავს	დაგესხათ	V;2;PL;3;PL;SBJV;PRF = dagesxat
+ასხავს	დაესხათ	V;3;PL;3;PL;SBJV;PRF = daesxat
+
+
+ასხავს	დასხმა	V;V.MSDR;PRF
+ასხავს	სხმა	V;V.MSDR;IPFV

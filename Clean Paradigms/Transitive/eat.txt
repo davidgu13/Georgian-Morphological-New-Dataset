@@ -1,0 +1,372 @@
+#9 - ჭამს - eat:
+Screeve #1:
+ჭამს	მჭამ	V;2;SG;1;SG;IND;PRS = mč'am
+ჭამს	მჭამს	V;3;SG;1;SG;IND;PRS = mč'ams
+ჭამს	მჭამთ	V;2;PL;1;SG;IND;PRS = mč'amt
+ჭამს	მჭამენ	V;3;PL;1;SG;IND;PRS = mč'amen
+ჭამს	გჭამ	V;1;SG;2;SG;IND;PRS = gč'am
+ჭამს	გჭამს	V;3;SG;2;SG;IND;PRS = gč'ams
+ჭამს	გჭამთ	V;1;PL;2;SG;IND;PRS = gč'amt
+ჭამს	გჭამენ	V;3;PL;2;SG;IND;PRS = gč'amen
+ჭამს	ვჭამ	V;1;SG;3;SG;IND;PRS = vč'am
+ჭამს	ჭამ	V;2;SG;3;SG;IND;PRS = č'am
+ჭამს	ჭამს	V;3;SG;3;SG;IND;PRS = č'ams
+ჭამს	ვჭამთ	V;1;PL;3;SG;IND;PRS = vč'amt
+ჭამს	ჭამთ	V;2;PL;3;SG;IND;PRS = č'amt
+ჭამს	ჭამენ	V;3;PL;3;SG;IND;PRS = č'amen
+ჭამს	გვჭამ	V;2;SG;1;PL;IND;PRS = gvč'am
+ჭამს	გვჭამს	V;3;SG;1;PL;IND;PRS = gvč'ams
+ჭამს	გვჭამთ	V;2;PL;1;PL;IND;PRS = gvč'amt
+ჭამს	გვჭამენ	V;3;PL;1;PL;IND;PRS = gvč'amen
+ჭამს	გჭამთ	V;1;SG;2;PL;IND;PRS = gč'amt
+ჭამს	გჭამთ	V;3;SG;2;PL;IND;PRS = gč'amt
+ჭამს	გჭამთ	V;1;PL;2;PL;IND;PRS = gč'amt
+ჭამს	გჭამენ	V;3;PL;2;PL;IND;PRS = gč'amen
+ჭამს	ვჭამ	V;1;SG;3;PL;IND;PRS = vč'am
+ჭამს	ჭამ	V;2;SG;3;PL;IND;PRS = č'am
+ჭამს	ჭამს	V;3;SG;3;PL;IND;PRS = č'ams
+ჭამს	ვჭამთ	V;1;PL;3;PL;IND;PRS = vč'amt
+ჭამს	ჭამთ	V;2;PL;3;PL;IND;PRS = č'amt
+ჭამს	ჭამენ	V;3;PL;3;PL;IND;PRS = č'amen
+
+
+Screeve #2:
+ჭამს	მჭამდი	V;2;SG;1;SG;IND;IPFV = mč'amdi
+ჭამს	მჭამდა	V;3;SG;1;SG;IND;IPFV = mč'amda
+ჭამს	მჭამდით	V;2;PL;1;SG;IND;IPFV = mč'amdit
+ჭამს	მჭამდნენ	V;3;PL;1;SG;IND;IPFV = mč'amdnen
+ჭამს	გჭამდი	V;1;SG;2;SG;IND;IPFV = gč'amdi
+ჭამს	გჭამდა	V;3;SG;2;SG;IND;IPFV = gč'amda
+ჭამს	გჭამდით	V;1;PL;2;SG;IND;IPFV = gč'amdit
+ჭამს	გჭამდნენ	V;3;PL;2;SG;IND;IPFV = gč'amdnen
+ჭამს	ვჭამდი	V;1;SG;3;SG;IND;IPFV = vč'amdi
+ჭამს	ჭამდი	V;2;SG;3;SG;IND;IPFV = č'amdi
+ჭამს	ჭამდა	V;3;SG;3;SG;IND;IPFV = č'amda
+ჭამს	ვჭამდით	V;1;PL;3;SG;IND;IPFV = vč'amdit
+ჭამს	ჭამდით	V;2;PL;3;SG;IND;IPFV = č'amdit
+ჭამს	ჭამდნენ	V;3;PL;3;SG;IND;IPFV = č'amdnen
+ჭამს	გვჭამდი	V;2;SG;1;PL;IND;IPFV = gvč'amdi
+ჭამს	გვჭამდა	V;3;SG;1;PL;IND;IPFV = gvč'amda
+ჭამს	გვჭამდით	V;2;PL;1;PL;IND;IPFV = gvč'amdit
+ჭამს	გვჭამდნენ	V;3;PL;1;PL;IND;IPFV = gvč'amdnen
+ჭამს	გჭამდით	V;1;SG;2;PL;IND;IPFV = gč'amdit
+ჭამს	გჭამდათ	V;3;SG;2;PL;IND;IPFV = gč'amdat
+ჭამს	გჭამდით	V;1;PL;2;PL;IND;IPFV = gč'amdit
+ჭამს	გჭამდნენ	V;3;PL;2;PL;IND;IPFV = gč'amdnen
+ჭამს	ვჭამდი	V;1;SG;3;PL;IND;IPFV = vč'amdi
+ჭამს	ჭამდი	V;2;SG;3;PL;IND;IPFV = č'amdi
+ჭამს	ჭამდა	V;3;SG;3;PL;IND;IPFV = č'amda
+ჭამს	ვჭამდით	V;1;PL;3;PL;IND;IPFV = vč'amdit
+ჭამს	ჭამდით	V;2;PL;3;PL;IND;IPFV = č'amdit
+ჭამს	ჭამდნენ	V;3;PL;3;PL;IND;IPFV = č'amdnen
+
+
+Screeve #3:
+ჭამს	მჭამდე	V;2;SG;1;SG;SBJV;PRS = mč'amde
+ჭამს	მჭამდეს	V;3;SG;1;SG;SBJV;PRS = mč'amdes
+ჭამს	მჭამდეთ	V;2;PL;1;SG;SBJV;PRS = mč'amdet
+ჭამს	მჭამდნენ	V;3;PL;1;SG;SBJV;PRS = mč'amdnen
+ჭამს	გჭამდე	V;1;SG;2;SG;SBJV;PRS = gč'amde
+ჭამს	გჭამდეს	V;3;SG;2;SG;SBJV;PRS = gč'amdes
+ჭამს	გჭამდეთ	V;1;PL;2;SG;SBJV;PRS = gč'amdet
+ჭამს	გჭამდნენ	V;3;PL;2;SG;SBJV;PRS = gč'amdnen
+ჭამს	ვჭამდე	V;1;SG;3;SG;SBJV;PRS = vč'amde
+ჭამს	ჭამდე	V;2;SG;3;SG;SBJV;PRS = č'amde
+ჭამს	ჭამდეს	V;3;SG;3;SG;SBJV;PRS = č'amdes
+ჭამს	ვჭამდეთ	V;1;PL;3;SG;SBJV;PRS = vč'amdet
+ჭამს	ჭამდეთ	V;2;PL;3;SG;SBJV;PRS = č'amdet
+ჭამს	ჭამდნენ	V;3;PL;3;SG;SBJV;PRS = č'amdnen
+ჭამს	გვჭამდე	V;2;SG;1;PL;SBJV;PRS = gvč'amde
+ჭამს	გვჭამდეს	V;3;SG;1;PL;SBJV;PRS = gvč'amdes
+ჭამს	გვჭამდეთ	V;2;PL;1;PL;SBJV;PRS = gvč'amdet
+ჭამს	გვჭამდნენ	V;3;PL;1;PL;SBJV;PRS = gvč'amdnen
+ჭამს	გჭამდეთ	V;1;SG;2;PL;SBJV;PRS = gč'amdet
+ჭამს	გჭამდეთ	V;3;SG;2;PL;SBJV;PRS = gč'amdet
+ჭამს	გჭამდეთ	V;1;PL;2;PL;SBJV;PRS = gč'amdet
+ჭამს	გჭამდნენ	V;3;PL;2;PL;SBJV;PRS = gč'amdnen
+ჭამს	ვჭამდე	V;1;SG;3;PL;SBJV;PRS = vč'amde
+ჭამს	ჭამდე	V;2;SG;3;PL;SBJV;PRS = č'amde
+ჭამს	ჭამდეს	V;3;SG;3;PL;SBJV;PRS = č'amdes
+ჭამს	ვჭამდეთ	V;1;PL;3;PL;SBJV;PRS = vč'amdet
+ჭამს	ჭამდეთ	V;2;PL;3;PL;SBJV;PRS = č'amdet
+ჭამს	ჭამდნენ	V;3;PL;3;PL;SBJV;PRS = č'amdnen
+
+
+Screeve #4:
+ჭამს	შემჭამ	V;2;SG;1;SG;IND;FUT = šemč'am
+ჭამს	შემჭამს	V;3;SG;1;SG;IND;FUT = šemč'ams
+ჭამს	შემჭამთ	V;2;PL;1;SG;IND;FUT = šemč'amt
+ჭამს	შემჭამენ	V;3;PL;1;SG;IND;FUT = šemč'amen
+ჭამს	შეგჭამ	V;1;SG;2;SG;IND;FUT = šegč'am
+ჭამს	შეგჭამს	V;3;SG;2;SG;IND;FUT = šegč'ams
+ჭამს	შეგჭამთ	V;1;PL;2;SG;IND;FUT = šegč'amt
+ჭამს	შეგჭამენ	V;3;PL;2;SG;IND;FUT = šegč'amen
+ჭამს	შევჭამ	V;1;SG;3;SG;IND;FUT = ševč'am
+ჭამს	შეჭამ	V;2;SG;3;SG;IND;FUT = šeč'am
+ჭამს	შეჭამს	V;3;SG;3;SG;IND;FUT = šeč'ams
+ჭამს	შევჭამთ	V;1;PL;3;SG;IND;FUT = ševč'amt
+ჭამს	შეჭამთ	V;2;PL;3;SG;IND;FUT = šeč'amt
+ჭამს	შეჭამენ	V;3;PL;3;SG;IND;FUT = šeč'amen
+ჭამს	შეგვჭამ	V;2;SG;1;PL;IND;FUT = šegvč'am
+ჭამს	შეგვჭამს	V;3;SG;1;PL;IND;FUT = šegvč'ams
+ჭამს	შეგვჭამთ	V;2;PL;1;PL;IND;FUT = šegvč'amt
+ჭამს	შეგვჭამენ	V;3;PL;1;PL;IND;FUT = šegvč'amen
+ჭამს	შეგჭამთ	V;1;SG;2;PL;IND;FUT = šegč'amt
+ჭამს	შეგჭამთ	V;3;SG;2;PL;IND;FUT = šegč'amt
+ჭამს	შეგჭამთ	V;1;PL;2;PL;IND;FUT = šegč'amt
+ჭამს	შეგჭამენ	V;3;PL;2;PL;IND;FUT = šegč'amen
+ჭამს	შევჭამ	V;1;SG;3;PL;IND;FUT = ševč'am
+ჭამს	შეჭამ	V;2;SG;3;PL;IND;FUT = šeč'am
+ჭამს	შეჭამს	V;3;SG;3;PL;IND;FUT = šeč'ams
+ჭამს	შევჭამთ	V;1;PL;3;PL;IND;FUT = ševč'amt
+ჭამს	შეჭამთ	V;2;PL;3;PL;IND;FUT = šeč'amt
+ჭამს	შეჭამენ	V;3;PL;3;PL;IND;FUT = šeč'amen
+
+
+Screeve #5:
+ჭამს	შემჭამდი	V;2;SG;1;SG;COND = šemč'amdi
+ჭამს	შემჭამდა	V;3;SG;1;SG;COND = šemč'amda
+ჭამს	შემჭამდით	V;2;PL;1;SG;COND = šemč'amdit
+ჭამს	შემჭამდნენ	V;3;PL;1;SG;COND = šemč'amdnen
+ჭამს	შეგჭამდი	V;1;SG;2;SG;COND = šegč'amdi
+ჭამს	შეგჭამდა	V;3;SG;2;SG;COND = šegč'amda
+ჭამს	შეგჭამდით	V;1;PL;2;SG;COND = šegč'amdit
+ჭამს	შეგჭამდნენ	V;3;PL;2;SG;COND = šegč'amdnen
+ჭამს	შევჭამდი	V;1;SG;3;SG;COND = ševč'amdi
+ჭამს	შეჭამდი	V;2;SG;3;SG;COND = šeč'amdi
+ჭამს	შეჭამდა	V;3;SG;3;SG;COND = šeč'amda
+ჭამს	შევჭამდით	V;1;PL;3;SG;COND = ševč'amdit
+ჭამს	შეჭამდით	V;2;PL;3;SG;COND = šeč'amdit
+ჭამს	შეჭამდნენ	V;3;PL;3;SG;COND = šeč'amdnen
+ჭამს	შეგვჭამდი	V;2;SG;1;PL;COND = šegvč'amdi
+ჭამს	შეგვჭამდა	V;3;SG;1;PL;COND = šegvč'amda
+ჭამს	შეგვჭამდით	V;2;PL;1;PL;COND = šegvč'amdit
+ჭამს	შეგვჭამდნენ	V;3;PL;1;PL;COND = šegvč'amdnen
+ჭამს	შეგჭამდით	V;1;SG;2;PL;COND = šegč'amdit
+ჭამს	შეგჭამდათ	V;3;SG;2;PL;COND = šegč'amdat
+ჭამს	შეგჭამდით	V;1;PL;2;PL;COND = šegč'amdit
+ჭამს	შეგჭამდნენ	V;3;PL;2;PL;COND = šegč'amdnen
+ჭამს	შევჭამდი	V;1;SG;3;PL;COND = ševč'amdi
+ჭამს	შეჭამდი	V;2;SG;3;PL;COND = šeč'amdi
+ჭამს	შეჭამდა	V;3;SG;3;PL;COND = šeč'amda
+ჭამს	შევჭამდით	V;1;PL;3;PL;COND = ševč'amdit
+ჭამს	შეჭამდით	V;2;PL;3;PL;COND = šeč'amdit
+ჭამს	შეჭამდნენ	V;3;PL;3;PL;COND = šeč'amdnen
+
+
+Screeve #6:
+ჭამს	შემჭამდე	V;2;SG;1;SG;SBJV;FUT = šemč'amde
+ჭამს	შემჭამდეს	V;3;SG;1;SG;SBJV;FUT = šemč'amdes
+ჭამს	შემჭამდეთ	V;2;PL;1;SG;SBJV;FUT = šemč'amdet
+ჭამს	შემჭამდნენ	V;3;PL;1;SG;SBJV;FUT = šemč'amdnen
+ჭამს	შეგჭამდე	V;1;SG;2;SG;SBJV;FUT = šegč'amde
+ჭამს	შეგჭამდეს	V;3;SG;2;SG;SBJV;FUT = šegč'amdes
+ჭამს	შეგჭამდეთ	V;1;PL;2;SG;SBJV;FUT = šegč'amdet
+ჭამს	შეგჭამდნენ	V;3;PL;2;SG;SBJV;FUT = šegč'amdnen
+ჭამს	შევჭამდე	V;1;SG;3;SG;SBJV;FUT = ševč'amde
+ჭამს	შეჭამდე	V;2;SG;3;SG;SBJV;FUT = šeč'amde
+ჭამს	შეჭამდეს	V;3;SG;3;SG;SBJV;FUT = šeč'amdes
+ჭამს	შევჭამდეთ	V;1;PL;3;SG;SBJV;FUT = ševč'amdet
+ჭამს	შეჭამდეთ	V;2;PL;3;SG;SBJV;FUT = šeč'amdet
+ჭამს	შეჭამდნენ	V;3;PL;3;SG;SBJV;FUT = šeč'amdnen
+ჭამს	შეგვჭამდე	V;2;SG;1;PL;SBJV;FUT = šegvč'amde
+ჭამს	შეგვჭამდეს	V;3;SG;1;PL;SBJV;FUT = šegvč'amdes
+ჭამს	შეგვჭამდეთ	V;2;PL;1;PL;SBJV;FUT = šegvč'amdet
+ჭამს	შეგვჭამდნენ	V;3;PL;1;PL;SBJV;FUT = šegvč'amdnen
+ჭამს	შეგჭამდეთ	V;1;SG;2;PL;SBJV;FUT = šegč'amdet
+ჭამს	შეგჭამდეთ	V;3;SG;2;PL;SBJV;FUT = šegč'amdet
+ჭამს	შეგჭამდეთ	V;1;PL;2;PL;SBJV;FUT = šegč'amdet
+ჭამს	შეგჭამდნენ	V;3;PL;2;PL;SBJV;FUT = šegč'amdnen
+ჭამს	შევჭამდე	V;1;SG;3;PL;SBJV;FUT = ševč'amde
+ჭამს	შეჭამდე	V;2;SG;3;PL;SBJV;FUT = šeč'amde
+ჭამს	შეჭამდეს	V;3;SG;3;PL;SBJV;FUT = šeč'amdes
+ჭამს	შევჭამდეთ	V;1;PL;3;PL;SBJV;FUT = ševč'amdet
+ჭამს	შეჭამდეთ	V;2;PL;3;PL;SBJV;FUT = šeč'amdet
+ჭამს	შეჭამდნენ	V;3;PL;3;PL;SBJV;FUT = šeč'amdnen
+
+
+Screeve #7:
+ჭამს	შემჭამე	V;2;SG;1;SG;IND;PST;PFV = šemč'ame
+ჭამს	შემჭამა	V;3;SG;1;SG;IND;PST;PFV = šemč'ama
+ჭამს	შემჭამეთ	V;2;PL;1;SG;IND;PST;PFV = šemč'amet
+ჭამს	შემჭამეს	V;3;PL;1;SG;IND;PST;PFV = šemč'ames
+ჭამს	შეგჭამე	V;1;SG;2;SG;IND;PST;PFV = šegč'ame
+ჭამს	შეგჭამა	V;3;SG;2;SG;IND;PST;PFV = šegč'ama
+ჭამს	შეგჭამეთ	V;1;PL;2;SG;IND;PST;PFV = šegč'amet
+ჭამს	შეგჭამეს	V;3;PL;2;SG;IND;PST;PFV = šegč'ames
+ჭამს	შევჭამე	V;1;SG;3;SG;IND;PST;PFV = ševč'ame
+ჭამს	შეჭამე	V;2;SG;3;SG;IND;PST;PFV = šeč'ame
+ჭამს	შეჭამა	V;3;SG;3;SG;IND;PST;PFV = šeč'ama
+ჭამს	შევჭამეთ	V;1;PL;3;SG;IND;PST;PFV = ševč'amet
+ჭამს	შეჭამეთ	V;2;PL;3;SG;IND;PST;PFV = šeč'amet
+ჭამს	შეჭამეს	V;3;PL;3;SG;IND;PST;PFV = šeč'ames
+ჭამს	შეგვჭამე	V;2;SG;1;PL;IND;PST;PFV = šegvč'ame
+ჭამს	შეგვჭამა	V;3;SG;1;PL;IND;PST;PFV = šegvč'ama
+ჭამს	შეგვჭამეთ	V;2;PL;1;PL;IND;PST;PFV = šegvč'amet
+ჭამს	შეგვჭამეს	V;3;PL;1;PL;IND;PST;PFV = šegvč'ames
+ჭამს	შეგჭამეთ	V;1;SG;2;PL;IND;PST;PFV = šegč'amet
+ჭამს	შეგჭამათ	V;3;SG;2;PL;IND;PST;PFV = šegč'amat
+ჭამს	შეგჭამეთ	V;1;PL;2;PL;IND;PST;PFV = šegč'amet
+ჭამს	შეგჭამეს	V;3;PL;2;PL;IND;PST;PFV = šegč'ames
+ჭამს	შევჭამე	V;1;SG;3;PL;IND;PST;PFV = ševč'ame
+ჭამს	შეჭამე	V;2;SG;3;PL;IND;PST;PFV = šeč'ame
+ჭამს	შეჭამა	V;3;SG;3;PL;IND;PST;PFV = šeč'ama
+ჭამს	შევჭამეთ	V;1;PL;3;PL;IND;PST;PFV = ševč'amet
+ჭამს	შეჭამეთ	V;2;PL;3;PL;IND;PST;PFV = šeč'amet
+ჭამს	შეჭამეს	V;3;PL;3;PL;IND;PST;PFV = šeč'ames
+
+ჭამს	შემჭამეთ	V;2;PL;1;SG;IMP = šemč'amet
+ჭამს	შემჭამე	V;2;SG;1;SG;IMP = šemč'ame
+ჭამს	შეჭამეთ	V;2;PL;3;SG;IMP = šeč'amet
+ჭამს	შეჭამე	V;2;SG;3;SG;IMP = šeč'ame
+ჭამს	შეგვჭამეთ	V;2;PL;1;PL;IMP = šegvč'amet
+ჭამს	შეგვჭამე	V;2;SG;1;PL;IMP = šegvč'ame
+ჭამს	შეჭამეთ	V;2;PL;3;PL;IMP = šeč'amet
+ჭამს	შეჭამე	V;2;SG;3;PL;IMP = šeč'ame
+
+
+
+Screeve #8:
+ჭამს	შემჭამო	V;2;SG;1;SG;OPT = šemč'amo
+ჭამს	შემჭამოს	V;3;SG;1;SG;OPT = šemč'amos
+ჭამს	შემჭამოთ	V;2;PL;1;SG;OPT = šemč'amot
+ჭამს	შემჭამონ	V;3;PL;1;SG;OPT = šemč'amon
+ჭამს	შეგჭამო	V;1;SG;2;SG;OPT = šegč'amo
+ჭამს	შეგჭამოს	V;3;SG;2;SG;OPT = šegč'amos
+ჭამს	შეგჭამოთ	V;1;PL;2;SG;OPT = šegč'amot
+ჭამს	შეგჭამონ	V;3;PL;2;SG;OPT = šegč'amon
+ჭამს	შევჭამო	V;1;SG;3;SG;OPT = ševč'amo
+ჭამს	შეჭამო	V;2;SG;3;SG;OPT = šeč'amo
+ჭამს	შეჭამოს	V;3;SG;3;SG;OPT = šeč'amos
+ჭამს	შევჭამოთ	V;1;PL;3;SG;OPT = ševč'amot
+ჭამს	შეჭამოთ	V;2;PL;3;SG;OPT = šeč'amot
+ჭამს	შეჭამონ	V;3;PL;3;SG;OPT = šeč'amon
+ჭამს	შეგვჭამო	V;2;SG;1;PL;OPT = šegvč'amo
+ჭამს	შეგვჭამოს	V;3;SG;1;PL;OPT = šegvč'amos
+ჭამს	შეგვჭამოთ	V;2;PL;1;PL;OPT = šegvč'amot
+ჭამს	შეგვჭამონ	V;3;PL;1;PL;OPT = šegvč'amon
+ჭამს	შეგჭამოთ	V;1;SG;2;PL;OPT = šegč'amot
+ჭამს	შეგჭამოთ	V;3;SG;2;PL;OPT = šegč'amot
+ჭამს	შეგჭამოთ	V;1;PL;2;PL;OPT = šegč'amot
+ჭამს	შეგჭამოთ	V;3;PL;2;PL;OPT = šegč'amot
+ჭამს	შევჭამო	V;1;SG;3;PL;OPT = ševč'amo
+ჭამს	შეჭამო	V;2;SG;3;PL;OPT = šeč'amo
+ჭამს	შეჭამოს	V;3;SG;3;PL;OPT = šeč'amos
+ჭამს	შევჭამოთ	V;1;PL;3;PL;OPT = ševč'amot
+ჭამს	შეჭამოთ	V;2;PL;3;PL;OPT = šeč'amot
+ჭამს	შეჭამონ	V;3;PL;3;PL;OPT = šeč'amon
+
+ჭამს	შემჭამონ	V;3;PL;1;SG;IMP = šemč'amon
+ჭამს	შემჭამოს	V;3;SG;1;SG;IMP = šemč'amos
+ჭამს	შეგჭამონ	V;3;PL;2;SG;IMP = šegč'amon
+ჭამს	შეგჭამოთ	V;1;PL;2;SG;IMP = šegč'amot
+ჭამს	შეგჭამოს	V;3;SG;2;SG;IMP = šegč'amos
+ჭამს	შეჭამონ	V;3;PL;3;SG;IMP = šeč'amon
+ჭამს	შევჭამოთ	V;1;PL;3;SG;IMP = ševč'amot
+ჭამს	შეჭამოს	V;3;SG;3;SG;IMP = šeč'amos
+ჭამს	შეგვჭამონ	V;3;PL;1;PL;IMP = šegvč'amon
+ჭამს	შეგვჭამოს	V;3;SG;1;PL;IMP = šegvč'amos
+ჭამს	შეგჭამოთ	V;3;PL;2;PL;IMP = šegč'amot
+ჭამს	შეგჭამოთ	V;1;PL;2;PL;IMP = šegč'amot
+ჭამს	შეგჭამოთ	V;3;SG;2;PL;IMP = šegč'amot
+ჭამს	შეჭამონ	V;3;PL;3;PL;IMP = šeč'amon
+ჭამს	შევჭამოთ	V;1;PL;3;PL;IMP = ševč'amot
+ჭამს	შეჭამოს	V;3;SG;3;PL;IMP = šeč'amos
+
+
+
+Screeve #9:
+ჭამს	შეგიჭამივარ	V;2;SG;1;SG;IND;PRF = šegič'amivar
+ჭამს	შევუჭამივარ	V;3;SG;1;SG;IND;PRF = ševuč'amivar
+ჭამს	შეგიჭამივართ	V;2;PL;1;SG;IND;PRF = šegič'amivart
+ჭამს	შევუჭამივართ	V;3;PL;1;SG;IND;PRF = ševuč'amivart
+ჭამს	შემიჭამიხარ	V;1;SG;2;SG;IND;PRF = šemič'amixar
+ჭამს	შეუჭამიხარ	V;3;SG;2;SG;IND;PRF = šeuč'amixar
+ჭამს	შეგვიჭამიხარ	V;1;PL;2;SG;IND;PRF = šegvič'amixar
+ჭამს	შეუჭამიხართ	V;3;PL;2;SG;IND;PRF = šeuč'amixart
+ჭამს	შემიჭამია	V;1;SG;3;SG;IND;PRF = šemič'amia
+ჭამს	შეგიჭამია	V;2;SG;3;SG;IND;PRF = šegič'amia
+ჭამს	შეუჭამია	V;3;SG;3;SG;IND;PRF = šeuč'amia
+ჭამს	შეგვიჭამია	V;1;PL;3;SG;IND;PRF = šegvič'amia
+ჭამს	შეგიჭამიათ	V;2;PL;3;SG;IND;PRF = šegič'amiat
+ჭამს	შეუჭამიათ	V;3;PL;3;SG;IND;PRF = šeuč'amiat
+ჭამს	შეგიჭამივართ	V;2;SG;1;PL;IND;PRF = šegič'amivart
+ჭამს	შევუჭამივართ	V;3;SG;1;PL;IND;PRF = ševuč'amivart
+ჭამს	შეგიჭამივართ	V;2;PL;1;PL;IND;PRF = šegič'amivart
+ჭამს	შევუჭამივართ	V;3;PL;1;PL;IND;PRF = ševuč'amivart
+ჭამს	შემიჭამიხართ	V;1;SG;2;PL;IND;PRF = šemič'amixart
+ჭამს	შეუჭამიხართ	V;3;SG;2;PL;IND;PRF = šeuč'amixart
+ჭამს	შეგვიჭამიხართ	V;1;PL;2;PL;IND;PRF = šegvič'amixart
+ჭამს	შეუჭამიხართ	V;3;PL;2;PL;IND;PRF = šeuč'amixart
+ჭამს	შემიჭამია	V;1;SG;3;PL;IND;PRF = šemič'amia
+ჭამს	შეგიჭამია	V;2;SG;3;PL;IND;PRF = šegič'amia
+ჭამს	შეუჭამია	V;3;SG;3;PL;IND;PRF = šeuč'amia
+ჭამს	შეგვიჭამია	V;1;PL;3;PL;IND;PRF = šegvič'amia
+ჭამს	შეგიჭამიათ	V;2;PL;3;PL;IND;PRF = šegič'amiat
+ჭამს	შეუჭამიათ	V;3;PL;3;PL;IND;PRF = šeuč'amiat
+
+
+Screeve #10:
+ჭამს	შეგეჭამე	V;2;SG;1;SG;IND;PST;PRF = šegeč'ame
+ჭამს	შევეჭამე	V;3;SG;1;SG;IND;PST;PRF = ševeč'ame
+ჭამს	შეგეჭამეთ	V;2;PL;1;SG;IND;PST;PRF = šegeč'amet
+ჭამს	შევეჭამეთ	V;3;PL;1;SG;IND;PST;PRF = ševeč'amet
+ჭამს	შემეჭამე	V;1;SG;2;SG;IND;PST;PRF = šemeč'ame
+ჭამს	შეეჭამე	V;3;SG;2;SG;IND;PST;PRF = šeeč'ame
+ჭამს	შეგვეჭამე	V;1;PL;2;SG;IND;PST;PRF = šegveč'ame
+ჭამს	შეეჭამეთ	V;3;PL;2;SG;IND;PST;PRF = šeeč'amet
+ჭამს	შემეჭამა	V;1;SG;3;SG;IND;PST;PRF = šemeč'ama
+ჭამს	შეგეჭამა	V;2;SG;3;SG;IND;PST;PRF = šegeč'ama
+ჭამს	შეეჭამა	V;3;SG;3;SG;IND;PST;PRF = šeeč'ama
+ჭამს	შეგვეჭამა	V;1;PL;3;SG;IND;PST;PRF = šegveč'ama
+ჭამს	შეგეჭამათ	V;2;PL;3;SG;IND;PST;PRF = šegeč'amat
+ჭამს	შეეჭამათ	V;3;PL;3;SG;IND;PST;PRF = šeeč'amat
+ჭამს	შეგეჭამეთ	V;2;SG;1;PL;IND;PST;PRF = šegeč'amet
+ჭამს	შევეჭამეთ	V;3;SG;1;PL;IND;PST;PRF = ševeč'amet
+ჭამს	შეგეჭამეთ	V;2;PL;1;PL;IND;PST;PRF = šegeč'amet
+ჭამს	შევეჭამეთ	V;3;PL;1;PL;IND;PST;PRF = ševeč'amet
+ჭამს	შემეჭამეთ	V;1;SG;2;PL;IND;PST;PRF = šemeč'amet
+ჭამს	შეეჭამეთ	V;3;SG;2;PL;IND;PST;PRF = šeeč'amet
+ჭამს	შეგვეჭამეთ	V;1;PL;2;PL;IND;PST;PRF = šegveč'amet
+ჭამს	შეეჭამეთ	V;3;PL;2;PL;IND;PST;PRF = šeeč'amet
+ჭამს	შემეჭამა	V;1;SG;3;PL;IND;PST;PRF = šemeč'ama
+ჭამს	შეგეჭამა	V;2;SG;3;PL;IND;PST;PRF = šegeč'ama
+ჭამს	შეეჭამა	V;3;SG;3;PL;IND;PST;PRF = šeeč'ama
+ჭამს	შეგვეჭამა	V;1;PL;3;PL;IND;PST;PRF = šegveč'ama
+ჭამს	შეგეჭამათ	V;2;PL;3;PL;IND;PST;PRF = šegeč'amat
+ჭამს	შეეჭამათ	V;3;PL;3;PL;IND;PST;PRF = šeeč'amat
+
+
+Screeve #11:
+ჭამს	შეგეჭამო	V;2;SG;1;SG;SBJV;PRF = šegeč'amo
+ჭამს	შევეჭამო	V;3;SG;1;SG;SBJV;PRF = ševeč'amo
+ჭამს	შეგეჭამოთ	V;2;PL;1;SG;SBJV;PRF = šegeč'amot
+ჭამს	შევეჭამოთ	V;3;PL;1;SG;SBJV;PRF = ševeč'amot
+ჭამს	შემეჭამო	V;1;SG;2;SG;SBJV;PRF = šemeč'amo
+ჭამს	შეეჭამო	V;3;SG;2;SG;SBJV;PRF = šeeč'amo
+ჭამს	შეგვეჭამო	V;1;PL;2;SG;SBJV;PRF = šegveč'amo
+ჭამს	შეეჭამოთ	V;3;PL;2;SG;SBJV;PRF = šeeč'amot
+ჭამს	შემეჭამოს	V;1;SG;3;SG;SBJV;PRF = šemeč'amos
+ჭამს	შეგეჭამოს	V;2;SG;3;SG;SBJV;PRF = šegeč'amos
+ჭამს	შეეჭამოს	V;3;SG;3;SG;SBJV;PRF = šeeč'amos
+ჭამს	შეგვეჭამოს	V;1;PL;3;SG;SBJV;PRF = šegveč'amos
+ჭამს	შეგეჭამოთ	V;2;PL;3;SG;SBJV;PRF = šegeč'amot
+ჭამს	შეეჭამოთ	V;3;PL;3;SG;SBJV;PRF = šeeč'amot
+ჭამს	შეგეჭამოთ	V;2;SG;1;PL;SBJV;PRF = šegeč'amot
+ჭამს	შევეჭამოთ	V;3;SG;1;PL;SBJV;PRF = ševeč'amot
+ჭამს	შეგეჭამოთ	V;2;PL;1;PL;SBJV;PRF = šegeč'amot
+ჭამს	შევეჭამოთ	V;3;PL;1;PL;SBJV;PRF = ševeč'amot
+ჭამს	შემეჭამოთ	V;1;SG;2;PL;SBJV;PRF = šemeč'amot
+ჭამს	შეეჭამოთ	V;3;SG;2;PL;SBJV;PRF = šeeč'amot
+ჭამს	შეგვეჭამოთ	V;1;PL;2;PL;SBJV;PRF = šegveč'amot
+ჭამს	შეეჭამოთ	V;3;PL;2;PL;SBJV;PRF = šeeč'amot
+ჭამს	შემეჭამოს	V;1;SG;3;PL;SBJV;PRF = šemeč'amos
+ჭამს	შეგეჭამოს	V;2;SG;3;PL;SBJV;PRF = šegeč'amos
+ჭამს	შეეჭამოს	V;3;SG;3;PL;SBJV;PRF = šeeč'amos
+ჭამს	შეგვეჭამოს	V;1;PL;3;PL;SBJV;PRF = šegveč'amos
+ჭამს	შეგეჭამოთ	V;2;PL;3;PL;SBJV;PRF = šegeč'amot
+ჭამს	შეეჭამოთ	V;3;PL;3;PL;SBJV;PRF = šeeč'amot
+
+
+ჭამს	შეჭმა	V;V.MSDR;PRF
+ჭამს	ჭამა	V;V.MSDR;IPFV

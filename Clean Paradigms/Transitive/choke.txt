@@ -1,0 +1,372 @@
+#18 - ახრჩობს - choke:
+Screeve #1:
+ახრჩობს	მახრჩობ	V;2;SG;1;SG;IND;PRS = maxrčob
+ახრჩობს	მახრჩობს	V;3;SG;1;SG;IND;PRS = maxrčobs
+ახრჩობს	მახრჩობთ	V;2;PL;1;SG;IND;PRS = maxrčobt
+ახრჩობს	მახრჩობენ	V;3;PL;1;SG;IND;PRS = maxrčoben
+ახრჩობს	გახრჩობ	V;1;SG;2;SG;IND;PRS = gaxrčob
+ახრჩობს	გახრჩობს	V;3;SG;2;SG;IND;PRS = gaxrčobs
+ახრჩობს	გახრჩობთ	V;1;PL;2;SG;IND;PRS = gaxrčobt
+ახრჩობს	გახრჩობენ	V;3;PL;2;SG;IND;PRS = gaxrčoben
+ახრჩობს	ვახრჩობ	V;1;SG;3;SG;IND;PRS = vaxrčob
+ახრჩობს	ახრჩობ	V;2;SG;3;SG;IND;PRS = axrčob
+ახრჩობს	ახრჩობს	V;3;SG;3;SG;IND;PRS = axrčobs
+ახრჩობს	ვახრჩობთ	V;1;PL;3;SG;IND;PRS = vaxrčobt
+ახრჩობს	ახრჩობთ	V;2;PL;3;SG;IND;PRS = axrčobt
+ახრჩობს	ახრჩობენ	V;3;PL;3;SG;IND;PRS = axrčoben
+ახრჩობს	გვახრჩობ	V;2;SG;1;PL;IND;PRS = gvaxrčob
+ახრჩობს	გვახრჩობს	V;3;SG;1;PL;IND;PRS = gvaxrčobs
+ახრჩობს	გვახრჩობთ	V;2;PL;1;PL;IND;PRS = gvaxrčobt
+ახრჩობს	გვახრჩობენ	V;3;PL;1;PL;IND;PRS = gvaxrčoben
+ახრჩობს	გახრჩობთ	V;1;SG;2;PL;IND;PRS = gaxrčobt
+ახრჩობს	გახრჩობთ	V;3;SG;2;PL;IND;PRS = gaxrčobt
+ახრჩობს	გახრჩობთ	V;1;PL;2;PL;IND;PRS = gaxrčobt
+ახრჩობს	გახრჩობენ	V;3;PL;2;PL;IND;PRS = gaxrčoben
+ახრჩობს	ვახრჩობ	V;1;SG;3;PL;IND;PRS = vaxrčob
+ახრჩობს	ახრჩობ	V;2;SG;3;PL;IND;PRS = axrčob
+ახრჩობს	ახრჩობს	V;3;SG;3;PL;IND;PRS = axrčobs
+ახრჩობს	ვახრჩობთ	V;1;PL;3;PL;IND;PRS = vaxrčobt
+ახრჩობს	ახრჩობთ	V;2;PL;3;PL;IND;PRS = axrčobt
+ახრჩობს	ახრჩობენ	V;3;PL;3;PL;IND;PRS = axrčoben
+
+
+Screeve #2:
+ახრჩობს	მახრჩობდი	V;2;SG;1;SG;IND;IPFV = maxrčobdi
+ახრჩობს	მახრჩობდა	V;3;SG;1;SG;IND;IPFV = maxrčobda
+ახრჩობს	მახრჩობდით	V;2;PL;1;SG;IND;IPFV = maxrčobdit
+ახრჩობს	მახრჩობდნენ	V;3;PL;1;SG;IND;IPFV = maxrčobdnen
+ახრჩობს	გახრჩობდი	V;1;SG;2;SG;IND;IPFV = gaxrčobdi
+ახრჩობს	გახრჩობდა	V;3;SG;2;SG;IND;IPFV = gaxrčobda
+ახრჩობს	გახრჩობდით	V;1;PL;2;SG;IND;IPFV = gaxrčobdit
+ახრჩობს	გახრჩობდნენ	V;3;PL;2;SG;IND;IPFV = gaxrčobdnen
+ახრჩობს	ვახრჩობდი	V;1;SG;3;SG;IND;IPFV = vaxrčobdi
+ახრჩობს	ახრჩობდი	V;2;SG;3;SG;IND;IPFV = axrčobdi
+ახრჩობს	ახრჩობდა	V;3;SG;3;SG;IND;IPFV = axrčobda
+ახრჩობს	ვახრჩობდით	V;1;PL;3;SG;IND;IPFV = vaxrčobdit
+ახრჩობს	ახრჩობდით	V;2;PL;3;SG;IND;IPFV = axrčobdit
+ახრჩობს	ახრჩობდნენ	V;3;PL;3;SG;IND;IPFV = axrčobdnen
+ახრჩობს	გვახრჩობდი	V;2;SG;1;PL;IND;IPFV = gvaxrčobdi
+ახრჩობს	გვახრჩობდა	V;3;SG;1;PL;IND;IPFV = gvaxrčobda
+ახრჩობს	გვახრჩობდით	V;2;PL;1;PL;IND;IPFV = gvaxrčobdit
+ახრჩობს	გვახრჩობდნენ	V;3;PL;1;PL;IND;IPFV = gvaxrčobdnen
+ახრჩობს	გახრჩობდით	V;1;SG;2;PL;IND;IPFV = gaxrčobdit
+ახრჩობს	გახრჩობდათ	V;3;SG;2;PL;IND;IPFV = gaxrčobdat
+ახრჩობს	გახრჩობდით	V;1;PL;2;PL;IND;IPFV = gaxrčobdit
+ახრჩობს	გახრჩობდნენ	V;3;PL;2;PL;IND;IPFV = gaxrčobdnen
+ახრჩობს	ვახრჩობდი	V;1;SG;3;PL;IND;IPFV = vaxrčobdi
+ახრჩობს	ახრჩობდი	V;2;SG;3;PL;IND;IPFV = axrčobdi
+ახრჩობს	ახრჩობდა	V;3;SG;3;PL;IND;IPFV = axrčobda
+ახრჩობს	ვახრჩობდით	V;1;PL;3;PL;IND;IPFV = vaxrčobdit
+ახრჩობს	ახრჩობდით	V;2;PL;3;PL;IND;IPFV = axrčobdit
+ახრჩობს	ახრჩობდნენ	V;3;PL;3;PL;IND;IPFV = axrčobdnen
+
+
+Screeve #3:
+ახრჩობს	მახრჩობდე	V;2;SG;1;SG;SBJV;PRS = maxrčobde
+ახრჩობს	მახრჩობდეს	V;3;SG;1;SG;SBJV;PRS = maxrčobdes
+ახრჩობს	მახრჩობდეთ	V;2;PL;1;SG;SBJV;PRS = maxrčobdet
+ახრჩობს	მახრჩობდნენ	V;3;PL;1;SG;SBJV;PRS = maxrčobdnen
+ახრჩობს	გახრჩობდე	V;1;SG;2;SG;SBJV;PRS = gaxrčobde
+ახრჩობს	გახრჩობდეს	V;3;SG;2;SG;SBJV;PRS = gaxrčobdes
+ახრჩობს	გახრჩობდეთ	V;1;PL;2;SG;SBJV;PRS = gaxrčobdet
+ახრჩობს	გახრჩობდნენ	V;3;PL;2;SG;SBJV;PRS = gaxrčobdnen
+ახრჩობს	ვახრჩობდე	V;1;SG;3;SG;SBJV;PRS = vaxrčobde
+ახრჩობს	ახრჩობდე	V;2;SG;3;SG;SBJV;PRS = axrčobde
+ახრჩობს	ახრჩობდეს	V;3;SG;3;SG;SBJV;PRS = axrčobdes
+ახრჩობს	ვახრჩობდეთ	V;1;PL;3;SG;SBJV;PRS = vaxrčobdet
+ახრჩობს	ახრჩობდეთ	V;2;PL;3;SG;SBJV;PRS = axrčobdet
+ახრჩობს	ახრჩობდნენ	V;3;PL;3;SG;SBJV;PRS = axrčobdnen
+ახრჩობს	გვახრჩობდე	V;2;SG;1;PL;SBJV;PRS = gvaxrčobde
+ახრჩობს	გვახრჩობდეს	V;3;SG;1;PL;SBJV;PRS = gvaxrčobdes
+ახრჩობს	გვახრჩობდეთ	V;2;PL;1;PL;SBJV;PRS = gvaxrčobdet
+ახრჩობს	გვახრჩობდნენ	V;3;PL;1;PL;SBJV;PRS = gvaxrčobdnen
+ახრჩობს	გახრჩობდეთ	V;1;SG;2;PL;SBJV;PRS = gaxrčobdet
+ახრჩობს	გახრჩობდეთ	V;3;SG;2;PL;SBJV;PRS = gaxrčobdet
+ახრჩობს	გახრჩობდეთ	V;1;PL;2;PL;SBJV;PRS = gaxrčobdet
+ახრჩობს	გახრჩობდნენ	V;3;PL;2;PL;SBJV;PRS = gaxrčobdnen
+ახრჩობს	ვახრჩობდე	V;1;SG;3;PL;SBJV;PRS = vaxrčobde
+ახრჩობს	ახრჩობდე	V;2;SG;3;PL;SBJV;PRS = axrčobde
+ახრჩობს	ახრჩობდეს	V;3;SG;3;PL;SBJV;PRS = axrčobdes
+ახრჩობს	ვახრჩობდეთ	V;1;PL;3;PL;SBJV;PRS = vaxrčobdet
+ახრჩობს	ახრჩობდეთ	V;2;PL;3;PL;SBJV;PRS = axrčobdet
+ახრჩობს	ახრჩობდნენ	V;3;PL;3;PL;SBJV;PRS = axrčobdnen
+
+
+Screeve #4:
+ახრჩობს	დამახრჩობ	V;2;SG;1;SG;IND;FUT = damaxrčob
+ახრჩობს	დამახრჩობს	V;3;SG;1;SG;IND;FUT = damaxrčobs
+ახრჩობს	დამახრჩობთ	V;2;PL;1;SG;IND;FUT = damaxrčobt
+ახრჩობს	დამახრჩობენ	V;3;PL;1;SG;IND;FUT = damaxrčoben
+ახრჩობს	დაგახრჩობ	V;1;SG;2;SG;IND;FUT = dagaxrčob
+ახრჩობს	დაგახრჩობს	V;3;SG;2;SG;IND;FUT = dagaxrčobs
+ახრჩობს	დაგახრჩობთ	V;1;PL;2;SG;IND;FUT = dagaxrčobt
+ახრჩობს	დაგახრჩობენ	V;3;PL;2;SG;IND;FUT = dagaxrčoben
+ახრჩობს	დავახრჩობ	V;1;SG;3;SG;IND;FUT = davaxrčob
+ახრჩობს	დაახრჩობ	V;2;SG;3;SG;IND;FUT = daaxrčob
+ახრჩობს	დაახრჩობს	V;3;SG;3;SG;IND;FUT = daaxrčobs
+ახრჩობს	დავახრჩობთ	V;1;PL;3;SG;IND;FUT = davaxrčobt
+ახრჩობს	დაახრჩობთ	V;2;PL;3;SG;IND;FUT = daaxrčobt
+ახრჩობს	დაახრჩობენ	V;3;PL;3;SG;IND;FUT = daaxrčoben
+ახრჩობს	დაგვახრჩობ	V;2;SG;1;PL;IND;FUT = dagvaxrčob
+ახრჩობს	დაგვახრჩობს	V;3;SG;1;PL;IND;FUT = dagvaxrčobs
+ახრჩობს	დაგვახრჩობთ	V;2;PL;1;PL;IND;FUT = dagvaxrčobt
+ახრჩობს	დაგვახრჩობენ	V;3;PL;1;PL;IND;FUT = dagvaxrčoben
+ახრჩობს	დაგახრჩობთ	V;1;SG;2;PL;IND;FUT = dagaxrčobt
+ახრჩობს	დაგახრჩობთ	V;3;SG;2;PL;IND;FUT = dagaxrčobt
+ახრჩობს	დაგახრჩობთ	V;1;PL;2;PL;IND;FUT = dagaxrčobt
+ახრჩობს	დაგახრჩობენ	V;3;PL;2;PL;IND;FUT = dagaxrčoben
+ახრჩობს	დავახრჩობ	V;1;SG;3;PL;IND;FUT = davaxrčob
+ახრჩობს	დაახრჩობ	V;2;SG;3;PL;IND;FUT = daaxrčob
+ახრჩობს	დაახრჩობს	V;3;SG;3;PL;IND;FUT = daaxrčobs
+ახრჩობს	დავახრჩობთ	V;1;PL;3;PL;IND;FUT = davaxrčobt
+ახრჩობს	დაახრჩობთ	V;2;PL;3;PL;IND;FUT = daaxrčobt
+ახრჩობს	დაახრჩობენ	V;3;PL;3;PL;IND;FUT = daaxrčoben
+
+
+Screeve #5:
+ახრჩობს	დამახრჩობდი	V;2;SG;1;SG;COND = damaxrčobdi
+ახრჩობს	დამახრჩობდა	V;3;SG;1;SG;COND = damaxrčobda
+ახრჩობს	დამახრჩობდით	V;2;PL;1;SG;COND = damaxrčobdit
+ახრჩობს	დამახრჩობდნენ	V;3;PL;1;SG;COND = damaxrčobdnen
+ახრჩობს	დაგახრჩობდი	V;1;SG;2;SG;COND = dagaxrčobdi
+ახრჩობს	დაგახრჩობდა	V;3;SG;2;SG;COND = dagaxrčobda
+ახრჩობს	დაგახრჩობდით	V;1;PL;2;SG;COND = dagaxrčobdit
+ახრჩობს	დაგახრჩობდნენ	V;3;PL;2;SG;COND = dagaxrčobdnen
+ახრჩობს	დავახრჩობდი	V;1;SG;3;SG;COND = davaxrčobdi
+ახრჩობს	დაახრჩობდი	V;2;SG;3;SG;COND = daaxrčobdi
+ახრჩობს	დაახრჩობდა	V;3;SG;3;SG;COND = daaxrčobda
+ახრჩობს	დავახრჩობდით	V;1;PL;3;SG;COND = davaxrčobdit
+ახრჩობს	დაახრჩობდით	V;2;PL;3;SG;COND = daaxrčobdit
+ახრჩობს	დაახრჩობდნენ	V;3;PL;3;SG;COND = daaxrčobdnen
+ახრჩობს	დაგვახრჩობდი	V;2;SG;1;PL;COND = dagvaxrčobdi
+ახრჩობს	დაგვახრჩობდა	V;3;SG;1;PL;COND = dagvaxrčobda
+ახრჩობს	დაგვახრჩობდით	V;2;PL;1;PL;COND = dagvaxrčobdit
+ახრჩობს	დაგვახრჩობდნენ	V;3;PL;1;PL;COND = dagvaxrčobdnen
+ახრჩობს	დაგახრჩობდით	V;1;SG;2;PL;COND = dagaxrčobdit
+ახრჩობს	დაგახრჩობდათ	V;3;SG;2;PL;COND = dagaxrčobdat
+ახრჩობს	დაგახრჩობდით	V;1;PL;2;PL;COND = dagaxrčobdit
+ახრჩობს	დაგახრჩობდნენ	V;3;PL;2;PL;COND = dagaxrčobdnen
+ახრჩობს	დავახრჩობდი	V;1;SG;3;PL;COND = davaxrčobdi
+ახრჩობს	დაახრჩობდი	V;2;SG;3;PL;COND = daaxrčobdi
+ახრჩობს	დაახრჩობდა	V;3;SG;3;PL;COND = daaxrčobda
+ახრჩობს	დავახრჩობდით	V;1;PL;3;PL;COND = davaxrčobdit
+ახრჩობს	დაახრჩობდით	V;2;PL;3;PL;COND = daaxrčobdit
+ახრჩობს	დაახრჩობდნენ	V;3;PL;3;PL;COND = daaxrčobdnen
+
+
+Screeve #6:
+ახრჩობს	დამახრჩობდე	V;2;SG;1;SG;SBJV;FUT = damaxrčobde
+ახრჩობს	დამახრჩობდეს	V;3;SG;1;SG;SBJV;FUT = damaxrčobdes
+ახრჩობს	დამახრჩობდეთ	V;2;PL;1;SG;SBJV;FUT = damaxrčobdet
+ახრჩობს	დამახრჩობდნენ	V;3;PL;1;SG;SBJV;FUT = damaxrčobdnen
+ახრჩობს	დაგახრჩობდე	V;1;SG;2;SG;SBJV;FUT = dagaxrčobde
+ახრჩობს	დაგახრჩობდეს	V;3;SG;2;SG;SBJV;FUT = dagaxrčobdes
+ახრჩობს	დაგახრჩობდეთ	V;1;PL;2;SG;SBJV;FUT = dagaxrčobdet
+ახრჩობს	დაგახრჩობდნენ	V;3;PL;2;SG;SBJV;FUT = dagaxrčobdnen
+ახრჩობს	დავახრჩობდე	V;1;SG;3;SG;SBJV;FUT = davaxrčobde
+ახრჩობს	დაახრჩობდე	V;2;SG;3;SG;SBJV;FUT = daaxrčobde
+ახრჩობს	დაახრჩობდეს	V;3;SG;3;SG;SBJV;FUT = daaxrčobdes
+ახრჩობს	დავახრჩობდეთ	V;1;PL;3;SG;SBJV;FUT = davaxrčobdet
+ახრჩობს	დაახრჩობდეთ	V;2;PL;3;SG;SBJV;FUT = daaxrčobdet
+ახრჩობს	დაახრჩობდნენ	V;3;PL;3;SG;SBJV;FUT = daaxrčobdnen
+ახრჩობს	დაგვახრჩობდე	V;2;SG;1;PL;SBJV;FUT = dagvaxrčobde
+ახრჩობს	დაგვახრჩობდეს	V;3;SG;1;PL;SBJV;FUT = dagvaxrčobdes
+ახრჩობს	დაგვახრჩობდეთ	V;2;PL;1;PL;SBJV;FUT = dagvaxrčobdet
+ახრჩობს	დაგვახრჩობდნენ	V;3;PL;1;PL;SBJV;FUT = dagvaxrčobdnen
+ახრჩობს	დაგახრჩობდეთ	V;1;SG;2;PL;SBJV;FUT = dagaxrčobdet
+ახრჩობს	დაგახრჩობდეთ	V;3;SG;2;PL;SBJV;FUT = dagaxrčobdet
+ახრჩობს	დაგახრჩობდეთ	V;1;PL;2;PL;SBJV;FUT = dagaxrčobdet
+ახრჩობს	დაგახრჩობდნენ	V;3;PL;2;PL;SBJV;FUT = dagaxrčobdnen
+ახრჩობს	დავახრჩობდე	V;1;SG;3;PL;SBJV;FUT = davaxrčobde
+ახრჩობს	დაახრჩობდე	V;2;SG;3;PL;SBJV;FUT = daaxrčobde
+ახრჩობს	დაახრჩობდეს	V;3;SG;3;PL;SBJV;FUT = daaxrčobdes
+ახრჩობს	დავახრჩობდეთ	V;1;PL;3;PL;SBJV;FUT = davaxrčobdet
+ახრჩობს	დაახრჩობდეთ	V;2;PL;3;PL;SBJV;FUT = daaxrčobdet
+ახრჩობს	დაახრჩობდნენ	V;3;PL;3;PL;SBJV;FUT = daaxrčobdnen
+
+
+Screeve #7:
+ახრჩობს	დამახრჩე	V;2;SG;1;SG;IND;PST;PFV = damaxrče
+ახრჩობს	დამახრჩო	V;3;SG;1;SG;IND;PST;PFV = damaxrčo
+ახრჩობს	დამახრჩეთ	V;2;PL;1;SG;IND;PST;PFV = damaxrčet
+ახრჩობს	დამახრჩეს	V;3;PL;1;SG;IND;PST;PFV = damaxrčes
+ახრჩობს	დაგახრჩე	V;1;SG;2;SG;IND;PST;PFV = dagaxrče
+ახრჩობს	დაგახრჩო	V;3;SG;2;SG;IND;PST;PFV = dagaxrčo
+ახრჩობს	დაგახრჩეთ	V;1;PL;2;SG;IND;PST;PFV = dagaxrčet
+ახრჩობს	დაგახრჩეს	V;3;PL;2;SG;IND;PST;PFV = dagaxrčes
+ახრჩობს	დავახრჩე	V;1;SG;3;SG;IND;PST;PFV = davaxrče
+ახრჩობს	დაახრჩე	V;2;SG;3;SG;IND;PST;PFV = daaxrče
+ახრჩობს	დაახრჩო	V;3;SG;3;SG;IND;PST;PFV = daaxrčo
+ახრჩობს	დავახრჩეთ	V;1;PL;3;SG;IND;PST;PFV = davaxrčet
+ახრჩობს	დაახრჩეთ	V;2;PL;3;SG;IND;PST;PFV = daaxrčet
+ახრჩობს	დაახრჩეს	V;3;PL;3;SG;IND;PST;PFV = daaxrčes
+ახრჩობს	დაგვახრჩე	V;2;SG;1;PL;IND;PST;PFV = dagvaxrče
+ახრჩობს	დაგვახრჩო	V;3;SG;1;PL;IND;PST;PFV = dagvaxrčo
+ახრჩობს	დაგვახრჩეთ	V;2;PL;1;PL;IND;PST;PFV = dagvaxrčet
+ახრჩობს	დაგვახრჩეს	V;3;PL;1;PL;IND;PST;PFV = dagvaxrčes
+ახრჩობს	დაგახრჩეთ	V;1;SG;2;PL;IND;PST;PFV = dagaxrčet
+ახრჩობს	დაგახრჩოთ	V;3;SG;2;PL;IND;PST;PFV = dagaxrčot
+ახრჩობს	დაგახრჩეთ	V;1;PL;2;PL;IND;PST;PFV = dagaxrčet
+ახრჩობს	დაგახრჩეს	V;3;PL;2;PL;IND;PST;PFV = dagaxrčes
+ახრჩობს	დავახრჩე	V;1;SG;3;PL;IND;PST;PFV = davaxrče
+ახრჩობს	დაახრჩე	V;2;SG;3;PL;IND;PST;PFV = daaxrče
+ახრჩობს	დაახრჩო	V;3;SG;3;PL;IND;PST;PFV = daaxrčo
+ახრჩობს	დავახრჩეთ	V;1;PL;3;PL;IND;PST;PFV = davaxrčet
+ახრჩობს	დაახრჩეთ	V;2;PL;3;PL;IND;PST;PFV = daaxrčet
+ახრჩობს	დაახრჩეს	V;3;PL;3;PL;IND;PST;PFV = daaxrčes
+
+ახრჩობს	დამახრჩე	V;2;SG;1;SG;IMP = damaxrče
+ახრჩობს	დამახრჩეთ	V;2;PL;1;SG;IMP = damaxrčet
+ახრჩობს	დაახრჩე	V;2;SG;3;SG;IMP = daaxrče
+ახრჩობს	დაახრჩეთ	V;2;PL;3;SG;IMP = daaxrčet
+ახრჩობს	დაგვახრჩე	V;2;SG;1;PL;IMP = dagvaxrče
+ახრჩობს	დაგვახრჩეთ	V;2;PL;1;PL;IMP = dagvaxrčet
+ახრჩობს	დაახრჩე	V;2;SG;3;PL;IMP = daaxrče
+ახრჩობს	დაახრჩეთ	V;2;PL;3;PL;IMP = daaxrčet
+
+
+
+Screeve #8:
+ახრჩობს	დამახრჩო	V;2;SG;1;SG;OPT = damaxrčo
+ახრჩობს	დამახრჩოს	V;3;SG;1;SG;OPT = damaxrčos
+ახრჩობს	დამახრჩოთ	V;2;PL;1;SG;OPT = damaxrčot
+ახრჩობს	დამახრჩონ	V;3;PL;1;SG;OPT = damaxrčon
+ახრჩობს	დაგახრჩო	V;1;SG;2;SG;OPT = dagaxrčo
+ახრჩობს	დაგახრჩოს	V;3;SG;2;SG;OPT = dagaxrčos
+ახრჩობს	დაგახრჩოთ	V;1;PL;2;SG;OPT = dagaxrčot
+ახრჩობს	დაგახრჩონ	V;3;PL;2;SG;OPT = dagaxrčon
+ახრჩობს	დავახრჩო	V;1;SG;3;SG;OPT = davaxrčo
+ახრჩობს	დაახრჩო	V;2;SG;3;SG;OPT = daaxrčo
+ახრჩობს	დაახრჩოს	V;3;SG;3;SG;OPT = daaxrčos
+ახრჩობს	დავახრჩოთ	V;1;PL;3;SG;OPT = davaxrčot
+ახრჩობს	დაახრჩოთ	V;2;PL;3;SG;OPT = daaxrčot
+ახრჩობს	დაახრჩონ	V;3;PL;3;SG;OPT = daaxrčon
+ახრჩობს	დაგვახრჩო	V;2;SG;1;PL;OPT = dagvaxrčo
+ახრჩობს	დაგვახრჩოს	V;3;SG;1;PL;OPT = dagvaxrčos
+ახრჩობს	დაგვახრჩოთ	V;2;PL;1;PL;OPT = dagvaxrčot
+ახრჩობს	დაგვახრჩონ	V;3;PL;1;PL;OPT = dagvaxrčon
+ახრჩობს	დაგახრჩოთ	V;1;SG;2;PL;OPT = dagaxrčot
+ახრჩობს	დაგახრჩოთ	V;3;SG;2;PL;OPT = dagaxrčot
+ახრჩობს	დაგახრჩოთ	V;1;PL;2;PL;OPT = dagaxrčot
+ახრჩობს	დაგახრჩოთ	V;3;PL;2;PL;OPT = dagaxrčot
+ახრჩობს	დავახრჩო	V;1;SG;3;PL;OPT = davaxrčo
+ახრჩობს	დაახრჩო	V;2;SG;3;PL;OPT = daaxrčo
+ახრჩობს	დაახრჩოს	V;3;SG;3;PL;OPT = daaxrčos
+ახრჩობს	დავახრჩოთ	V;1;PL;3;PL;OPT = davaxrčot
+ახრჩობს	დაახრჩოთ	V;2;PL;3;PL;OPT = daaxrčot
+ახრჩობს	დაახრჩონ	V;3;PL;3;PL;OPT = daaxrčon
+
+ახრჩობს	დამახრჩონ	V;3;PL;1;SG;IMP = damaxrčon
+ახრჩობს	დამახრჩოს	V;3;SG;1;SG;IMP = damaxrčos
+ახრჩობს	დაგახრჩონ	V;3;PL;2;SG;IMP = dagaxrčon
+ახრჩობს	დაგახრჩოთ	V;1;PL;2;SG;IMP = dagaxrčot
+ახრჩობს	დაგახრჩოს	V;3;SG;2;SG;IMP = dagaxrčos
+ახრჩობს	დაახრჩონ	V;3;PL;3;SG;IMP = daaxrčon
+ახრჩობს	დავახრჩოთ	V;1;PL;3;SG;IMP = davaxrčot
+ახრჩობს	დაახრჩოს	V;3;SG;3;SG;IMP = daaxrčos
+ახრჩობს	დაგვახრჩონ	V;3;PL;1;PL;IMP = dagvaxrčon
+ახრჩობს	დაგვახრჩოს	V;3;SG;1;PL;IMP = dagvaxrčos
+ახრჩობს	დაგახრჩოთ	V;3;PL;2;PL;IMP = dagaxrčot
+ახრჩობს	დაგახრჩოთ	V;1;PL;2;PL;IMP = dagaxrčot
+ახრჩობს	დაგახრჩოთ	V;3;SG;2;PL;IMP = dagaxrčot
+ახრჩობს	დაახრჩონ	V;3;PL;3;PL;IMP = daaxrčon
+ახრჩობს	დავახრჩოთ	V;1;PL;3;PL;IMP = davaxrčot
+ახრჩობს	დაახრჩოს	V;3;SG;3;PL;IMP = daaxrčos
+
+
+
+Screeve #9:
+ახრჩობს	დაგიხრჩვივარ	V;2;SG;1;SG;IND;PRF = dagixrčvivar
+ახრჩობს	დავუხრჩვივარ	V;3;SG;1;SG;IND;PRF = davuxrčvivar
+ახრჩობს	დაგიხრჩვივართ	V;2;PL;1;SG;IND;PRF = dagixrčvivart
+ახრჩობს	დავუხრჩვივართ	V;3;PL;1;SG;IND;PRF = davuxrčvivart
+ახრჩობს	დამიხრჩვიხარ	V;1;SG;2;SG;IND;PRF = damixrčvixar
+ახრჩობს	დაუხრჩვიხარ	V;3;SG;2;SG;IND;PRF = dauxrčvixar
+ახრჩობს	დაგვიხრჩვიხარ	V;1;PL;2;SG;IND;PRF = dagvixrčvixar
+ახრჩობს	დაუხრჩვიხართ	V;3;PL;2;SG;IND;PRF = dauxrčvixart
+ახრჩობს	დამიხრჩვია	V;1;SG;3;SG;IND;PRF = damixrčvia
+ახრჩობს	დაგიხრჩვია	V;2;SG;3;SG;IND;PRF = dagixrčvia
+ახრჩობს	დაუხრჩვია	V;3;SG;3;SG;IND;PRF = dauxrčvia
+ახრჩობს	დაგვიხრჩვია	V;1;PL;3;SG;IND;PRF = dagvixrčvia
+ახრჩობს	დაგიხრჩვიათ	V;2;PL;3;SG;IND;PRF = dagixrčviat
+ახრჩობს	დაუხრჩვიათ	V;3;PL;3;SG;IND;PRF = dauxrčviat
+ახრჩობს	დაგიხრჩვივართ	V;2;SG;1;PL;IND;PRF = dagixrčvivart
+ახრჩობს	დავუხრჩვივართ	V;3;SG;1;PL;IND;PRF = davuxrčvivart
+ახრჩობს	დაგიხრჩვივართ	V;2;PL;1;PL;IND;PRF = dagixrčvivart
+ახრჩობს	დავუხრჩვივართ	V;3;PL;1;PL;IND;PRF = davuxrčvivart
+ახრჩობს	დამიხრჩვიხართ	V;1;SG;2;PL;IND;PRF = damixrčvixart
+ახრჩობს	დაუხრჩვიხართ	V;3;SG;2;PL;IND;PRF = dauxrčvixart
+ახრჩობს	დაგვიხრჩვიხართ	V;1;PL;2;PL;IND;PRF = dagvixrčvixart
+ახრჩობს	დაუხრჩვიხართ	V;3;PL;2;PL;IND;PRF = dauxrčvixart
+ახრჩობს	დამიხრჩვია	V;1;SG;3;PL;IND;PRF = damixrčvia
+ახრჩობს	დაგიხრჩვია	V;2;SG;3;PL;IND;PRF = dagixrčvia
+ახრჩობს	დაუხრჩვია	V;3;SG;3;PL;IND;PRF = dauxrčvia
+ახრჩობს	დაგვიხრჩვია	V;1;PL;3;PL;IND;PRF = dagvixrčvia
+ახრჩობს	დაგიხრჩვიათ	V;2;PL;3;PL;IND;PRF = dagixrčviat
+ახრჩობს	დაუხრჩვიათ	V;3;PL;3;PL;IND;PRF = dauxrčviat
+
+
+Screeve #10:
+ახრჩობს	დაგეხრჩე	V;2;SG;1;SG;IND;PST;PRF = dagexrče
+ახრჩობს	დავეხრჩე	V;3;SG;1;SG;IND;PST;PRF = davexrče
+ახრჩობს	დაგეხრჩეთ	V;2;PL;1;SG;IND;PST;PRF = dagexrčet
+ახრჩობს	დავეხრჩეთ	V;3;PL;1;SG;IND;PST;PRF = davexrčet
+ახრჩობს	დამეხრჩე	V;1;SG;2;SG;IND;PST;PRF = damexrče
+ახრჩობს	დაეხრჩე	V;3;SG;2;SG;IND;PST;PRF = daexrče
+ახრჩობს	დაგვეხრჩე	V;1;PL;2;SG;IND;PST;PRF = dagvexrče
+ახრჩობს	დაეხრჩეთ	V;3;PL;2;SG;IND;PST;PRF = daexrčet
+ახრჩობს	დამეხრჩო	V;1;SG;3;SG;IND;PST;PRF = damexrčo
+ახრჩობს	დაგეხრჩო	V;2;SG;3;SG;IND;PST;PRF = dagexrčo
+ახრჩობს	დაეხრჩო	V;3;SG;3;SG;IND;PST;PRF = daexrčo
+ახრჩობს	დაგვეხრჩო	V;1;PL;3;SG;IND;PST;PRF = dagvexrčo
+ახრჩობს	დაგეხრჩოთ	V;2;PL;3;SG;IND;PST;PRF = dagexrčot
+ახრჩობს	დაეხრჩოთ	V;3;PL;3;SG;IND;PST;PRF = daexrčot
+ახრჩობს	დაგეხრჩეთ	V;2;SG;1;PL;IND;PST;PRF = dagexrčet
+ახრჩობს	დავეხრჩეთ	V;3;SG;1;PL;IND;PST;PRF = davexrčet
+ახრჩობს	დაგეხრჩეთ	V;2;PL;1;PL;IND;PST;PRF = dagexrčet
+ახრჩობს	დავეხრჩეთ	V;3;PL;1;PL;IND;PST;PRF = davexrčet
+ახრჩობს	დამეხრჩეთ	V;1;SG;2;PL;IND;PST;PRF = damexrčet
+ახრჩობს	დაეხრჩეთ	V;3;SG;2;PL;IND;PST;PRF = daexrčet
+ახრჩობს	დაგვეხრჩეთ	V;1;PL;2;PL;IND;PST;PRF = dagvexrčet
+ახრჩობს	დაეხრჩეთ	V;3;PL;2;PL;IND;PST;PRF = daexrčet
+ახრჩობს	დამეხრჩო	V;1;SG;3;PL;IND;PST;PRF = damexrčo
+ახრჩობს	დაგეხრჩო	V;2;SG;3;PL;IND;PST;PRF = dagexrčo
+ახრჩობს	დაეხრჩო	V;3;SG;3;PL;IND;PST;PRF = daexrčo
+ახრჩობს	დაგვეხრჩო	V;1;PL;3;PL;IND;PST;PRF = dagvexrčo
+ახრჩობს	დაგეხრჩოთ	V;2;PL;3;PL;IND;PST;PRF = dagexrčot
+ახრჩობს	დაეხრჩოთ	V;3;PL;3;PL;IND;PST;PRF = daexrčot
+
+
+Screeve #11:
+ახრჩობს	დაგეხრჩო	V;2;SG;1;SG;SBJV;PRF = dagexrčo
+ახრჩობს	დავეხრჩო	V;3;SG;1;SG;SBJV;PRF = davexrčo
+ახრჩობს	დაგეხრჩოთ	V;2;PL;1;SG;SBJV;PRF = dagexrčot
+ახრჩობს	დავეხრჩოთ	V;3;PL;1;SG;SBJV;PRF = davexrčot
+ახრჩობს	დამეხრჩო	V;1;SG;2;SG;SBJV;PRF = damexrčo
+ახრჩობს	დაეხრჩო	V;3;SG;2;SG;SBJV;PRF = daexrčo
+ახრჩობს	დაგვეხრჩო	V;1;PL;2;SG;SBJV;PRF = dagvexrčo
+ახრჩობს	დაეხრჩოთ	V;3;PL;2;SG;SBJV;PRF = daexrčot
+ახრჩობს	დამეხრჩოს	V;1;SG;3;SG;SBJV;PRF = damexrčos
+ახრჩობს	დაგეხრჩოს	V;2;SG;3;SG;SBJV;PRF = dagexrčos
+ახრჩობს	დაეხრჩოს	V;3;SG;3;SG;SBJV;PRF = daexrčos
+ახრჩობს	დაგვეხრჩოს	V;1;PL;3;SG;SBJV;PRF = dagvexrčos
+ახრჩობს	დაგეხრჩოთ	V;2;PL;3;SG;SBJV;PRF = dagexrčot
+ახრჩობს	დაეხრჩოთ	V;3;PL;3;SG;SBJV;PRF = daexrčot
+ახრჩობს	დაგეხრჩოთ	V;2;SG;1;PL;SBJV;PRF = dagexrčot
+ახრჩობს	დავეხრჩოთ	V;3;SG;1;PL;SBJV;PRF = davexrčot
+ახრჩობს	დაგეხრჩოთ	V;2;PL;1;PL;SBJV;PRF = dagexrčot
+ახრჩობს	დავეხრჩოთ	V;3;PL;1;PL;SBJV;PRF = davexrčot
+ახრჩობს	დამეხრჩოთ	V;1;SG;2;PL;SBJV;PRF = damexrčot
+ახრჩობს	დაეხრჩოთ	V;3;SG;2;PL;SBJV;PRF = daexrčot
+ახრჩობს	დაგვეხრჩოთ	V;1;PL;2;PL;SBJV;PRF = dagvexrčot
+ახრჩობს	დაეხრჩოთ	V;3;PL;2;PL;SBJV;PRF = daexrčot
+ახრჩობს	დამეხრჩოს	V;1;SG;3;PL;SBJV;PRF = damexrčos
+ახრჩობს	დაგეხრჩოს	V;2;SG;3;PL;SBJV;PRF = dagexrčos
+ახრჩობს	დაეხრჩოს	V;3;SG;3;PL;SBJV;PRF = daexrčos
+ახრჩობს	დაგვეხრჩოს	V;1;PL;3;PL;SBJV;PRF = dagvexrčos
+ახრჩობს	დაგეხრჩოთ	V;2;PL;3;PL;SBJV;PRF = dagexrčot
+ახრჩობს	დაეხრჩოთ	V;3;PL;3;PL;SBJV;PRF = daexrčot
+
+
+ახრჩობს	დახრჩობა	V;V.MSDR;PRF
+ახრჩობს	ხრჩობა	V;V.MSDR;IPFV

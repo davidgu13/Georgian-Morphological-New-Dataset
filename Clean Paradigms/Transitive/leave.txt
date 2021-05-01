@@ -1,0 +1,371 @@
+#41 - ტოვებს - leave:
+Screeve #1:
+ტოვებს	მტოვებ	V;2;SG;1;SG;IND;PRS = mt'oveb
+ტოვებს	მტოვებს	V;3;SG;1;SG;IND;PRS = mt'ovebs
+ტოვებს	მტოვებთ	V;2;PL;1;SG;IND;PRS = mt'ovebt
+ტოვებს	მტოვებენ	V;3;PL;1;SG;IND;PRS = mt'oveben
+ტოვებს	გტოვებ	V;1;SG;2;SG;IND;PRS = gt'oveb
+ტოვებს	გტოვებს	V;3;SG;2;SG;IND;PRS = gt'ovebs
+ტოვებს	გტოვებთ	V;1;PL;2;SG;IND;PRS = gt'ovebt
+ტოვებს	გტოვებენ	V;3;PL;2;SG;IND;PRS = gt'oveben
+ტოვებს	ვტოვებ	V;1;SG;3;SG;IND;PRS = vt'oveb
+ტოვებს	ტოვებ	V;2;SG;3;SG;IND;PRS = t'oveb
+ტოვებს	ტოვებს	V;3;SG;3;SG;IND;PRS = t'ovebs
+ტოვებს	ვტოვებთ	V;1;PL;3;SG;IND;PRS = vt'ovebt
+ტოვებს	ტოვებთ	V;2;PL;3;SG;IND;PRS = t'ovebt
+ტოვებს	ტოვებენ	V;3;PL;3;SG;IND;PRS = t'oveben
+ტოვებს	გვტოვებ	V;2;SG;1;PL;IND;PRS = gvt'oveb
+ტოვებს	გვტოვებს	V;3;SG;1;PL;IND;PRS = gvt'ovebs
+ტოვებს	გვტოვებთ	V;2;PL;1;PL;IND;PRS = gvt'ovebt
+ტოვებს	გვტოვებენ	V;3;PL;1;PL;IND;PRS = gvt'oveben
+ტოვებს	გტოვებთ	V;1;SG;2;PL;IND;PRS = gt'ovebt
+ტოვებს	გტოვებთ	V;3;SG;2;PL;IND;PRS = gt'ovebt
+ტოვებს	გტოვებთ	V;1;PL;2;PL;IND;PRS = gt'ovebt
+ტოვებს	გტოვებენ	V;3;PL;2;PL;IND;PRS = gt'oveben
+ტოვებს	ვტოვებ	V;1;SG;3;PL;IND;PRS = vt'oveb
+ტოვებს	ტოვებ	V;2;SG;3;PL;IND;PRS = t'oveb
+ტოვებს	ტოვებს	V;3;SG;3;PL;IND;PRS = t'ovebs
+ტოვებს	ვტოვებთ	V;1;PL;3;PL;IND;PRS = vt'ovebt
+ტოვებს	ტოვებთ	V;2;PL;3;PL;IND;PRS = t'ovebt
+ტოვებს	ტოვებენ	V;3;PL;3;PL;IND;PRS = t'oveben
+
+
+Screeve #2:
+ტოვებს	მტოვებდი	V;2;SG;1;SG;IND;IPFV = mt'ovebdi
+ტოვებს	მტოვებდა	V;3;SG;1;SG;IND;IPFV = mt'ovebda
+ტოვებს	მტოვებდით	V;2;PL;1;SG;IND;IPFV = mt'ovebdit
+ტოვებს	მტოვებდნენ	V;3;PL;1;SG;IND;IPFV = mt'ovebdnen
+ტოვებს	გტოვებდი	V;1;SG;2;SG;IND;IPFV = gt'ovebdi
+ტოვებს	გტოვებდა	V;3;SG;2;SG;IND;IPFV = gt'ovebda
+ტოვებს	გტოვებდით	V;1;PL;2;SG;IND;IPFV = gt'ovebdit
+ტოვებს	გტოვებდნენ	V;3;PL;2;SG;IND;IPFV = gt'ovebdnen
+ტოვებს	ვტოვებდი	V;1;SG;3;SG;IND;IPFV = vt'ovebdi
+ტოვებს	ტოვებდი	V;2;SG;3;SG;IND;IPFV = t'ovebdi
+ტოვებს	ტოვებდა	V;3;SG;3;SG;IND;IPFV = t'ovebda
+ტოვებს	ვტოვებდით	V;1;PL;3;SG;IND;IPFV = vt'ovebdit
+ტოვებს	ტოვებდით	V;2;PL;3;SG;IND;IPFV = t'ovebdit
+ტოვებს	ტოვებდნენ	V;3;PL;3;SG;IND;IPFV = t'ovebdnen
+ტოვებს	გვტოვებდი	V;2;SG;1;PL;IND;IPFV = gvt'ovebdi
+ტოვებს	გვტოვებდა	V;3;SG;1;PL;IND;IPFV = gvt'ovebda
+ტოვებს	გვტოვებდით	V;2;PL;1;PL;IND;IPFV = gvt'ovebdit
+ტოვებს	გვტოვებდნენ	V;3;PL;1;PL;IND;IPFV = gvt'ovebdnen
+ტოვებს	გტოვებდით	V;1;SG;2;PL;IND;IPFV = gt'ovebdit
+ტოვებს	გტოვებდათ	V;3;SG;2;PL;IND;IPFV = gt'ovebdat
+ტოვებს	გტოვებდით	V;1;PL;2;PL;IND;IPFV = gt'ovebdit
+ტოვებს	გტოვებდნენ	V;3;PL;2;PL;IND;IPFV = gt'ovebdnen
+ტოვებს	ვტოვებდი	V;1;SG;3;PL;IND;IPFV = vt'ovebdi
+ტოვებს	ტოვებდი	V;2;SG;3;PL;IND;IPFV = t'ovebdi
+ტოვებს	ტოვებდა	V;3;SG;3;PL;IND;IPFV = t'ovebda
+ტოვებს	ვტოვებდით	V;1;PL;3;PL;IND;IPFV = vt'ovebdit
+ტოვებს	ტოვებდით	V;2;PL;3;PL;IND;IPFV = t'ovebdit
+ტოვებს	ტოვებდნენ	V;3;PL;3;PL;IND;IPFV = t'ovebdnen
+
+
+Screeve #3:
+ტოვებს	მტოვებდე	V;2;SG;1;SG;SBJV;PRS = mt'ovebde
+ტოვებს	მტოვებდეს	V;3;SG;1;SG;SBJV;PRS = mt'ovebdes
+ტოვებს	მტოვებდეთ	V;2;PL;1;SG;SBJV;PRS = mt'ovebdet
+ტოვებს	მტოვებდნენ	V;3;PL;1;SG;SBJV;PRS = mt'ovebdnen
+ტოვებს	გტოვებდე	V;1;SG;2;SG;SBJV;PRS = gt'ovebde
+ტოვებს	გტოვებდეს	V;3;SG;2;SG;SBJV;PRS = gt'ovebdes
+ტოვებს	გტოვებდეთ	V;1;PL;2;SG;SBJV;PRS = gt'ovebdet
+ტოვებს	გტოვებდნენ	V;3;PL;2;SG;SBJV;PRS = gt'ovebdnen
+ტოვებს	ვტოვებდე	V;1;SG;3;SG;SBJV;PRS = vt'ovebde
+ტოვებს	ტოვებდე	V;2;SG;3;SG;SBJV;PRS = t'ovebde
+ტოვებს	ტოვებდეს	V;3;SG;3;SG;SBJV;PRS = t'ovebdes
+ტოვებს	ვტოვებდეთ	V;1;PL;3;SG;SBJV;PRS = vt'ovebdet
+ტოვებს	ტოვებდეთ	V;2;PL;3;SG;SBJV;PRS = t'ovebdet
+ტოვებს	ტოვებდნენ	V;3;PL;3;SG;SBJV;PRS = t'ovebdnen
+ტოვებს	გვტოვებდე	V;2;SG;1;PL;SBJV;PRS = gvt'ovebde
+ტოვებს	გვტოვებდეს	V;3;SG;1;PL;SBJV;PRS = gvt'ovebdes
+ტოვებს	გვტოვებდეთ	V;2;PL;1;PL;SBJV;PRS = gvt'ovebdet
+ტოვებს	გვტოვებდნენ	V;3;PL;1;PL;SBJV;PRS = gvt'ovebdnen
+ტოვებს	გტოვებდეთ	V;1;SG;2;PL;SBJV;PRS = gt'ovebdet
+ტოვებს	გტოვებდეთ	V;3;SG;2;PL;SBJV;PRS = gt'ovebdet
+ტოვებს	გტოვებდეთ	V;1;PL;2;PL;SBJV;PRS = gt'ovebdet
+ტოვებს	გტოვებდნენ	V;3;PL;2;PL;SBJV;PRS = gt'ovebdnen
+ტოვებს	ვტოვებდე	V;1;SG;3;PL;SBJV;PRS = vt'ovebde
+ტოვებს	ტოვებდე	V;2;SG;3;PL;SBJV;PRS = t'ovebde
+ტოვებს	ტოვებდეს	V;3;SG;3;PL;SBJV;PRS = t'ovebdes
+ტოვებს	ვტოვებდეთ	V;1;PL;3;PL;SBJV;PRS = vt'ovebdet
+ტოვებს	ტოვებდეთ	V;2;PL;3;PL;SBJV;PRS = t'ovebdet
+ტოვებს	ტოვებდნენ	V;3;PL;3;PL;SBJV;PRS = t'ovebdnen
+
+
+Screeve #4:
+ტოვებს	დამტოვებ	V;2;SG;1;SG;IND;FUT = damt'oveb
+ტოვებს	დამტოვებს	V;3;SG;1;SG;IND;FUT = damt'ovebs
+ტოვებს	დამტოვებთ	V;2;PL;1;SG;IND;FUT = damt'ovebt
+ტოვებს	დამტოვებენ	V;3;PL;1;SG;IND;FUT = damt'oveben
+ტოვებს	დაგტოვებ	V;1;SG;2;SG;IND;FUT = dagt'oveb
+ტოვებს	დაგტოვებს	V;3;SG;2;SG;IND;FUT = dagt'ovebs
+ტოვებს	დაგტოვებთ	V;1;PL;2;SG;IND;FUT = dagt'ovebt
+ტოვებს	დაგტოვებენ	V;3;PL;2;SG;IND;FUT = dagt'oveben
+ტოვებს	დავტოვებ	V;1;SG;3;SG;IND;FUT = davt'oveb
+ტოვებს	დატოვებ	V;2;SG;3;SG;IND;FUT = dat'oveb
+ტოვებს	დატოვებს	V;3;SG;3;SG;IND;FUT = dat'ovebs
+ტოვებს	დავტოვებთ	V;1;PL;3;SG;IND;FUT = davt'ovebt
+ტოვებს	დატოვებთ	V;2;PL;3;SG;IND;FUT = dat'ovebt
+ტოვებს	დატოვებენ	V;3;PL;3;SG;IND;FUT = dat'oveben
+ტოვებს	დაგვტოვებ	V;2;SG;1;PL;IND;FUT = dagvt'oveb
+ტოვებს	დაგვტოვებს	V;3;SG;1;PL;IND;FUT = dagvt'ovebs
+ტოვებს	დაგვტოვებთ	V;2;PL;1;PL;IND;FUT = dagvt'ovebt
+ტოვებს	დაგვტოვებენ	V;3;PL;1;PL;IND;FUT = dagvt'oveben
+ტოვებს	დაგტოვებთ	V;1;SG;2;PL;IND;FUT = dagt'ovebt
+ტოვებს	დაგტოვებთ	V;3;SG;2;PL;IND;FUT = dagt'ovebt
+ტოვებს	დაგტოვებთ	V;1;PL;2;PL;IND;FUT = dagt'ovebt
+ტოვებს	დაგტოვებენ	V;3;PL;2;PL;IND;FUT = dagt'oveben
+ტოვებს	დავტოვებ	V;1;SG;3;PL;IND;FUT = davt'oveb
+ტოვებს	დატოვებ	V;2;SG;3;PL;IND;FUT = dat'oveb
+ტოვებს	დატოვებს	V;3;SG;3;PL;IND;FUT = dat'ovebs
+ტოვებს	დავტოვებთ	V;1;PL;3;PL;IND;FUT = davt'ovebt
+ტოვებს	დატოვებთ	V;2;PL;3;PL;IND;FUT = dat'ovebt
+ტოვებს	დატოვებენ	V;3;PL;3;PL;IND;FUT = dat'oveben
+
+
+Screeve #5:
+ტოვებს	დამტოვებდი	V;2;SG;1;SG;COND = damt'ovebdi
+ტოვებს	დამტოვებდა	V;3;SG;1;SG;COND = damt'ovebda
+ტოვებს	დამტოვებდით	V;2;PL;1;SG;COND = damt'ovebdit
+ტოვებს	დამტოვებდნენ	V;3;PL;1;SG;COND = damt'ovebdnen
+ტოვებს	დაგტოვებდი	V;1;SG;2;SG;COND = dagt'ovebdi
+ტოვებს	დაგტოვებდა	V;3;SG;2;SG;COND = dagt'ovebda
+ტოვებს	დაგტოვებდით	V;1;PL;2;SG;COND = dagt'ovebdit
+ტოვებს	დაგტოვებდნენ	V;3;PL;2;SG;COND = dagt'ovebdnen
+ტოვებს	დავტოვებდი	V;1;SG;3;SG;COND = davt'ovebdi
+ტოვებს	დატოვებდი	V;2;SG;3;SG;COND = dat'ovebdi
+ტოვებს	დატოვებდა	V;3;SG;3;SG;COND = dat'ovebda
+ტოვებს	დავტოვებდით	V;1;PL;3;SG;COND = davt'ovebdit
+ტოვებს	დატოვებდით	V;2;PL;3;SG;COND = dat'ovebdit
+ტოვებს	დატოვებდნენ	V;3;PL;3;SG;COND = dat'ovebdnen
+ტოვებს	დაგვტოვებდი	V;2;SG;1;PL;COND = dagvt'ovebdi
+ტოვებს	დაგვტოვებდა	V;3;SG;1;PL;COND = dagvt'ovebda
+ტოვებს	დაგვტოვებდით	V;2;PL;1;PL;COND = dagvt'ovebdit
+ტოვებს	დაგვტოვებდნენ	V;3;PL;1;PL;COND = dagvt'ovebdnen
+ტოვებს	დაგტოვებდით	V;1;SG;2;PL;COND = dagt'ovebdit
+ტოვებს	დაგტოვებდათ	V;3;SG;2;PL;COND = dagt'ovebdat
+ტოვებს	დაგტოვებდით	V;1;PL;2;PL;COND = dagt'ovebdit
+ტოვებს	დაგტოვებდნენ	V;3;PL;2;PL;COND = dagt'ovebdnen
+ტოვებს	დავტოვებდი	V;1;SG;3;PL;COND = davt'ovebdi
+ტოვებს	დატოვებდი	V;2;SG;3;PL;COND = dat'ovebdi
+ტოვებს	დატოვებდა	V;3;SG;3;PL;COND = dat'ovebda
+ტოვებს	დავტოვებდით	V;1;PL;3;PL;COND = davt'ovebdit
+ტოვებს	დატოვებდით	V;2;PL;3;PL;COND = dat'ovebdit
+ტოვებს	დატოვებდნენ	V;3;PL;3;PL;COND = dat'ovebdnen
+
+
+Screeve #6:
+ტოვებს	დამტოვებდე	V;2;SG;1;SG;SBJV;FUT = damt'ovebde
+ტოვებს	დამტოვებდეს	V;3;SG;1;SG;SBJV;FUT = damt'ovebdes
+ტოვებს	დამტოვებდეთ	V;2;PL;1;SG;SBJV;FUT = damt'ovebdet
+ტოვებს	დამტოვებდნენ	V;3;PL;1;SG;SBJV;FUT = damt'ovebdnen
+ტოვებს	დაგტოვებდე	V;1;SG;2;SG;SBJV;FUT = dagt'ovebde
+ტოვებს	დაგტოვებდეს	V;3;SG;2;SG;SBJV;FUT = dagt'ovebdes
+ტოვებს	დაგტოვებდეთ	V;1;PL;2;SG;SBJV;FUT = dagt'ovebdet
+ტოვებს	დაგტოვებდნენ	V;3;PL;2;SG;SBJV;FUT = dagt'ovebdnen
+ტოვებს	დავტოვებდე	V;1;SG;3;SG;SBJV;FUT = davt'ovebde
+ტოვებს	დატოვებდე	V;2;SG;3;SG;SBJV;FUT = dat'ovebde
+ტოვებს	დატოვებდეს	V;3;SG;3;SG;SBJV;FUT = dat'ovebdes
+ტოვებს	დავტოვებდეთ	V;1;PL;3;SG;SBJV;FUT = davt'ovebdet
+ტოვებს	დატოვებდეთ	V;2;PL;3;SG;SBJV;FUT = dat'ovebdet
+ტოვებს	დატოვებდნენ	V;3;PL;3;SG;SBJV;FUT = dat'ovebdnen
+ტოვებს	დაგვტოვებდე	V;2;SG;1;PL;SBJV;FUT = dagvt'ovebde
+ტოვებს	დაგვტოვებდეს	V;3;SG;1;PL;SBJV;FUT = dagvt'ovebdes
+ტოვებს	დაგვტოვებდეთ	V;2;PL;1;PL;SBJV;FUT = dagvt'ovebdet
+ტოვებს	დაგვტოვებდნენ	V;3;PL;1;PL;SBJV;FUT = dagvt'ovebdnen
+ტოვებს	დაგტოვებდეთ	V;1;SG;2;PL;SBJV;FUT = dagt'ovebdet
+ტოვებს	დაგტოვებდეთ	V;3;SG;2;PL;SBJV;FUT = dagt'ovebdet
+ტოვებს	დაგტოვებდეთ	V;1;PL;2;PL;SBJV;FUT = dagt'ovebdet
+ტოვებს	დაგტოვებდნენ	V;3;PL;2;PL;SBJV;FUT = dagt'ovebdnen
+ტოვებს	დავტოვებდე	V;1;SG;3;PL;SBJV;FUT = davt'ovebde
+ტოვებს	დატოვებდე	V;2;SG;3;PL;SBJV;FUT = dat'ovebde
+ტოვებს	დატოვებდეს	V;3;SG;3;PL;SBJV;FUT = dat'ovebdes
+ტოვებს	დავტოვებდეთ	V;1;PL;3;PL;SBJV;FUT = davt'ovebdet
+ტოვებს	დატოვებდეთ	V;2;PL;3;PL;SBJV;FUT = dat'ovebdet
+ტოვებს	დატოვებდნენ	V;3;PL;3;PL;SBJV;FUT = dat'ovebdnen
+
+
+Screeve #7:
+ტოვებს	დამტოვე	V;2;SG;1;SG;IND;PST;PFV = damt'ove
+ტოვებს	დამტოვა	V;3;SG;1;SG;IND;PST;PFV = damt'ova
+ტოვებს	დამტოვეთ	V;2;PL;1;SG;IND;PST;PFV = damt'ovet
+ტოვებს	დამტოვეს	V;3;PL;1;SG;IND;PST;PFV = damt'oves
+ტოვებს	დაგტოვე	V;1;SG;2;SG;IND;PST;PFV = dagt'ove
+ტოვებს	დაგტოვა	V;3;SG;2;SG;IND;PST;PFV = dagt'ova
+ტოვებს	დაგტოვეთ	V;1;PL;2;SG;IND;PST;PFV = dagt'ovet
+ტოვებს	დაგტოვეს	V;3;PL;2;SG;IND;PST;PFV = dagt'oves
+ტოვებს	დავტოვე	V;1;SG;3;SG;IND;PST;PFV = davt'ove
+ტოვებს	დატოვე	V;2;SG;3;SG;IND;PST;PFV = dat'ove
+ტოვებს	დატოვა	V;3;SG;3;SG;IND;PST;PFV = dat'ova
+ტოვებს	დავტოვეთ	V;1;PL;3;SG;IND;PST;PFV = davt'ovet
+ტოვებს	დატოვეთ	V;2;PL;3;SG;IND;PST;PFV = dat'ovet
+ტოვებს	დატოვეს	V;3;PL;3;SG;IND;PST;PFV = dat'oves
+ტოვებს	დაგვტოვე	V;2;SG;1;PL;IND;PST;PFV = dagvt'ove
+ტოვებს	დაგვტოვა	V;3;SG;1;PL;IND;PST;PFV = dagvt'ova
+ტოვებს	დაგვტოვეთ	V;2;PL;1;PL;IND;PST;PFV = dagvt'ovet
+ტოვებს	დაგვტოვეს	V;3;PL;1;PL;IND;PST;PFV = dagvt'oves
+ტოვებს	დაგტოვეთ	V;1;SG;2;PL;IND;PST;PFV = dagt'ovet
+ტოვებს	დაგტოვათ	V;3;SG;2;PL;IND;PST;PFV = dagt'ovat
+ტოვებს	დაგტოვეთ	V;1;PL;2;PL;IND;PST;PFV = dagt'ovet
+ტოვებს	დაგტოვეს	V;3;PL;2;PL;IND;PST;PFV = dagt'oves
+ტოვებს	დავტოვე	V;1;SG;3;PL;IND;PST;PFV = davt'ove
+ტოვებს	დატოვე	V;2;SG;3;PL;IND;PST;PFV = dat'ove
+ტოვებს	დატოვა	V;3;SG;3;PL;IND;PST;PFV = dat'ova
+ტოვებს	დავტოვეთ	V;1;PL;3;PL;IND;PST;PFV = davt'ovet
+ტოვებს	დატოვეთ	V;2;PL;3;PL;IND;PST;PFV = dat'ovet
+ტოვებს	დატოვეს	V;3;PL;3;PL;IND;PST;PFV = dat'oves
+
+ტოვებს	დამტოვე	V;2;SG;1;SG;IMP = damt'ove
+ტოვებს	დამტოვეთ	V;2;PL;1;SG;IMP = damt'ovet
+ტოვებს	დატოვე	V;2;SG;3;SG;IMP = dat'ove
+ტოვებს	დატოვეთ	V;2;PL;3;SG;IMP = dat'ovet
+ტოვებს	დაგვტოვე	V;2;SG;1;PL;IMP = dagvt'ove
+ტოვებს	დაგვტოვეთ	V;2;PL;1;PL;IMP = dagvt'ovet
+ტოვებს	დატოვე	V;2;SG;3;PL;IMP = dat'ove
+ტოვებს	დატოვეთ	V;2;PL;3;PL;IMP = dat'ovet
+
+
+
+Screeve #8:
+ტოვებს	დამტოვო	V;2;SG;1;SG;OPT = damt'ovo
+ტოვებს	დამტოვოს	V;3;SG;1;SG;OPT = damt'ovos
+ტოვებს	დამტოვოთ	V;2;PL;1;SG;OPT = damt'ovot
+ტოვებს	დამტოვონ	V;3;PL;1;SG;OPT = damt'ovon
+ტოვებს	დაგტოვო	V;1;SG;2;SG;OPT = dagt'ovo
+ტოვებს	დაგტოვოს	V;3;SG;2;SG;OPT = dagt'ovos
+ტოვებს	დაგტოვოთ	V;1;PL;2;SG;OPT = dagt'ovot
+ტოვებს	დაგტოვონ	V;3;PL;2;SG;OPT = dagt'ovon
+ტოვებს	დავტოვო	V;1;SG;3;SG;OPT = davt'ovo
+ტოვებს	დატოვო	V;2;SG;3;SG;OPT = dat'ovo
+ტოვებს	დატოვოს	V;3;SG;3;SG;OPT = dat'ovos
+ტოვებს	დავტოვოთ	V;1;PL;3;SG;OPT = davt'ovot
+ტოვებს	დატოვოთ	V;2;PL;3;SG;OPT = dat'ovot
+ტოვებს	დატოვონ	V;3;PL;3;SG;OPT = dat'ovon
+ტოვებს	დაგვტოვო	V;2;SG;1;PL;OPT = dagvt'ovo
+ტოვებს	დაგვტოვოს	V;3;SG;1;PL;OPT = dagvt'ovos
+ტოვებს	დაგვტოვოთ	V;2;PL;1;PL;OPT = dagvt'ovot
+ტოვებს	დაგვტოვონ	V;3;PL;1;PL;OPT = dagvt'ovon
+ტოვებს	დაგტოვოთ	V;1;SG;2;PL;OPT = dagt'ovot
+ტოვებს	დაგტოვოთ	V;3;SG;2;PL;OPT = dagt'ovot
+ტოვებს	დაგტოვოთ	V;1;PL;2;PL;OPT = dagt'ovot
+ტოვებს	დაგტოვოთ	V;3;PL;2;PL;OPT = dagt'ovot
+ტოვებს	დავტოვო	V;1;SG;3;PL;OPT = davt'ovo
+ტოვებს	დატოვო	V;2;SG;3;PL;OPT = dat'ovo
+ტოვებს	დატოვოს	V;3;SG;3;PL;OPT = dat'ovos
+ტოვებს	დავტოვოთ	V;1;PL;3;PL;OPT = davt'ovot
+ტოვებს	დატოვოთ	V;2;PL;3;PL;OPT = dat'ovot
+ტოვებს	დატოვონ	V;3;PL;3;PL;OPT = dat'ovon
+
+ტოვებს	დამტოვონ	V;3;PL;1;SG;IMP = damt'ovon
+ტოვებს	დამტოვოს	V;3;SG;1;SG;IMP = damt'ovos
+ტოვებს	დაგტოვონ	V;3;PL;2;SG;IMP = dagt'ovon
+ტოვებს	დაგტოვოს	V;3;SG;2;SG;IMP = dagt'ovos
+ტოვებს	დაგტოვოთ	V;1;PL;2;SG;IMP = dagt'ovot
+ტოვებს	დატოვონ	V;3;PL;3;SG;IMP = dat'ovon
+ტოვებს	დატოვოს	V;3;SG;3;SG;IMP = dat'ovos
+ტოვებს	დავტოვოთ	V;1;PL;3;SG;IMP = davt'ovot
+ტოვებს	დაგვტოვონ	V;3;PL;1;PL;IMP = dagvt'ovon
+ტოვებს	დაგვტოვოს	V;3;SG;1;PL;IMP = dagvt'ovos
+ტოვებს	დაგტოვოთ	V;3;PL;2;PL;IMP = dagt'ovot
+ტოვებს	დაგტოვოთ	V;3;SG;2;PL;IMP = dagt'ovot
+ტოვებს	დაგტოვოთ	V;1;PL;2;PL;IMP = dagt'ovot
+ტოვებს	დატოვონ	V;3;PL;3;PL;IMP = dat'ovon
+ტოვებს	დატოვოს	V;3;SG;3;PL;IMP = dat'ovos
+ტოვებს	დავტოვოთ	V;1;PL;3;PL;IMP = davt'ovot
+
+
+
+Screeve #9:
+ტოვებს	დაგიტოვებივარ	V;2;SG;1;SG;IND;PRF = dagit'ovebivar
+ტოვებს	დავუტოვებივარ	V;3;SG;1;SG;IND;PRF = davut'ovebivar
+ტოვებს	დაგიტოვებივართ	V;2;PL;1;SG;IND;PRF = dagit'ovebivart
+ტოვებს	დავუტოვებივართ	V;3;PL;1;SG;IND;PRF = davut'ovebivart
+ტოვებს	დამიტოვებიხარ	V;1;SG;2;SG;IND;PRF = damit'ovebixar
+ტოვებს	დაუტოვებიხარ	V;3;SG;2;SG;IND;PRF = daut'ovebixar
+ტოვებს	დაგვიტოვებიხარ	V;1;PL;2;SG;IND;PRF = dagvit'ovebixar
+ტოვებს	დაუტოვებიხართ	V;3;PL;2;SG;IND;PRF = daut'ovebixart
+ტოვებს	დამიტოვებია	V;1;SG;3;SG;IND;PRF = damit'ovebia
+ტოვებს	დაგიტოვებია	V;2;SG;3;SG;IND;PRF = dagit'ovebia
+ტოვებს	დაუტოვებია	V;3;SG;3;SG;IND;PRF = daut'ovebia
+ტოვებს	დაგვიტოვებია	V;1;PL;3;SG;IND;PRF = dagvit'ovebia
+ტოვებს	დაგიტოვებიათ	V;2;PL;3;SG;IND;PRF = dagit'ovebiat
+ტოვებს	დაუტოვებიათ	V;3;PL;3;SG;IND;PRF = daut'ovebiat
+ტოვებს	დაგიტოვებივართ	V;2;SG;1;PL;IND;PRF = dagit'ovebivart
+ტოვებს	დავუტოვებივართ	V;3;SG;1;PL;IND;PRF = davut'ovebivart
+ტოვებს	დაგიტოვებივართ	V;2;PL;1;PL;IND;PRF = dagit'ovebivart
+ტოვებს	დავუტოვებივართ	V;3;PL;1;PL;IND;PRF = davut'ovebivart
+ტოვებს	დამიტოვებიხართ	V;1;SG;2;PL;IND;PRF = damit'ovebixart
+ტოვებს	დაუტოვებიხართ	V;3;SG;2;PL;IND;PRF = daut'ovebixart
+ტოვებს	დაგვიტოვებიხართ	V;1;PL;2;PL;IND;PRF = dagvit'ovebixart
+ტოვებს	დაუტოვებიხართ	V;3;PL;2;PL;IND;PRF = daut'ovebixart
+ტოვებს	დამიტოვებია	V;1;SG;3;PL;IND;PRF = damit'ovebia
+ტოვებს	დაგიტოვებია	V;2;SG;3;PL;IND;PRF = dagit'ovebia
+ტოვებს	დაუტოვებია	V;3;SG;3;PL;IND;PRF = daut'ovebia
+ტოვებს	დაგვიტოვებია	V;1;PL;3;PL;IND;PRF = dagvit'ovebia
+ტოვებს	დაგიტოვებიათ	V;2;PL;3;PL;IND;PRF = dagit'ovebiat
+ტოვებს	დაუტოვებიათ	V;3;PL;3;PL;IND;PRF = daut'ovebiat
+
+
+Screeve #10:
+ტოვებს	დაგეტოვებინე	V;2;SG;1;SG;IND;PST;PRF = daget'ovebine
+ტოვებს	დავეტოვებინე	V;3;SG;1;SG;IND;PST;PRF = davet'ovebine
+ტოვებს	დაგეტოვებინეთ	V;2;PL;1;SG;IND;PST;PRF = daget'ovebinet
+ტოვებს	დავეტოვებინეთ	V;3;PL;1;SG;IND;PST;PRF = davet'ovebinet
+ტოვებს	დამეტოვებინე	V;1;SG;2;SG;IND;PST;PRF = damet'ovebine
+ტოვებს	დაეტოვებინე	V;3;SG;2;SG;IND;PST;PRF = daet'ovebine
+ტოვებს	დაგვეტოვებინე	V;1;PL;2;SG;IND;PST;PRF = dagvet'ovebine
+ტოვებს	დაეტოვებინეთ	V;3;PL;2;SG;IND;PST;PRF = daet'ovebinet
+ტოვებს	დამეტოვებინა	V;1;SG;3;SG;IND;PST;PRF = damet'ovebina
+ტოვებს	დაგეტოვებინა	V;2;SG;3;SG;IND;PST;PRF = daget'ovebina
+ტოვებს	დაეტოვებინა	V;3;SG;3;SG;IND;PST;PRF = daet'ovebina
+ტოვებს	დაგვეტოვებინა	V;1;PL;3;SG;IND;PST;PRF = dagvet'ovebina
+ტოვებს	დაგეტოვებინათ	V;2;PL;3;SG;IND;PST;PRF = daget'ovebinat
+ტოვებს	დაეტოვებინათ	V;3;PL;3;SG;IND;PST;PRF = daet'ovebinat
+ტოვებს	დაგეტოვებინეთ	V;2;SG;1;PL;IND;PST;PRF = daget'ovebinet
+ტოვებს	დავეტოვებინეთ	V;3;SG;1;PL;IND;PST;PRF = davet'ovebinet
+ტოვებს	დაგეტოვებინეთ	V;2;PL;1;PL;IND;PST;PRF = daget'ovebinet
+ტოვებს	დავეტოვებინეთ	V;3;PL;1;PL;IND;PST;PRF = davet'ovebinet
+ტოვებს	დამეტოვებინეთ	V;1;SG;2;PL;IND;PST;PRF = damet'ovebinet
+ტოვებს	დაეტოვებინეთ	V;3;SG;2;PL;IND;PST;PRF = daet'ovebinet
+ტოვებს	დაგვეტოვებინეთ	V;1;PL;2;PL;IND;PST;PRF = dagvet'ovebinet
+ტოვებს	დაეტოვებინეთ	V;3;PL;2;PL;IND;PST;PRF = daet'ovebinet
+ტოვებს	დამეტოვებინა	V;1;SG;3;PL;IND;PST;PRF = damet'ovebina
+ტოვებს	დაგეტოვებინა	V;2;SG;3;PL;IND;PST;PRF = daget'ovebina
+ტოვებს	დაეტოვებინა	V;3;SG;3;PL;IND;PST;PRF = daet'ovebina
+ტოვებს	დაგვეტოვებინა	V;1;PL;3;PL;IND;PST;PRF = dagvet'ovebina
+ტოვებს	დაგეტოვებინათ	V;2;PL;3;PL;IND;PST;PRF = daget'ovebinat
+ტოვებს	დაეტოვებინათ	V;3;PL;3;PL;IND;PST;PRF = daet'ovebinat
+
+
+Screeve #11:
+ტოვებს	დაგეტოვებინო	V;2;SG;1;SG;SBJV;PRF = daget'ovebino
+ტოვებს	დავეტოვებინო	V;3;SG;1;SG;SBJV;PRF = davet'ovebino
+ტოვებს	დაგეტოვებინოთ	V;2;PL;1;SG;SBJV;PRF = daget'ovebinot
+ტოვებს	დავეტოვებინოთ	V;3;PL;1;SG;SBJV;PRF = davet'ovebinot
+ტოვებს	დამეტოვებინო	V;1;SG;2;SG;SBJV;PRF = damet'ovebino
+ტოვებს	დაეტოვებინო	V;3;SG;2;SG;SBJV;PRF = daet'ovebino
+ტოვებს	დაგვეტოვებინო	V;1;PL;2;SG;SBJV;PRF = dagvet'ovebino
+ტოვებს	დაეტოვებინოთ	V;3;PL;2;SG;SBJV;PRF = daet'ovebinot
+ტოვებს	დამეტოვებინოს	V;1;SG;3;SG;SBJV;PRF = damet'ovebinos
+ტოვებს	დაგეტოვებინოს	V;2;SG;3;SG;SBJV;PRF = daget'ovebinos
+ტოვებს	დაეტოვებინოს	V;3;SG;3;SG;SBJV;PRF = daet'ovebinos
+ტოვებს	დაგვეტოვებინოს	V;1;PL;3;SG;SBJV;PRF = dagvet'ovebinos
+ტოვებს	დაგეტოვებინოთ	V;2;PL;3;SG;SBJV;PRF = daget'ovebinot
+ტოვებს	დაეტოვებინოთ	V;3;PL;3;SG;SBJV;PRF = daet'ovebinot
+ტოვებს	დაგეტოვებინოთ	V;2;SG;1;PL;SBJV;PRF = daget'ovebinot
+ტოვებს	დავეტოვებინოთ	V;3;SG;1;PL;SBJV;PRF = davet'ovebinot
+ტოვებს	დაგეტოვებინოთ	V;2;PL;1;PL;SBJV;PRF = daget'ovebinot
+ტოვებს	დავეტოვებინოთ	V;3;PL;1;PL;SBJV;PRF = davet'ovebinot
+ტოვებს	დამეტოვებინოთ	V;1;SG;2;PL;SBJV;PRF = damet'ovebinot
+ტოვებს	დაეტოვებინოთ	V;3;SG;2;PL;SBJV;PRF = daet'ovebinot
+ტოვებს	დაგვეტოვებინოთ	V;1;PL;2;PL;SBJV;PRF = dagvet'ovebinot
+ტოვებს	დაეტოვებინოთ	V;3;PL;2;PL;SBJV;PRF = daet'ovebinot
+ტოვებს	დამეტოვებინოს	V;1;SG;3;PL;SBJV;PRF = damet'ovebinos
+ტოვებს	დაგეტოვებინოს	V;2;SG;3;PL;SBJV;PRF = daget'ovebinos
+ტოვებს	დაეტოვებინოს	V;3;SG;3;PL;SBJV;PRF = daet'ovebinos
+ტოვებს	დაგვეტოვებინოს	V;1;PL;3;PL;SBJV;PRF = dagvet'ovebinos
+ტოვებს	დაგეტოვებინოთ	V;2;PL;3;PL;SBJV;PRF = daget'ovebinot
+ტოვებს	დაეტოვებინოთ	V;3;PL;3;PL;SBJV;PRF = daet'ovebinot
+
+
+ტოვებს	დატოვება	V;V.MSDR;PRF

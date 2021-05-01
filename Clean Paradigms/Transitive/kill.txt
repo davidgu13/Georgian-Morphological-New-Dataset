@@ -1,0 +1,371 @@
+#15 - კლავს - kill:
+Screeve #1:
+კლავს	მკლავ	V;2;SG;1;SG;IND;PRS = mk'lav
+კლავს	მკლავს	V;3;SG;1;SG;IND;PRS = mk'lavs
+კლავს	მკლავთ	V;2;PL;1;SG;IND;PRS = mk'lavt
+კლავს	მკლავენ	V;3;PL;1;SG;IND;PRS = mk'laven
+კლავს	გკლავ	V;1;SG;2;SG;IND;PRS = gk'lav
+კლავს	გკლავს	V;3;SG;2;SG;IND;PRS = gk'lavs
+კლავს	გკლავთ	V;1;PL;2;SG;IND;PRS = gk'lavt
+კლავს	გკლავენ	V;3;PL;2;SG;IND;PRS = gk'laven
+კლავს	ვკლავ	V;1;SG;3;SG;IND;PRS = vk'lav
+კლავს	კლავ	V;2;SG;3;SG;IND;PRS = k'lav
+კლავს	კლავს	V;3;SG;3;SG;IND;PRS = k'lavs
+კლავს	ვკლავთ	V;1;PL;3;SG;IND;PRS = vk'lavt
+კლავს	კლავთ	V;2;PL;3;SG;IND;PRS = k'lavt
+კლავს	კლავენ	V;3;PL;3;SG;IND;PRS = k'laven
+კლავს	გვკლავ	V;2;SG;1;PL;IND;PRS = gvk'lav
+კლავს	გვკლავს	V;3;SG;1;PL;IND;PRS = gvk'lavs
+კლავს	გვკლავთ	V;2;PL;1;PL;IND;PRS = gvk'lavt
+კლავს	გვკლავენ	V;3;PL;1;PL;IND;PRS = gvk'laven
+კლავს	გკლავთ	V;1;SG;2;PL;IND;PRS = gk'lavt
+კლავს	გკლავთ	V;3;SG;2;PL;IND;PRS = gk'lavt
+კლავს	გკლავთ	V;1;PL;2;PL;IND;PRS = gk'lavt
+კლავს	გკლავენ	V;3;PL;2;PL;IND;PRS = gk'laven
+კლავს	ვკლავ	V;1;SG;3;PL;IND;PRS = vk'lav
+კლავს	კლავ	V;2;SG;3;PL;IND;PRS = k'lav
+კლავს	კლავს	V;3;SG;3;PL;IND;PRS = k'lavs
+კლავს	ვკლავთ	V;1;PL;3;PL;IND;PRS = vk'lavt
+კლავს	კლავთ	V;2;PL;3;PL;IND;PRS = k'lavt
+კლავს	კლავენ	V;3;PL;3;PL;IND;PRS = k'laven
+
+
+Screeve #2:
+კლავს	მკლავდი	V;2;SG;1;SG;IND;IPFV = mk'lavdi
+კლავს	მკლავდა	V;3;SG;1;SG;IND;IPFV = mk'lavda
+კლავს	მკლავდით	V;2;PL;1;SG;IND;IPFV = mk'lavdit
+კლავს	მკლავდნენ	V;3;PL;1;SG;IND;IPFV = mk'lavdnen
+კლავს	გკლავდი	V;1;SG;2;SG;IND;IPFV = gk'lavdi
+კლავს	გკლავდა	V;3;SG;2;SG;IND;IPFV = gk'lavda
+კლავს	გკლავდით	V;1;PL;2;SG;IND;IPFV = gk'lavdit
+კლავს	გკლავდნენ	V;3;PL;2;SG;IND;IPFV = gk'lavdnen
+კლავს	ვკლავდი	V;1;SG;3;SG;IND;IPFV = vk'lavdi
+კლავს	კლავდი	V;2;SG;3;SG;IND;IPFV = k'lavdi
+კლავს	კლავდა	V;3;SG;3;SG;IND;IPFV = k'lavda
+კლავს	ვკლავდით	V;1;PL;3;SG;IND;IPFV = vk'lavdit
+კლავს	კლავდით	V;2;PL;3;SG;IND;IPFV = k'lavdit
+კლავს	კლავდნენ	V;3;PL;3;SG;IND;IPFV = k'lavdnen
+კლავს	გვკლავდი	V;2;SG;1;PL;IND;IPFV = gvk'lavdi
+კლავს	გვკლავდა	V;3;SG;1;PL;IND;IPFV = gvk'lavda
+კლავს	გვკლავდით	V;2;PL;1;PL;IND;IPFV = gvk'lavdit
+კლავს	გვკლავდნენ	V;3;PL;1;PL;IND;IPFV = gvk'lavdnen
+კლავს	გკლავდით	V;1;SG;2;PL;IND;IPFV = gk'lavdit
+კლავს	გკლავდათ	V;3;SG;2;PL;IND;IPFV = gk'lavdat
+კლავს	გკლავდით	V;1;PL;2;PL;IND;IPFV = gk'lavdit
+კლავს	გკლავდნენ	V;3;PL;2;PL;IND;IPFV = gk'lavdnen
+კლავს	ვკლავდი	V;1;SG;3;PL;IND;IPFV = vk'lavdi
+კლავს	კლავდი	V;2;SG;3;PL;IND;IPFV = k'lavdi
+კლავს	კლავდა	V;3;SG;3;PL;IND;IPFV = k'lavda
+კლავს	ვკლავდით	V;1;PL;3;PL;IND;IPFV = vk'lavdit
+კლავს	კლავდით	V;2;PL;3;PL;IND;IPFV = k'lavdit
+კლავს	კლავდნენ	V;3;PL;3;PL;IND;IPFV = k'lavdnen
+
+
+Screeve #3:
+კლავს	მკლავდე	V;2;SG;1;SG;SBJV;PRS = mk'lavde
+კლავს	მკლავდეს	V;3;SG;1;SG;SBJV;PRS = mk'lavdes
+კლავს	მკლავდეთ	V;2;PL;1;SG;SBJV;PRS = mk'lavdet
+კლავს	მკლავდნენ	V;3;PL;1;SG;SBJV;PRS = mk'lavdnen
+კლავს	გკლავდე	V;1;SG;2;SG;SBJV;PRS = gk'lavde
+კლავს	გკლავდეს	V;3;SG;2;SG;SBJV;PRS = gk'lavdes
+კლავს	გკლავდეთ	V;1;PL;2;SG;SBJV;PRS = gk'lavdet
+კლავს	გკლავდნენ	V;3;PL;2;SG;SBJV;PRS = gk'lavdnen
+კლავს	ვკლავდე	V;1;SG;3;SG;SBJV;PRS = vk'lavde
+კლავს	კლავდე	V;2;SG;3;SG;SBJV;PRS = k'lavde
+კლავს	კლავდეს	V;3;SG;3;SG;SBJV;PRS = k'lavdes
+კლავს	ვკლავდეთ	V;1;PL;3;SG;SBJV;PRS = vk'lavdet
+კლავს	კლავდეთ	V;2;PL;3;SG;SBJV;PRS = k'lavdet
+კლავს	კლავდნენ	V;3;PL;3;SG;SBJV;PRS = k'lavdnen
+კლავს	გვკლავდე	V;2;SG;1;PL;SBJV;PRS = gvk'lavde
+კლავს	გვკლავდეს	V;3;SG;1;PL;SBJV;PRS = gvk'lavdes
+კლავს	გვკლავდეთ	V;2;PL;1;PL;SBJV;PRS = gvk'lavdet
+კლავს	გვკლავდნენ	V;3;PL;1;PL;SBJV;PRS = gvk'lavdnen
+კლავს	გკლავდეთ	V;1;SG;2;PL;SBJV;PRS = gk'lavdet
+კლავს	გკლავდეთ	V;3;SG;2;PL;SBJV;PRS = gk'lavdet
+კლავს	გკლავდეთ	V;1;PL;2;PL;SBJV;PRS = gk'lavdet
+კლავს	გკლავდნენ	V;3;PL;2;PL;SBJV;PRS = gk'lavdnen
+კლავს	ვკლავდე	V;1;SG;3;PL;SBJV;PRS = vk'lavde
+კლავს	კლავდე	V;2;SG;3;PL;SBJV;PRS = k'lavde
+კლავს	კლავდეს	V;3;SG;3;PL;SBJV;PRS = k'lavdes
+კლავს	ვკლავდეთ	V;1;PL;3;PL;SBJV;PRS = vk'lavdet
+კლავს	კლავდეთ	V;2;PL;3;PL;SBJV;PRS = k'lavdet
+კლავს	კლავდნენ	V;3;PL;3;PL;SBJV;PRS = k'lavdnen
+
+
+Screeve #4:
+კლავს	მომკლავ	V;2;SG;1;SG;IND;FUT = momk'lav
+კლავს	მომკლავს	V;3;SG;1;SG;IND;FUT = momk'lavs
+კლავს	მომკლავთ	V;2;PL;1;SG;IND;FUT = momk'lavt
+კლავს	მომკლავენ	V;3;PL;1;SG;IND;FUT = momk'laven
+კლავს	მოგკლავ	V;1;SG;2;SG;IND;FUT = mogk'lav
+კლავს	მოგკლავს	V;3;SG;2;SG;IND;FUT = mogk'lavs
+კლავს	მოგკლავთ	V;1;PL;2;SG;IND;FUT = mogk'lavt
+კლავს	მოგკლავენ	V;3;PL;2;SG;IND;FUT = mogk'laven
+კლავს	მოვკლავ	V;1;SG;3;SG;IND;FUT = movk'lav
+კლავს	მოკლავ	V;2;SG;3;SG;IND;FUT = mok'lav
+კლავს	მოკლავს	V;3;SG;3;SG;IND;FUT = mok'lavs
+კლავს	მოვკლავთ	V;1;PL;3;SG;IND;FUT = movk'lavt
+კლავს	მოკლავთ	V;2;PL;3;SG;IND;FUT = mok'lavt
+კლავს	მოკლავენ	V;3;PL;3;SG;IND;FUT = mok'laven
+კლავს	მოგვკლავ	V;2;SG;1;PL;IND;FUT = mogvk'lav
+კლავს	მოგვკლავს	V;3;SG;1;PL;IND;FUT = mogvk'lavs
+კლავს	მოგვკლავთ	V;2;PL;1;PL;IND;FUT = mogvk'lavt
+კლავს	მოგვკლავენ	V;3;PL;1;PL;IND;FUT = mogvk'laven
+კლავს	მოგკლავთ	V;1;SG;2;PL;IND;FUT = mogk'lavt
+კლავს	მოგკლავთ	V;3;SG;2;PL;IND;FUT = mogk'lavt
+კლავს	მოგკლავთ	V;1;PL;2;PL;IND;FUT = mogk'lavt
+კლავს	მოგკლავენ	V;3;PL;2;PL;IND;FUT = mogk'laven
+კლავს	მოვკლავ	V;1;SG;3;PL;IND;FUT = movk'lav
+კლავს	მოკლავ	V;2;SG;3;PL;IND;FUT = mok'lav
+კლავს	მოკლავს	V;3;SG;3;PL;IND;FUT = mok'lavs
+კლავს	მოვკლავთ	V;1;PL;3;PL;IND;FUT = movk'lavt
+კლავს	მოკლავთ	V;2;PL;3;PL;IND;FUT = mok'lavt
+კლავს	მოკლავენ	V;3;PL;3;PL;IND;FUT = mok'laven
+
+
+Screeve #5:
+კლავს	მომკლავდი	V;2;SG;1;SG;COND = momk'lavdi
+კლავს	მომკლავდა	V;3;SG;1;SG;COND = momk'lavda
+კლავს	მომკლავდით	V;2;PL;1;SG;COND = momk'lavdit
+კლავს	მომკლავდნენ	V;3;PL;1;SG;COND = momk'lavdnen
+კლავს	მოგკლავდი	V;1;SG;2;SG;COND = mogk'lavdi
+კლავს	მოგკლავდა	V;3;SG;2;SG;COND = mogk'lavda
+კლავს	მოგკლავდით	V;1;PL;2;SG;COND = mogk'lavdit
+კლავს	მოგკლავდნენ	V;3;PL;2;SG;COND = mogk'lavdnen
+კლავს	მოვკლავდი	V;1;SG;3;SG;COND = movk'lavdi
+კლავს	მოკლავდი	V;2;SG;3;SG;COND = mok'lavdi
+კლავს	მოკლავდა	V;3;SG;3;SG;COND = mok'lavda
+კლავს	მოვკლავდით	V;1;PL;3;SG;COND = movk'lavdit
+კლავს	მოკლავდით	V;2;PL;3;SG;COND = mok'lavdit
+კლავს	მოკლავდნენ	V;3;PL;3;SG;COND = mok'lavdnen
+კლავს	მოგვკლავდი	V;2;SG;1;PL;COND = mogvk'lavdi
+კლავს	მოგვკლავდა	V;3;SG;1;PL;COND = mogvk'lavda
+კლავს	მოგვკლავდით	V;2;PL;1;PL;COND = mogvk'lavdit
+კლავს	მოგვკლავდნენ	V;3;PL;1;PL;COND = mogvk'lavdnen
+კლავს	მოგკლავდით	V;1;SG;2;PL;COND = mogk'lavdit
+კლავს	მოგკლავდათ	V;3;SG;2;PL;COND = mogk'lavdat
+კლავს	მოგკლავდით	V;1;PL;2;PL;COND = mogk'lavdit
+კლავს	მოგკლავდნენ	V;3;PL;2;PL;COND = mogk'lavdnen
+კლავს	მოვკლავდი	V;1;SG;3;PL;COND = movk'lavdi
+კლავს	მოკლავდი	V;2;SG;3;PL;COND = mok'lavdi
+კლავს	მოკლავდა	V;3;SG;3;PL;COND = mok'lavda
+კლავს	მოვკლავდით	V;1;PL;3;PL;COND = movk'lavdit
+კლავს	მოკლავდით	V;2;PL;3;PL;COND = mok'lavdit
+კლავს	მოკლავდნენ	V;3;PL;3;PL;COND = mok'lavdnen
+
+
+Screeve #6:
+კლავს	მომკლავდე	V;2;SG;1;SG;SBJV;FUT = momk'lavde
+კლავს	მომკლავდეს	V;3;SG;1;SG;SBJV;FUT = momk'lavdes
+კლავს	მომკლავდეთ	V;2;PL;1;SG;SBJV;FUT = momk'lavdet
+კლავს	მომკლავდნენ	V;3;PL;1;SG;SBJV;FUT = momk'lavdnen
+კლავს	მოგკლავდე	V;1;SG;2;SG;SBJV;FUT = mogk'lavde
+კლავს	მოგკლავდეს	V;3;SG;2;SG;SBJV;FUT = mogk'lavdes
+კლავს	მოგკლავდეთ	V;1;PL;2;SG;SBJV;FUT = mogk'lavdet
+კლავს	მოგკლავდნენ	V;3;PL;2;SG;SBJV;FUT = mogk'lavdnen
+კლავს	მოვკლავდე	V;1;SG;3;SG;SBJV;FUT = movk'lavde
+კლავს	მოკლავდე	V;2;SG;3;SG;SBJV;FUT = mok'lavde
+კლავს	მოკლავდეს	V;3;SG;3;SG;SBJV;FUT = mok'lavdes
+კლავს	მოვკლავდეთ	V;1;PL;3;SG;SBJV;FUT = movk'lavdet
+კლავს	მოკლავდეთ	V;2;PL;3;SG;SBJV;FUT = mok'lavdet
+კლავს	მოკლავდნენ	V;3;PL;3;SG;SBJV;FUT = mok'lavdnen
+კლავს	მოგვკლავდე	V;2;SG;1;PL;SBJV;FUT = mogvk'lavde
+კლავს	მოგვკლავდეს	V;3;SG;1;PL;SBJV;FUT = mogvk'lavdes
+კლავს	მოგვკლავდეთ	V;2;PL;1;PL;SBJV;FUT = mogvk'lavdet
+კლავს	მოგვკლავდნენ	V;3;PL;1;PL;SBJV;FUT = mogvk'lavdnen
+კლავს	მოგკლავდეთ	V;1;SG;2;PL;SBJV;FUT = mogk'lavdet
+კლავს	მოგკლავდეთ	V;3;SG;2;PL;SBJV;FUT = mogk'lavdet
+კლავს	მოგკლავდეთ	V;1;PL;2;PL;SBJV;FUT = mogk'lavdet
+კლავს	მოგკლავდნენ	V;3;PL;2;PL;SBJV;FUT = mogk'lavdnen
+კლავს	მოვკლავდე	V;1;SG;3;PL;SBJV;FUT = movk'lavde
+კლავს	მოკლავდე	V;2;SG;3;PL;SBJV;FUT = mok'lavde
+კლავს	მოკლავდეს	V;3;SG;3;PL;SBJV;FUT = mok'lavdes
+კლავს	მოვკლავდეთ	V;1;PL;3;PL;SBJV;FUT = movk'lavdet
+კლავს	მოკლავდეთ	V;2;PL;3;PL;SBJV;FUT = mok'lavdet
+კლავს	მოკლავდნენ	V;3;PL;3;PL;SBJV;FUT = mok'lavdnen
+
+
+Screeve #7:
+კლავს	მომკალი	V;2;SG;1;SG;IND;PST;PFV = momk'ali
+კლავს	მომკლა	V;3;SG;1;SG;IND;PST;PFV = momk'la
+კლავს	მომკალით	V;2;PL;1;SG;IND;PST;PFV = momk'alit
+კლავს	მომკლეს	V;3;PL;1;SG;IND;PST;PFV = momk'les
+კლავს	მოგკალი	V;1;SG;2;SG;IND;PST;PFV = mogk'ali
+კლავს	მოგკლა	V;3;SG;2;SG;IND;PST;PFV = mogk'la
+კლავს	მოგკალით	V;1;PL;2;SG;IND;PST;PFV = mogk'alit
+კლავს	მოგკლეს	V;3;PL;2;SG;IND;PST;PFV = mogk'les
+კლავს	მოვკალი	V;1;SG;3;SG;IND;PST;PFV = movk'ali
+კლავს	მოკალი	V;2;SG;3;SG;IND;PST;PFV = mok'ali
+კლავს	მოკლა	V;3;SG;3;SG;IND;PST;PFV = mok'la
+კლავს	მოვკალით	V;1;PL;3;SG;IND;PST;PFV = movk'alit
+კლავს	მოკალით	V;2;PL;3;SG;IND;PST;PFV = mok'alit
+კლავს	მოკლეს	V;3;PL;3;SG;IND;PST;PFV = mok'les
+კლავს	მოგვკალი	V;2;SG;1;PL;IND;PST;PFV = mogvk'ali
+კლავს	მოგვკლა	V;3;SG;1;PL;IND;PST;PFV = mogvk'la
+კლავს	მოგვკალით	V;2;PL;1;PL;IND;PST;PFV = mogvk'alit
+კლავს	მოგვკლეს	V;3;PL;1;PL;IND;PST;PFV = mogvk'les
+კლავს	მოგკალით	V;1;SG;2;PL;IND;PST;PFV = mogk'alit
+კლავს	მოგკლათ	V;3;SG;2;PL;IND;PST;PFV = mogk'lat
+კლავს	მოგკალით	V;1;PL;2;PL;IND;PST;PFV = mogk'alit
+კლავს	მოგკლეს	V;3;PL;2;PL;IND;PST;PFV = mogk'les
+კლავს	მოვკალი	V;1;SG;3;PL;IND;PST;PFV = movk'ali
+კლავს	მოკალი	V;2;SG;3;PL;IND;PST;PFV = mok'ali
+კლავს	მოკლა	V;3;SG;3;PL;IND;PST;PFV = mok'la
+კლავს	მოვკალით	V;1;PL;3;PL;IND;PST;PFV = movk'alit
+კლავს	მოკალით	V;2;PL;3;PL;IND;PST;PFV = mok'alit
+კლავს	მოკლეს	V;3;PL;3;PL;IND;PST;PFV = mok'les
+
+კლავს	მომკალით	V;2;PL;1;SG;IMP = momk'alit
+კლავს	მომკალი	V;2;SG;1;SG;IMP = momk'ali
+კლავს	მოკალით	V;2;PL;3;SG;IMP = mok'alit
+კლავს	მოკალი	V;2;SG;3;SG;IMP = mok'ali
+კლავს	მოგვკალით	V;2;PL;1;PL;IMP = mogvk'alit
+კლავს	მოგვკალი	V;2;SG;1;PL;IMP = mogvk'ali
+კლავს	მოკალით	V;2;PL;3;PL;IMP = mok'alit
+კლავს	მოკალი	V;2;SG;3;PL;IMP = mok'ali
+
+
+
+Screeve #8:
+კლავს	მომკლა	V;2;SG;1;SG;OPT = momk'la
+კლავს	მომკლას	V;3;SG;1;SG;OPT = momk'las
+კლავს	მომკლათ	V;2;PL;1;SG;OPT = momk'lat
+კლავს	მომკლან	V;3;PL;1;SG;OPT = momk'lan
+კლავს	მოგკლა	V;1;SG;2;SG;OPT = mogk'la
+კლავს	მოგკლას	V;3;SG;2;SG;OPT = mogk'las
+კლავს	მოგკლათ	V;1;PL;2;SG;OPT = mogk'lat
+კლავს	მოგკლან	V;3;PL;2;SG;OPT = mogk'lan
+კლავს	მოვკლა	V;1;SG;3;SG;OPT = movk'la
+კლავს	მოკლა	V;2;SG;3;SG;OPT = mok'la
+კლავს	მოკლას	V;3;SG;3;SG;OPT = mok'las
+კლავს	მოვკლათ	V;1;PL;3;SG;OPT = movk'lat
+კლავს	მოკლათ	V;2;PL;3;SG;OPT = mok'lat
+კლავს	მოკლან	V;3;PL;3;SG;OPT = mok'lan
+კლავს	მოგვკლა	V;2;SG;1;PL;OPT = mogvk'la
+კლავს	მოგვკლას	V;3;SG;1;PL;OPT = mogvk'las
+კლავს	მოგვკლათ	V;2;PL;1;PL;OPT = mogvk'lat
+კლავს	მოგვკლან	V;3;PL;1;PL;OPT = mogvk'lan
+კლავს	მოგკლათ	V;1;SG;2;PL;OPT = mogk'lat
+კლავს	მოგკლათ	V;3;SG;2;PL;OPT = mogk'lat
+კლავს	მოგკლათ	V;1;PL;2;PL;OPT = mogk'lat
+კლავს	მოგკლათ	V;3;PL;2;PL;OPT = mogk'lat
+კლავს	მოვკლა	V;1;SG;3;PL;OPT = movk'la
+კლავს	მოკლა	V;2;SG;3;PL;OPT = mok'la
+კლავს	მოკლას	V;3;SG;3;PL;OPT = mok'las
+კლავს	მოვკლათ	V;1;PL;3;PL;OPT = movk'lat
+კლავს	მოკლათ	V;2;PL;3;PL;OPT = mok'lat
+კლავს	მოკლან	V;3;PL;3;PL;OPT = mok'lan
+
+კლავს	მომკლან	V;3;PL;1;SG;IMP = momk'lan
+კლავს	მომკლას	V;3;SG;1;SG;IMP = momk'las
+კლავს	მოგკლან	V;3;PL;2;SG;IMP = mogk'lan
+კლავს	მოგკლათ	V;1;PL;2;SG;IMP = mogk'lat
+კლავს	მოგკლას	V;3;SG;2;SG;IMP = mogk'las
+კლავს	მოკლან	V;3;PL;3;SG;IMP = mok'lan
+კლავს	მოვკლათ	V;1;PL;3;SG;IMP = movk'lat
+კლავს	მოკლას	V;3;SG;3;SG;IMP = mok'las
+კლავს	მოგვკლან	V;3;PL;1;PL;IMP = mogvk'lan
+კლავს	მოგვკლას	V;3;SG;1;PL;IMP = mogvk'las
+კლავს	მოგკლათ	V;3;PL;2;PL;IMP = mogk'lat
+კლავს	მოგკლათ	V;1;PL;2;PL;IMP = mogk'lat
+კლავს	მოგკლათ	V;3;SG;2;PL;IMP = mogk'lat
+კლავს	მოკლან	V;3;PL;3;PL;IMP = mok'lan
+კლავს	მოვკლათ	V;1;PL;3;PL;IMP = movk'lat
+კლავს	მოკლას	V;3;SG;3;PL;IMP = mok'las
+
+
+
+Screeve #9:
+კლავს	მოგიკლივარ	V;2;SG;1;SG;IND;PRF = mogik'livar
+კლავს	მოვუკლივარ	V;3;SG;1;SG;IND;PRF = movuk'livar
+კლავს	მოგიკლივართ	V;2;PL;1;SG;IND;PRF = mogik'livart
+კლავს	მოვუკლივართ	V;3;PL;1;SG;IND;PRF = movuk'livart
+კლავს	მომიკლიხარ	V;1;SG;2;SG;IND;PRF = momik'lixar
+კლავს	მოუკლიხარ	V;3;SG;2;SG;IND;PRF = mouk'lixar
+კლავს	მოგვიკლიხარ	V;1;PL;2;SG;IND;PRF = mogvik'lixar
+კლავს	მოუკლიხართ	V;3;PL;2;SG;IND;PRF = mouk'lixart
+კლავს	მომიკლია	V;1;SG;3;SG;IND;PRF = momik'lia
+კლავს	მოგიკლია	V;2;SG;3;SG;IND;PRF = mogik'lia
+კლავს	მოუკლია	V;3;SG;3;SG;IND;PRF = mouk'lia
+კლავს	მოგვიკლია	V;1;PL;3;SG;IND;PRF = mogvik'lia
+კლავს	მოგიკლიათ	V;2;PL;3;SG;IND;PRF = mogik'liat
+კლავს	მოუკლიათ	V;3;PL;3;SG;IND;PRF = mouk'liat
+კლავს	მოგიკლივართ	V;2;SG;1;PL;IND;PRF = mogik'livart
+კლავს	მოვუკლივართ	V;3;SG;1;PL;IND;PRF = movuk'livart
+კლავს	მოგიკლივართ	V;2;PL;1;PL;IND;PRF = mogik'livart
+კლავს	მოვუკლივართ	V;3;PL;1;PL;IND;PRF = movuk'livart
+კლავს	მომიკლიხართ	V;1;SG;2;PL;IND;PRF = momik'lixart
+კლავს	მოუკლიხართ	V;3;SG;2;PL;IND;PRF = mouk'lixart
+კლავს	მოგვიკლიხართ	V;1;PL;2;PL;IND;PRF = mogvik'lixart
+კლავს	მოუკლიხართ	V;3;PL;2;PL;IND;PRF = mouk'lixart
+კლავს	მომიკლია	V;1;SG;3;PL;IND;PRF = momik'lia
+კლავს	მოგიკლია	V;2;SG;3;PL;IND;PRF = mogik'lia
+კლავს	მოუკლია	V;3;SG;3;PL;IND;PRF = mouk'lia
+კლავს	მოგვიკლია	V;1;PL;3;PL;IND;PRF = mogvik'lia
+კლავს	მოგიკლიათ	V;2;PL;3;PL;IND;PRF = mogik'liat
+კლავს	მოუკლიათ	V;3;PL;3;PL;IND;PRF = mouk'liat
+
+
+Screeve #10:
+კლავს	მოგეკალი	V;2;SG;1;SG;IND;PST;PRF = mogek'ali
+კლავს	მოვეკალი	V;3;SG;1;SG;IND;PST;PRF = movek'ali
+კლავს	მოგეკალით	V;2;PL;1;SG;IND;PST;PRF = mogek'alit
+კლავს	მოვეკალით	V;3;PL;1;SG;IND;PST;PRF = movek'alit
+კლავს	მომეკალი	V;1;SG;2;SG;IND;PST;PRF = momek'ali
+კლავს	მოეკალი	V;3;SG;2;SG;IND;PST;PRF = moek'ali
+კლავს	მოგვეკალი	V;1;PL;2;SG;IND;PST;PRF = mogvek'ali
+კლავს	მოეკალით	V;3;PL;2;SG;IND;PST;PRF = moek'alit
+კლავს	მომეკლა	V;1;SG;3;SG;IND;PST;PRF = momek'la
+კლავს	მოგეკლა	V;2;SG;3;SG;IND;PST;PRF = mogek'la
+კლავს	მოეკლა	V;3;SG;3;SG;IND;PST;PRF = moek'la
+კლავს	მოგვეკლა	V;1;PL;3;SG;IND;PST;PRF = mogvek'la
+კლავს	მოგეკლათ	V;2;PL;3;SG;IND;PST;PRF = mogek'lat
+კლავს	მოეკლათ	V;3;PL;3;SG;IND;PST;PRF = moek'lat
+კლავს	მოგეკალით	V;2;SG;1;PL;IND;PST;PRF = mogek'alit
+კლავს	მოვეკალით	V;3;SG;1;PL;IND;PST;PRF = movek'alit
+კლავს	მოგეკალით	V;2;PL;1;PL;IND;PST;PRF = mogek'alit
+კლავს	მოვეკალით	V;3;PL;1;PL;IND;PST;PRF = movek'alit
+კლავს	მომეკალით	V;1;SG;2;PL;IND;PST;PRF = momek'alit
+კლავს	მოეკალით	V;3;SG;2;PL;IND;PST;PRF = moek'alit
+კლავს	მოგვეკალით	V;1;PL;2;PL;IND;PST;PRF = mogvek'alit
+კლავს	მოეკალით	V;3;PL;2;PL;IND;PST;PRF = moek'alit
+კლავს	მომეკლა	V;1;SG;3;PL;IND;PST;PRF = momek'la
+კლავს	მოგეკლა	V;2;SG;3;PL;IND;PST;PRF = mogek'la
+კლავს	მოეკლა	V;3;SG;3;PL;IND;PST;PRF = moek'la
+კლავს	მოგვეკლა	V;1;PL;3;PL;IND;PST;PRF = mogvek'la
+კლავს	მოგეკლათ	V;2;PL;3;PL;IND;PST;PRF = mogek'lat
+კლავს	მოეკლათ	V;3;PL;3;PL;IND;PST;PRF = moek'lat
+
+
+Screeve #11:
+კლავს	მოგეკლა	V;2;SG;1;SG;SBJV;PRF = mogek'la
+კლავს	მოვეკლა	V;3;SG;1;SG;SBJV;PRF = movek'la
+კლავს	მოგეკლათ	V;2;PL;1;SG;SBJV;PRF = mogek'lat
+კლავს	მოვეკლათ	V;3;PL;1;SG;SBJV;PRF = movek'lat
+კლავს	მომეკლა	V;1;SG;2;SG;SBJV;PRF = momek'la
+კლავს	მოეკლა	V;3;SG;2;SG;SBJV;PRF = moek'la
+კლავს	მოგვეკლა	V;1;PL;2;SG;SBJV;PRF = mogvek'la
+კლავს	მოეკლათ	V;3;PL;2;SG;SBJV;PRF = moek'lat
+კლავს	მომეკლას	V;1;SG;3;SG;SBJV;PRF = momek'las
+კლავს	მოგეკლას	V;2;SG;3;SG;SBJV;PRF = mogek'las
+კლავს	მოეკლას	V;3;SG;3;SG;SBJV;PRF = moek'las
+კლავს	მოგვეკლას	V;1;PL;3;SG;SBJV;PRF = mogvek'las
+კლავს	მოგეკლათ	V;2;PL;3;SG;SBJV;PRF = mogek'lat
+კლავს	მოეკლათ	V;3;PL;3;SG;SBJV;PRF = moek'lat
+კლავს	მოგეკლათ	V;2;SG;1;PL;SBJV;PRF = mogek'lat
+კლავს	მოვეკლათ	V;3;SG;1;PL;SBJV;PRF = movek'lat
+კლავს	მოგეკლათ	V;2;PL;1;PL;SBJV;PRF = mogek'lat
+კლავს	მოვეკლათ	V;3;PL;1;PL;SBJV;PRF = movek'lat
+კლავს	მომეკლათ	V;1;SG;2;PL;SBJV;PRF = momek'lat
+კლავს	მოეკლათ	V;3;SG;2;PL;SBJV;PRF = moek'lat
+კლავს	მოგვეკლათ	V;1;PL;2;PL;SBJV;PRF = mogvek'lat
+კლავს	მოეკლათ	V;3;PL;2;PL;SBJV;PRF = moek'lat
+კლავს	მომეკლას	V;1;SG;3;PL;SBJV;PRF = momek'las
+კლავს	მოგეკლას	V;2;SG;3;PL;SBJV;PRF = mogek'las
+კლავს	მოეკლას	V;3;SG;3;PL;SBJV;PRF = moek'las
+კლავს	მოგვეკლას	V;1;PL;3;PL;SBJV;PRF = mogvek'las
+კლავს	მოგეკლათ	V;2;PL;3;PL;SBJV;PRF = mogek'lat
+კლავს	მოეკლათ	V;3;PL;3;PL;SBJV;PRF = moek'lat
+
+
+კლავს	მოკვლა	V;V.MSDR;PRF

@@ -1,0 +1,372 @@
+#38 - ათბობს - heat:
+Screeve #1:
+ათბობს	მათბობ	V;2;SG;1;SG;IND;PRS = matbob
+ათბობს	მათბობს	V;3;SG;1;SG;IND;PRS = matbobs
+ათბობს	მათბობთ	V;2;PL;1;SG;IND;PRS = matbobt
+ათბობს	მათბობენ	V;3;PL;1;SG;IND;PRS = matboben
+ათბობს	გათბობ	V;1;SG;2;SG;IND;PRS = gatbob
+ათბობს	გათბობს	V;3;SG;2;SG;IND;PRS = gatbobs
+ათბობს	გათბობთ	V;1;PL;2;SG;IND;PRS = gatbobt
+ათბობს	გათბობენ	V;3;PL;2;SG;IND;PRS = gatboben
+ათბობს	ვათბობ	V;1;SG;3;SG;IND;PRS = vatbob
+ათბობს	ათბობ	V;2;SG;3;SG;IND;PRS = atbob
+ათბობს	ათბობს	V;3;SG;3;SG;IND;PRS = atbobs
+ათბობს	ვათბობთ	V;1;PL;3;SG;IND;PRS = vatbobt
+ათბობს	ათბობთ	V;2;PL;3;SG;IND;PRS = atbobt
+ათბობს	ათბობენ	V;3;PL;3;SG;IND;PRS = atboben
+ათბობს	გვათბობ	V;2;SG;1;PL;IND;PRS = gvatbob
+ათბობს	გვათბობს	V;3;SG;1;PL;IND;PRS = gvatbobs
+ათბობს	გვათბობთ	V;2;PL;1;PL;IND;PRS = gvatbobt
+ათბობს	გვათბობენ	V;3;PL;1;PL;IND;PRS = gvatboben
+ათბობს	გათბობთ	V;1;SG;2;PL;IND;PRS = gatbobt
+ათბობს	გათბობთ	V;3;SG;2;PL;IND;PRS = gatbobt
+ათბობს	გათბობთ	V;1;PL;2;PL;IND;PRS = gatbobt
+ათბობს	გათბობენ	V;3;PL;2;PL;IND;PRS = gatboben
+ათბობს	ვათბობ	V;1;SG;3;PL;IND;PRS = vatbob
+ათბობს	ათბობ	V;2;SG;3;PL;IND;PRS = atbob
+ათბობს	ათბობს	V;3;SG;3;PL;IND;PRS = atbobs
+ათბობს	ვათბობთ	V;1;PL;3;PL;IND;PRS = vatbobt
+ათბობს	ათბობთ	V;2;PL;3;PL;IND;PRS = atbobt
+ათბობს	ათბობენ	V;3;PL;3;PL;IND;PRS = atboben
+
+
+Screeve #2:
+ათბობს	მათბობდი	V;2;SG;1;SG;IND;IPFV = matbobdi
+ათბობს	მათბობდა	V;3;SG;1;SG;IND;IPFV = matbobda
+ათბობს	მათბობდით	V;2;PL;1;SG;IND;IPFV = matbobdit
+ათბობს	მათბობდნენ	V;3;PL;1;SG;IND;IPFV = matbobdnen
+ათბობს	გათბობდი	V;1;SG;2;SG;IND;IPFV = gatbobdi
+ათბობს	გათბობდა	V;3;SG;2;SG;IND;IPFV = gatbobda
+ათბობს	გათბობდით	V;1;PL;2;SG;IND;IPFV = gatbobdit
+ათბობს	გათბობდნენ	V;3;PL;2;SG;IND;IPFV = gatbobdnen
+ათბობს	ვათბობდი	V;1;SG;3;SG;IND;IPFV = vatbobdi
+ათბობს	ათბობდი	V;2;SG;3;SG;IND;IPFV = atbobdi
+ათბობს	ათბობდა	V;3;SG;3;SG;IND;IPFV = atbobda
+ათბობს	ვათბობდით	V;1;PL;3;SG;IND;IPFV = vatbobdit
+ათბობს	ათბობდით	V;2;PL;3;SG;IND;IPFV = atbobdit
+ათბობს	ათბობდნენ	V;3;PL;3;SG;IND;IPFV = atbobdnen
+ათბობს	გვათბობდი	V;2;SG;1;PL;IND;IPFV = gvatbobdi
+ათბობს	გვათბობდა	V;3;SG;1;PL;IND;IPFV = gvatbobda
+ათბობს	გვათბობდით	V;2;PL;1;PL;IND;IPFV = gvatbobdit
+ათბობს	გვათბობდნენ	V;3;PL;1;PL;IND;IPFV = gvatbobdnen
+ათბობს	გათბობდით	V;1;SG;2;PL;IND;IPFV = gatbobdit
+ათბობს	გათბობდათ	V;3;SG;2;PL;IND;IPFV = gatbobdat
+ათბობს	გათბობდით	V;1;PL;2;PL;IND;IPFV = gatbobdit
+ათბობს	გათბობდნენ	V;3;PL;2;PL;IND;IPFV = gatbobdnen
+ათბობს	ვათბობდი	V;1;SG;3;PL;IND;IPFV = vatbobdi
+ათბობს	ათბობდი	V;2;SG;3;PL;IND;IPFV = atbobdi
+ათბობს	ათბობდა	V;3;SG;3;PL;IND;IPFV = atbobda
+ათბობს	ვათბობდით	V;1;PL;3;PL;IND;IPFV = vatbobdit
+ათბობს	ათბობდით	V;2;PL;3;PL;IND;IPFV = atbobdit
+ათბობს	ათბობდნენ	V;3;PL;3;PL;IND;IPFV = atbobdnen
+
+
+Screeve #3:
+ათბობს	მათბობდე	V;2;SG;1;SG;SBJV;PRS = matbobde
+ათბობს	მათბობდეს	V;3;SG;1;SG;SBJV;PRS = matbobdes
+ათბობს	მათბობდეთ	V;2;PL;1;SG;SBJV;PRS = matbobdet
+ათბობს	მათბობდნენ	V;3;PL;1;SG;SBJV;PRS = matbobdnen
+ათბობს	გათბობდე	V;1;SG;2;SG;SBJV;PRS = gatbobde
+ათბობს	გათბობდეს	V;3;SG;2;SG;SBJV;PRS = gatbobdes
+ათბობს	გათბობდეთ	V;1;PL;2;SG;SBJV;PRS = gatbobdet
+ათბობს	გათბობდნენ	V;3;PL;2;SG;SBJV;PRS = gatbobdnen
+ათბობს	ვათბობდე	V;1;SG;3;SG;SBJV;PRS = vatbobde
+ათბობს	ათბობდე	V;2;SG;3;SG;SBJV;PRS = atbobde
+ათბობს	ათბობდეს	V;3;SG;3;SG;SBJV;PRS = atbobdes
+ათბობს	ვათბობდეთ	V;1;PL;3;SG;SBJV;PRS = vatbobdet
+ათბობს	ათბობდეთ	V;2;PL;3;SG;SBJV;PRS = atbobdet
+ათბობს	ათბობდნენ	V;3;PL;3;SG;SBJV;PRS = atbobdnen
+ათბობს	გვათბობდე	V;2;SG;1;PL;SBJV;PRS = gvatbobde
+ათბობს	გვათბობდეს	V;3;SG;1;PL;SBJV;PRS = gvatbobdes
+ათბობს	გვათბობდეთ	V;2;PL;1;PL;SBJV;PRS = gvatbobdet
+ათბობს	გვათბობდნენ	V;3;PL;1;PL;SBJV;PRS = gvatbobdnen
+ათბობს	გათბობდეთ	V;1;SG;2;PL;SBJV;PRS = gatbobdet
+ათბობს	გათბობდეთ	V;3;SG;2;PL;SBJV;PRS = gatbobdet
+ათბობს	გათბობდეთ	V;1;PL;2;PL;SBJV;PRS = gatbobdet
+ათბობს	გათბობდნენ	V;3;PL;2;PL;SBJV;PRS = gatbobdnen
+ათბობს	ვათბობდე	V;1;SG;3;PL;SBJV;PRS = vatbobde
+ათბობს	ათბობდე	V;2;SG;3;PL;SBJV;PRS = atbobde
+ათბობს	ათბობდეს	V;3;SG;3;PL;SBJV;PRS = atbobdes
+ათბობს	ვათბობდეთ	V;1;PL;3;PL;SBJV;PRS = vatbobdet
+ათბობს	ათბობდეთ	V;2;PL;3;PL;SBJV;PRS = atbobdet
+ათბობს	ათბობდნენ	V;3;PL;3;PL;SBJV;PRS = atbobdnen
+
+
+Screeve #4:
+ათბობს	გამათბობ	V;2;SG;1;SG;IND;FUT = gamatbob
+ათბობს	გამათბობს	V;3;SG;1;SG;IND;FUT = gamatbobs
+ათბობს	გამათბობთ	V;2;PL;1;SG;IND;FUT = gamatbobt
+ათბობს	გამათბობენ	V;3;PL;1;SG;IND;FUT = gamatboben
+ათბობს	გაგათბობ	V;1;SG;2;SG;IND;FUT = gagatbob
+ათბობს	გაგათბობს	V;3;SG;2;SG;IND;FUT = gagatbobs
+ათბობს	გაგათბობთ	V;1;PL;2;SG;IND;FUT = gagatbobt
+ათბობს	გაგათბობენ	V;3;PL;2;SG;IND;FUT = gagatboben
+ათბობს	გავათბობ	V;1;SG;3;SG;IND;FUT = gavatbob
+ათბობს	გაათბობ	V;2;SG;3;SG;IND;FUT = gaatbob
+ათბობს	გაათბობს	V;3;SG;3;SG;IND;FUT = gaatbobs
+ათბობს	გავათბობთ	V;1;PL;3;SG;IND;FUT = gavatbobt
+ათბობს	გაათბობთ	V;2;PL;3;SG;IND;FUT = gaatbobt
+ათბობს	გაათბობენ	V;3;PL;3;SG;IND;FUT = gaatboben
+ათბობს	გაგვათბობ	V;2;SG;1;PL;IND;FUT = gagvatbob
+ათბობს	გაგვათბობს	V;3;SG;1;PL;IND;FUT = gagvatbobs
+ათბობს	გაგვათბობთ	V;2;PL;1;PL;IND;FUT = gagvatbobt
+ათბობს	გაგვათბობენ	V;3;PL;1;PL;IND;FUT = gagvatboben
+ათბობს	გაგათბობთ	V;1;SG;2;PL;IND;FUT = gagatbobt
+ათბობს	გაგათბობთ	V;3;SG;2;PL;IND;FUT = gagatbobt
+ათბობს	გაგათბობთ	V;1;PL;2;PL;IND;FUT = gagatbobt
+ათბობს	გაგათბობენ	V;3;PL;2;PL;IND;FUT = gagatboben
+ათბობს	გავათბობ	V;1;SG;3;PL;IND;FUT = gavatbob
+ათბობს	გაათბობ	V;2;SG;3;PL;IND;FUT = gaatbob
+ათბობს	გაათბობს	V;3;SG;3;PL;IND;FUT = gaatbobs
+ათბობს	გავათბობთ	V;1;PL;3;PL;IND;FUT = gavatbobt
+ათბობს	გაათბობთ	V;2;PL;3;PL;IND;FUT = gaatbobt
+ათბობს	გაათბობენ	V;3;PL;3;PL;IND;FUT = gaatboben
+
+
+Screeve #5:
+ათბობს	გამათბობდი	V;2;SG;1;SG;COND = gamatbobdi
+ათბობს	გამათბობდა	V;3;SG;1;SG;COND = gamatbobda
+ათბობს	გამათბობდით	V;2;PL;1;SG;COND = gamatbobdit
+ათბობს	გამათბობდნენ	V;3;PL;1;SG;COND = gamatbobdnen
+ათბობს	გაგათბობდი	V;1;SG;2;SG;COND = gagatbobdi
+ათბობს	გაგათბობდა	V;3;SG;2;SG;COND = gagatbobda
+ათბობს	გაგათბობდით	V;1;PL;2;SG;COND = gagatbobdit
+ათბობს	გაგათბობდნენ	V;3;PL;2;SG;COND = gagatbobdnen
+ათბობს	გავათბობდი	V;1;SG;3;SG;COND = gavatbobdi
+ათბობს	გაათბობდი	V;2;SG;3;SG;COND = gaatbobdi
+ათბობს	გაათბობდა	V;3;SG;3;SG;COND = gaatbobda
+ათბობს	გავათბობდით	V;1;PL;3;SG;COND = gavatbobdit
+ათბობს	გაათბობდით	V;2;PL;3;SG;COND = gaatbobdit
+ათბობს	გაათბობდნენ	V;3;PL;3;SG;COND = gaatbobdnen
+ათბობს	გაგვათბობდი	V;2;SG;1;PL;COND = gagvatbobdi
+ათბობს	გაგვათბობდა	V;3;SG;1;PL;COND = gagvatbobda
+ათბობს	გაგვათბობდით	V;2;PL;1;PL;COND = gagvatbobdit
+ათბობს	გაგვათბობდნენ	V;3;PL;1;PL;COND = gagvatbobdnen
+ათბობს	გაგათბობდით	V;1;SG;2;PL;COND = gagatbobdit
+ათბობს	გაგათბობდათ	V;3;SG;2;PL;COND = gagatbobdat
+ათბობს	გაგათბობდით	V;1;PL;2;PL;COND = gagatbobdit
+ათბობს	გაგათბობდნენ	V;3;PL;2;PL;COND = gagatbobdnen
+ათბობს	გავათბობდი	V;1;SG;3;PL;COND = gavatbobdi
+ათბობს	გაათბობდი	V;2;SG;3;PL;COND = gaatbobdi
+ათბობს	გაათბობდა	V;3;SG;3;PL;COND = gaatbobda
+ათბობს	გავათბობდით	V;1;PL;3;PL;COND = gavatbobdit
+ათბობს	გაათბობდით	V;2;PL;3;PL;COND = gaatbobdit
+ათბობს	გაათბობდნენ	V;3;PL;3;PL;COND = gaatbobdnen
+
+
+Screeve #6:
+ათბობს	გამათბობდე	V;2;SG;1;SG;SBJV;FUT = gamatbobde
+ათბობს	გამათბობდეს	V;3;SG;1;SG;SBJV;FUT = gamatbobdes
+ათბობს	გამათბობდეთ	V;2;PL;1;SG;SBJV;FUT = gamatbobdet
+ათბობს	გამათბობდნენ	V;3;PL;1;SG;SBJV;FUT = gamatbobdnen
+ათბობს	გაგათბობდე	V;1;SG;2;SG;SBJV;FUT = gagatbobde
+ათბობს	გაგათბობდეს	V;3;SG;2;SG;SBJV;FUT = gagatbobdes
+ათბობს	გაგათბობდეთ	V;1;PL;2;SG;SBJV;FUT = gagatbobdet
+ათბობს	გაგათბობდნენ	V;3;PL;2;SG;SBJV;FUT = gagatbobdnen
+ათბობს	გავათბობდე	V;1;SG;3;SG;SBJV;FUT = gavatbobde
+ათბობს	გაათბობდე	V;2;SG;3;SG;SBJV;FUT = gaatbobde
+ათბობს	გაათბობდეს	V;3;SG;3;SG;SBJV;FUT = gaatbobdes
+ათბობს	გავათბობდეთ	V;1;PL;3;SG;SBJV;FUT = gavatbobdet
+ათბობს	გაათბობდეთ	V;2;PL;3;SG;SBJV;FUT = gaatbobdet
+ათბობს	გაათბობდნენ	V;3;PL;3;SG;SBJV;FUT = gaatbobdnen
+ათბობს	გაგვათბობდე	V;2;SG;1;PL;SBJV;FUT = gagvatbobde
+ათბობს	გაგვათბობდეს	V;3;SG;1;PL;SBJV;FUT = gagvatbobdes
+ათბობს	გაგვათბობდეთ	V;2;PL;1;PL;SBJV;FUT = gagvatbobdet
+ათბობს	გაგვათბობდნენ	V;3;PL;1;PL;SBJV;FUT = gagvatbobdnen
+ათბობს	გაგათბობდეთ	V;1;SG;2;PL;SBJV;FUT = gagatbobdet
+ათბობს	გაგათბობდეთ	V;3;SG;2;PL;SBJV;FUT = gagatbobdet
+ათბობს	გაგათბობდეთ	V;1;PL;2;PL;SBJV;FUT = gagatbobdet
+ათბობს	გაგათბობდნენ	V;3;PL;2;PL;SBJV;FUT = gagatbobdnen
+ათბობს	გავათბობდე	V;1;SG;3;PL;SBJV;FUT = gavatbobde
+ათბობს	გაათბობდე	V;2;SG;3;PL;SBJV;FUT = gaatbobde
+ათბობს	გაათბობდეს	V;3;SG;3;PL;SBJV;FUT = gaatbobdes
+ათბობს	გავათბობდეთ	V;1;PL;3;PL;SBJV;FUT = gavatbobdet
+ათბობს	გაათბობდეთ	V;2;PL;3;PL;SBJV;FUT = gaatbobdet
+ათბობს	გაათბობდნენ	V;3;PL;3;PL;SBJV;FUT = gaatbobdnen
+
+
+Screeve #7:
+ათბობს	გამათბე	V;2;SG;1;SG;IND;PST;PFV = gamatbe
+ათბობს	გამათბო	V;3;SG;1;SG;IND;PST;PFV = gamatbo
+ათბობს	გამათბეთ	V;2;PL;1;SG;IND;PST;PFV = gamatbet
+ათბობს	გამათბეს	V;3;PL;1;SG;IND;PST;PFV = gamatbes
+ათბობს	გაგათბე	V;1;SG;2;SG;IND;PST;PFV = gagatbe
+ათბობს	გაგათბო	V;3;SG;2;SG;IND;PST;PFV = gagatbo
+ათბობს	გაგათბეთ	V;1;PL;2;SG;IND;PST;PFV = gagatbet
+ათბობს	გაგათბეს	V;3;PL;2;SG;IND;PST;PFV = gagatbes
+ათბობს	გავათბე	V;1;SG;3;SG;IND;PST;PFV = gavatbe
+ათბობს	გაათბე	V;2;SG;3;SG;IND;PST;PFV = gaatbe
+ათბობს	გაათბო	V;3;SG;3;SG;IND;PST;PFV = gaatbo
+ათბობს	გავათბეთ	V;1;PL;3;SG;IND;PST;PFV = gavatbet
+ათბობს	გაათბეთ	V;2;PL;3;SG;IND;PST;PFV = gaatbet
+ათბობს	გაათბეს	V;3;PL;3;SG;IND;PST;PFV = gaatbes
+ათბობს	გაგვათბე	V;2;SG;1;PL;IND;PST;PFV = gagvatbe
+ათბობს	გაგვათბო	V;3;SG;1;PL;IND;PST;PFV = gagvatbo
+ათბობს	გაგვათბეთ	V;2;PL;1;PL;IND;PST;PFV = gagvatbet
+ათბობს	გაგვათბეს	V;3;PL;1;PL;IND;PST;PFV = gagvatbes
+ათბობს	გაგათბეთ	V;1;SG;2;PL;IND;PST;PFV = gagatbet
+ათბობს	გაგათბოთ	V;3;SG;2;PL;IND;PST;PFV = gagatbot
+ათბობს	გაგათბეთ	V;1;PL;2;PL;IND;PST;PFV = gagatbet
+ათბობს	გაგათბეს	V;3;PL;2;PL;IND;PST;PFV = gagatbes
+ათბობს	გავათბე	V;1;SG;3;PL;IND;PST;PFV = gavatbe
+ათბობს	გაათბე	V;2;SG;3;PL;IND;PST;PFV = gaatbe
+ათბობს	გაათბო	V;3;SG;3;PL;IND;PST;PFV = gaatbo
+ათბობს	გავათბეთ	V;1;PL;3;PL;IND;PST;PFV = gavatbet
+ათბობს	გაათბეთ	V;2;PL;3;PL;IND;PST;PFV = gaatbet
+ათბობს	გაათბეს	V;3;PL;3;PL;IND;PST;PFV = gaatbes
+
+ათბობს	გამათბე	V;2;SG;1;SG;IMP = gamatbe
+ათბობს	გამათბეთ	V;2;PL;1;SG;IMP = gamatbet
+ათბობს	გაათბე	V;2;SG;3;SG;IMP = gaatbe
+ათბობს	გაათბეთ	V;2;PL;3;SG;IMP = gaatbet
+ათბობს	გაგვათბე	V;2;SG;1;PL;IMP = gagvatbe
+ათბობს	გაგვათბეთ	V;2;PL;1;PL;IMP = gagvatbet
+ათბობს	გაათბე	V;2;SG;3;PL;IMP = gaatbe
+ათბობს	გაათბეთ	V;2;PL;3;PL;IMP = gaatbet
+
+
+
+Screeve #8:
+ათბობს	გამათბო	V;2;SG;1;SG;OPT = gamatbo
+ათბობს	გამათბოს	V;3;SG;1;SG;OPT = gamatbos
+ათბობს	გამათბოთ	V;2;PL;1;SG;OPT = gamatbot
+ათბობს	გამათბონ	V;3;PL;1;SG;OPT = gamatbon
+ათბობს	გაგათბო	V;1;SG;2;SG;OPT = gagatbo
+ათბობს	გაგათბოს	V;3;SG;2;SG;OPT = gagatbos
+ათბობს	გაგათბოთ	V;1;PL;2;SG;OPT = gagatbot
+ათბობს	გაგათბონ	V;3;PL;2;SG;OPT = gagatbon
+ათბობს	გავათბო	V;1;SG;3;SG;OPT = gavatbo
+ათბობს	გაათბო	V;2;SG;3;SG;OPT = gaatbo
+ათბობს	გაათბოს	V;3;SG;3;SG;OPT = gaatbos
+ათბობს	გავათბოთ	V;1;PL;3;SG;OPT = gavatbot
+ათბობს	გაათბოთ	V;2;PL;3;SG;OPT = gaatbot
+ათბობს	გაათბონ	V;3;PL;3;SG;OPT = gaatbon
+ათბობს	გაგვათბო	V;2;SG;1;PL;OPT = gagvatbo
+ათბობს	გაგვათბოს	V;3;SG;1;PL;OPT = gagvatbos
+ათბობს	გაგვათბოთ	V;2;PL;1;PL;OPT = gagvatbot
+ათბობს	გაგვათბონ	V;3;PL;1;PL;OPT = gagvatbon
+ათბობს	გაგათბოთ	V;1;SG;2;PL;OPT = gagatbot
+ათბობს	გაგათბოთ	V;3;SG;2;PL;OPT = gagatbot
+ათბობს	გაგათბოთ	V;1;PL;2;PL;OPT = gagatbot
+ათბობს	გაგათბოთ	V;3;PL;2;PL;OPT = gagatbot
+ათბობს	გავათბო	V;1;SG;3;PL;OPT = gavatbo
+ათბობს	გაათბო	V;2;SG;3;PL;OPT = gaatbo
+ათბობს	გაათბოს	V;3;SG;3;PL;OPT = gaatbos
+ათბობს	გავათბოთ	V;1;PL;3;PL;OPT = gavatbot
+ათბობს	გაათბოთ	V;2;PL;3;PL;OPT = gaatbot
+ათბობს	გაათბონ	V;3;PL;3;PL;OPT = gaatbon
+
+ათბობს	გამათბონ	V;3;PL;1;SG;IMP = gamatbon
+ათბობს	გამათბოს	V;3;SG;1;SG;IMP = gamatbos
+ათბობს	გაგათბონ	V;3;PL;2;SG;IMP = gagatbon
+ათბობს	გაგათბოს	V;3;SG;2;SG;IMP = gagatbos
+ათბობს	გაგათბოთ	V;1;PL;2;SG;IMP = gagatbot
+ათბობს	გაათბონ	V;3;PL;3;SG;IMP = gaatbon
+ათბობს	გაათბოს	V;3;SG;3;SG;IMP = gaatbos
+ათბობს	გავათბოთ	V;1;PL;3;SG;IMP = gavatbot
+ათბობს	გაგვათბონ	V;3;PL;1;PL;IMP = gagvatbon
+ათბობს	გაგვათბოს	V;3;SG;1;PL;IMP = gagvatbos
+ათბობს	გაგათბოთ	V;3;PL;2;PL;IMP = gagatbot
+ათბობს	გაგათბოთ	V;3;SG;2;PL;IMP = gagatbot
+ათბობს	გაგათბოთ	V;1;PL;2;PL;IMP = gagatbot
+ათბობს	გაათბონ	V;3;PL;3;PL;IMP = gaatbon
+ათბობს	გაათბოს	V;3;SG;3;PL;IMP = gaatbos
+ათბობს	გავათბოთ	V;1;PL;3;PL;IMP = gavatbot
+
+
+
+Screeve #9:
+ათბობს	გაგითბივარ	V;2;SG;1;SG;IND;PRF = gagitbivar
+ათბობს	გავუთბივარ	V;3;SG;1;SG;IND;PRF = gavutbivar
+ათბობს	გაგითბივართ	V;2;PL;1;SG;IND;PRF = gagitbivart
+ათბობს	გავუთბივართ	V;3;PL;1;SG;IND;PRF = gavutbivart
+ათბობს	გამითბიხარ	V;1;SG;2;SG;IND;PRF = gamitbixar
+ათბობს	გაუთბიხარ	V;3;SG;2;SG;IND;PRF = gautbixar
+ათბობს	გაგვითბიხარ	V;1;PL;2;SG;IND;PRF = gagvitbixar
+ათბობს	გაუთბიხართ	V;3;PL;2;SG;IND;PRF = gautbixart
+ათბობს	გამითბია	V;1;SG;3;SG;IND;PRF = gamitbia
+ათბობს	გაგითბია	V;2;SG;3;SG;IND;PRF = gagitbia
+ათბობს	გაუთბია	V;3;SG;3;SG;IND;PRF = gautbia
+ათბობს	გაგვითბია	V;1;PL;3;SG;IND;PRF = gagvitbia
+ათბობს	გაგითბიათ	V;2;PL;3;SG;IND;PRF = gagitbiat
+ათბობს	გაუთბიათ	V;3;PL;3;SG;IND;PRF = gautbiat
+ათბობს	გაგითბივართ	V;2;SG;1;PL;IND;PRF = gagitbivart
+ათბობს	გავუთბივართ	V;3;SG;1;PL;IND;PRF = gavutbivart
+ათბობს	გაგითბივართ	V;2;PL;1;PL;IND;PRF = gagitbivart
+ათბობს	გავუთბივართ	V;3;PL;1;PL;IND;PRF = gavutbivart
+ათბობს	გამითბიხართ	V;1;SG;2;PL;IND;PRF = gamitbixart
+ათბობს	გაუთბიხართ	V;3;SG;2;PL;IND;PRF = gautbixart
+ათბობს	გაგვითბიხართ	V;1;PL;2;PL;IND;PRF = gagvitbixart
+ათბობს	გაუთბიხართ	V;3;PL;2;PL;IND;PRF = gautbixart
+ათბობს	გამითბია	V;1;SG;3;PL;IND;PRF = gamitbia
+ათბობს	გაგითბია	V;2;SG;3;PL;IND;PRF = gagitbia
+ათბობს	გაუთბია	V;3;SG;3;PL;IND;PRF = gautbia
+ათბობს	გაგვითბია	V;1;PL;3;PL;IND;PRF = gagvitbia
+ათბობს	გაგითბიათ	V;2;PL;3;PL;IND;PRF = gagitbiat
+ათბობს	გაუთბიათ	V;3;PL;3;PL;IND;PRF = gautbiat
+
+
+Screeve #10:
+ათბობს	გაგეთბე	V;2;SG;1;SG;IND;PST;PRF = gagetbe
+ათბობს	გავეთბე	V;3;SG;1;SG;IND;PST;PRF = gavetbe
+ათბობს	გაგეთბეთ	V;2;PL;1;SG;IND;PST;PRF = gagetbet
+ათბობს	გავეთბეთ	V;3;PL;1;SG;IND;PST;PRF = gavetbet
+ათბობს	გამეთბე	V;1;SG;2;SG;IND;PST;PRF = gametbe
+ათბობს	გაეთბე	V;3;SG;2;SG;IND;PST;PRF = gaetbe
+ათბობს	გაგვეთბე	V;1;PL;2;SG;IND;PST;PRF = gagvetbe
+ათბობს	გაეთბეთ	V;3;PL;2;SG;IND;PST;PRF = gaetbet
+ათბობს	გამეთბო	V;1;SG;3;SG;IND;PST;PRF = gametbo
+ათბობს	გაგეთბო	V;2;SG;3;SG;IND;PST;PRF = gagetbo
+ათბობს	გაეთბო	V;3;SG;3;SG;IND;PST;PRF = gaetbo
+ათბობს	გაგვეთბო	V;1;PL;3;SG;IND;PST;PRF = gagvetbo
+ათბობს	გაგეთბოთ	V;2;PL;3;SG;IND;PST;PRF = gagetbot
+ათბობს	გაეთბოთ	V;3;PL;3;SG;IND;PST;PRF = gaetbot
+ათბობს	გაგეთბეთ	V;2;SG;1;PL;IND;PST;PRF = gagetbet
+ათბობს	გავეთბეთ	V;3;SG;1;PL;IND;PST;PRF = gavetbet
+ათბობს	გაგეთბეთ	V;2;PL;1;PL;IND;PST;PRF = gagetbet
+ათბობს	გავეთბეთ	V;3;PL;1;PL;IND;PST;PRF = gavetbet
+ათბობს	გამეთბეთ	V;1;SG;2;PL;IND;PST;PRF = gametbet
+ათბობს	გაეთბეთ	V;3;SG;2;PL;IND;PST;PRF = gaetbet
+ათბობს	გაგვეთბეთ	V;1;PL;2;PL;IND;PST;PRF = gagvetbet
+ათბობს	გაეთბეთ	V;3;PL;2;PL;IND;PST;PRF = gaetbet
+ათბობს	გამეთბო	V;1;SG;3;PL;IND;PST;PRF = gametbo
+ათბობს	გაგეთბო	V;2;SG;3;PL;IND;PST;PRF = gagetbo
+ათბობს	გაეთბო	V;3;SG;3;PL;IND;PST;PRF = gaetbo
+ათბობს	გაგვეთბო	V;1;PL;3;PL;IND;PST;PRF = gagvetbo
+ათბობს	გაგეთბოთ	V;2;PL;3;PL;IND;PST;PRF = gagetbot
+ათბობს	გაეთბოთ	V;3;PL;3;PL;IND;PST;PRF = gaetbot
+
+
+Screeve #11:
+ათბობს	გაგეთბო	V;2;SG;1;SG;SBJV;PRF = gagetbo
+ათბობს	გავეთბო	V;3;SG;1;SG;SBJV;PRF = gavetbo
+ათბობს	გაგეთბოთ	V;2;PL;1;SG;SBJV;PRF = gagetbot
+ათბობს	გავეთბოთ	V;3;PL;1;SG;SBJV;PRF = gavetbot
+ათბობს	გამეთბო	V;1;SG;2;SG;SBJV;PRF = gametbo
+ათბობს	გაეთბო	V;3;SG;2;SG;SBJV;PRF = gaetbo
+ათბობს	გაგვეთბო	V;1;PL;2;SG;SBJV;PRF = gagvetbo
+ათბობს	გაეთბოთ	V;3;PL;2;SG;SBJV;PRF = gaetbot
+ათბობს	გამეთბოს	V;1;SG;3;SG;SBJV;PRF = gametbos
+ათბობს	გაგეთბოს	V;2;SG;3;SG;SBJV;PRF = gagetbos
+ათბობს	გაეთბოს	V;3;SG;3;SG;SBJV;PRF = gaetbos
+ათბობს	გაგვეთბოს	V;1;PL;3;SG;SBJV;PRF = gagvetbos
+ათბობს	გაგეთბოთ	V;2;PL;3;SG;SBJV;PRF = gagetbot
+ათბობს	გაეთბოთ	V;3;PL;3;SG;SBJV;PRF = gaetbot
+ათბობს	გაგეთბოთ	V;2;SG;1;PL;SBJV;PRF = gagetbot
+ათბობს	გავეთბოთ	V;3;SG;1;PL;SBJV;PRF = gavetbot
+ათბობს	გაგეთბოთ	V;2;PL;1;PL;SBJV;PRF = gagetbot
+ათბობს	გავეთბოთ	V;3;PL;1;PL;SBJV;PRF = gavetbot
+ათბობს	გამეთბოთ	V;1;SG;2;PL;SBJV;PRF = gametbot
+ათბობს	გაეთბოთ	V;3;SG;2;PL;SBJV;PRF = gaetbot
+ათბობს	გაგვეთბოთ	V;1;PL;2;PL;SBJV;PRF = gagvetbot
+ათბობს	გაეთბოთ	V;3;PL;2;PL;SBJV;PRF = gaetbot
+ათბობს	გამეთბოს	V;1;SG;3;PL;SBJV;PRF = gametbos
+ათბობს	გაგეთბოს	V;2;SG;3;PL;SBJV;PRF = gagetbos
+ათბობს	გაეთბოს	V;3;SG;3;PL;SBJV;PRF = gaetbos
+ათბობს	გაგვეთბოს	V;1;PL;3;PL;SBJV;PRF = gagvetbos
+ათბობს	გაგეთბოთ	V;2;PL;3;PL;SBJV;PRF = gagetbot
+ათბობს	გაეთბოთ	V;3;PL;3;PL;SBJV;PRF = gaetbot
+
+
+ათბობს	გათბობა	V;V.MSDR;PRF
+ათბობს	თბობა	V;V.MSDR;IPFV

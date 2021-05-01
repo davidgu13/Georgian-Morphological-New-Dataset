@@ -1,0 +1,371 @@
+#30 - ასახელებს - name:
+Screeve #1:
+ასახელებს	მასახელებ	V;2;SG;1;SG;IND;PRS = masaxeleb
+ასახელებს	მასახელებს	V;3;SG;1;SG;IND;PRS = masaxelebs
+ასახელებს	მასახელებთ	V;2;PL;1;SG;IND;PRS = masaxelebt
+ასახელებს	მასახელებენ	V;3;PL;1;SG;IND;PRS = masaxeleben
+ასახელებს	გასახელებ	V;1;SG;2;SG;IND;PRS = gasaxeleb
+ასახელებს	გასახელებს	V;3;SG;2;SG;IND;PRS = gasaxelebs
+ასახელებს	გასახელებთ	V;1;PL;2;SG;IND;PRS = gasaxelebt
+ასახელებს	გასახელებენ	V;3;PL;2;SG;IND;PRS = gasaxeleben
+ასახელებს	ვასახელებ	V;1;SG;3;SG;IND;PRS = vasaxeleb
+ასახელებს	ასახელებ	V;2;SG;3;SG;IND;PRS = asaxeleb
+ასახელებს	ასახელებს	V;3;SG;3;SG;IND;PRS = asaxelebs
+ასახელებს	ვასახელებთ	V;1;PL;3;SG;IND;PRS = vasaxelebt
+ასახელებს	ასახელებთ	V;2;PL;3;SG;IND;PRS = asaxelebt
+ასახელებს	ასახელებენ	V;3;PL;3;SG;IND;PRS = asaxeleben
+ასახელებს	გვასახელებ	V;2;SG;1;PL;IND;PRS = gvasaxeleb
+ასახელებს	გვასახელებს	V;3;SG;1;PL;IND;PRS = gvasaxelebs
+ასახელებს	გვასახელებთ	V;2;PL;1;PL;IND;PRS = gvasaxelebt
+ასახელებს	გვასახელებენ	V;3;PL;1;PL;IND;PRS = gvasaxeleben
+ასახელებს	გასახელებთ	V;1;SG;2;PL;IND;PRS = gasaxelebt
+ასახელებს	გასახელებთ	V;3;SG;2;PL;IND;PRS = gasaxelebt
+ასახელებს	გასახელებთ	V;1;PL;2;PL;IND;PRS = gasaxelebt
+ასახელებს	გასახელებენ	V;3;PL;2;PL;IND;PRS = gasaxeleben
+ასახელებს	ვასახელებ	V;1;SG;3;PL;IND;PRS = vasaxeleb
+ასახელებს	ასახელებ	V;2;SG;3;PL;IND;PRS = asaxeleb
+ასახელებს	ასახელებს	V;3;SG;3;PL;IND;PRS = asaxelebs
+ასახელებს	ვასახელებთ	V;1;PL;3;PL;IND;PRS = vasaxelebt
+ასახელებს	ასახელებთ	V;2;PL;3;PL;IND;PRS = asaxelebt
+ასახელებს	ასახელებენ	V;3;PL;3;PL;IND;PRS = asaxeleben
+
+
+Screeve #2:
+ასახელებს	მასახელებდი	V;2;SG;1;SG;IND;IPFV = masaxelebdi
+ასახელებს	მასახელებდა	V;3;SG;1;SG;IND;IPFV = masaxelebda
+ასახელებს	მასახელებდით	V;2;PL;1;SG;IND;IPFV = masaxelebdit
+ასახელებს	მასახელებდნენ	V;3;PL;1;SG;IND;IPFV = masaxelebdnen
+ასახელებს	გასახელებდი	V;1;SG;2;SG;IND;IPFV = gasaxelebdi
+ასახელებს	გასახელებდა	V;3;SG;2;SG;IND;IPFV = gasaxelebda
+ასახელებს	გასახელებდით	V;1;PL;2;SG;IND;IPFV = gasaxelebdit
+ასახელებს	გასახელებდნენ	V;3;PL;2;SG;IND;IPFV = gasaxelebdnen
+ასახელებს	ვასახელებდი	V;1;SG;3;SG;IND;IPFV = vasaxelebdi
+ასახელებს	ასახელებდი	V;2;SG;3;SG;IND;IPFV = asaxelebdi
+ასახელებს	ასახელებდა	V;3;SG;3;SG;IND;IPFV = asaxelebda
+ასახელებს	ვასახელებდით	V;1;PL;3;SG;IND;IPFV = vasaxelebdit
+ასახელებს	ასახელებდით	V;2;PL;3;SG;IND;IPFV = asaxelebdit
+ასახელებს	ასახელებდნენ	V;3;PL;3;SG;IND;IPFV = asaxelebdnen
+ასახელებს	გვასახელებდი	V;2;SG;1;PL;IND;IPFV = gvasaxelebdi
+ასახელებს	გვასახელებდა	V;3;SG;1;PL;IND;IPFV = gvasaxelebda
+ასახელებს	გვასახელებდით	V;2;PL;1;PL;IND;IPFV = gvasaxelebdit
+ასახელებს	გვასახელებდნენ	V;3;PL;1;PL;IND;IPFV = gvasaxelebdnen
+ასახელებს	გასახელებდით	V;1;SG;2;PL;IND;IPFV = gasaxelebdit
+ასახელებს	გასახელებდათ	V;3;SG;2;PL;IND;IPFV = gasaxelebdat
+ასახელებს	გასახელებდით	V;1;PL;2;PL;IND;IPFV = gasaxelebdit
+ასახელებს	გასახელებდნენ	V;3;PL;2;PL;IND;IPFV = gasaxelebdnen
+ასახელებს	ვასახელებდი	V;1;SG;3;PL;IND;IPFV = vasaxelebdi
+ასახელებს	ასახელებდი	V;2;SG;3;PL;IND;IPFV = asaxelebdi
+ასახელებს	ასახელებდა	V;3;SG;3;PL;IND;IPFV = asaxelebda
+ასახელებს	ვასახელებდით	V;1;PL;3;PL;IND;IPFV = vasaxelebdit
+ასახელებს	ასახელებდით	V;2;PL;3;PL;IND;IPFV = asaxelebdit
+ასახელებს	ასახელებდნენ	V;3;PL;3;PL;IND;IPFV = asaxelebdnen
+
+
+Screeve #3:
+ასახელებს	მასახელებდე	V;2;SG;1;SG;SBJV;PRS = masaxelebde
+ასახელებს	მასახელებდეს	V;3;SG;1;SG;SBJV;PRS = masaxelebdes
+ასახელებს	მასახელებდეთ	V;2;PL;1;SG;SBJV;PRS = masaxelebdet
+ასახელებს	მასახელებდნენ	V;3;PL;1;SG;SBJV;PRS = masaxelebdnen
+ასახელებს	გასახელებდე	V;1;SG;2;SG;SBJV;PRS = gasaxelebde
+ასახელებს	გასახელებდეს	V;3;SG;2;SG;SBJV;PRS = gasaxelebdes
+ასახელებს	გასახელებდეთ	V;1;PL;2;SG;SBJV;PRS = gasaxelebdet
+ასახელებს	გასახელებდნენ	V;3;PL;2;SG;SBJV;PRS = gasaxelebdnen
+ასახელებს	ვასახელებდე	V;1;SG;3;SG;SBJV;PRS = vasaxelebde
+ასახელებს	ასახელებდე	V;2;SG;3;SG;SBJV;PRS = asaxelebde
+ასახელებს	ასახელებდეს	V;3;SG;3;SG;SBJV;PRS = asaxelebdes
+ასახელებს	ვასახელებდეთ	V;1;PL;3;SG;SBJV;PRS = vasaxelebdet
+ასახელებს	ასახელებდეთ	V;2;PL;3;SG;SBJV;PRS = asaxelebdet
+ასახელებს	ასახელებდნენ	V;3;PL;3;SG;SBJV;PRS = asaxelebdnen
+ასახელებს	გვასახელებდე	V;2;SG;1;PL;SBJV;PRS = gvasaxelebde
+ასახელებს	გვასახელებდეს	V;3;SG;1;PL;SBJV;PRS = gvasaxelebdes
+ასახელებს	გვასახელებდეთ	V;2;PL;1;PL;SBJV;PRS = gvasaxelebdet
+ასახელებს	გვასახელებდნენ	V;3;PL;1;PL;SBJV;PRS = gvasaxelebdnen
+ასახელებს	გასახელებდეთ	V;1;SG;2;PL;SBJV;PRS = gasaxelebdet
+ასახელებს	გასახელებდეთ	V;3;SG;2;PL;SBJV;PRS = gasaxelebdet
+ასახელებს	გასახელებდეთ	V;1;PL;2;PL;SBJV;PRS = gasaxelebdet
+ასახელებს	გასახელებდნენ	V;3;PL;2;PL;SBJV;PRS = gasaxelebdnen
+ასახელებს	ვასახელებდე	V;1;SG;3;PL;SBJV;PRS = vasaxelebde
+ასახელებს	ასახელებდე	V;2;SG;3;PL;SBJV;PRS = asaxelebde
+ასახელებს	ასახელებდეს	V;3;SG;3;PL;SBJV;PRS = asaxelebdes
+ასახელებს	ვასახელებდეთ	V;1;PL;3;PL;SBJV;PRS = vasaxelebdet
+ასახელებს	ასახელებდეთ	V;2;PL;3;PL;SBJV;PRS = asaxelebdet
+ასახელებს	ასახელებდნენ	V;3;PL;3;PL;SBJV;PRS = asaxelebdnen
+
+
+Screeve #4:
+ასახელებს	დამასახელებ	V;2;SG;1;SG;IND;FUT = damasaxeleb
+ასახელებს	დამასახელებს	V;3;SG;1;SG;IND;FUT = damasaxelebs
+ასახელებს	დამასახელებთ	V;2;PL;1;SG;IND;FUT = damasaxelebt
+ასახელებს	დამასახელებენ	V;3;PL;1;SG;IND;FUT = damasaxeleben
+ასახელებს	დაგასახელებ	V;1;SG;2;SG;IND;FUT = dagasaxeleb
+ასახელებს	დაგასახელებს	V;3;SG;2;SG;IND;FUT = dagasaxelebs
+ასახელებს	დაგასახელებთ	V;1;PL;2;SG;IND;FUT = dagasaxelebt
+ასახელებს	დაგასახელებენ	V;3;PL;2;SG;IND;FUT = dagasaxeleben
+ასახელებს	დავასახელებ	V;1;SG;3;SG;IND;FUT = davasaxeleb
+ასახელებს	დაასახელებ	V;2;SG;3;SG;IND;FUT = daasaxeleb
+ასახელებს	დაასახელებს	V;3;SG;3;SG;IND;FUT = daasaxelebs
+ასახელებს	დავასახელებთ	V;1;PL;3;SG;IND;FUT = davasaxelebt
+ასახელებს	დაასახელებთ	V;2;PL;3;SG;IND;FUT = daasaxelebt
+ასახელებს	დაასახელებენ	V;3;PL;3;SG;IND;FUT = daasaxeleben
+ასახელებს	დაგვასახელებ	V;2;SG;1;PL;IND;FUT = dagvasaxeleb
+ასახელებს	დაგვასახელებს	V;3;SG;1;PL;IND;FUT = dagvasaxelebs
+ასახელებს	დაგვასახელებთ	V;2;PL;1;PL;IND;FUT = dagvasaxelebt
+ასახელებს	დაგვასახელებენ	V;3;PL;1;PL;IND;FUT = dagvasaxeleben
+ასახელებს	დაგასახელებთ	V;1;SG;2;PL;IND;FUT = dagasaxelebt
+ასახელებს	დაგასახელებთ	V;3;SG;2;PL;IND;FUT = dagasaxelebt
+ასახელებს	დაგასახელებთ	V;1;PL;2;PL;IND;FUT = dagasaxelebt
+ასახელებს	დაგასახელებენ	V;3;PL;2;PL;IND;FUT = dagasaxeleben
+ასახელებს	დავასახელებ	V;1;SG;3;PL;IND;FUT = davasaxeleb
+ასახელებს	დაასახელებ	V;2;SG;3;PL;IND;FUT = daasaxeleb
+ასახელებს	დაასახელებს	V;3;SG;3;PL;IND;FUT = daasaxelebs
+ასახელებს	დავასახელებთ	V;1;PL;3;PL;IND;FUT = davasaxelebt
+ასახელებს	დაასახელებთ	V;2;PL;3;PL;IND;FUT = daasaxelebt
+ასახელებს	დაასახელებენ	V;3;PL;3;PL;IND;FUT = daasaxeleben
+
+
+Screeve #5:
+ასახელებს	დამასახელებდი	V;2;SG;1;SG;COND = damasaxelebdi
+ასახელებს	დამასახელებდა	V;3;SG;1;SG;COND = damasaxelebda
+ასახელებს	დამასახელებდით	V;2;PL;1;SG;COND = damasaxelebdit
+ასახელებს	დამასახელებდნენ	V;3;PL;1;SG;COND = damasaxelebdnen
+ასახელებს	დაგასახელებდი	V;1;SG;2;SG;COND = dagasaxelebdi
+ასახელებს	დაგასახელებდა	V;3;SG;2;SG;COND = dagasaxelebda
+ასახელებს	დაგასახელებდით	V;1;PL;2;SG;COND = dagasaxelebdit
+ასახელებს	დაგასახელებდნენ	V;3;PL;2;SG;COND = dagasaxelebdnen
+ასახელებს	დავასახელებდი	V;1;SG;3;SG;COND = davasaxelebdi
+ასახელებს	დაასახელებდი	V;2;SG;3;SG;COND = daasaxelebdi
+ასახელებს	დაასახელებდა	V;3;SG;3;SG;COND = daasaxelebda
+ასახელებს	დავასახელებდით	V;1;PL;3;SG;COND = davasaxelebdit
+ასახელებს	დაასახელებდით	V;2;PL;3;SG;COND = daasaxelebdit
+ასახელებს	დაასახელებდნენ	V;3;PL;3;SG;COND = daasaxelebdnen
+ასახელებს	დაგვასახელებდი	V;2;SG;1;PL;COND = dagvasaxelebdi
+ასახელებს	დაგვასახელებდა	V;3;SG;1;PL;COND = dagvasaxelebda
+ასახელებს	დაგვასახელებდით	V;2;PL;1;PL;COND = dagvasaxelebdit
+ასახელებს	დაგვასახელებდნენ	V;3;PL;1;PL;COND = dagvasaxelebdnen
+ასახელებს	დაგასახელებდით	V;1;SG;2;PL;COND = dagasaxelebdit
+ასახელებს	დაგასახელებდათ	V;3;SG;2;PL;COND = dagasaxelebdat
+ასახელებს	დაგასახელებდით	V;1;PL;2;PL;COND = dagasaxelebdit
+ასახელებს	დაგასახელებდნენ	V;3;PL;2;PL;COND = dagasaxelebdnen
+ასახელებს	დავასახელებდი	V;1;SG;3;PL;COND = davasaxelebdi
+ასახელებს	დაასახელებდი	V;2;SG;3;PL;COND = daasaxelebdi
+ასახელებს	დაასახელებდა	V;3;SG;3;PL;COND = daasaxelebda
+ასახელებს	დავასახელებდით	V;1;PL;3;PL;COND = davasaxelebdit
+ასახელებს	დაასახელებდით	V;2;PL;3;PL;COND = daasaxelebdit
+ასახელებს	დაასახელებდნენ	V;3;PL;3;PL;COND = daasaxelebdnen
+
+
+Screeve #6:
+ასახელებს	დამასახელებდე	V;2;SG;1;SG;SBJV;FUT = damasaxelebde
+ასახელებს	დამასახელებდეს	V;3;SG;1;SG;SBJV;FUT = damasaxelebdes
+ასახელებს	დამასახელებდეთ	V;2;PL;1;SG;SBJV;FUT = damasaxelebdet
+ასახელებს	დამასახელებდნენ	V;3;PL;1;SG;SBJV;FUT = damasaxelebdnen
+ასახელებს	დაგასახელებდე	V;1;SG;2;SG;SBJV;FUT = dagasaxelebde
+ასახელებს	დაგასახელებდეს	V;3;SG;2;SG;SBJV;FUT = dagasaxelebdes
+ასახელებს	დაგასახელებდეთ	V;1;PL;2;SG;SBJV;FUT = dagasaxelebdet
+ასახელებს	დაგასახელებდნენ	V;3;PL;2;SG;SBJV;FUT = dagasaxelebdnen
+ასახელებს	დავასახელებდე	V;1;SG;3;SG;SBJV;FUT = davasaxelebde
+ასახელებს	დაასახელებდე	V;2;SG;3;SG;SBJV;FUT = daasaxelebde
+ასახელებს	დაასახელებდეს	V;3;SG;3;SG;SBJV;FUT = daasaxelebdes
+ასახელებს	დავასახელებდეთ	V;1;PL;3;SG;SBJV;FUT = davasaxelebdet
+ასახელებს	დაასახელებდეთ	V;2;PL;3;SG;SBJV;FUT = daasaxelebdet
+ასახელებს	დაასახელებდნენ	V;3;PL;3;SG;SBJV;FUT = daasaxelebdnen
+ასახელებს	დაგვასახელებდე	V;2;SG;1;PL;SBJV;FUT = dagvasaxelebde
+ასახელებს	დაგვასახელებდეს	V;3;SG;1;PL;SBJV;FUT = dagvasaxelebdes
+ასახელებს	დაგვასახელებდეთ	V;2;PL;1;PL;SBJV;FUT = dagvasaxelebdet
+ასახელებს	დაგვასახელებდნენ	V;3;PL;1;PL;SBJV;FUT = dagvasaxelebdnen
+ასახელებს	დაგასახელებდეთ	V;1;SG;2;PL;SBJV;FUT = dagasaxelebdet
+ასახელებს	დაგასახელებდეთ	V;3;SG;2;PL;SBJV;FUT = dagasaxelebdet
+ასახელებს	დაგასახელებდეთ	V;1;PL;2;PL;SBJV;FUT = dagasaxelebdet
+ასახელებს	დაგასახელებდნენ	V;3;PL;2;PL;SBJV;FUT = dagasaxelebdnen
+ასახელებს	დავასახელებდე	V;1;SG;3;PL;SBJV;FUT = davasaxelebde
+ასახელებს	დაასახელებდე	V;2;SG;3;PL;SBJV;FUT = daasaxelebde
+ასახელებს	დაასახელებდეს	V;3;SG;3;PL;SBJV;FUT = daasaxelebdes
+ასახელებს	დავასახელებდეთ	V;1;PL;3;PL;SBJV;FUT = davasaxelebdet
+ასახელებს	დაასახელებდეთ	V;2;PL;3;PL;SBJV;FUT = daasaxelebdet
+ასახელებს	დაასახელებდნენ	V;3;PL;3;PL;SBJV;FUT = daasaxelebdnen
+
+
+Screeve #7:
+ასახელებს	დამასახელე	V;2;SG;1;SG;IND;PST;PFV = damasaxele
+ასახელებს	დამასახელა	V;3;SG;1;SG;IND;PST;PFV = damasaxela
+ასახელებს	დამასახელეთ	V;2;PL;1;SG;IND;PST;PFV = damasaxelet
+ასახელებს	დამასახელეს	V;3;PL;1;SG;IND;PST;PFV = damasaxeles
+ასახელებს	დაგასახელე	V;1;SG;2;SG;IND;PST;PFV = dagasaxele
+ასახელებს	დაგასახელა	V;3;SG;2;SG;IND;PST;PFV = dagasaxela
+ასახელებს	დაგასახელეთ	V;1;PL;2;SG;IND;PST;PFV = dagasaxelet
+ასახელებს	დაგასახელეს	V;3;PL;2;SG;IND;PST;PFV = dagasaxeles
+ასახელებს	დავასახელე	V;1;SG;3;SG;IND;PST;PFV = davasaxele
+ასახელებს	დაასახელე	V;2;SG;3;SG;IND;PST;PFV = daasaxele
+ასახელებს	დაასახელა	V;3;SG;3;SG;IND;PST;PFV = daasaxela
+ასახელებს	დავასახელეთ	V;1;PL;3;SG;IND;PST;PFV = davasaxelet
+ასახელებს	დაასახელეთ	V;2;PL;3;SG;IND;PST;PFV = daasaxelet
+ასახელებს	დაასახელეს	V;3;PL;3;SG;IND;PST;PFV = daasaxeles
+ასახელებს	დაგვასახელე	V;2;SG;1;PL;IND;PST;PFV = dagvasaxele
+ასახელებს	დაგვასახელა	V;3;SG;1;PL;IND;PST;PFV = dagvasaxela
+ასახელებს	დაგვასახელეთ	V;2;PL;1;PL;IND;PST;PFV = dagvasaxelet
+ასახელებს	დაგვასახელეს	V;3;PL;1;PL;IND;PST;PFV = dagvasaxeles
+ასახელებს	დაგასახელეთ	V;1;SG;2;PL;IND;PST;PFV = dagasaxelet
+ასახელებს	დაგასახელათ	V;3;SG;2;PL;IND;PST;PFV = dagasaxelat
+ასახელებს	დაგასახელეთ	V;1;PL;2;PL;IND;PST;PFV = dagasaxelet
+ასახელებს	დაგასახელეს	V;3;PL;2;PL;IND;PST;PFV = dagasaxeles
+ასახელებს	დავასახელე	V;1;SG;3;PL;IND;PST;PFV = davasaxele
+ასახელებს	დაასახელე	V;2;SG;3;PL;IND;PST;PFV = daasaxele
+ასახელებს	დაასახელა	V;3;SG;3;PL;IND;PST;PFV = daasaxela
+ასახელებს	დავასახელეთ	V;1;PL;3;PL;IND;PST;PFV = davasaxelet
+ასახელებს	დაასახელეთ	V;2;PL;3;PL;IND;PST;PFV = daasaxelet
+ასახელებს	დაასახელეს	V;3;PL;3;PL;IND;PST;PFV = daasaxeles
+
+ასახელებს	დამასახელე	V;2;SG;1;SG;IMP = damasaxele
+ასახელებს	დამასახელეთ	V;2;PL;1;SG;IMP = damasaxelet
+ასახელებს	დაასახელე	V;2;SG;3;SG;IMP = daasaxele
+ასახელებს	დაასახელეთ	V;2;PL;3;SG;IMP = daasaxelet
+ასახელებს	დაგვასახელე	V;2;SG;1;PL;IMP = dagvasaxele
+ასახელებს	დაგვასახელეთ	V;2;PL;1;PL;IMP = dagvasaxelet
+ასახელებს	დაასახელე	V;2;SG;3;PL;IMP = daasaxele
+ასახელებს	დაასახელეთ	V;2;PL;3;PL;IMP = daasaxelet
+
+
+
+Screeve #8:
+ასახელებს	დამასახელო	V;2;SG;1;SG;OPT = damasaxelo
+ასახელებს	დამასახელოს	V;3;SG;1;SG;OPT = damasaxelos
+ასახელებს	დამასახელოთ	V;2;PL;1;SG;OPT = damasaxelot
+ასახელებს	დამასახელონ	V;3;PL;1;SG;OPT = damasaxelon
+ასახელებს	დაგასახელო	V;1;SG;2;SG;OPT = dagasaxelo
+ასახელებს	დაგასახელოს	V;3;SG;2;SG;OPT = dagasaxelos
+ასახელებს	დაგასახელოთ	V;1;PL;2;SG;OPT = dagasaxelot
+ასახელებს	დაგასახელონ	V;3;PL;2;SG;OPT = dagasaxelon
+ასახელებს	დავასახელო	V;1;SG;3;SG;OPT = davasaxelo
+ასახელებს	დაასახელო	V;2;SG;3;SG;OPT = daasaxelo
+ასახელებს	დაასახელოს	V;3;SG;3;SG;OPT = daasaxelos
+ასახელებს	დავასახელოთ	V;1;PL;3;SG;OPT = davasaxelot
+ასახელებს	დაასახელოთ	V;2;PL;3;SG;OPT = daasaxelot
+ასახელებს	დაასახელონ	V;3;PL;3;SG;OPT = daasaxelon
+ასახელებს	დაგვასახელო	V;2;SG;1;PL;OPT = dagvasaxelo
+ასახელებს	დაგვასახელოს	V;3;SG;1;PL;OPT = dagvasaxelos
+ასახელებს	დაგვასახელოთ	V;2;PL;1;PL;OPT = dagvasaxelot
+ასახელებს	დაგვასახელონ	V;3;PL;1;PL;OPT = dagvasaxelon
+ასახელებს	დაგასახელოთ	V;1;SG;2;PL;OPT = dagasaxelot
+ასახელებს	დაგასახელოთ	V;3;SG;2;PL;OPT = dagasaxelot
+ასახელებს	დაგასახელოთ	V;1;PL;2;PL;OPT = dagasaxelot
+ასახელებს	დაგასახელოთ	V;3;PL;2;PL;OPT = dagasaxelot
+ასახელებს	დავასახელო	V;1;SG;3;PL;OPT = davasaxelo
+ასახელებს	დაასახელო	V;2;SG;3;PL;OPT = daasaxelo
+ასახელებს	დაასახელოს	V;3;SG;3;PL;OPT = daasaxelos
+ასახელებს	დავასახელოთ	V;1;PL;3;PL;OPT = davasaxelot
+ასახელებს	დაასახელოთ	V;2;PL;3;PL;OPT = daasaxelot
+ასახელებს	დაასახელონ	V;3;PL;3;PL;OPT = daasaxelon
+
+ასახელებს	დამასახელოს	V;3;SG;1;SG;IMP = damasaxelos
+ასახელებს	დამასახელონ	V;3;PL;1;SG;IMP = damasaxelon
+ასახელებს	დაგასახელოს	V;3;SG;2;SG;IMP = dagasaxelos
+ასახელებს	დაგასახელოთ	V;1;PL;2;SG;IMP = dagasaxelot
+ასახელებს	დაგასახელონ	V;3;PL;2;SG;IMP = dagasaxelon
+ასახელებს	დაასახელოს	V;3;SG;3;SG;IMP = daasaxelos
+ასახელებს	დავასახელოთ	V;1;PL;3;SG;IMP = davasaxelot
+ასახელებს	დაასახელონ	V;3;PL;3;SG;IMP = daasaxelon
+ასახელებს	დაგვასახელოს	V;3;SG;1;PL;IMP = dagvasaxelos
+ასახელებს	დაგვასახელონ	V;3;PL;1;PL;IMP = dagvasaxelon
+ასახელებს	დაგასახელოთ	V;3;SG;2;PL;IMP = dagasaxelot
+ასახელებს	დაგასახელოთ	V;1;PL;2;PL;IMP = dagasaxelot
+ასახელებს	დაგასახელოთ	V;3;PL;2;PL;IMP = dagasaxelot
+ასახელებს	დაასახელოს	V;3;SG;3;PL;IMP = daasaxelos
+ასახელებს	დავასახელოთ	V;1;PL;3;PL;IMP = davasaxelot
+ასახელებს	დაასახელონ	V;3;PL;3;PL;IMP = daasaxelon
+
+
+
+Screeve #9:
+ასახელებს	დაგისახელებივარ	V;2;SG;1;SG;IND;PRF = dagisaxelebivar
+ასახელებს	დავუსახელებივარ	V;3;SG;1;SG;IND;PRF = davusaxelebivar
+ასახელებს	დაგისახელებივართ	V;2;PL;1;SG;IND;PRF = dagisaxelebivart
+ასახელებს	დავუსახელებივართ	V;3;PL;1;SG;IND;PRF = davusaxelebivart
+ასახელებს	დამისახელებიხარ	V;1;SG;2;SG;IND;PRF = damisaxelebixar
+ასახელებს	დაუსახელებიხარ	V;3;SG;2;SG;IND;PRF = dausaxelebixar
+ასახელებს	დაგვისახელებიხარ	V;1;PL;2;SG;IND;PRF = dagvisaxelebixar
+ასახელებს	დაუსახელებიხართ	V;3;PL;2;SG;IND;PRF = dausaxelebixart
+ასახელებს	დამისახელებია	V;1;SG;3;SG;IND;PRF = damisaxelebia
+ასახელებს	დაგისახელებია	V;2;SG;3;SG;IND;PRF = dagisaxelebia
+ასახელებს	დაუსახელებია	V;3;SG;3;SG;IND;PRF = dausaxelebia
+ასახელებს	დაგვისახელებია	V;1;PL;3;SG;IND;PRF = dagvisaxelebia
+ასახელებს	დაგისახელებიათ	V;2;PL;3;SG;IND;PRF = dagisaxelebiat
+ასახელებს	დაუსახელებიათ	V;3;PL;3;SG;IND;PRF = dausaxelebiat
+ასახელებს	დაგისახელებივართ	V;2;SG;1;PL;IND;PRF = dagisaxelebivart
+ასახელებს	დავუსახელებივართ	V;3;SG;1;PL;IND;PRF = davusaxelebivart
+ასახელებს	დაგისახელებივართ	V;2;PL;1;PL;IND;PRF = dagisaxelebivart
+ასახელებს	დავუსახელებივართ	V;3;PL;1;PL;IND;PRF = davusaxelebivart
+ასახელებს	დამისახელებიხართ	V;1;SG;2;PL;IND;PRF = damisaxelebixart
+ასახელებს	დაუსახელებიხართ	V;3;SG;2;PL;IND;PRF = dausaxelebixart
+ასახელებს	დაგვისახელებიხართ	V;1;PL;2;PL;IND;PRF = dagvisaxelebixart
+ასახელებს	დაუსახელებიხართ	V;3;PL;2;PL;IND;PRF = dausaxelebixart
+ასახელებს	დამისახელებია	V;1;SG;3;PL;IND;PRF = damisaxelebia
+ასახელებს	დაგისახელებია	V;2;SG;3;PL;IND;PRF = dagisaxelebia
+ასახელებს	დაუსახელებია	V;3;SG;3;PL;IND;PRF = dausaxelebia
+ასახელებს	დაგვისახელებია	V;1;PL;3;PL;IND;PRF = dagvisaxelebia
+ასახელებს	დაგისახელებიათ	V;2;PL;3;PL;IND;PRF = dagisaxelebiat
+ასახელებს	დაუსახელებიათ	V;3;PL;3;PL;IND;PRF = dausaxelebiat
+
+
+Screeve #10:
+ასახელებს	დაგესახელებინე	V;2;SG;1;SG;IND;PST;PRF = dagesaxelebine
+ასახელებს	დავესახელებინე	V;3;SG;1;SG;IND;PST;PRF = davesaxelebine
+ასახელებს	დაგესახელებინეთ	V;2;PL;1;SG;IND;PST;PRF = dagesaxelebinet
+ასახელებს	დავესახელებინეთ	V;3;PL;1;SG;IND;PST;PRF = davesaxelebinet
+ასახელებს	დამესახელებინე	V;1;SG;2;SG;IND;PST;PRF = damesaxelebine
+ასახელებს	დაესახელებინე	V;3;SG;2;SG;IND;PST;PRF = daesaxelebine
+ასახელებს	დაგვესახელებინე	V;1;PL;2;SG;IND;PST;PRF = dagvesaxelebine
+ასახელებს	დაესახელებინეთ	V;3;PL;2;SG;IND;PST;PRF = daesaxelebinet
+ასახელებს	დამესახელებინა	V;1;SG;3;SG;IND;PST;PRF = damesaxelebina
+ასახელებს	დაგესახელებინა	V;2;SG;3;SG;IND;PST;PRF = dagesaxelebina
+ასახელებს	დაესახელებინა	V;3;SG;3;SG;IND;PST;PRF = daesaxelebina
+ასახელებს	დაგვესახელებინა	V;1;PL;3;SG;IND;PST;PRF = dagvesaxelebina
+ასახელებს	დაგესახელებინათ	V;2;PL;3;SG;IND;PST;PRF = dagesaxelebinat
+ასახელებს	დაესახელებინათ	V;3;PL;3;SG;IND;PST;PRF = daesaxelebinat
+ასახელებს	დაგესახელებინეთ	V;2;SG;1;PL;IND;PST;PRF = dagesaxelebinet
+ასახელებს	დავესახელებინეთ	V;3;SG;1;PL;IND;PST;PRF = davesaxelebinet
+ასახელებს	დაგესახელებინეთ	V;2;PL;1;PL;IND;PST;PRF = dagesaxelebinet
+ასახელებს	დავესახელებინეთ	V;3;PL;1;PL;IND;PST;PRF = davesaxelebinet
+ასახელებს	დამესახელებინეთ	V;1;SG;2;PL;IND;PST;PRF = damesaxelebinet
+ასახელებს	დაესახელებინეთ	V;3;SG;2;PL;IND;PST;PRF = daesaxelebinet
+ასახელებს	დაგვესახელებინეთ	V;1;PL;2;PL;IND;PST;PRF = dagvesaxelebinet
+ასახელებს	დაესახელებინეთ	V;3;PL;2;PL;IND;PST;PRF = daesaxelebinet
+ასახელებს	დამესახელებინა	V;1;SG;3;PL;IND;PST;PRF = damesaxelebina
+ასახელებს	დაგესახელებინა	V;2;SG;3;PL;IND;PST;PRF = dagesaxelebina
+ასახელებს	დაესახელებინა	V;3;SG;3;PL;IND;PST;PRF = daesaxelebina
+ასახელებს	დაგვესახელებინა	V;1;PL;3;PL;IND;PST;PRF = dagvesaxelebina
+ასახელებს	დაგესახელებინათ	V;2;PL;3;PL;IND;PST;PRF = dagesaxelebinat
+ასახელებს	დაესახელებინათ	V;3;PL;3;PL;IND;PST;PRF = daesaxelebinat
+
+
+Screeve #11:
+ასახელებს	დაგესახელებინო	V;2;SG;1;SG;SBJV;PRF = dagesaxelebino
+ასახელებს	დავესახელებინო	V;3;SG;1;SG;SBJV;PRF = davesaxelebino
+ასახელებს	დაგესახელებინოთ	V;2;PL;1;SG;SBJV;PRF = dagesaxelebinot
+ასახელებს	დავესახელებინოთ	V;3;PL;1;SG;SBJV;PRF = davesaxelebinot
+ასახელებს	დამესახელებინო	V;1;SG;2;SG;SBJV;PRF = damesaxelebino
+ასახელებს	დაესახელებინო	V;3;SG;2;SG;SBJV;PRF = daesaxelebino
+ასახელებს	დაგვესახელებინო	V;1;PL;2;SG;SBJV;PRF = dagvesaxelebino
+ასახელებს	დაესახელებინოთ	V;3;PL;2;SG;SBJV;PRF = daesaxelebinot
+ასახელებს	დამესახელებინოს	V;1;SG;3;SG;SBJV;PRF = damesaxelebinos
+ასახელებს	დაგესახელებინოს	V;2;SG;3;SG;SBJV;PRF = dagesaxelebinos
+ასახელებს	დაესახელებინოს	V;3;SG;3;SG;SBJV;PRF = daesaxelebinos
+ასახელებს	დაგვესახელებინოს	V;1;PL;3;SG;SBJV;PRF = dagvesaxelebinos
+ასახელებს	დაგესახელებინოთ	V;2;PL;3;SG;SBJV;PRF = dagesaxelebinot
+ასახელებს	დაესახელებინოთ	V;3;PL;3;SG;SBJV;PRF = daesaxelebinot
+ასახელებს	დაგესახელებინოთ	V;2;SG;1;PL;SBJV;PRF = dagesaxelebinot
+ასახელებს	დავესახელებინოთ	V;3;SG;1;PL;SBJV;PRF = davesaxelebinot
+ასახელებს	დაგესახელებინოთ	V;2;PL;1;PL;SBJV;PRF = dagesaxelebinot
+ასახელებს	დავესახელებინოთ	V;3;PL;1;PL;SBJV;PRF = davesaxelebinot
+ასახელებს	დამესახელებინოთ	V;1;SG;2;PL;SBJV;PRF = damesaxelebinot
+ასახელებს	დაესახელებინოთ	V;3;SG;2;PL;SBJV;PRF = daesaxelebinot
+ასახელებს	დაგვესახელებინოთ	V;1;PL;2;PL;SBJV;PRF = dagvesaxelebinot
+ასახელებს	დაესახელებინოთ	V;3;PL;2;PL;SBJV;PRF = daesaxelebinot
+ასახელებს	დამესახელებინოს	V;1;SG;3;PL;SBJV;PRF = damesaxelebinos
+ასახელებს	დაგესახელებინოს	V;2;SG;3;PL;SBJV;PRF = dagesaxelebinos
+ასახელებს	დაესახელებინოს	V;3;SG;3;PL;SBJV;PRF = daesaxelebinos
+ასახელებს	დაგვესახელებინოს	V;1;PL;3;PL;SBJV;PRF = dagvesaxelebinos
+ასახელებს	დაგესახელებინოთ	V;2;PL;3;PL;SBJV;PRF = dagesaxelebinot
+ასახელებს	დაესახელებინოთ	V;3;PL;3;PL;SBJV;PRF = daesaxelebinot
+
+
+ასახელებს	დასახელება	V;V.MSDR;PRF

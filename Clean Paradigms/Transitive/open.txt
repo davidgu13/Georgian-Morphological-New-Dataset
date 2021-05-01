@@ -1,0 +1,371 @@
+#36 - აღებს - open:
+Screeve #1:
+აღებს	მაღებ	V;2;SG;1;SG;IND;PRS = maġeb
+აღებს	მაღებს	V;3;SG;1;SG;IND;PRS = maġebs
+აღებს	მაღებთ	V;2;PL;1;SG;IND;PRS = maġebt
+აღებს	მაღებენ	V;3;PL;1;SG;IND;PRS = maġeben
+აღებს	გაღებ	V;1;SG;2;SG;IND;PRS = gaġeb
+აღებს	გაღებს	V;3;SG;2;SG;IND;PRS = gaġebs
+აღებს	გაღებთ	V;1;PL;2;SG;IND;PRS = gaġebt
+აღებს	გაღებენ	V;3;PL;2;SG;IND;PRS = gaġeben
+აღებს	ვაღებ	V;1;SG;3;SG;IND;PRS = vaġeb
+აღებს	აღებ	V;2;SG;3;SG;IND;PRS = aġeb
+აღებს	აღებს	V;3;SG;3;SG;IND;PRS = aġebs
+აღებს	ვაღებთ	V;1;PL;3;SG;IND;PRS = vaġebt
+აღებს	აღებთ	V;2;PL;3;SG;IND;PRS = aġebt
+აღებს	აღებენ	V;3;PL;3;SG;IND;PRS = aġeben
+აღებს	გვაღებ	V;2;SG;1;PL;IND;PRS = gvaġeb
+აღებს	გვაღებს	V;3;SG;1;PL;IND;PRS = gvaġebs
+აღებს	გვაღებთ	V;2;PL;1;PL;IND;PRS = gvaġebt
+აღებს	გვაღებენ	V;3;PL;1;PL;IND;PRS = gvaġeben
+აღებს	გაღებთ	V;1;SG;2;PL;IND;PRS = gaġebt
+აღებს	გაღებთ	V;3;SG;2;PL;IND;PRS = gaġebt
+აღებს	გაღებთ	V;1;PL;2;PL;IND;PRS = gaġebt
+აღებს	გაღებენ	V;3;PL;2;PL;IND;PRS = gaġeben
+აღებს	ვაღებ	V;1;SG;3;PL;IND;PRS = vaġeb
+აღებს	აღებ	V;2;SG;3;PL;IND;PRS = aġeb
+აღებს	აღებს	V;3;SG;3;PL;IND;PRS = aġebs
+აღებს	ვაღებთ	V;1;PL;3;PL;IND;PRS = vaġebt
+აღებს	აღებთ	V;2;PL;3;PL;IND;PRS = aġebt
+აღებს	აღებენ	V;3;PL;3;PL;IND;PRS = aġeben
+
+
+Screeve #2:
+აღებს	მაღებდი	V;2;SG;1;SG;IND;IPFV = maġebdi
+აღებს	მაღებდა	V;3;SG;1;SG;IND;IPFV = maġebda
+აღებს	მაღებდით	V;2;PL;1;SG;IND;IPFV = maġebdit
+აღებს	მაღებდნენ	V;3;PL;1;SG;IND;IPFV = maġebdnen
+აღებს	გაღებდი	V;1;SG;2;SG;IND;IPFV = gaġebdi
+აღებს	გაღებდა	V;3;SG;2;SG;IND;IPFV = gaġebda
+აღებს	გაღებდით	V;1;PL;2;SG;IND;IPFV = gaġebdit
+აღებს	გაღებდნენ	V;3;PL;2;SG;IND;IPFV = gaġebdnen
+აღებს	ვაღებდი	V;1;SG;3;SG;IND;IPFV = vaġebdi
+აღებს	აღებდი	V;2;SG;3;SG;IND;IPFV = aġebdi
+აღებს	აღებდა	V;3;SG;3;SG;IND;IPFV = aġebda
+აღებს	ვაღებდით	V;1;PL;3;SG;IND;IPFV = vaġebdit
+აღებს	აღებდით	V;2;PL;3;SG;IND;IPFV = aġebdit
+აღებს	აღებდნენ	V;3;PL;3;SG;IND;IPFV = aġebdnen
+აღებს	გვაღებდი	V;2;SG;1;PL;IND;IPFV = gvaġebdi
+აღებს	გვაღებდა	V;3;SG;1;PL;IND;IPFV = gvaġebda
+აღებს	გვაღებდით	V;2;PL;1;PL;IND;IPFV = gvaġebdit
+აღებს	გვაღებდნენ	V;3;PL;1;PL;IND;IPFV = gvaġebdnen
+აღებს	გაღებდით	V;1;SG;2;PL;IND;IPFV = gaġebdit
+აღებს	გაღებდათ	V;3;SG;2;PL;IND;IPFV = gaġebdat
+აღებს	გაღებდით	V;1;PL;2;PL;IND;IPFV = gaġebdit
+აღებს	გაღებდნენ	V;3;PL;2;PL;IND;IPFV = gaġebdnen
+აღებს	ვაღებდი	V;1;SG;3;PL;IND;IPFV = vaġebdi
+აღებს	აღებდი	V;2;SG;3;PL;IND;IPFV = aġebdi
+აღებს	აღებდა	V;3;SG;3;PL;IND;IPFV = aġebda
+აღებს	ვაღებდით	V;1;PL;3;PL;IND;IPFV = vaġebdit
+აღებს	აღებდით	V;2;PL;3;PL;IND;IPFV = aġebdit
+აღებს	აღებდნენ	V;3;PL;3;PL;IND;IPFV = aġebdnen
+
+
+Screeve #3:
+აღებს	მაღებდე	V;2;SG;1;SG;SBJV;PRS = maġebde
+აღებს	მაღებდეს	V;3;SG;1;SG;SBJV;PRS = maġebdes
+აღებს	მაღებდეთ	V;2;PL;1;SG;SBJV;PRS = maġebdet
+აღებს	მაღებდნენ	V;3;PL;1;SG;SBJV;PRS = maġebdnen
+აღებს	გაღებდე	V;1;SG;2;SG;SBJV;PRS = gaġebde
+აღებს	გაღებდეს	V;3;SG;2;SG;SBJV;PRS = gaġebdes
+აღებს	გაღებდეთ	V;1;PL;2;SG;SBJV;PRS = gaġebdet
+აღებს	გაღებდნენ	V;3;PL;2;SG;SBJV;PRS = gaġebdnen
+აღებს	ვაღებდე	V;1;SG;3;SG;SBJV;PRS = vaġebde
+აღებს	აღებდე	V;2;SG;3;SG;SBJV;PRS = aġebde
+აღებს	აღებდეს	V;3;SG;3;SG;SBJV;PRS = aġebdes
+აღებს	ვაღებდეთ	V;1;PL;3;SG;SBJV;PRS = vaġebdet
+აღებს	აღებდეთ	V;2;PL;3;SG;SBJV;PRS = aġebdet
+აღებს	აღებდნენ	V;3;PL;3;SG;SBJV;PRS = aġebdnen
+აღებს	გვაღებდე	V;2;SG;1;PL;SBJV;PRS = gvaġebde
+აღებს	გვაღებდეს	V;3;SG;1;PL;SBJV;PRS = gvaġebdes
+აღებს	გვაღებდეთ	V;2;PL;1;PL;SBJV;PRS = gvaġebdet
+აღებს	გვაღებდნენ	V;3;PL;1;PL;SBJV;PRS = gvaġebdnen
+აღებს	გაღებდეთ	V;1;SG;2;PL;SBJV;PRS = gaġebdet
+აღებს	გაღებდეთ	V;3;SG;2;PL;SBJV;PRS = gaġebdet
+აღებს	გაღებდეთ	V;1;PL;2;PL;SBJV;PRS = gaġebdet
+აღებს	გაღებდნენ	V;3;PL;2;PL;SBJV;PRS = gaġebdnen
+აღებს	ვაღებდე	V;1;SG;3;PL;SBJV;PRS = vaġebde
+აღებს	აღებდე	V;2;SG;3;PL;SBJV;PRS = aġebde
+აღებს	აღებდეს	V;3;SG;3;PL;SBJV;PRS = aġebdes
+აღებს	ვაღებდეთ	V;1;PL;3;PL;SBJV;PRS = vaġebdet
+აღებს	აღებდეთ	V;2;PL;3;PL;SBJV;PRS = aġebdet
+აღებს	აღებდნენ	V;3;PL;3;PL;SBJV;PRS = aġebdnen
+
+
+Screeve #4:
+აღებს	გამაღებ	V;2;SG;1;SG;IND;FUT = gamaġeb
+აღებს	გამაღებს	V;3;SG;1;SG;IND;FUT = gamaġebs
+აღებს	გამაღებთ	V;2;PL;1;SG;IND;FUT = gamaġebt
+აღებს	გამაღებენ	V;3;PL;1;SG;IND;FUT = gamaġeben
+აღებს	გაგაღებ	V;1;SG;2;SG;IND;FUT = gagaġeb
+აღებს	გაგაღებს	V;3;SG;2;SG;IND;FUT = gagaġebs
+აღებს	გაგაღებთ	V;1;PL;2;SG;IND;FUT = gagaġebt
+აღებს	გაგაღებენ	V;3;PL;2;SG;IND;FUT = gagaġeben
+აღებს	გავაღებ	V;1;SG;3;SG;IND;FUT = gavaġeb
+აღებს	გააღებ	V;2;SG;3;SG;IND;FUT = gaaġeb
+აღებს	გააღებს	V;3;SG;3;SG;IND;FUT = gaaġebs
+აღებს	გავაღებთ	V;1;PL;3;SG;IND;FUT = gavaġebt
+აღებს	გააღებთ	V;2;PL;3;SG;IND;FUT = gaaġebt
+აღებს	გააღებენ	V;3;PL;3;SG;IND;FUT = gaaġeben
+აღებს	გაგვაღებ	V;2;SG;1;PL;IND;FUT = gagvaġeb
+აღებს	გაგვაღებს	V;3;SG;1;PL;IND;FUT = gagvaġebs
+აღებს	გაგვაღებთ	V;2;PL;1;PL;IND;FUT = gagvaġebt
+აღებს	გაგვაღებენ	V;3;PL;1;PL;IND;FUT = gagvaġeben
+აღებს	გაგაღებთ	V;1;SG;2;PL;IND;FUT = gagaġebt
+აღებს	გაგაღებთ	V;3;SG;2;PL;IND;FUT = gagaġebt
+აღებს	გაგაღებთ	V;1;PL;2;PL;IND;FUT = gagaġebt
+აღებს	გაგაღებენ	V;3;PL;2;PL;IND;FUT = gagaġeben
+აღებს	გავაღებ	V;1;SG;3;PL;IND;FUT = gavaġeb
+აღებს	გააღებ	V;2;SG;3;PL;IND;FUT = gaaġeb
+აღებს	გააღებს	V;3;SG;3;PL;IND;FUT = gaaġebs
+აღებს	გავაღებთ	V;1;PL;3;PL;IND;FUT = gavaġebt
+აღებს	გააღებთ	V;2;PL;3;PL;IND;FUT = gaaġebt
+აღებს	გააღებენ	V;3;PL;3;PL;IND;FUT = gaaġeben
+
+
+Screeve #5:
+აღებს	გამაღებდი	V;2;SG;1;SG;COND = gamaġebdi
+აღებს	გამაღებდა	V;3;SG;1;SG;COND = gamaġebda
+აღებს	გამაღებდით	V;2;PL;1;SG;COND = gamaġebdit
+აღებს	გამაღებდნენ	V;3;PL;1;SG;COND = gamaġebdnen
+აღებს	გაგაღებდი	V;1;SG;2;SG;COND = gagaġebdi
+აღებს	გაგაღებდა	V;3;SG;2;SG;COND = gagaġebda
+აღებს	გაგაღებდით	V;1;PL;2;SG;COND = gagaġebdit
+აღებს	გაგაღებდნენ	V;3;PL;2;SG;COND = gagaġebdnen
+აღებს	გავაღებდი	V;1;SG;3;SG;COND = gavaġebdi
+აღებს	გააღებდი	V;2;SG;3;SG;COND = gaaġebdi
+აღებს	გააღებდა	V;3;SG;3;SG;COND = gaaġebda
+აღებს	გავაღებდით	V;1;PL;3;SG;COND = gavaġebdit
+აღებს	გააღებდით	V;2;PL;3;SG;COND = gaaġebdit
+აღებს	გააღებდნენ	V;3;PL;3;SG;COND = gaaġebdnen
+აღებს	გაგვაღებდი	V;2;SG;1;PL;COND = gagvaġebdi
+აღებს	გაგვაღებდა	V;3;SG;1;PL;COND = gagvaġebda
+აღებს	გაგვაღებდით	V;2;PL;1;PL;COND = gagvaġebdit
+აღებს	გაგვაღებდნენ	V;3;PL;1;PL;COND = gagvaġebdnen
+აღებს	გაგაღებდით	V;1;SG;2;PL;COND = gagaġebdit
+აღებს	გაგაღებდათ	V;3;SG;2;PL;COND = gagaġebdat
+აღებს	გაგაღებდით	V;1;PL;2;PL;COND = gagaġebdit
+აღებს	გაგაღებდნენ	V;3;PL;2;PL;COND = gagaġebdnen
+აღებს	გავაღებდი	V;1;SG;3;PL;COND = gavaġebdi
+აღებს	გააღებდი	V;2;SG;3;PL;COND = gaaġebdi
+აღებს	გააღებდა	V;3;SG;3;PL;COND = gaaġebda
+აღებს	გავაღებდით	V;1;PL;3;PL;COND = gavaġebdit
+აღებს	გააღებდით	V;2;PL;3;PL;COND = gaaġebdit
+აღებს	გააღებდნენ	V;3;PL;3;PL;COND = gaaġebdnen
+
+
+Screeve #6:
+აღებს	გამაღებდე	V;2;SG;1;SG;SBJV;FUT = gamaġebde
+აღებს	გამაღებდეს	V;3;SG;1;SG;SBJV;FUT = gamaġebdes
+აღებს	გამაღებდეთ	V;2;PL;1;SG;SBJV;FUT = gamaġebdet
+აღებს	გამაღებდნენ	V;3;PL;1;SG;SBJV;FUT = gamaġebdnen
+აღებს	გაგაღებდე	V;1;SG;2;SG;SBJV;FUT = gagaġebde
+აღებს	გაგაღებდეს	V;3;SG;2;SG;SBJV;FUT = gagaġebdes
+აღებს	გაგაღებდეთ	V;1;PL;2;SG;SBJV;FUT = gagaġebdet
+აღებს	გაგაღებდნენ	V;3;PL;2;SG;SBJV;FUT = gagaġebdnen
+აღებს	გავაღებდე	V;1;SG;3;SG;SBJV;FUT = gavaġebde
+აღებს	გააღებდე	V;2;SG;3;SG;SBJV;FUT = gaaġebde
+აღებს	გააღებდეს	V;3;SG;3;SG;SBJV;FUT = gaaġebdes
+აღებს	გავაღებდეთ	V;1;PL;3;SG;SBJV;FUT = gavaġebdet
+აღებს	გააღებდეთ	V;2;PL;3;SG;SBJV;FUT = gaaġebdet
+აღებს	გააღებდნენ	V;3;PL;3;SG;SBJV;FUT = gaaġebdnen
+აღებს	გაგვაღებდე	V;2;SG;1;PL;SBJV;FUT = gagvaġebde
+აღებს	გაგვაღებდეს	V;3;SG;1;PL;SBJV;FUT = gagvaġebdes
+აღებს	გაგვაღებდეთ	V;2;PL;1;PL;SBJV;FUT = gagvaġebdet
+აღებს	გაგვაღებდნენ	V;3;PL;1;PL;SBJV;FUT = gagvaġebdnen
+აღებს	გაგაღებდეთ	V;1;SG;2;PL;SBJV;FUT = gagaġebdet
+აღებს	გაგაღებდეთ	V;3;SG;2;PL;SBJV;FUT = gagaġebdet
+აღებს	გაგაღებდეთ	V;1;PL;2;PL;SBJV;FUT = gagaġebdet
+აღებს	გაგაღებდნენ	V;3;PL;2;PL;SBJV;FUT = gagaġebdnen
+აღებს	გავაღებდე	V;1;SG;3;PL;SBJV;FUT = gavaġebde
+აღებს	გააღებდე	V;2;SG;3;PL;SBJV;FUT = gaaġebde
+აღებს	გააღებდეს	V;3;SG;3;PL;SBJV;FUT = gaaġebdes
+აღებს	გავაღებდეთ	V;1;PL;3;PL;SBJV;FUT = gavaġebdet
+აღებს	გააღებდეთ	V;2;PL;3;PL;SBJV;FUT = gaaġebdet
+აღებს	გააღებდნენ	V;3;PL;3;PL;SBJV;FUT = gaaġebdnen
+
+
+Screeve #7:
+აღებს	გამაღე	V;2;SG;1;SG;IND;PST;PFV = gamaġe
+აღებს	გამაღო	V;3;SG;1;SG;IND;PST;PFV = gamaġo
+აღებს	გამაღეთ	V;2;PL;1;SG;IND;PST;PFV = gamaġet
+აღებს	გამაღეს	V;3;PL;1;SG;IND;PST;PFV = gamaġes
+აღებს	გაგაღე	V;1;SG;2;SG;IND;PST;PFV = gagaġe
+აღებს	გაგაღო	V;3;SG;2;SG;IND;PST;PFV = gagaġo
+აღებს	გაგაღეთ	V;1;PL;2;SG;IND;PST;PFV = gagaġet
+აღებს	გაგაღეს	V;3;PL;2;SG;IND;PST;PFV = gagaġes
+აღებს	გავაღე	V;1;SG;3;SG;IND;PST;PFV = gavaġe
+აღებს	გააღე	V;2;SG;3;SG;IND;PST;PFV = gaaġe
+აღებს	გააღო	V;3;SG;3;SG;IND;PST;PFV = gaaġo
+აღებს	გავაღეთ	V;1;PL;3;SG;IND;PST;PFV = gavaġet
+აღებს	გააღეთ	V;2;PL;3;SG;IND;PST;PFV = gaaġet
+აღებს	გააღეს	V;3;PL;3;SG;IND;PST;PFV = gaaġes
+აღებს	გაგვაღე	V;2;SG;1;PL;IND;PST;PFV = gagvaġe
+აღებს	გაგვაღო	V;3;SG;1;PL;IND;PST;PFV = gagvaġo
+აღებს	გაგვაღეთ	V;2;PL;1;PL;IND;PST;PFV = gagvaġet
+აღებს	გაგვაღეს	V;3;PL;1;PL;IND;PST;PFV = gagvaġes
+აღებს	გაგაღეთ	V;1;SG;2;PL;IND;PST;PFV = gagaġet
+აღებს	გაგაღოთ	V;3;SG;2;PL;IND;PST;PFV = gagaġot
+აღებს	გაგაღეთ	V;1;PL;2;PL;IND;PST;PFV = gagaġet
+აღებს	გაგაღეს	V;3;PL;2;PL;IND;PST;PFV = gagaġes
+აღებს	გავაღე	V;1;SG;3;PL;IND;PST;PFV = gavaġe
+აღებს	გააღე	V;2;SG;3;PL;IND;PST;PFV = gaaġe
+აღებს	გააღო	V;3;SG;3;PL;IND;PST;PFV = gaaġo
+აღებს	გავაღეთ	V;1;PL;3;PL;IND;PST;PFV = gavaġet
+აღებს	გააღეთ	V;2;PL;3;PL;IND;PST;PFV = gaaġet
+აღებს	გააღეს	V;3;PL;3;PL;IND;PST;PFV = gaaġes
+
+აღებს	გამაღე	V;2;SG;1;SG;IMP = gamaġe
+აღებს	გამაღეთ	V;2;PL;1;SG;IMP = gamaġet
+აღებს	გააღე	V;2;SG;3;SG;IMP = gaaġe
+აღებს	გააღეთ	V;2;PL;3;SG;IMP = gaaġet
+აღებს	გაგვაღე	V;2;SG;1;PL;IMP = gagvaġe
+აღებს	გაგვაღეთ	V;2;PL;1;PL;IMP = gagvaġet
+აღებს	გააღე	V;2;SG;3;PL;IMP = gaaġe
+აღებს	გააღეთ	V;2;PL;3;PL;IMP = gaaġet
+
+
+
+Screeve #8:
+აღებს	გამაღო	V;2;SG;1;SG;OPT = gamaġo
+აღებს	გამაღოს	V;3;SG;1;SG;OPT = gamaġos
+აღებს	გამაღოთ	V;2;PL;1;SG;OPT = gamaġot
+აღებს	გამაღონ	V;3;PL;1;SG;OPT = gamaġon
+აღებს	გაგაღო	V;1;SG;2;SG;OPT = gagaġo
+აღებს	გაგაღოს	V;3;SG;2;SG;OPT = gagaġos
+აღებს	გაგაღოთ	V;1;PL;2;SG;OPT = gagaġot
+აღებს	გაგაღონ	V;3;PL;2;SG;OPT = gagaġon
+აღებს	გავაღო	V;1;SG;3;SG;OPT = gavaġo
+აღებს	გააღო	V;2;SG;3;SG;OPT = gaaġo
+აღებს	გააღოს	V;3;SG;3;SG;OPT = gaaġos
+აღებს	გავაღოთ	V;1;PL;3;SG;OPT = gavaġot
+აღებს	გააღოთ	V;2;PL;3;SG;OPT = gaaġot
+აღებს	გააღონ	V;3;PL;3;SG;OPT = gaaġon
+აღებს	გაგვაღო	V;2;SG;1;PL;OPT = gagvaġo
+აღებს	გაგვაღოს	V;3;SG;1;PL;OPT = gagvaġos
+აღებს	გაგვაღოთ	V;2;PL;1;PL;OPT = gagvaġot
+აღებს	გაგვაღონ	V;3;PL;1;PL;OPT = gagvaġon
+აღებს	გაგაღოთ	V;1;SG;2;PL;OPT = gagaġot
+აღებს	გაგაღოთ	V;3;SG;2;PL;OPT = gagaġot
+აღებს	გაგაღოთ	V;1;PL;2;PL;OPT = gagaġot
+აღებს	გაგაღოთ	V;3;PL;2;PL;OPT = gagaġot
+აღებს	გავაღო	V;1;SG;3;PL;OPT = gavaġo
+აღებს	გააღო	V;2;SG;3;PL;OPT = gaaġo
+აღებს	გააღოს	V;3;SG;3;PL;OPT = gaaġos
+აღებს	გავაღოთ	V;1;PL;3;PL;OPT = gavaġot
+აღებს	გააღოთ	V;2;PL;3;PL;OPT = gaaġot
+აღებს	გააღონ	V;3;PL;3;PL;OPT = gaaġon
+
+აღებს	გამაღონ	V;3;PL;1;SG;IMP = gamaġon
+აღებს	გამაღოს	V;3;SG;1;SG;IMP = gamaġos
+აღებს	გაგაღონ	V;3;PL;2;SG;IMP = gagaġon
+აღებს	გაგაღოს	V;3;SG;2;SG;IMP = gagaġos
+აღებს	გაგაღოთ	V;1;PL;2;SG;IMP = gagaġot
+აღებს	გააღონ	V;3;PL;3;SG;IMP = gaaġon
+აღებს	გააღოს	V;3;SG;3;SG;IMP = gaaġos
+აღებს	გავაღოთ	V;1;PL;3;SG;IMP = gavaġot
+აღებს	გაგვაღონ	V;3;PL;1;PL;IMP = gagvaġon
+აღებს	გაგვაღოს	V;3;SG;1;PL;IMP = gagvaġos
+აღებს	გაგაღოთ	V;3;PL;2;PL;IMP = gagaġot
+აღებს	გაგაღოთ	V;3;SG;2;PL;IMP = gagaġot
+აღებს	გაგაღოთ	V;1;PL;2;PL;IMP = gagaġot
+აღებს	გააღონ	V;3;PL;3;PL;IMP = gaaġon
+აღებს	გააღოს	V;3;SG;3;PL;IMP = gaaġos
+აღებს	გავაღოთ	V;1;PL;3;PL;IMP = gavaġot
+
+
+
+Screeve #9:
+აღებს	გაგიღივარ	V;2;SG;1;SG;IND;PRF = gagiġivar
+აღებს	გავუღივარ	V;3;SG;1;SG;IND;PRF = gavuġivar
+აღებს	გაგიღივართ	V;2;PL;1;SG;IND;PRF = gagiġivart
+აღებს	გავუღივართ	V;3;PL;1;SG;IND;PRF = gavuġivart
+აღებს	გამიღიხარ	V;1;SG;2;SG;IND;PRF = gamiġixar
+აღებს	გაუღიხარ	V;3;SG;2;SG;IND;PRF = gauġixar
+აღებს	გაგვიღიხარ	V;1;PL;2;SG;IND;PRF = gagviġixar
+აღებს	გაუღიხართ	V;3;PL;2;SG;IND;PRF = gauġixart
+აღებს	გამიღია	V;1;SG;3;SG;IND;PRF = gamiġia
+აღებს	გაგიღია	V;2;SG;3;SG;IND;PRF = gagiġia
+აღებს	გაუღია	V;3;SG;3;SG;IND;PRF = gauġia
+აღებს	გაგვიღია	V;1;PL;3;SG;IND;PRF = gagviġia
+აღებს	გაგიღიათ	V;2;PL;3;SG;IND;PRF = gagiġiat
+აღებს	გაუღიათ	V;3;PL;3;SG;IND;PRF = gauġiat
+აღებს	გაგიღივართ	V;2;SG;1;PL;IND;PRF = gagiġivart
+აღებს	გავუღივართ	V;3;SG;1;PL;IND;PRF = gavuġivart
+აღებს	გაგიღივართ	V;2;PL;1;PL;IND;PRF = gagiġivart
+აღებს	გავუღივართ	V;3;PL;1;PL;IND;PRF = gavuġivart
+აღებს	გამიღიხართ	V;1;SG;2;PL;IND;PRF = gamiġixart
+აღებს	გაუღიხართ	V;3;SG;2;PL;IND;PRF = gauġixart
+აღებს	გაგვიღიხართ	V;1;PL;2;PL;IND;PRF = gagviġixart
+აღებს	გაუღიხართ	V;3;PL;2;PL;IND;PRF = gauġixart
+აღებს	გამიღია	V;1;SG;3;PL;IND;PRF = gamiġia
+აღებს	გაგიღია	V;2;SG;3;PL;IND;PRF = gagiġia
+აღებს	გაუღია	V;3;SG;3;PL;IND;PRF = gauġia
+აღებს	გაგვიღია	V;1;PL;3;PL;IND;PRF = gagviġia
+აღებს	გაგიღიათ	V;2;PL;3;PL;IND;PRF = gagiġiat
+აღებს	გაუღიათ	V;3;PL;3;PL;IND;PRF = gauġiat
+
+
+Screeve #10:
+აღებს	გაგეღე	V;2;SG;1;SG;IND;PST;PRF = gageġe
+აღებს	გავეღე	V;3;SG;1;SG;IND;PST;PRF = gaveġe
+აღებს	გაგეღეთ	V;2;PL;1;SG;IND;PST;PRF = gageġet
+აღებს	გავეღეთ	V;3;PL;1;SG;IND;PST;PRF = gaveġet
+აღებს	გამეღე	V;1;SG;2;SG;IND;PST;PRF = gameġe
+აღებს	გაეღე	V;3;SG;2;SG;IND;PST;PRF = gaeġe
+აღებს	გაგვეღე	V;1;PL;2;SG;IND;PST;PRF = gagveġe
+აღებს	გაეღეთ	V;3;PL;2;SG;IND;PST;PRF = gaeġet
+აღებს	გამეღო	V;1;SG;3;SG;IND;PST;PRF = gameġo
+აღებს	გაგეღო	V;2;SG;3;SG;IND;PST;PRF = gageġo
+აღებს	გაეღო	V;3;SG;3;SG;IND;PST;PRF = gaeġo
+აღებს	გაგვეღო	V;1;PL;3;SG;IND;PST;PRF = gagveġo
+აღებს	გაგეღოთ	V;2;PL;3;SG;IND;PST;PRF = gageġot
+აღებს	გაეღოთ	V;3;PL;3;SG;IND;PST;PRF = gaeġot
+აღებს	გაგეღეთ	V;2;SG;1;PL;IND;PST;PRF = gageġet
+აღებს	გავეღეთ	V;3;SG;1;PL;IND;PST;PRF = gaveġet
+აღებს	გაგეღეთ	V;2;PL;1;PL;IND;PST;PRF = gageġet
+აღებს	გავეღეთ	V;3;PL;1;PL;IND;PST;PRF = gaveġet
+აღებს	გამეღეთ	V;1;SG;2;PL;IND;PST;PRF = gameġet
+აღებს	გაეღეთ	V;3;SG;2;PL;IND;PST;PRF = gaeġet
+აღებს	გაგვეღეთ	V;1;PL;2;PL;IND;PST;PRF = gagveġet
+აღებს	გაეღეთ	V;3;PL;2;PL;IND;PST;PRF = gaeġet
+აღებს	გამეღო	V;1;SG;3;PL;IND;PST;PRF = gameġo
+აღებს	გაგეღო	V;2;SG;3;PL;IND;PST;PRF = gageġo
+აღებს	გაეღო	V;3;SG;3;PL;IND;PST;PRF = gaeġo
+აღებს	გაგვეღო	V;1;PL;3;PL;IND;PST;PRF = gagveġo
+აღებს	გაგეღოთ	V;2;PL;3;PL;IND;PST;PRF = gageġot
+აღებს	გაეღოთ	V;3;PL;3;PL;IND;PST;PRF = gaeġot
+
+
+Screeve #11:
+აღებს	გაგეღო	V;2;SG;1;SG;SBJV;PRF = gageġo
+აღებს	გავეღო	V;3;SG;1;SG;SBJV;PRF = gaveġo
+აღებს	გაგეღოთ	V;2;PL;1;SG;SBJV;PRF = gageġot
+აღებს	გავეღოთ	V;3;PL;1;SG;SBJV;PRF = gaveġot
+აღებს	გამეღო	V;1;SG;2;SG;SBJV;PRF = gameġo
+აღებს	გაეღო	V;3;SG;2;SG;SBJV;PRF = gaeġo
+აღებს	გაგვეღო	V;1;PL;2;SG;SBJV;PRF = gagveġo
+აღებს	გაეღოთ	V;3;PL;2;SG;SBJV;PRF = gaeġot
+აღებს	გამეღოს	V;1;SG;3;SG;SBJV;PRF = gameġos
+აღებს	გაგეღოს	V;2;SG;3;SG;SBJV;PRF = gageġos
+აღებს	გაეღოს	V;3;SG;3;SG;SBJV;PRF = gaeġos
+აღებს	გაგვეღოს	V;1;PL;3;SG;SBJV;PRF = gagveġos
+აღებს	გაგეღოთ	V;2;PL;3;SG;SBJV;PRF = gageġot
+აღებს	გაეღოთ	V;3;PL;3;SG;SBJV;PRF = gaeġot
+აღებს	გაგეღოთ	V;2;SG;1;PL;SBJV;PRF = gageġot
+აღებს	გავეღოთ	V;3;SG;1;PL;SBJV;PRF = gaveġot
+აღებს	გაგეღოთ	V;2;PL;1;PL;SBJV;PRF = gageġot
+აღებს	გავეღოთ	V;3;PL;1;PL;SBJV;PRF = gaveġot
+აღებს	გამეღოთ	V;1;SG;2;PL;SBJV;PRF = gameġot
+აღებს	გაეღოთ	V;3;SG;2;PL;SBJV;PRF = gaeġot
+აღებს	გაგვეღოთ	V;1;PL;2;PL;SBJV;PRF = gagveġot
+აღებს	გაეღოთ	V;3;PL;2;PL;SBJV;PRF = gaeġot
+აღებს	გამეღოს	V;1;SG;3;PL;SBJV;PRF = gameġos
+აღებს	გაგეღოს	V;2;SG;3;PL;SBJV;PRF = gageġos
+აღებს	გაეღოს	V;3;SG;3;PL;SBJV;PRF = gaeġos
+აღებს	გაგვეღოს	V;1;PL;3;PL;SBJV;PRF = gagveġos
+აღებს	გაგეღოთ	V;2;PL;3;PL;SBJV;PRF = gageġot
+აღებს	გაეღოთ	V;3;PL;3;PL;SBJV;PRF = gaeġot
+
+
+აღებს	გაღება	V;V.MSDR;IPFV

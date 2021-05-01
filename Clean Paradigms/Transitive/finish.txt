@@ -1,0 +1,372 @@
+#39 - ამთავრებს - finish:
+Screeve #1:
+ამთავრებს	მამთავრებ	V;2;SG;1;SG;IND;PRS = mamtavreb
+ამთავრებს	მამთავრებს	V;3;SG;1;SG;IND;PRS = mamtavrebs
+ამთავრებს	მამთავრებთ	V;2;PL;1;SG;IND;PRS = mamtavrebt
+ამთავრებს	მამთავრებენ	V;3;PL;1;SG;IND;PRS = mamtavreben
+ამთავრებს	გამთავრებ	V;1;SG;2;SG;IND;PRS = gamtavreb
+ამთავრებს	გამთავრებს	V;3;SG;2;SG;IND;PRS = gamtavrebs
+ამთავრებს	გამთავრებთ	V;1;PL;2;SG;IND;PRS = gamtavrebt
+ამთავრებს	გამთავრებენ	V;3;PL;2;SG;IND;PRS = gamtavreben
+ამთავრებს	ვამთავრებ	V;1;SG;3;SG;IND;PRS = vamtavreb
+ამთავრებს	ამთავრებ	V;2;SG;3;SG;IND;PRS = amtavreb
+ამთავრებს	ამთავრებს	V;3;SG;3;SG;IND;PRS = amtavrebs
+ამთავრებს	ვამთავრებთ	V;1;PL;3;SG;IND;PRS = vamtavrebt
+ამთავრებს	ამთავრებთ	V;2;PL;3;SG;IND;PRS = amtavrebt
+ამთავრებს	ამთავრებენ	V;3;PL;3;SG;IND;PRS = amtavreben
+ამთავრებს	გვამთავრებ	V;2;SG;1;PL;IND;PRS = gvamtavreb
+ამთავრებს	გვამთავრებს	V;3;SG;1;PL;IND;PRS = gvamtavrebs
+ამთავრებს	გვამთავრებთ	V;2;PL;1;PL;IND;PRS = gvamtavrebt
+ამთავრებს	გვამთავრებენ	V;3;PL;1;PL;IND;PRS = gvamtavreben
+ამთავრებს	გამთავრებთ	V;1;SG;2;PL;IND;PRS = gamtavrebt
+ამთავრებს	გამთავრებთ	V;3;SG;2;PL;IND;PRS = gamtavrebt
+ამთავრებს	გამთავრებთ	V;1;PL;2;PL;IND;PRS = gamtavrebt
+ამთავრებს	გამთავრებენ	V;3;PL;2;PL;IND;PRS = gamtavreben
+ამთავრებს	ვამთავრებ	V;1;SG;3;PL;IND;PRS = vamtavreb
+ამთავრებს	ამთავრებ	V;2;SG;3;PL;IND;PRS = amtavreb
+ამთავრებს	ამთავრებს	V;3;SG;3;PL;IND;PRS = amtavrebs
+ამთავრებს	ვამთავრებთ	V;1;PL;3;PL;IND;PRS = vamtavrebt
+ამთავრებს	ამთავრებთ	V;2;PL;3;PL;IND;PRS = amtavrebt
+ამთავრებს	ამთავრებენ	V;3;PL;3;PL;IND;PRS = amtavreben
+
+
+Screeve #2:
+ამთავრებს	მამთავრებდი	V;2;SG;1;SG;IND;IPFV = mamtavrebdi
+ამთავრებს	მამთავრებდა	V;3;SG;1;SG;IND;IPFV = mamtavrebda
+ამთავრებს	მამთავრებდით	V;2;PL;1;SG;IND;IPFV = mamtavrebdit
+ამთავრებს	მამთავრებდნენ	V;3;PL;1;SG;IND;IPFV = mamtavrebdnen
+ამთავრებს	გამთავრებდი	V;1;SG;2;SG;IND;IPFV = gamtavrebdi
+ამთავრებს	გამთავრებდა	V;3;SG;2;SG;IND;IPFV = gamtavrebda
+ამთავრებს	გამთავრებდით	V;1;PL;2;SG;IND;IPFV = gamtavrebdit
+ამთავრებს	გამთავრებდნენ	V;3;PL;2;SG;IND;IPFV = gamtavrebdnen
+ამთავრებს	ვამთავრებდი	V;1;SG;3;SG;IND;IPFV = vamtavrebdi
+ამთავრებს	ამთავრებდი	V;2;SG;3;SG;IND;IPFV = amtavrebdi
+ამთავრებს	ამთავრებდა	V;3;SG;3;SG;IND;IPFV = amtavrebda
+ამთავრებს	ვამთავრებდით	V;1;PL;3;SG;IND;IPFV = vamtavrebdit
+ამთავრებს	ამთავრებდით	V;2;PL;3;SG;IND;IPFV = amtavrebdit
+ამთავრებს	ამთავრებდნენ	V;3;PL;3;SG;IND;IPFV = amtavrebdnen
+ამთავრებს	გვამთავრებდი	V;2;SG;1;PL;IND;IPFV = gvamtavrebdi
+ამთავრებს	გვამთავრებდა	V;3;SG;1;PL;IND;IPFV = gvamtavrebda
+ამთავრებს	გვამთავრებდით	V;2;PL;1;PL;IND;IPFV = gvamtavrebdit
+ამთავრებს	გვამთავრებდნენ	V;3;PL;1;PL;IND;IPFV = gvamtavrebdnen
+ამთავრებს	გამთავრებდით	V;1;SG;2;PL;IND;IPFV = gamtavrebdit
+ამთავრებს	გამთავრებდათ	V;3;SG;2;PL;IND;IPFV = gamtavrebdat
+ამთავრებს	გამთავრებდით	V;1;PL;2;PL;IND;IPFV = gamtavrebdit
+ამთავრებს	გამთავრებდნენ	V;3;PL;2;PL;IND;IPFV = gamtavrebdnen
+ამთავრებს	ვამთავრებდი	V;1;SG;3;PL;IND;IPFV = vamtavrebdi
+ამთავრებს	ამთავრებდი	V;2;SG;3;PL;IND;IPFV = amtavrebdi
+ამთავრებს	ამთავრებდა	V;3;SG;3;PL;IND;IPFV = amtavrebda
+ამთავრებს	ვამთავრებდით	V;1;PL;3;PL;IND;IPFV = vamtavrebdit
+ამთავრებს	ამთავრებდით	V;2;PL;3;PL;IND;IPFV = amtavrebdit
+ამთავრებს	ამთავრებდნენ	V;3;PL;3;PL;IND;IPFV = amtavrebdnen
+
+
+Screeve #3:
+ამთავრებს	მამთავრებდე	V;2;SG;1;SG;SBJV;PRS = mamtavrebde
+ამთავრებს	მამთავრებდეს	V;3;SG;1;SG;SBJV;PRS = mamtavrebdes
+ამთავრებს	მამთავრებდეთ	V;2;PL;1;SG;SBJV;PRS = mamtavrebdet
+ამთავრებს	მამთავრებდნენ	V;3;PL;1;SG;SBJV;PRS = mamtavrebdnen
+ამთავრებს	გამთავრებდე	V;1;SG;2;SG;SBJV;PRS = gamtavrebde
+ამთავრებს	გამთავრებდეს	V;3;SG;2;SG;SBJV;PRS = gamtavrebdes
+ამთავრებს	გამთავრებდეთ	V;1;PL;2;SG;SBJV;PRS = gamtavrebdet
+ამთავრებს	გამთავრებდნენ	V;3;PL;2;SG;SBJV;PRS = gamtavrebdnen
+ამთავრებს	ვამთავრებდე	V;1;SG;3;SG;SBJV;PRS = vamtavrebde
+ამთავრებს	ამთავრებდე	V;2;SG;3;SG;SBJV;PRS = amtavrebde
+ამთავრებს	ამთავრებდეს	V;3;SG;3;SG;SBJV;PRS = amtavrebdes
+ამთავრებს	ვამთავრებდეთ	V;1;PL;3;SG;SBJV;PRS = vamtavrebdet
+ამთავრებს	ამთავრებდეთ	V;2;PL;3;SG;SBJV;PRS = amtavrebdet
+ამთავრებს	ამთავრებდნენ	V;3;PL;3;SG;SBJV;PRS = amtavrebdnen
+ამთავრებს	გვამთავრებდე	V;2;SG;1;PL;SBJV;PRS = gvamtavrebde
+ამთავრებს	გვამთავრებდეს	V;3;SG;1;PL;SBJV;PRS = gvamtavrebdes
+ამთავრებს	გვამთავრებდეთ	V;2;PL;1;PL;SBJV;PRS = gvamtavrebdet
+ამთავრებს	გვამთავრებდნენ	V;3;PL;1;PL;SBJV;PRS = gvamtavrebdnen
+ამთავრებს	გამთავრებდეთ	V;1;SG;2;PL;SBJV;PRS = gamtavrebdet
+ამთავრებს	გამთავრებდეთ	V;3;SG;2;PL;SBJV;PRS = gamtavrebdet
+ამთავრებს	გამთავრებდეთ	V;1;PL;2;PL;SBJV;PRS = gamtavrebdet
+ამთავრებს	გამთავრებდნენ	V;3;PL;2;PL;SBJV;PRS = gamtavrebdnen
+ამთავრებს	ვამთავრებდე	V;1;SG;3;PL;SBJV;PRS = vamtavrebde
+ამთავრებს	ამთავრებდე	V;2;SG;3;PL;SBJV;PRS = amtavrebde
+ამთავრებს	ამთავრებდეს	V;3;SG;3;PL;SBJV;PRS = amtavrebdes
+ამთავრებს	ვამთავრებდეთ	V;1;PL;3;PL;SBJV;PRS = vamtavrebdet
+ამთავრებს	ამთავრებდეთ	V;2;PL;3;PL;SBJV;PRS = amtavrebdet
+ამთავრებს	ამთავრებდნენ	V;3;PL;3;PL;SBJV;PRS = amtavrebdnen
+
+
+Screeve #4:
+ამთავრებს	დამამთავრებ	V;2;SG;1;SG;IND;FUT = damamtavreb
+ამთავრებს	დამამთავრებს	V;3;SG;1;SG;IND;FUT = damamtavrebs
+ამთავრებს	დამამთავრებთ	V;2;PL;1;SG;IND;FUT = damamtavrebt
+ამთავრებს	დამამთავრებენ	V;3;PL;1;SG;IND;FUT = damamtavreben
+ამთავრებს	დაგამთავრებ	V;1;SG;2;SG;IND;FUT = dagamtavreb
+ამთავრებს	დაგამთავრებს	V;3;SG;2;SG;IND;FUT = dagamtavrebs
+ამთავრებს	დაგამთავრებთ	V;1;PL;2;SG;IND;FUT = dagamtavrebt
+ამთავრებს	დაგამთავრებენ	V;3;PL;2;SG;IND;FUT = dagamtavreben
+ამთავრებს	დავამთავრებ	V;1;SG;3;SG;IND;FUT = davamtavreb
+ამთავრებს	დაამთავრებ	V;2;SG;3;SG;IND;FUT = daamtavreb
+ამთავრებს	დაამთავრებს	V;3;SG;3;SG;IND;FUT = daamtavrebs
+ამთავრებს	დავამთავრებთ	V;1;PL;3;SG;IND;FUT = davamtavrebt
+ამთავრებს	დაამთავრებთ	V;2;PL;3;SG;IND;FUT = daamtavrebt
+ამთავრებს	დაამთავრებენ	V;3;PL;3;SG;IND;FUT = daamtavreben
+ამთავრებს	დაგვამთავრებ	V;2;SG;1;PL;IND;FUT = dagvamtavreb
+ამთავრებს	დაგვამთავრებს	V;3;SG;1;PL;IND;FUT = dagvamtavrebs
+ამთავრებს	დაგვამთავრებთ	V;2;PL;1;PL;IND;FUT = dagvamtavrebt
+ამთავრებს	დაგვამთავრებენ	V;3;PL;1;PL;IND;FUT = dagvamtavreben
+ამთავრებს	დაგამთავრებთ	V;1;SG;2;PL;IND;FUT = dagamtavrebt
+ამთავრებს	დაგამთავრებთ	V;3;SG;2;PL;IND;FUT = dagamtavrebt
+ამთავრებს	დაგამთავრებთ	V;1;PL;2;PL;IND;FUT = dagamtavrebt
+ამთავრებს	დაგამთავრებენ	V;3;PL;2;PL;IND;FUT = dagamtavreben
+ამთავრებს	დავამთავრებ	V;1;SG;3;PL;IND;FUT = davamtavreb
+ამთავრებს	დაამთავრებ	V;2;SG;3;PL;IND;FUT = daamtavreb
+ამთავრებს	დაამთავრებს	V;3;SG;3;PL;IND;FUT = daamtavrebs
+ამთავრებს	დავამთავრებთ	V;1;PL;3;PL;IND;FUT = davamtavrebt
+ამთავრებს	დაამთავრებთ	V;2;PL;3;PL;IND;FUT = daamtavrebt
+ამთავრებს	დაამთავრებენ	V;3;PL;3;PL;IND;FUT = daamtavreben
+
+
+Screeve #5:
+ამთავრებს	დამამთავრებდი	V;2;SG;1;SG;COND = damamtavrebdi
+ამთავრებს	დამამთავრებდა	V;3;SG;1;SG;COND = damamtavrebda
+ამთავრებს	დამამთავრებდით	V;2;PL;1;SG;COND = damamtavrebdit
+ამთავრებს	დამამთავრებდნენ	V;3;PL;1;SG;COND = damamtavrebdnen
+ამთავრებს	დაგამთავრებდი	V;1;SG;2;SG;COND = dagamtavrebdi
+ამთავრებს	დაგამთავრებდა	V;3;SG;2;SG;COND = dagamtavrebda
+ამთავრებს	დაგამთავრებდით	V;1;PL;2;SG;COND = dagamtavrebdit
+ამთავრებს	დაგამთავრებდნენ	V;3;PL;2;SG;COND = dagamtavrebdnen
+ამთავრებს	დავამთავრებდი	V;1;SG;3;SG;COND = davamtavrebdi
+ამთავრებს	დაამთავრებდი	V;2;SG;3;SG;COND = daamtavrebdi
+ამთავრებს	დაამთავრებდა	V;3;SG;3;SG;COND = daamtavrebda
+ამთავრებს	დავამთავრებდით	V;1;PL;3;SG;COND = davamtavrebdit
+ამთავრებს	დაამთავრებდით	V;2;PL;3;SG;COND = daamtavrebdit
+ამთავრებს	დაამთავრებდნენ	V;3;PL;3;SG;COND = daamtavrebdnen
+ამთავრებს	დაგვამთავრებდი	V;2;SG;1;PL;COND = dagvamtavrebdi
+ამთავრებს	დაგვამთავრებდა	V;3;SG;1;PL;COND = dagvamtavrebda
+ამთავრებს	დაგვამთავრებდით	V;2;PL;1;PL;COND = dagvamtavrebdit
+ამთავრებს	დაგვამთავრებდნენ	V;3;PL;1;PL;COND = dagvamtavrebdnen
+ამთავრებს	დაგამთავრებდით	V;1;SG;2;PL;COND = dagamtavrebdit
+ამთავრებს	დაგამთავრებდათ	V;3;SG;2;PL;COND = dagamtavrebdat
+ამთავრებს	დაგამთავრებდით	V;1;PL;2;PL;COND = dagamtavrebdit
+ამთავრებს	დაგამთავრებდნენ	V;3;PL;2;PL;COND = dagamtavrebdnen
+ამთავრებს	დავამთავრებდი	V;1;SG;3;PL;COND = davamtavrebdi
+ამთავრებს	დაამთავრებდი	V;2;SG;3;PL;COND = daamtavrebdi
+ამთავრებს	დაამთავრებდა	V;3;SG;3;PL;COND = daamtavrebda
+ამთავრებს	დავამთავრებდით	V;1;PL;3;PL;COND = davamtavrebdit
+ამთავრებს	დაამთავრებდით	V;2;PL;3;PL;COND = daamtavrebdit
+ამთავრებს	დაამთავრებდნენ	V;3;PL;3;PL;COND = daamtavrebdnen
+
+
+Screeve #6:
+ამთავრებს	დამამთავრებდე	V;2;SG;1;SG;SBJV;FUT = damamtavrebde
+ამთავრებს	დამამთავრებდეს	V;3;SG;1;SG;SBJV;FUT = damamtavrebdes
+ამთავრებს	დამამთავრებდეთ	V;2;PL;1;SG;SBJV;FUT = damamtavrebdet
+ამთავრებს	დამამთავრებდნენ	V;3;PL;1;SG;SBJV;FUT = damamtavrebdnen
+ამთავრებს	დაგამთავრებდე	V;1;SG;2;SG;SBJV;FUT = dagamtavrebde
+ამთავრებს	დაგამთავრებდეს	V;3;SG;2;SG;SBJV;FUT = dagamtavrebdes
+ამთავრებს	დაგამთავრებდეთ	V;1;PL;2;SG;SBJV;FUT = dagamtavrebdet
+ამთავრებს	დაგამთავრებდნენ	V;3;PL;2;SG;SBJV;FUT = dagamtavrebdnen
+ამთავრებს	დავამთავრებდე	V;1;SG;3;SG;SBJV;FUT = davamtavrebde
+ამთავრებს	დაამთავრებდე	V;2;SG;3;SG;SBJV;FUT = daamtavrebde
+ამთავრებს	დაამთავრებდეს	V;3;SG;3;SG;SBJV;FUT = daamtavrebdes
+ამთავრებს	დავამთავრებდეთ	V;1;PL;3;SG;SBJV;FUT = davamtavrebdet
+ამთავრებს	დაამთავრებდეთ	V;2;PL;3;SG;SBJV;FUT = daamtavrebdet
+ამთავრებს	დაამთავრებდნენ	V;3;PL;3;SG;SBJV;FUT = daamtavrebdnen
+ამთავრებს	დაგვამთავრებდე	V;2;SG;1;PL;SBJV;FUT = dagvamtavrebde
+ამთავრებს	დაგვამთავრებდეს	V;3;SG;1;PL;SBJV;FUT = dagvamtavrebdes
+ამთავრებს	დაგვამთავრებდეთ	V;2;PL;1;PL;SBJV;FUT = dagvamtavrebdet
+ამთავრებს	დაგვამთავრებდნენ	V;3;PL;1;PL;SBJV;FUT = dagvamtavrebdnen
+ამთავრებს	დაგამთავრებდეთ	V;1;SG;2;PL;SBJV;FUT = dagamtavrebdet
+ამთავრებს	დაგამთავრებდეთ	V;3;SG;2;PL;SBJV;FUT = dagamtavrebdet
+ამთავრებს	დაგამთავრებდეთ	V;1;PL;2;PL;SBJV;FUT = dagamtavrebdet
+ამთავრებს	დაგამთავრებდნენ	V;3;PL;2;PL;SBJV;FUT = dagamtavrebdnen
+ამთავრებს	დავამთავრებდე	V;1;SG;3;PL;SBJV;FUT = davamtavrebde
+ამთავრებს	დაამთავრებდე	V;2;SG;3;PL;SBJV;FUT = daamtavrebde
+ამთავრებს	დაამთავრებდეს	V;3;SG;3;PL;SBJV;FUT = daamtavrebdes
+ამთავრებს	დავამთავრებდეთ	V;1;PL;3;PL;SBJV;FUT = davamtavrebdet
+ამთავრებს	დაამთავრებდეთ	V;2;PL;3;PL;SBJV;FUT = daamtavrebdet
+ამთავრებს	დაამთავრებდნენ	V;3;PL;3;PL;SBJV;FUT = daamtavrebdnen
+
+
+Screeve #7:
+ამთავრებს	დამამთავრე	V;2;SG;1;SG;IND;PST;PFV = damamtavre
+ამთავრებს	დამამთავრა	V;3;SG;1;SG;IND;PST;PFV = damamtavra
+ამთავრებს	დამამთავრეთ	V;2;PL;1;SG;IND;PST;PFV = damamtavret
+ამთავრებს	დამამთავრეს	V;3;PL;1;SG;IND;PST;PFV = damamtavres
+ამთავრებს	დაგამთავრე	V;1;SG;2;SG;IND;PST;PFV = dagamtavre
+ამთავრებს	დაგამთავრა	V;3;SG;2;SG;IND;PST;PFV = dagamtavra
+ამთავრებს	დაგამთავრეთ	V;1;PL;2;SG;IND;PST;PFV = dagamtavret
+ამთავრებს	დაგამთავრეს	V;3;PL;2;SG;IND;PST;PFV = dagamtavres
+ამთავრებს	დავამთავრე	V;1;SG;3;SG;IND;PST;PFV = davamtavre
+ამთავრებს	დაამთავრე	V;2;SG;3;SG;IND;PST;PFV = daamtavre
+ამთავრებს	დაამთავრა	V;3;SG;3;SG;IND;PST;PFV = daamtavra
+ამთავრებს	დავამთავრეთ	V;1;PL;3;SG;IND;PST;PFV = davamtavret
+ამთავრებს	დაამთავრეთ	V;2;PL;3;SG;IND;PST;PFV = daamtavret
+ამთავრებს	დაამთავრეს	V;3;PL;3;SG;IND;PST;PFV = daamtavres
+ამთავრებს	დაგვამთავრე	V;2;SG;1;PL;IND;PST;PFV = dagvamtavre
+ამთავრებს	დაგვამთავრა	V;3;SG;1;PL;IND;PST;PFV = dagvamtavra
+ამთავრებს	დაგვამთავრეთ	V;2;PL;1;PL;IND;PST;PFV = dagvamtavret
+ამთავრებს	დაგვამთავრეს	V;3;PL;1;PL;IND;PST;PFV = dagvamtavres
+ამთავრებს	დაგამთავრეთ	V;1;SG;2;PL;IND;PST;PFV = dagamtavret
+ამთავრებს	დაგამთავრათ	V;3;SG;2;PL;IND;PST;PFV = dagamtavrat
+ამთავრებს	დაგამთავრეთ	V;1;PL;2;PL;IND;PST;PFV = dagamtavret
+ამთავრებს	დაგამთავრეს	V;3;PL;2;PL;IND;PST;PFV = dagamtavres
+ამთავრებს	დავამთავრე	V;1;SG;3;PL;IND;PST;PFV = davamtavre
+ამთავრებს	დაამთავრე	V;2;SG;3;PL;IND;PST;PFV = daamtavre
+ამთავრებს	დაამთავრა	V;3;SG;3;PL;IND;PST;PFV = daamtavra
+ამთავრებს	დავამთავრეთ	V;1;PL;3;PL;IND;PST;PFV = davamtavret
+ამთავრებს	დაამთავრეთ	V;2;PL;3;PL;IND;PST;PFV = daamtavret
+ამთავრებს	დაამთავრეს	V;3;PL;3;PL;IND;PST;PFV = daamtavres
+
+ამთავრებს	დამამთავრე	V;2;SG;1;SG;IMP = damamtavre
+ამთავრებს	დამამთავრეთ	V;2;PL;1;SG;IMP = damamtavret
+ამთავრებს	დაამთავრე	V;2;SG;3;SG;IMP = daamtavre
+ამთავრებს	დაამთავრეთ	V;2;PL;3;SG;IMP = daamtavret
+ამთავრებს	დაგვამთავრე	V;2;SG;1;PL;IMP = dagvamtavre
+ამთავრებს	დაგვამთავრეთ	V;2;PL;1;PL;IMP = dagvamtavret
+ამთავრებს	დაამთავრე	V;2;SG;3;PL;IMP = daamtavre
+ამთავრებს	დაამთავრეთ	V;2;PL;3;PL;IMP = daamtavret
+
+
+
+Screeve #8:
+ამთავრებს	დამამთავრო	V;2;SG;1;SG;OPT = damamtavro
+ამთავრებს	დამამთავროს	V;3;SG;1;SG;OPT = damamtavros
+ამთავრებს	დამამთავროთ	V;2;PL;1;SG;OPT = damamtavrot
+ამთავრებს	დამამთავრონ	V;3;PL;1;SG;OPT = damamtavron
+ამთავრებს	დაგამთავრო	V;1;SG;2;SG;OPT = dagamtavro
+ამთავრებს	დაგამთავროს	V;3;SG;2;SG;OPT = dagamtavros
+ამთავრებს	დაგამთავროთ	V;1;PL;2;SG;OPT = dagamtavrot
+ამთავრებს	დაგამთავრონ	V;3;PL;2;SG;OPT = dagamtavron
+ამთავრებს	დავამთავრო	V;1;SG;3;SG;OPT = davamtavro
+ამთავრებს	დაამთავრო	V;2;SG;3;SG;OPT = daamtavro
+ამთავრებს	დაამთავროს	V;3;SG;3;SG;OPT = daamtavros
+ამთავრებს	დავამთავროთ	V;1;PL;3;SG;OPT = davamtavrot
+ამთავრებს	დაამთავროთ	V;2;PL;3;SG;OPT = daamtavrot
+ამთავრებს	დაამთავრონ	V;3;PL;3;SG;OPT = daamtavron
+ამთავრებს	დაგვამთავრო	V;2;SG;1;PL;OPT = dagvamtavro
+ამთავრებს	დაგვამთავროს	V;3;SG;1;PL;OPT = dagvamtavros
+ამთავრებს	დაგვამთავროთ	V;2;PL;1;PL;OPT = dagvamtavrot
+ამთავრებს	დაგვამთავრონ	V;3;PL;1;PL;OPT = dagvamtavron
+ამთავრებს	დაგამთავროთ	V;1;SG;2;PL;OPT = dagamtavrot
+ამთავრებს	დაგამთავროთ	V;3;SG;2;PL;OPT = dagamtavrot
+ამთავრებს	დაგამთავროთ	V;1;PL;2;PL;OPT = dagamtavrot
+ამთავრებს	დაგამთავროთ	V;3;PL;2;PL;OPT = dagamtavrot
+ამთავრებს	დავამთავრო	V;1;SG;3;PL;OPT = davamtavro
+ამთავრებს	დაამთავრო	V;2;SG;3;PL;OPT = daamtavro
+ამთავრებს	დაამთავროს	V;3;SG;3;PL;OPT = daamtavros
+ამთავრებს	დავამთავროთ	V;1;PL;3;PL;OPT = davamtavrot
+ამთავრებს	დაამთავროთ	V;2;PL;3;PL;OPT = daamtavrot
+ამთავრებს	დაამთავრონ	V;3;PL;3;PL;OPT = daamtavron
+
+ამთავრებს	დამამთავრონ	V;3;PL;1;SG;IMP = damamtavron
+ამთავრებს	დამამთავროს	V;3;SG;1;SG;IMP = damamtavros
+ამთავრებს	დაგამთავრონ	V;3;PL;2;SG;IMP = dagamtavron
+ამთავრებს	დაგამთავროს	V;3;SG;2;SG;IMP = dagamtavros
+ამთავრებს	დაგამთავროთ	V;1;PL;2;SG;IMP = dagamtavrot
+ამთავრებს	დაამთავრონ	V;3;PL;3;SG;IMP = daamtavron
+ამთავრებს	დაამთავროს	V;3;SG;3;SG;IMP = daamtavros
+ამთავრებს	დავამთავროთ	V;1;PL;3;SG;IMP = davamtavrot
+ამთავრებს	დაგვამთავრონ	V;3;PL;1;PL;IMP = dagvamtavron
+ამთავრებს	დაგვამთავროს	V;3;SG;1;PL;IMP = dagvamtavros
+ამთავრებს	დაგამთავროთ	V;3;PL;2;PL;IMP = dagamtavrot
+ამთავრებს	დაგამთავროთ	V;3;SG;2;PL;IMP = dagamtavrot
+ამთავრებს	დაგამთავროთ	V;1;PL;2;PL;IMP = dagamtavrot
+ამთავრებს	დაამთავრონ	V;3;PL;3;PL;IMP = daamtavron
+ამთავრებს	დაამთავროს	V;3;SG;3;PL;IMP = daamtavros
+ამთავრებს	დავამთავროთ	V;1;PL;3;PL;IMP = davamtavrot
+
+
+
+Screeve #9:
+ამთავრებს	დაგიმთავრებივარ	V;2;SG;1;SG;IND;PRF = dagimtavrebivar
+ამთავრებს	დავუმთავრებივარ	V;3;SG;1;SG;IND;PRF = davumtavrebivar
+ამთავრებს	დაგიმთავრებივართ	V;2;PL;1;SG;IND;PRF = dagimtavrebivart
+ამთავრებს	დავუმთავრებივართ	V;3;PL;1;SG;IND;PRF = davumtavrebivart
+ამთავრებს	დამიმთავრებიხარ	V;1;SG;2;SG;IND;PRF = damimtavrebixar
+ამთავრებს	დაუმთავრებიხარ	V;3;SG;2;SG;IND;PRF = daumtavrebixar
+ამთავრებს	დაგვიმთავრებიხარ	V;1;PL;2;SG;IND;PRF = dagvimtavrebixar
+ამთავრებს	დაუმთავრებიხართ	V;3;PL;2;SG;IND;PRF = daumtavrebixart
+ამთავრებს	დამიმთავრებია	V;1;SG;3;SG;IND;PRF = damimtavrebia
+ამთავრებს	დაგიმთავრებია	V;2;SG;3;SG;IND;PRF = dagimtavrebia
+ამთავრებს	დაუმთავრებია	V;3;SG;3;SG;IND;PRF = daumtavrebia
+ამთავრებს	დაგვიმთავრებია	V;1;PL;3;SG;IND;PRF = dagvimtavrebia
+ამთავრებს	დაგიმთავრებიათ	V;2;PL;3;SG;IND;PRF = dagimtavrebiat
+ამთავრებს	დაუმთავრებიათ	V;3;PL;3;SG;IND;PRF = daumtavrebiat
+ამთავრებს	დაგიმთავრებივართ	V;2;SG;1;PL;IND;PRF = dagimtavrebivart
+ამთავრებს	დავუმთავრებივართ	V;3;SG;1;PL;IND;PRF = davumtavrebivart
+ამთავრებს	დაგიმთავრებივართ	V;2;PL;1;PL;IND;PRF = dagimtavrebivart
+ამთავრებს	დავუმთავრებივართ	V;3;PL;1;PL;IND;PRF = davumtavrebivart
+ამთავრებს	დამიმთავრებიხართ	V;1;SG;2;PL;IND;PRF = damimtavrebixart
+ამთავრებს	დაუმთავრებიხართ	V;3;SG;2;PL;IND;PRF = daumtavrebixart
+ამთავრებს	დაგვიმთავრებიხართ	V;1;PL;2;PL;IND;PRF = dagvimtavrebixart
+ამთავრებს	დაუმთავრებიხართ	V;3;PL;2;PL;IND;PRF = daumtavrebixart
+ამთავრებს	დამიმთავრებია	V;1;SG;3;PL;IND;PRF = damimtavrebia
+ამთავრებს	დაგიმთავრებია	V;2;SG;3;PL;IND;PRF = dagimtavrebia
+ამთავრებს	დაუმთავრებია	V;3;SG;3;PL;IND;PRF = daumtavrebia
+ამთავრებს	დაგვიმთავრებია	V;1;PL;3;PL;IND;PRF = dagvimtavrebia
+ამთავრებს	დაგიმთავრებიათ	V;2;PL;3;PL;IND;PRF = dagimtavrebiat
+ამთავრებს	დაუმთავრებიათ	V;3;PL;3;PL;IND;PRF = daumtavrebiat
+
+
+Screeve #10:
+ამთავრებს	დაგემთავრებინე	V;2;SG;1;SG;IND;PST;PRF = dagemtavrebine
+ამთავრებს	დავემთავრებინე	V;3;SG;1;SG;IND;PST;PRF = davemtavrebine
+ამთავრებს	დაგემთავრებინეთ	V;2;PL;1;SG;IND;PST;PRF = dagemtavrebinet
+ამთავრებს	დავემთავრებინეთ	V;3;PL;1;SG;IND;PST;PRF = davemtavrebinet
+ამთავრებს	დამემთავრებინე	V;1;SG;2;SG;IND;PST;PRF = damemtavrebine
+ამთავრებს	დაემთავრებინე	V;3;SG;2;SG;IND;PST;PRF = daemtavrebine
+ამთავრებს	დაგვემთავრებინე	V;1;PL;2;SG;IND;PST;PRF = dagvemtavrebine
+ამთავრებს	დაემთავრებინეთ	V;3;PL;2;SG;IND;PST;PRF = daemtavrebinet
+ამთავრებს	დამემთავრებინა	V;1;SG;3;SG;IND;PST;PRF = damemtavrebina
+ამთავრებს	დაგემთავრებინა	V;2;SG;3;SG;IND;PST;PRF = dagemtavrebina
+ამთავრებს	დაემთავრებინა	V;3;SG;3;SG;IND;PST;PRF = daemtavrebina
+ამთავრებს	დაგვემთავრებინა	V;1;PL;3;SG;IND;PST;PRF = dagvemtavrebina
+ამთავრებს	დაგემთავრებინათ	V;2;PL;3;SG;IND;PST;PRF = dagemtavrebinat
+ამთავრებს	დაემთავრებინათ	V;3;PL;3;SG;IND;PST;PRF = daemtavrebinat
+ამთავრებს	დაგემთავრებინეთ	V;2;SG;1;PL;IND;PST;PRF = dagemtavrebinet
+ამთავრებს	დავემთავრებინეთ	V;3;SG;1;PL;IND;PST;PRF = davemtavrebinet
+ამთავრებს	დაგემთავრებინეთ	V;2;PL;1;PL;IND;PST;PRF = dagemtavrebinet
+ამთავრებს	დავემთავრებინეთ	V;3;PL;1;PL;IND;PST;PRF = davemtavrebinet
+ამთავრებს	დამემთავრებინეთ	V;1;SG;2;PL;IND;PST;PRF = damemtavrebinet
+ამთავრებს	დაემთავრებინეთ	V;3;SG;2;PL;IND;PST;PRF = daemtavrebinet
+ამთავრებს	დაგვემთავრებინეთ	V;1;PL;2;PL;IND;PST;PRF = dagvemtavrebinet
+ამთავრებს	დაემთავრებინეთ	V;3;PL;2;PL;IND;PST;PRF = daemtavrebinet
+ამთავრებს	დამემთავრებინა	V;1;SG;3;PL;IND;PST;PRF = damemtavrebina
+ამთავრებს	დაგემთავრებინა	V;2;SG;3;PL;IND;PST;PRF = dagemtavrebina
+ამთავრებს	დაემთავრებინა	V;3;SG;3;PL;IND;PST;PRF = daemtavrebina
+ამთავრებს	დაგვემთავრებინა	V;1;PL;3;PL;IND;PST;PRF = dagvemtavrebina
+ამთავრებს	დაგემთავრებინათ	V;2;PL;3;PL;IND;PST;PRF = dagemtavrebinat
+ამთავრებს	დაემთავრებინათ	V;3;PL;3;PL;IND;PST;PRF = daemtavrebinat
+
+
+Screeve #11:
+ამთავრებს	დაგემთავრებინო	V;2;SG;1;SG;SBJV;PRF = dagemtavrebino
+ამთავრებს	დავემთავრებინო	V;3;SG;1;SG;SBJV;PRF = davemtavrebino
+ამთავრებს	დაგემთავრებინოთ	V;2;PL;1;SG;SBJV;PRF = dagemtavrebinot
+ამთავრებს	დავემთავრებინოთ	V;3;PL;1;SG;SBJV;PRF = davemtavrebinot
+ამთავრებს	დამემთავრებინო	V;1;SG;2;SG;SBJV;PRF = damemtavrebino
+ამთავრებს	დაემთავრებინო	V;3;SG;2;SG;SBJV;PRF = daemtavrebino
+ამთავრებს	დაგვემთავრებინო	V;1;PL;2;SG;SBJV;PRF = dagvemtavrebino
+ამთავრებს	დაემთავრებინოთ	V;3;PL;2;SG;SBJV;PRF = daemtavrebinot
+ამთავრებს	დამემთავრებინოს	V;1;SG;3;SG;SBJV;PRF = damemtavrebinos
+ამთავრებს	დაგემთავრებინოს	V;2;SG;3;SG;SBJV;PRF = dagemtavrebinos
+ამთავრებს	დაემთავრებინოს	V;3;SG;3;SG;SBJV;PRF = daemtavrebinos
+ამთავრებს	დაგვემთავრებინოს	V;1;PL;3;SG;SBJV;PRF = dagvemtavrebinos
+ამთავრებს	დაგემთავრებინოთ	V;2;PL;3;SG;SBJV;PRF = dagemtavrebinot
+ამთავრებს	დაემთავრებინოთ	V;3;PL;3;SG;SBJV;PRF = daemtavrebinot
+ამთავრებს	დაგემთავრებინოთ	V;2;SG;1;PL;SBJV;PRF = dagemtavrebinot
+ამთავრებს	დავემთავრებინოთ	V;3;SG;1;PL;SBJV;PRF = davemtavrebinot
+ამთავრებს	დაგემთავრებინოთ	V;2;PL;1;PL;SBJV;PRF = dagemtavrebinot
+ამთავრებს	დავემთავრებინოთ	V;3;PL;1;PL;SBJV;PRF = davemtavrebinot
+ამთავრებს	დამემთავრებინოთ	V;1;SG;2;PL;SBJV;PRF = damemtavrebinot
+ამთავრებს	დაემთავრებინოთ	V;3;SG;2;PL;SBJV;PRF = daemtavrebinot
+ამთავრებს	დაგვემთავრებინოთ	V;1;PL;2;PL;SBJV;PRF = dagvemtavrebinot
+ამთავრებს	დაემთავრებინოთ	V;3;PL;2;PL;SBJV;PRF = daemtavrebinot
+ამთავრებს	დამემთავრებინოს	V;1;SG;3;PL;SBJV;PRF = damemtavrebinos
+ამთავრებს	დაგემთავრებინოს	V;2;SG;3;PL;SBJV;PRF = dagemtavrebinos
+ამთავრებს	დაემთავრებინოს	V;3;SG;3;PL;SBJV;PRF = daemtavrebinos
+ამთავრებს	დაგვემთავრებინოს	V;1;PL;3;PL;SBJV;PRF = dagvemtavrebinos
+ამთავრებს	დაგემთავრებინოთ	V;2;PL;3;PL;SBJV;PRF = dagemtavrebinot
+ამთავრებს	დაემთავრებინოთ	V;3;PL;3;PL;SBJV;PRF = daemtavrebinot
+
+
+ამთავრებს	დამთავრება	V;V.MSDR;PRF
+ამთავრებს	მთავრება	V;V.MSDR;IPFV
