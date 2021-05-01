@@ -3,7 +3,7 @@ Screeve #1:
 უყვარს	გიყვარვარ	V;2;SG;1;SG;IND;PRS = giq'varvar
 უყვარს	ვუყვარვარ	V;3;SG;1;SG;IND;PRS = vuq'varvar
 უყვარს	გიყვარვართ	V;2;PL;1;SG;IND;PRS = giq'varvart
-უყვარს	ვუყვარვართ	V;3;PL;1;SG;IND;PRS = vuq'varvart
+უყვარს	ვუყვარვარ	V;3;PL;1;SG;IND;PRS = vuq'varvar
 უყვარს	მიყვარხარ	V;1;SG;2;SG;IND;PRS = miq'varxar
 უყვარს	უყვარხარ	V;3;SG;2;SG;IND;PRS = uq'varxar
 უყვარს	გვიყვარხარ	V;1;PL;2;SG;IND;PRS = gviq'varxar
@@ -34,7 +34,7 @@ Screeve #2:
 უყვარს	გიყვარდი	V;2;SG;1;SG;IND;IPFV = giq'vardi
 უყვარს	ვუყვარდი	V;3;SG;1;SG;IND;IPFV = vuq'vardi
 უყვარს	გიყვარდით	V;2;PL;1;SG;IND;IPFV = giq'vardit
-უყვარს	ვუყვარდით	V;3;PL;1;SG;IND;IPFV = vuq'vardit
+უყვარს	ვუყვარდი	V;3;PL;1;SG;IND;IPFV = vuq'vardi
 უყვარს	მიყვარდი	V;1;SG;2;SG;IND;IPFV = miq'vardi
 უყვარს	უყვარდი	V;3;SG;2;SG;IND;IPFV = uq'vardi
 უყვარს	გვიყვარდი	V;1;PL;2;SG;IND;IPFV = gviq'vardi
@@ -65,7 +65,7 @@ Screeve #3:
 უყვარს	გიყვარდე	V;2;SG;1;SG;SBJV;PRS = giq'varde
 უყვარს	ვუყვარდე	V;3;SG;1;SG;SBJV;PRS = vuq'varde
 უყვარს	გიყვარდეთ	V;2;PL;1;SG;SBJV;PRS = giq'vardet
-უყვარს	ვუყვარდეთ	V;3;PL;1;SG;SBJV;PRS = vuq'vardet
+უყვარს	ვუყვარდე	V;3;PL;1;SG;SBJV;PRS = vuq'varde
 უყვარს	მიყვარდე	V;1;SG;2;SG;SBJV;PRS = miq'varde
 უყვარს	უყვარდე	V;3;SG;2;SG;SBJV;PRS = uq'varde
 უყვარს	გვიყვარდე	V;1;PL;2;SG;SBJV;PRS = gviq'varde
@@ -96,7 +96,7 @@ Screeve #4:
 უყვარს	გეყვარები	V;2;SG;1;SG;IND;FUT = geq'varebi
 უყვარს	ვეყვარები	V;3;SG;1;SG;IND;FUT = veq'varebi
 უყვარს	გეყვარებით	V;2;PL;1;SG;IND;FUT = geq'varebit
-უყვარს	ვეყვარებით	V;3;PL;1;SG;IND;FUT = veq'varebit
+უყვარს	ვეყვარები	V;3;PL;1;SG;IND;FUT = veq'varebi
 უყვარს	მეყვარები	V;1;SG;2;SG;IND;FUT = meq'varebi
 უყვარს	ეყვარები	V;3;SG;2;SG;IND;FUT = eq'varebi
 უყვარს	გვეყვარები	V;1;PL;2;SG;IND;FUT = gveq'varebi
@@ -127,7 +127,7 @@ Screeve #5:
 უყვარს	გეყვარებოდი	V;2;SG;1;SG;COND = geq'varebodi
 უყვარს	ვეყვარებოდი	V;3;SG;1;SG;COND = veq'varebodi
 უყვარს	გეყვარებოდით	V;2;PL;1;SG;COND = geq'varebodit
-უყვარს	ვეყვარებოდით	V;3;PL;1;SG;COND = veq'varebodit
+უყვარს	ვეყვარებოდი	V;3;PL;1;SG;COND = veq'varebodi
 უყვარს	მეყვარებოდი	V;1;SG;2;SG;COND = meq'varebodi
 უყვარს	ეყვარებოდი	V;3;SG;2;SG;COND = eq'varebodi
 უყვარს	გვეყვარებოდი	V;1;PL;2;SG;COND = gveq'varebodi
@@ -158,7 +158,7 @@ Screeve #6:
 უყვარს	გეყვარებოდე	V;2;SG;1;SG;SBJV;FUT = geq'varebode
 უყვარს	ვეყვარებოდე	V;3;SG;1;SG;SBJV;FUT = veq'varebode
 უყვარს	გეყვარებოდეთ	V;2;PL;1;SG;SBJV;FUT = geq'varebodet
-უყვარს	ვეყვარებოდეთ	V;3;PL;1;SG;SBJV;FUT = veq'varebodet
+უყვარს	ვეყვარებოდე	V;3;PL;1;SG;SBJV;FUT = veq'varebode
 უყვარს	მეყვარებოდე	V;1;SG;2;SG;SBJV;FUT = meq'varebode
 უყვარს	ეყვარებოდე	V;3;SG;2;SG;SBJV;FUT = eq'varebode
 უყვარს	გვეყვარებოდე	V;1;PL;2;SG;SBJV;FUT = gveq'varebode
@@ -220,7 +220,7 @@ Screeve #10:
 უყვარს	გყვარებოდი	V;2;SG;1;SG;IND;PST;PRF = gq'varebodi
 უყვარს	ვყვარებოდი	V;3;SG;1;SG;IND;PST;PRF = vq'varebodi
 უყვარს	გყვარებოდით	V;2;PL;1;SG;IND;PST;PRF = gq'varebodit
-უყვარს	ვყვარებოდით	V;3;PL;1;SG;IND;PST;PRF = vq'varebodit
+უყვარს	ვყვარებოდი	V;3;PL;1;SG;IND;PST;PRF = vq'varebodi
 უყვარს	მყვარებოდი	V;1;SG;2;SG;IND;PST;PRF = mq'varebodi
 უყვარს	ჰყვარებოდი	V;3;SG;2;SG;IND;PST;PRF = hq'varebodi
 უყვარს	გვყვარებოდი	V;1;PL;2;SG;IND;PST;PRF = gvq'varebodi
@@ -251,7 +251,7 @@ Screeve #11:
 უყვარს	გყვარებოდე	V;2;SG;1;SG;SBJV;PRF = gq'varebode
 უყვარს	ვყვარებოდე	V;3;SG;1;SG;SBJV;PRF = vq'varebode
 უყვარს	გყვარებოდეთ	V;2;PL;1;SG;SBJV;PRF = gq'varebodet
-უყვარს	ვყვარებოდეთ	V;3;PL;1;SG;SBJV;PRF = vq'varebodet
+უყვარს	ვყვარებოდე	V;3;PL;1;SG;SBJV;PRF = vq'varebode
 უყვარს	მყვარებოდე	V;1;SG;2;SG;SBJV;PRF = mq'varebode
 უყვარს	ჰყვარებოდე	V;3;SG;2;SG;SBJV;PRF = hq'varebode
 უყვარს	გვყვარებოდე	V;1;PL;2;SG;SBJV;PRF = gvq'varebode

@@ -1,58 +1,26 @@
 #4 - ესმს - hear:
 Screeve #1:
-ესმის	გესმვარ	V;2;SG;1;SG;IND;PRS = gesmvar
-ესმის	ვესმვარ	V;3;SG;1;SG;IND;PRS = vesmvar
-ესმის	გესმვართ	V;2;PL;1;SG;IND;PRS = gesmvart
-ესმის	ვესმვართ	V;3;PL;1;SG;IND;PRS = vesmvart
-ესმის	მესმხარ	V;1;SG;2;SG;IND;PRS = mesmxar
-ესმის	ესმხარ	V;3;SG;2;SG;IND;PRS = esmxar
-ესმის	გვესმხარ	V;1;PL;2;SG;IND;PRS = gvesmxar
-ესმის	ესმხარ	V;3;PL;2;SG;IND;PRS = esmxar
-ესმის	მესმის	V;1;SG;3;SG;IND;PRS = mesms
-ესმის	გესმის	V;2;SG;3;SG;IND;PRS = gesms
-ესმის	ესმის	V;3;SG;3;SG;IND;PRS = esms
-ესმის	გვესმის	V;1;PL;3;SG;IND;PRS = gvesms
-ესმის	გესმთ	V;2;PL;3;SG;IND;PRS = gesmt
-ესმის	ესმთ	V;3;PL;3;SG;IND;PRS = esmt
-ესმის	გესმვართ	V;2;SG;1;PL;IND;PRS = gesmvart
-ესმის	ვესმვართ	V;3;SG;1;PL;IND;PRS = vesmvart
-ესმის	გესმვართ	V;2;PL;1;PL;IND;PRS = gesmvart
-ესმის	ვესმვართ	V;3;PL;1;PL;IND;PRS = vesmvart
-ესმის	მესმხართ	V;1;SG;2;PL;IND;PRS = mesmxart
-ესმის	ესმხართ	V;3;SG;2;PL;IND;PRS = esmxart
-ესმის	გვესმხართ	V;1;PL;2;PL;IND;PRS = gvesmxart
-ესმის	ესმხართ	V;3;PL;2;PL;IND;PRS = esmxart
-ესმის	მესმის	V;1;SG;3;PL;IND;PRS = mesms
-ესმის	გესმის	V;2;SG;3;PL;IND;PRS = gesms
-ესმის	ესმის	V;3;SG;3;PL;IND;PRS = esms
-ესმის	გვესმის	V;1;PL;3;PL;IND;PRS = gvesms
-ესმის	გესმთ	V;2;PL;3;PL;IND;PRS = gesmt
-ესმის	ესმთ	V;3;PL;3;PL;IND;PRS = esmt
+ესმის	მესმის	V;1;SG;3;SG;IND;PRS = mesmis
+ესმის	გესმის	V;2;SG;3;SG;IND;PRS = gesmis
+ესმის	ესმის	V;3;SG;3;SG;IND;PRS = esmis
+ესმის	გვესმის	V;1;PL;3;SG;IND;PRS = gvesmis
+ესმის	გესმთ	V;2;PL;3;SG;IND;PRS = gesmit
+ესმის	ესმით	V;3;PL;3;SG;IND;PRS = esmit
+ესმის	მესმის	V;1;SG;3;PL;IND;PRS = mesmis
+ესმის	გესმის	V;2;SG;3;PL;IND;PRS = gesmis
+ესმის	ესმის	V;3;SG;3;PL;IND;PRS = esmis
+ესმის	გვესმის	V;1;PL;3;PL;IND;PRS = gvesmis
+ესმის	გესმით	V;2;PL;3;PL;IND;PRS = gesmit
+ესმის	ესმით	V;3;PL;3;PL;IND;PRS = esmit
 
 
 Screeve #2:
-ესმის	გესმოდი	V;2;SG;1;SG;IND;IPFV = gesmodi
-ესმის	ვესმოდი	V;3;SG;1;SG;IND;IPFV = vesmodi
-ესმის	გესმოდით	V;2;PL;1;SG;IND;IPFV = gesmodit
-ესმის	ვესმოდით	V;3;PL;1;SG;IND;IPFV = vesmodit
-ესმის	მესმოდი	V;1;SG;2;SG;IND;IPFV = mesmodi
-ესმის	ესმოდი	V;3;SG;2;SG;IND;IPFV = esmodi
-ესმის	გვესმოდი	V;1;PL;2;SG;IND;IPFV = gvesmodi
-ესმის	ესმოდი	V;3;PL;2;SG;IND;IPFV = esmodi
 ესმის	მესმოდა	V;1;SG;3;SG;IND;IPFV = mesmoda
 ესმის	გესმოდა	V;2;SG;3;SG;IND;IPFV = gesmoda
 ესმის	ესმოდა	V;3;SG;3;SG;IND;IPFV = esmoda
 ესმის	გვესმოდა	V;1;PL;3;SG;IND;IPFV = gvesmoda
 ესმის	გესმოდათ	V;2;PL;3;SG;IND;IPFV = gesmodat
 ესმის	ესმოდათ	V;3;PL;3;SG;IND;IPFV = esmodat
-ესმის	გესმოდით	V;2;SG;1;PL;IND;IPFV = gesmodit
-ესმის	ვესმოდით	V;3;SG;1;PL;IND;IPFV = vesmodit
-ესმის	გესმოდით	V;2;PL;1;PL;IND;IPFV = gesmodit
-ესმის	ვესმოდით	V;3;PL;1;PL;IND;IPFV = vesmodit
-ესმის	მესმოდით	V;1;SG;2;PL;IND;IPFV = mesmodit
-ესმის	ესმოდით	V;3;SG;2;PL;IND;IPFV = esmodit
-ესმის	გვესმოდით	V;1;PL;2;PL;IND;IPFV = gvesmodit
-ესმის	ესმოდით	V;3;PL;2;PL;IND;IPFV = esmodit
 ესმის	მესმოდა	V;1;SG;3;PL;IND;IPFV = mesmoda
 ესმის	გესმოდა	V;2;SG;3;PL;IND;IPFV = gesmoda
 ესმის	ესმოდა	V;3;SG;3;PL;IND;IPFV = esmoda
@@ -62,28 +30,12 @@ Screeve #2:
 
 
 Screeve #3:
-ესმის	გესმოდე	V;2;SG;1;SG;SBJV;PRS = gesmode
-ესმის	ვესმოდე	V;3;SG;1;SG;SBJV;PRS = vesmode
-ესმის	გესმოდეთ	V;2;PL;1;SG;SBJV;PRS = gesmodet
-ესმის	ვესმოდეთ	V;3;PL;1;SG;SBJV;PRS = vesmodet
-ესმის	მესმოდე	V;1;SG;2;SG;SBJV;PRS = mesmode
-ესმის	ესმოდე	V;3;SG;2;SG;SBJV;PRS = esmode
-ესმის	გვესმოდე	V;1;PL;2;SG;SBJV;PRS = gvesmode
-ესმის	ესმოდე	V;3;PL;2;SG;SBJV;PRS = esmode
 ესმის	მესმოდეს	V;1;SG;3;SG;SBJV;PRS = mesmodes
 ესმის	გესმოდეს	V;2;SG;3;SG;SBJV;PRS = gesmodes
 ესმის	ესმოდეს	V;3;SG;3;SG;SBJV;PRS = esmodes
 ესმის	გვესმოდეს	V;1;PL;3;SG;SBJV;PRS = gvesmodes
 ესმის	გესმოდეთ	V;2;PL;3;SG;SBJV;PRS = gesmodet
 ესმის	ესმოდეთ	V;3;PL;3;SG;SBJV;PRS = esmodet
-ესმის	გესმოდეთ	V;2;SG;1;PL;SBJV;PRS = gesmodet
-ესმის	ვესმოდეთ	V;3;SG;1;PL;SBJV;PRS = vesmodet
-ესმის	გესმოდეთ	V;2;PL;1;PL;SBJV;PRS = gesmodet
-ესმის	ვესმოდეთ	V;3;PL;1;PL;SBJV;PRS = vesmodet
-ესმის	მესმოდეთ	V;1;SG;2;PL;SBJV;PRS = mesmodet
-ესმის	ესმოდეთ	V;3;SG;2;PL;SBJV;PRS = esmodet
-ესმის	გვესმოდეთ	V;1;PL;2;PL;SBJV;PRS = gvesmodet
-ესმის	ესმოდეთ	V;3;PL;2;PL;SBJV;PRS = esmodet
 ესმის	მესმოდეს	V;1;SG;3;PL;SBJV;PRS = mesmodes
 ესმის	გესმოდეს	V;2;SG;3;PL;SBJV;PRS = gesmodes
 ესმის	ესმოდეს	V;3;SG;3;PL;SBJV;PRS = esmodes
@@ -93,28 +45,12 @@ Screeve #3:
 
 
 Screeve #4:
-ესმის	მოგესმები	V;2;SG;1;SG;IND;FUT = mogesmebi
-ესმის	მოვესმები	V;3;SG;1;SG;IND;FUT = movesmebi
-ესმის	მოგესმებით	V;2;PL;1;SG;IND;FUT = mogesmebit
-ესმის	მოვესმებით	V;3;PL;1;SG;IND;FUT = movesmebit
-ესმის	მომესმები	V;1;SG;2;SG;IND;FUT = momesmebi
-ესმის	მოესმები	V;3;SG;2;SG;IND;FUT = moesmebi
-ესმის	მოგვესმები	V;1;PL;2;SG;IND;FUT = mogvesmebi
-ესმის	მოესმები	V;3;PL;2;SG;IND;FUT = moesmebi
 ესმის	მომესმება	V;1;SG;3;SG;IND;FUT = momesmeba
 ესმის	მოგესმება	V;2;SG;3;SG;IND;FUT = mogesmeba
 ესმის	მოესმება	V;3;SG;3;SG;IND;FUT = moesmeba
 ესმის	მოგვესმება	V;1;PL;3;SG;IND;FUT = mogvesmeba
 ესმის	მოგესმებათ	V;2;PL;3;SG;IND;FUT = mogesmebat
 ესმის	მოესმებათ	V;3;PL;3;SG;IND;FUT = moesmebat
-ესმის	მოგესმებით	V;2;SG;1;PL;IND;FUT = mogesmebit
-ესმის	მოვესმებით	V;3;SG;1;PL;IND;FUT = movesmebit
-ესმის	მოგესმებით	V;2;PL;1;PL;IND;FUT = mogesmebit
-ესმის	მოვესმებით	V;3;PL;1;PL;IND;FUT = movesmebit
-ესმის	მომესმებით	V;1;SG;2;PL;IND;FUT = momesmebit
-ესმის	მოესმებით	V;3;SG;2;PL;IND;FUT = moesmebit
-ესმის	მოგვესმებით	V;1;PL;2;PL;IND;FUT = mogvesmebit
-ესმის	მოესმებით	V;3;PL;2;PL;IND;FUT = moesmebit
 ესმის	მომესმება	V;1;SG;3;PL;IND;FUT = momesmeba
 ესმის	მოგესმება	V;2;SG;3;PL;IND;FUT = mogesmeba
 ესმის	მოესმება	V;3;SG;3;PL;IND;FUT = moesmeba
@@ -124,28 +60,12 @@ Screeve #4:
 
 
 Screeve #5:
-ესმის	მოგესმებოდი	V;2;SG;1;SG;COND = mogesmebodi
-ესმის	მოვესმებოდი	V;3;SG;1;SG;COND = movesmebodi
-ესმის	მოგესმებოდით	V;2;PL;1;SG;COND = mogesmebodit
-ესმის	მოვესმებოდით	V;3;PL;1;SG;COND = movesmebodit
-ესმის	მომესმებოდი	V;1;SG;2;SG;COND = momesmebodi
-ესმის	მოესმებოდი	V;3;SG;2;SG;COND = moesmebodi
-ესმის	მოგვესმებოდი	V;1;PL;2;SG;COND = mogvesmebodi
-ესმის	მოესმებოდი	V;3;PL;2;SG;COND = moesmebodi
 ესმის	მომესმებოდა	V;1;SG;3;SG;COND = momesmeboda
 ესმის	მოგესმებოდა	V;2;SG;3;SG;COND = mogesmeboda
 ესმის	მოესმებოდა	V;3;SG;3;SG;COND = moesmeboda
 ესმის	მოგვესმებოდა	V;1;PL;3;SG;COND = mogvesmeboda
 ესმის	მოგესმებოდათ	V;2;PL;3;SG;COND = mogesmebodat
 ესმის	მოესმებოდათ	V;3;PL;3;SG;COND = moesmebodat
-ესმის	მოგესმებოდით	V;2;SG;1;PL;COND = mogesmebodit
-ესმის	მოვესმებოდით	V;3;SG;1;PL;COND = movesmebodit
-ესმის	მოგესმებოდით	V;2;PL;1;PL;COND = mogesmebodit
-ესმის	მოვესმებოდით	V;3;PL;1;PL;COND = movesmebodit
-ესმის	მომესმებოდით	V;1;SG;2;PL;COND = momesmebodit
-ესმის	მოესმებოდით	V;3;SG;2;PL;COND = moesmebodit
-ესმის	მოგვესმებოდით	V;1;PL;2;PL;COND = mogvesmebodit
-ესმის	მოესმებოდით	V;3;PL;2;PL;COND = moesmebodit
 ესმის	მომესმებოდა	V;1;SG;3;PL;COND = momesmeboda
 ესმის	მოგესმებოდა	V;2;SG;3;PL;COND = mogesmeboda
 ესმის	მოესმებოდა	V;3;SG;3;PL;COND = moesmeboda
@@ -155,28 +75,12 @@ Screeve #5:
 
 
 Screeve #6:
-ესმის	მოგესმებოდე	V;2;SG;1;SG;SBJV;FUT = mogesmebode
-ესმის	მოვესმებოდე	V;3;SG;1;SG;SBJV;FUT = movesmebode
-ესმის	მოგესმებოდეთ	V;2;PL;1;SG;SBJV;FUT = mogesmebodet
-ესმის	მოვესმებოდეთ	V;3;PL;1;SG;SBJV;FUT = movesmebodet
-ესმის	მომესმებოდე	V;1;SG;2;SG;SBJV;FUT = momesmebode
-ესმის	მოესმებოდე	V;3;SG;2;SG;SBJV;FUT = moesmebode
-ესმის	მოგვესმებოდე	V;1;PL;2;SG;SBJV;FUT = mogvesmebode
-ესმის	მოესმებოდე	V;3;PL;2;SG;SBJV;FUT = moesmebode
 ესმის	მომესმებოდეს	V;1;SG;3;SG;SBJV;FUT = momesmebodes
 ესმის	მოგესმებოდეს	V;2;SG;3;SG;SBJV;FUT = mogesmebodes
 ესმის	მოესმებოდეს	V;3;SG;3;SG;SBJV;FUT = moesmebodes
 ესმის	მოგვესმებოდეს	V;1;PL;3;SG;SBJV;FUT = mogvesmebodes
 ესმის	მოგესმებოდეთ	V;2;PL;3;SG;SBJV;FUT = mogesmebodet
 ესმის	მოესმებოდეთ	V;3;PL;3;SG;SBJV;FUT = moesmebodet
-ესმის	მოგესმებოდეთ	V;2;SG;1;PL;SBJV;FUT = mogesmebodet
-ესმის	მოვესმებოდეთ	V;3;SG;1;PL;SBJV;FUT = movesmebodet
-ესმის	მოგესმებოდეთ	V;2;PL;1;PL;SBJV;FUT = mogesmebodet
-ესმის	მოვესმებოდეთ	V;3;PL;1;PL;SBJV;FUT = movesmebodet
-ესმის	მომესმებოდეთ	V;1;SG;2;PL;SBJV;FUT = momesmebodet
-ესმის	მოესმებოდეთ	V;3;SG;2;PL;SBJV;FUT = moesmebodet
-ესმის	მოგვესმებოდეთ	V;1;PL;2;PL;SBJV;FUT = mogvesmebodet
-ესმის	მოესმებოდეთ	V;3;PL;2;PL;SBJV;FUT = moesmebodet
 ესმის	მომესმებოდეს	V;1;SG;3;PL;SBJV;FUT = momesmebodes
 ესმის	მოგესმებოდეს	V;2;SG;3;PL;SBJV;FUT = mogesmebodes
 ესმის	მოესმებოდეს	V;3;SG;3;PL;SBJV;FUT = moesmebodes
@@ -186,96 +90,48 @@ Screeve #6:
 
 
 Screeve #9:
-ესმის	მოგსმენივარ	V;2;SG;1;SG;IND;PRF = mogsmenivar
-ესმის	მოვსმენივარ	V;3;SG;1;SG;IND;PRF = movsmenivar
-ესმის	მოგსმენივართ	V;2;PL;1;SG;IND;PRF = mogsmenivart
-ესმის	მოვსმენივარ	V;3;PL;1;SG;IND;PRF = movsmenivar
-ესმის	მომსმენიხარ	V;1;SG;2;SG;IND;PRF = momsmenixar
-ესმის	მოსმენიხარ	V;3;SG;2;SG;IND;PRF = mosmenixar
-ესმის	მოგვსმენიხარ	V;1;PL;2;SG;IND;PRF = mogvsmenixar
-ესმის	მოსმენიხარ	V;3;PL;2;SG;IND;PRF = mosmenixar
-ესმის	მომსმენია	V;1;SG;3;SG;IND;PRF = momsmenia
-ესმის	მოგსმენია	V;2;SG;3;SG;IND;PRF = mogsmenia
-ესმის	მოსმენია	V;3;SG;3;SG;IND;PRF = mosmenia
-ესმის	მოგვსმენია	V;1;PL;3;SG;IND;PRF = mogvsmenia
-ესმის	მოგსმენიათ	V;2;PL;3;SG;IND;PRF = mogsmeniat
-ესმის	მოსმენიათ	V;3;PL;3;SG;IND;PRF = mosmeniat
-ესმის	მოგსმენივართ	V;2;SG;1;PL;IND;PRF = mogsmenivart
-ესმის	მოვსმენივართ	V;3;SG;1;PL;IND;PRF = movsmenivart
-ესმის	მოგსმენივართ	V;2;PL;1;PL;IND;PRF = mogsmenivart
-ესმის	მოვსმენივართ	V;3;PL;1;PL;IND;PRF = movsmenivart
-ესმის	მომსმენიხართ	V;1;SG;2;PL;IND;PRF = momsmenixart
-ესმის	მოსმენიხართ	V;3;SG;2;PL;IND;PRF = mosmenixart
-ესმის	მოგვსმენიხართ	V;1;PL;2;PL;IND;PRF = mogvsmenixart
-ესმის	მოსმენიხართ	V;3;PL;2;PL;IND;PRF = mosmenixart
-ესმის	მომსმენია	V;1;SG;3;PL;IND;PRF = momsmenia
-ესმის	მოგსმენია	V;2;SG;3;PL;IND;PRF = mogsmenia
-ესმის	მოსმენია	V;3;SG;3;PL;IND;PRF = mosmenia
-ესმის	მოგვსმენია	V;1;PL;3;PL;IND;PRF = mogvsmenia
-ესმის	მოგსმენიათ	V;2;PL;3;PL;IND;PRF = mogsmeniat
-ესმის	მოსმენიათ	V;3;PL;3;PL;IND;PRF = mosmeniat
+ესმის	მსმენია	V;1;SG;3;SG;IND;PRF = msmenia
+ესმის	გსმენია	V;2;SG;3;SG;IND;PRF = gsmenia
+ესმის	სმენია	V;3;SG;3;SG;IND;PRF = smenia
+ესმის	გვსმენია	V;1;PL;3;SG;IND;PRF = gvsmenia
+ესმის	გსმენიათ	V;2;PL;3;SG;IND;PRF = gsmeniat
+ესმის	სმენიათ	V;3;PL;3;SG;IND;PRF = smeniat
+ესმის	მსმენია	V;1;SG;3;PL;IND;PRF = msmenia
+ესმის	გსმენია	V;2;SG;3;PL;IND;PRF = gsmenia
+ესმის	სმენია	V;3;SG;3;PL;IND;PRF = smenia
+ესმის	გვსმენია	V;1;PL;3;PL;IND;PRF = gvsmenia
+ესმის	გსმენიათ	V;2;PL;3;PL;IND;PRF = gsmeniat
+ესმის	სმენიათ	V;3;PL;3;PL;IND;PRF = smeniat
 
 
 Screeve #10:
-ესმის	მოგსმენოდი	V;2;SG;1;SG;IND;PST;PRF = mogsmenodi
-ესმის	მოვსმენოდი	V;3;SG;1;SG;IND;PST;PRF = movsmenodi
-ესმის	მოგსმენოდით	V;2;PL;1;SG;IND;PST;PRF = mogsmenodit
-ესმის	მოვსმენოდით	V;3;PL;1;SG;IND;PST;PRF = movsmenodit
-ესმის	მომსმენოდი	V;1;SG;2;SG;IND;PST;PRF = momsmenodi
-ესმის	მოსმენოდი	V;3;SG;2;SG;IND;PST;PRF = mosmenodi
-ესმის	მოგვსმენოდი	V;1;PL;2;SG;IND;PST;PRF = mogvsmenodi
-ესმის	მოსმენოდი	V;3;PL;2;SG;IND;PST;PRF = mosmenodi
-ესმის	მომსმენოდა	V;1;SG;3;SG;IND;PST;PRF = momsmenoda
-ესმის	მოგსმენოდა	V;2;SG;3;SG;IND;PST;PRF = mogsmenoda
-ესმის	მოსმენოდა	V;3;SG;3;SG;IND;PST;PRF = mosmenoda
-ესმის	მოგვსმენოდა	V;1;PL;3;SG;IND;PST;PRF = mogvsmenoda
-ესმის	მოგსმენოდათ	V;2;PL;3;SG;IND;PST;PRF = mogsmenodat
-ესმის	მოსმენოდათ	V;3;PL;3;SG;IND;PST;PRF = mosmenodat
-ესმის	მოგსმენოდით	V;2;SG;1;PL;IND;PST;PRF = mogsmenodit
-ესმის	მოვსმენოდით	V;3;SG;1;PL;IND;PST;PRF = movsmenodit
-ესმის	მოგსმენოდით	V;2;PL;1;PL;IND;PST;PRF = mogsmenodit
-ესმის	მოვსმენოდით	V;3;PL;1;PL;IND;PST;PRF = movsmenodit
-ესმის	მომსმენოდით	V;1;SG;2;PL;IND;PST;PRF = momsmenodit
-ესმის	მოსმენოდით	V;3;SG;2;PL;IND;PST;PRF = mosmenodit
-ესმის	მოგვსმენოდით	V;1;PL;2;PL;IND;PST;PRF = mogvsmenodit
-ესმის	მოსმენოდით	V;3;PL;2;PL;IND;PST;PRF = mosmenodit
-ესმის	მომსმენოდა	V;1;SG;3;PL;IND;PST;PRF = momsmenoda
-ესმის	მოგსმენოდა	V;2;SG;3;PL;IND;PST;PRF = mogsmenoda
-ესმის	მოსმენოდა	V;3;SG;3;PL;IND;PST;PRF = mosmenoda
-ესმის	მოგვსმენოდა	V;1;PL;3;PL;IND;PST;PRF = mogvsmenoda
-ესმის	მოგსმენოდათ	V;2;PL;3;PL;IND;PST;PRF = mogsmenodat
-ესმის	მოსმენოდათ	V;3;PL;3;PL;IND;PST;PRF = mosmenodat
+ესმის	მსმენოდა	V;1;SG;3;SG;IND;PST;PRF = msmenoda
+ესმის	გსმენოდა	V;2;SG;3;SG;IND;PST;PRF = gsmenoda
+ესმის	სმენოდა	V;3;SG;3;SG;IND;PST;PRF = smenoda
+ესმის	გვსმენოდა	V;1;PL;3;SG;IND;PST;PRF = gvsmenoda
+ესმის	გსმენოდათ	V;2;PL;3;SG;IND;PST;PRF = gsmenodat
+ესმის	სმენოდათ	V;3;PL;3;SG;IND;PST;PRF = smenodat
+ესმის	მსმენოდა	V;1;SG;3;PL;IND;PST;PRF = msmenoda
+ესმის	გსმენოდა	V;2;SG;3;PL;IND;PST;PRF = gsmenoda
+ესმის	სმენოდა	V;3;SG;3;PL;IND;PST;PRF = smenoda
+ესმის	გვსმენოდა	V;1;PL;3;PL;IND;PST;PRF = gvsmenoda
+ესმის	გსმენოდათ	V;2;PL;3;PL;IND;PST;PRF = gsmenodat
+ესმის	სმენოდათ	V;3;PL;3;PL;IND;PST;PRF = smenodat
 
 
 Screeve #11:
-ესმის	მოგსმენოდე	V;2;SG;1;SG;SBJV;PRF = mogsmenode
-ესმის	მოვსმენოდე	V;3;SG;1;SG;SBJV;PRF = movsmenode
-ესმის	მოგსმენოდეთ	V;2;PL;1;SG;SBJV;PRF = mogsmenodet
-ესმის	მოვსმენოდეთ	V;3;PL;1;SG;SBJV;PRF = movsmenodet
-ესმის	მომსმენოდე	V;1;SG;2;SG;SBJV;PRF = momsmenode
-ესმის	მოსმენოდე	V;3;SG;2;SG;SBJV;PRF = mosmenode
-ესმის	მოგვსმენოდე	V;1;PL;2;SG;SBJV;PRF = mogvsmenode
-ესმის	მოსმენოდე	V;3;PL;2;SG;SBJV;PRF = mosmenode
-ესმის	მომსმენოდეს	V;1;SG;3;SG;SBJV;PRF = momsmenodes
-ესმის	მოგსმენოდეს	V;2;SG;3;SG;SBJV;PRF = mogsmenodes
-ესმის	მოსმენოდეს	V;3;SG;3;SG;SBJV;PRF = mosmenodes
-ესმის	მოგვსმენოდეს	V;1;PL;3;SG;SBJV;PRF = mogvsmenodes
-ესმის	მოგსმენოდეთ	V;2;PL;3;SG;SBJV;PRF = mogsmenodet
-ესმის	მოსმენოდეთ	V;3;PL;3;SG;SBJV;PRF = mosmenodet
-ესმის	მოგსმენოდეთ	V;2;SG;1;PL;SBJV;PRF = mogsmenodet
-ესმის	მოვსმენოდეთ	V;3;SG;1;PL;SBJV;PRF = movsmenodet
-ესმის	მოგსმენოდეთ	V;2;PL;1;PL;SBJV;PRF = mogsmenodet
-ესმის	მოვსმენოდეთ	V;3;PL;1;PL;SBJV;PRF = movsmenodet
-ესმის	მომსმენოდეთ	V;1;SG;2;PL;SBJV;PRF = momsmenodet
-ესმის	მოსმენოდეთ	V;3;SG;2;PL;SBJV;PRF = mosmenodet
-ესმის	მოგვსმენოდეთ	V;1;PL;2;PL;SBJV;PRF = mogvsmenodet
-ესმის	მოსმენოდეთ	V;3;PL;2;PL;SBJV;PRF = mosmenodet
-ესმის	მომსმენოდეს	V;1;SG;3;PL;SBJV;PRF = momsmenodes
-ესმის	მოგსმენოდეს	V;2;SG;3;PL;SBJV;PRF = mogsmenodes
-ესმის	მოსმენოდეს	V;3;SG;3;PL;SBJV;PRF = mosmenodes
-ესმის	მოგვსმენოდეს	V;1;PL;3;PL;SBJV;PRF = mogvsmenodes
-ესმის	მოგსმენოდეთ	V;2;PL;3;PL;SBJV;PRF = mogsmenodet
-ესმის	მოსმენოდეთ	V;3;PL;3;PL;SBJV;PRF = mosmenodet
+ესმის	მსმენოდეს	V;1;SG;3;SG;SBJV;PRF = msmenodes
+ესმის	გსმენოდეს	V;2;SG;3;SG;SBJV;PRF = gsmenodes
+ესმის	სმენოდეს	V;3;SG;3;SG;SBJV;PRF = smenodes
+ესმის	გვსმენოდეს	V;1;PL;3;SG;SBJV;PRF = gvsmenodes
+ესმის	გსმენოდეთ	V;2;PL;3;SG;SBJV;PRF = gsmenodet
+ესმის	სმენოდეთ	V;3;PL;3;SG;SBJV;PRF = smenodet
+ესმის	მსმენოდეს	V;1;SG;3;PL;SBJV;PRF = msmenodes
+ესმის	გსმენოდეს	V;2;SG;3;PL;SBJV;PRF = gsmenodes
+ესმის	სმენოდეს	V;3;SG;3;PL;SBJV;PRF = smenodes
+ესმის	გვსმენოდეს	V;1;PL;3;PL;SBJV;PRF = gvsmenodes
+ესმის	გსმენოდეთ	V;2;PL;3;PL;SBJV;PRF = gsmenodet
+ესმის	სმენოდეთ	V;3;PL;3;PL;SBJV;PRF = smenodet
 
 
 ესმის	სმენა	V;V.MSDR;IPFV
