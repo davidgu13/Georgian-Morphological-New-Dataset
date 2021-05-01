@@ -1,0 +1,281 @@
+#18 - ერიდება - be_shy:
+Screeve #1:
+ერიდება	გერიდებვარ	V;2;SG;1;SG;IND;PRS = geridebvar
+ერიდება	ვერიდებვარ	V;3;SG;1;SG;IND;PRS = veridebvar
+ერიდება	გერიდებვართ	V;2;PL;1;SG;IND;PRS = geridebvart
+ერიდება	ვერიდებვართ	V;3;PL;1;SG;IND;PRS = veridebvart
+ერიდება	მერიდებხარ	V;1;SG;2;SG;IND;PRS = meridebxar
+ერიდება	ერიდებხარ	V;3;SG;2;SG;IND;PRS = eridebxar
+ერიდება	გვერიდებხარ	V;1;PL;2;SG;IND;PRS = gveridebxar
+ერიდება	ერიდებხარ	V;3;PL;2;SG;IND;PRS = eridebxar
+ერიდება	მერიდება	V;1;SG;3;SG;IND;PRS = merideba
+ერიდება	გერიდება	V;2;SG;3;SG;IND;PRS = gerideba
+ერიდება	ერიდება	V;3;SG;3;SG;IND;PRS = erideba
+ერიდება	გვერიდება	V;1;PL;3;SG;IND;PRS = gverideba
+ერიდება	გერიდებათ	V;2;PL;3;SG;IND;PRS = geridebat
+ერიდება	ერიდებათ	V;3;PL;3;SG;IND;PRS = eridebat
+ერიდება	გერიდებვართ	V;2;SG;1;PL;IND;PRS = geridebvart
+ერიდება	ვერიდებვართ	V;3;SG;1;PL;IND;PRS = veridebvart
+ერიდება	გერიდებვართ	V;2;PL;1;PL;IND;PRS = geridebvart
+ერიდება	ვერიდებვართ	V;3;PL;1;PL;IND;PRS = veridebvart
+ერიდება	მერიდებხართ	V;1;SG;2;PL;IND;PRS = meridebxart
+ერიდება	ერიდებხართ	V;3;SG;2;PL;IND;PRS = eridebxart
+ერიდება	გვერიდებხართ	V;1;PL;2;PL;IND;PRS = gveridebxart
+ერიდება	ერიდებხართ	V;3;PL;2;PL;IND;PRS = eridebxart
+ერიდება	მერიდება	V;1;SG;3;PL;IND;PRS = merideba
+ერიდება	გერიდება	V;2;SG;3;PL;IND;PRS = gerideba
+ერიდება	ერიდება	V;3;SG;3;PL;IND;PRS = erideba
+ერიდება	გვერიდება	V;1;PL;3;PL;IND;PRS = gverideba
+ერიდება	გერიდებათ	V;2;PL;3;PL;IND;PRS = geridebat
+ერიდება	ერიდებათ	V;3;PL;3;PL;IND;PRS = eridebat
+
+
+Screeve #2:
+ერიდება	გერიდებოდი	V;2;SG;1;SG;IND;IPFV = geridebodi
+ერიდება	ვერიდებოდი	V;3;SG;1;SG;IND;IPFV = veridebodi
+ერიდება	გერიდებოდით	V;2;PL;1;SG;IND;IPFV = geridebodit
+ერიდება	ვერიდებოდით	V;3;PL;1;SG;IND;IPFV = veridebodit
+ერიდება	მერიდებოდი	V;1;SG;2;SG;IND;IPFV = meridebodi
+ერიდება	ერიდებოდი	V;3;SG;2;SG;IND;IPFV = eridebodi
+ერიდება	გვერიდებოდი	V;1;PL;2;SG;IND;IPFV = gveridebodi
+ერიდება	ერიდებოდი	V;3;PL;2;SG;IND;IPFV = eridebodi
+ერიდება	მერიდებოდა	V;1;SG;3;SG;IND;IPFV = merideboda
+ერიდება	გერიდებოდა	V;2;SG;3;SG;IND;IPFV = gerideboda
+ერიდება	ერიდებოდა	V;3;SG;3;SG;IND;IPFV = erideboda
+ერიდება	გვერიდებოდა	V;1;PL;3;SG;IND;IPFV = gverideboda
+ერიდება	გერიდებოდათ	V;2;PL;3;SG;IND;IPFV = geridebodat
+ერიდება	ერიდებოდათ	V;3;PL;3;SG;IND;IPFV = eridebodat
+ერიდება	გერიდებოდით	V;2;SG;1;PL;IND;IPFV = geridebodit
+ერიდება	ვერიდებოდით	V;3;SG;1;PL;IND;IPFV = veridebodit
+ერიდება	გერიდებოდით	V;2;PL;1;PL;IND;IPFV = geridebodit
+ერიდება	ვერიდებოდით	V;3;PL;1;PL;IND;IPFV = veridebodit
+ერიდება	მერიდებოდით	V;1;SG;2;PL;IND;IPFV = meridebodit
+ერიდება	ერიდებოდით	V;3;SG;2;PL;IND;IPFV = eridebodit
+ერიდება	გვერიდებოდით	V;1;PL;2;PL;IND;IPFV = gveridebodit
+ერიდება	ერიდებოდით	V;3;PL;2;PL;IND;IPFV = eridebodit
+ერიდება	მერიდებოდა	V;1;SG;3;PL;IND;IPFV = merideboda
+ერიდება	გერიდებოდა	V;2;SG;3;PL;IND;IPFV = gerideboda
+ერიდება	ერიდებოდა	V;3;SG;3;PL;IND;IPFV = erideboda
+ერიდება	გვერიდებოდა	V;1;PL;3;PL;IND;IPFV = gverideboda
+ერიდება	გერიდებოდათ	V;2;PL;3;PL;IND;IPFV = geridebodat
+ერიდება	ერიდებოდათ	V;3;PL;3;PL;IND;IPFV = eridebodat
+
+
+Screeve #3:
+ერიდება	გერიდებოდე	V;2;SG;1;SG;SBJV;PRS = geridebode
+ერიდება	ვერიდებოდე	V;3;SG;1;SG;SBJV;PRS = veridebode
+ერიდება	გერიდებოდეთ	V;2;PL;1;SG;SBJV;PRS = geridebodet
+ერიდება	ვერიდებოდეთ	V;3;PL;1;SG;SBJV;PRS = veridebodet
+ერიდება	მერიდებოდე	V;1;SG;2;SG;SBJV;PRS = meridebode
+ერიდება	ერიდებოდე	V;3;SG;2;SG;SBJV;PRS = eridebode
+ერიდება	გვერიდებოდე	V;1;PL;2;SG;SBJV;PRS = gveridebode
+ერიდება	ერიდებოდე	V;3;PL;2;SG;SBJV;PRS = eridebode
+ერიდება	მერიდებოდეს	V;1;SG;3;SG;SBJV;PRS = meridebodes
+ერიდება	გერიდებოდეს	V;2;SG;3;SG;SBJV;PRS = geridebodes
+ერიდება	ერიდებოდეს	V;3;SG;3;SG;SBJV;PRS = eridebodes
+ერიდება	გვერიდებოდეს	V;1;PL;3;SG;SBJV;PRS = gveridebodes
+ერიდება	გერიდებოდეთ	V;2;PL;3;SG;SBJV;PRS = geridebodet
+ერიდება	ერიდებოდეთ	V;3;PL;3;SG;SBJV;PRS = eridebodet
+ერიდება	გერიდებოდეთ	V;2;SG;1;PL;SBJV;PRS = geridebodet
+ერიდება	ვერიდებოდეთ	V;3;SG;1;PL;SBJV;PRS = veridebodet
+ერიდება	გერიდებოდეთ	V;2;PL;1;PL;SBJV;PRS = geridebodet
+ერიდება	ვერიდებოდეთ	V;3;PL;1;PL;SBJV;PRS = veridebodet
+ერიდება	მერიდებოდეთ	V;1;SG;2;PL;SBJV;PRS = meridebodet
+ერიდება	ერიდებოდეთ	V;3;SG;2;PL;SBJV;PRS = eridebodet
+ერიდება	გვერიდებოდეთ	V;1;PL;2;PL;SBJV;PRS = gveridebodet
+ერიდება	ერიდებოდეთ	V;3;PL;2;PL;SBJV;PRS = eridebodet
+ერიდება	მერიდებოდეს	V;1;SG;3;PL;SBJV;PRS = meridebodes
+ერიდება	გერიდებოდეს	V;2;SG;3;PL;SBJV;PRS = geridebodes
+ერიდება	ერიდებოდეს	V;3;SG;3;PL;SBJV;PRS = eridebodes
+ერიდება	გვერიდებოდეს	V;1;PL;3;PL;SBJV;PRS = gveridebodes
+ერიდება	გერიდებოდეთ	V;2;PL;3;PL;SBJV;PRS = geridebodet
+ერიდება	ერიდებოდეთ	V;3;PL;3;PL;SBJV;PRS = eridebodet
+
+
+Screeve #4:
+ერიდება	მოგერიდები	V;2;SG;1;SG;IND;FUT = mogeridebi
+ერიდება	მოვერიდები	V;3;SG;1;SG;IND;FUT = moveridebi
+ერიდება	მოგერიდებით	V;2;PL;1;SG;IND;FUT = mogeridebit
+ერიდება	მოვერიდებით	V;3;PL;1;SG;IND;FUT = moveridebit
+ერიდება	მომერიდები	V;1;SG;2;SG;IND;FUT = momeridebi
+ერიდება	მოერიდები	V;3;SG;2;SG;IND;FUT = moeridebi
+ერიდება	მოგვერიდები	V;1;PL;2;SG;IND;FUT = mogveridebi
+ერიდება	მოერიდები	V;3;PL;2;SG;IND;FUT = moeridebi
+ერიდება	მომერიდება	V;1;SG;3;SG;IND;FUT = momerideba
+ერიდება	მოგერიდება	V;2;SG;3;SG;IND;FUT = mogerideba
+ერიდება	მოერიდება	V;3;SG;3;SG;IND;FUT = moerideba
+ერიდება	მოგვერიდება	V;1;PL;3;SG;IND;FUT = mogverideba
+ერიდება	მოგერიდებათ	V;2;PL;3;SG;IND;FUT = mogeridebat
+ერიდება	მოერიდებათ	V;3;PL;3;SG;IND;FUT = moeridebat
+ერიდება	მოგერიდებით	V;2;SG;1;PL;IND;FUT = mogeridebit
+ერიდება	მოვერიდებით	V;3;SG;1;PL;IND;FUT = moveridebit
+ერიდება	მოგერიდებით	V;2;PL;1;PL;IND;FUT = mogeridebit
+ერიდება	მოვერიდებით	V;3;PL;1;PL;IND;FUT = moveridebit
+ერიდება	მომერიდებით	V;1;SG;2;PL;IND;FUT = momeridebit
+ერიდება	მოერიდებით	V;3;SG;2;PL;IND;FUT = moeridebit
+ერიდება	მოგვერიდებით	V;1;PL;2;PL;IND;FUT = mogveridebit
+ერიდება	მოერიდებით	V;3;PL;2;PL;IND;FUT = moeridebit
+ერიდება	მომერიდება	V;1;SG;3;PL;IND;FUT = momerideba
+ერიდება	მოგერიდება	V;2;SG;3;PL;IND;FUT = mogerideba
+ერიდება	მოერიდება	V;3;SG;3;PL;IND;FUT = moerideba
+ერიდება	მოგვერიდება	V;1;PL;3;PL;IND;FUT = mogverideba
+ერიდება	მოგერიდებათ	V;2;PL;3;PL;IND;FUT = mogeridebat
+ერიდება	მოერიდებათ	V;3;PL;3;PL;IND;FUT = moeridebat
+
+
+Screeve #5:
+ერიდება	მოგერიდებოდი	V;2;SG;1;SG;COND = mogeridebodi
+ერიდება	მოვერიდებოდი	V;3;SG;1;SG;COND = moveridebodi
+ერიდება	მოგერიდებოდით	V;2;PL;1;SG;COND = mogeridebodit
+ერიდება	მოვერიდებოდით	V;3;PL;1;SG;COND = moveridebodit
+ერიდება	მომერიდებოდი	V;1;SG;2;SG;COND = momeridebodi
+ერიდება	მოერიდებოდი	V;3;SG;2;SG;COND = moeridebodi
+ერიდება	მოგვერიდებოდი	V;1;PL;2;SG;COND = mogveridebodi
+ერიდება	მოერიდებოდი	V;3;PL;2;SG;COND = moeridebodi
+ერიდება	მომერიდებოდა	V;1;SG;3;SG;COND = momerideboda
+ერიდება	მოგერიდებოდა	V;2;SG;3;SG;COND = mogerideboda
+ერიდება	მოერიდებოდა	V;3;SG;3;SG;COND = moerideboda
+ერიდება	მოგვერიდებოდა	V;1;PL;3;SG;COND = mogverideboda
+ერიდება	მოგერიდებოდათ	V;2;PL;3;SG;COND = mogeridebodat
+ერიდება	მოერიდებოდათ	V;3;PL;3;SG;COND = moeridebodat
+ერიდება	მოგერიდებოდით	V;2;SG;1;PL;COND = mogeridebodit
+ერიდება	მოვერიდებოდით	V;3;SG;1;PL;COND = moveridebodit
+ერიდება	მოგერიდებოდით	V;2;PL;1;PL;COND = mogeridebodit
+ერიდება	მოვერიდებოდით	V;3;PL;1;PL;COND = moveridebodit
+ერიდება	მომერიდებოდით	V;1;SG;2;PL;COND = momeridebodit
+ერიდება	მოერიდებოდით	V;3;SG;2;PL;COND = moeridebodit
+ერიდება	მოგვერიდებოდით	V;1;PL;2;PL;COND = mogveridebodit
+ერიდება	მოერიდებოდით	V;3;PL;2;PL;COND = moeridebodit
+ერიდება	მომერიდებოდა	V;1;SG;3;PL;COND = momerideboda
+ერიდება	მოგერიდებოდა	V;2;SG;3;PL;COND = mogerideboda
+ერიდება	მოერიდებოდა	V;3;SG;3;PL;COND = moerideboda
+ერიდება	მოგვერიდებოდა	V;1;PL;3;PL;COND = mogverideboda
+ერიდება	მოგერიდებოდათ	V;2;PL;3;PL;COND = mogeridebodat
+ერიდება	მოერიდებოდათ	V;3;PL;3;PL;COND = moeridebodat
+
+
+Screeve #6:
+ერიდება	მოგერიდებოდე	V;2;SG;1;SG;SBJV;FUT = mogeridebode
+ერიდება	მოვერიდებოდე	V;3;SG;1;SG;SBJV;FUT = moveridebode
+ერიდება	მოგერიდებოდეთ	V;2;PL;1;SG;SBJV;FUT = mogeridebodet
+ერიდება	მოვერიდებოდეთ	V;3;PL;1;SG;SBJV;FUT = moveridebodet
+ერიდება	მომერიდებოდე	V;1;SG;2;SG;SBJV;FUT = momeridebode
+ერიდება	მოერიდებოდე	V;3;SG;2;SG;SBJV;FUT = moeridebode
+ერიდება	მოგვერიდებოდე	V;1;PL;2;SG;SBJV;FUT = mogveridebode
+ერიდება	მოერიდებოდე	V;3;PL;2;SG;SBJV;FUT = moeridebode
+ერიდება	მომერიდებოდეს	V;1;SG;3;SG;SBJV;FUT = momeridebodes
+ერიდება	მოგერიდებოდეს	V;2;SG;3;SG;SBJV;FUT = mogeridebodes
+ერიდება	მოერიდებოდეს	V;3;SG;3;SG;SBJV;FUT = moeridebodes
+ერიდება	მოგვერიდებოდეს	V;1;PL;3;SG;SBJV;FUT = mogveridebodes
+ერიდება	მოგერიდებოდეთ	V;2;PL;3;SG;SBJV;FUT = mogeridebodet
+ერიდება	მოერიდებოდეთ	V;3;PL;3;SG;SBJV;FUT = moeridebodet
+ერიდება	მოგერიდებოდეთ	V;2;SG;1;PL;SBJV;FUT = mogeridebodet
+ერიდება	მოვერიდებოდეთ	V;3;SG;1;PL;SBJV;FUT = moveridebodet
+ერიდება	მოგერიდებოდეთ	V;2;PL;1;PL;SBJV;FUT = mogeridebodet
+ერიდება	მოვერიდებოდეთ	V;3;PL;1;PL;SBJV;FUT = moveridebodet
+ერიდება	მომერიდებოდეთ	V;1;SG;2;PL;SBJV;FUT = momeridebodet
+ერიდება	მოერიდებოდეთ	V;3;SG;2;PL;SBJV;FUT = moeridebodet
+ერიდება	მოგვერიდებოდეთ	V;1;PL;2;PL;SBJV;FUT = mogveridebodet
+ერიდება	მოერიდებოდეთ	V;3;PL;2;PL;SBJV;FUT = moeridebodet
+ერიდება	მომერიდებოდეს	V;1;SG;3;PL;SBJV;FUT = momeridebodes
+ერიდება	მოგერიდებოდეს	V;2;SG;3;PL;SBJV;FUT = mogeridebodes
+ერიდება	მოერიდებოდეს	V;3;SG;3;PL;SBJV;FUT = moeridebodes
+ერიდება	მოგვერიდებოდეს	V;1;PL;3;PL;SBJV;FUT = mogveridebodes
+ერიდება	მოგერიდებოდეთ	V;2;PL;3;PL;SBJV;FUT = mogeridebodet
+ერიდება	მოერიდებოდეთ	V;3;PL;3;PL;SBJV;FUT = moeridebodet
+
+
+Screeve #9:
+ერიდება	მოგრიდებივარ	V;2;SG;1;SG;IND;PRF = mogridebivar
+ერიდება	მოვრიდებივარ	V;3;SG;1;SG;IND;PRF = movridebivar
+ერიდება	მოგრიდებივართ	V;2;PL;1;SG;IND;PRF = mogridebivart
+ერიდება	მოვრიდებივარ	V;3;PL;1;SG;IND;PRF = movridebivar
+ერიდება	მომრიდებიხარ	V;1;SG;2;SG;IND;PRF = momridebixar
+ერიდება	მორიდებიხარ	V;3;SG;2;SG;IND;PRF = moridebixar
+ერიდება	მოგვრიდებიხარ	V;1;PL;2;SG;IND;PRF = mogvridebixar
+ერიდება	მორიდებიხარ	V;3;PL;2;SG;IND;PRF = moridebixar
+ერიდება	მომრიდებია	V;1;SG;3;SG;IND;PRF = momridebia
+ერიდება	მოგრიდებია	V;2;SG;3;SG;IND;PRF = mogridebia
+ერიდება	მორიდებია	V;3;SG;3;SG;IND;PRF = moridebia
+ერიდება	მოგვრიდებია	V;1;PL;3;SG;IND;PRF = mogvridebia
+ერიდება	მოგრიდებიათ	V;2;PL;3;SG;IND;PRF = mogridebiat
+ერიდება	მორიდებიათ	V;3;PL;3;SG;IND;PRF = moridebiat
+ერიდება	მოგრიდებივართ	V;2;SG;1;PL;IND;PRF = mogridebivart
+ერიდება	მოვრიდებივართ	V;3;SG;1;PL;IND;PRF = movridebivart
+ერიდება	მოგრიდებივართ	V;2;PL;1;PL;IND;PRF = mogridebivart
+ერიდება	მოვრიდებივართ	V;3;PL;1;PL;IND;PRF = movridebivart
+ერიდება	მომრიდებიხართ	V;1;SG;2;PL;IND;PRF = momridebixart
+ერიდება	მორიდებიხართ	V;3;SG;2;PL;IND;PRF = moridebixart
+ერიდება	მოგვრიდებიხართ	V;1;PL;2;PL;IND;PRF = mogvridebixart
+ერიდება	მორიდებიხართ	V;3;PL;2;PL;IND;PRF = moridebixart
+ერიდება	მომრიდებია	V;1;SG;3;PL;IND;PRF = momridebia
+ერიდება	მოგრიდებია	V;2;SG;3;PL;IND;PRF = mogridebia
+ერიდება	მორიდებია	V;3;SG;3;PL;IND;PRF = moridebia
+ერიდება	მოგვრიდებია	V;1;PL;3;PL;IND;PRF = mogvridebia
+ერიდება	მოგრიდებიათ	V;2;PL;3;PL;IND;PRF = mogridebiat
+ერიდება	მორიდებიათ	V;3;PL;3;PL;IND;PRF = moridebiat
+
+
+Screeve #10:
+ერიდება	მოგრიდებოდი	V;2;SG;1;SG;IND;PST;PRF = mogridebodi
+ერიდება	მოვრიდებოდი	V;3;SG;1;SG;IND;PST;PRF = movridebodi
+ერიდება	მოგრიდებოდით	V;2;PL;1;SG;IND;PST;PRF = mogridebodit
+ერიდება	მოვრიდებოდით	V;3;PL;1;SG;IND;PST;PRF = movridebodit
+ერიდება	მომრიდებოდი	V;1;SG;2;SG;IND;PST;PRF = momridebodi
+ერიდება	მორიდებოდი	V;3;SG;2;SG;IND;PST;PRF = moridebodi
+ერიდება	მოგვრიდებოდი	V;1;PL;2;SG;IND;PST;PRF = mogvridebodi
+ერიდება	მორიდებოდი	V;3;PL;2;SG;IND;PST;PRF = moridebodi
+ერიდება	მომრიდებოდა	V;1;SG;3;SG;IND;PST;PRF = momrideboda
+ერიდება	მოგრიდებოდა	V;2;SG;3;SG;IND;PST;PRF = mogrideboda
+ერიდება	მორიდებოდა	V;3;SG;3;SG;IND;PST;PRF = morideboda
+ერიდება	მოგვრიდებოდა	V;1;PL;3;SG;IND;PST;PRF = mogvrideboda
+ერიდება	მოგრიდებოდათ	V;2;PL;3;SG;IND;PST;PRF = mogridebodat
+ერიდება	მორიდებოდათ	V;3;PL;3;SG;IND;PST;PRF = moridebodat
+ერიდება	მოგრიდებოდით	V;2;SG;1;PL;IND;PST;PRF = mogridebodit
+ერიდება	მოვრიდებოდით	V;3;SG;1;PL;IND;PST;PRF = movridebodit
+ერიდება	მოგრიდებოდით	V;2;PL;1;PL;IND;PST;PRF = mogridebodit
+ერიდება	მოვრიდებოდით	V;3;PL;1;PL;IND;PST;PRF = movridebodit
+ერიდება	მომრიდებოდით	V;1;SG;2;PL;IND;PST;PRF = momridebodit
+ერიდება	მორიდებოდით	V;3;SG;2;PL;IND;PST;PRF = moridebodit
+ერიდება	მოგვრიდებოდით	V;1;PL;2;PL;IND;PST;PRF = mogvridebodit
+ერიდება	მორიდებოდით	V;3;PL;2;PL;IND;PST;PRF = moridebodit
+ერიდება	მომრიდებოდა	V;1;SG;3;PL;IND;PST;PRF = momrideboda
+ერიდება	მოგრიდებოდა	V;2;SG;3;PL;IND;PST;PRF = mogrideboda
+ერიდება	მორიდებოდა	V;3;SG;3;PL;IND;PST;PRF = morideboda
+ერიდება	მოგვრიდებოდა	V;1;PL;3;PL;IND;PST;PRF = mogvrideboda
+ერიდება	მოგრიდებოდათ	V;2;PL;3;PL;IND;PST;PRF = mogridebodat
+ერიდება	მორიდებოდათ	V;3;PL;3;PL;IND;PST;PRF = moridebodat
+
+
+Screeve #11:
+ერიდება	მოგრიდებოდე	V;2;SG;1;SG;SBJV;PRF = mogridebode
+ერიდება	მოვრიდებოდე	V;3;SG;1;SG;SBJV;PRF = movridebode
+ერიდება	მოგრიდებოდეთ	V;2;PL;1;SG;SBJV;PRF = mogridebodet
+ერიდება	მოვრიდებოდეთ	V;3;PL;1;SG;SBJV;PRF = movridebodet
+ერიდება	მომრიდებოდე	V;1;SG;2;SG;SBJV;PRF = momridebode
+ერიდება	მორიდებოდე	V;3;SG;2;SG;SBJV;PRF = moridebode
+ერიდება	მოგვრიდებოდე	V;1;PL;2;SG;SBJV;PRF = mogvridebode
+ერიდება	მორიდებოდე	V;3;PL;2;SG;SBJV;PRF = moridebode
+ერიდება	მომრიდებოდეს	V;1;SG;3;SG;SBJV;PRF = momridebodes
+ერიდება	მოგრიდებოდეს	V;2;SG;3;SG;SBJV;PRF = mogridebodes
+ერიდება	მორიდებოდეს	V;3;SG;3;SG;SBJV;PRF = moridebodes
+ერიდება	მოგვრიდებოდეს	V;1;PL;3;SG;SBJV;PRF = mogvridebodes
+ერიდება	მოგრიდებოდეთ	V;2;PL;3;SG;SBJV;PRF = mogridebodet
+ერიდება	მორიდებოდეთ	V;3;PL;3;SG;SBJV;PRF = moridebodet
+ერიდება	მოგრიდებოდეთ	V;2;SG;1;PL;SBJV;PRF = mogridebodet
+ერიდება	მოვრიდებოდეთ	V;3;SG;1;PL;SBJV;PRF = movridebodet
+ერიდება	მოგრიდებოდეთ	V;2;PL;1;PL;SBJV;PRF = mogridebodet
+ერიდება	მოვრიდებოდეთ	V;3;PL;1;PL;SBJV;PRF = movridebodet
+ერიდება	მომრიდებოდეთ	V;1;SG;2;PL;SBJV;PRF = momridebodet
+ერიდება	მორიდებოდეთ	V;3;SG;2;PL;SBJV;PRF = moridebodet
+ერიდება	მოგვრიდებოდეთ	V;1;PL;2;PL;SBJV;PRF = mogvridebodet
+ერიდება	მორიდებოდეთ	V;3;PL;2;PL;SBJV;PRF = moridebodet
+ერიდება	მომრიდებოდეს	V;1;SG;3;PL;SBJV;PRF = momridebodes
+ერიდება	მოგრიდებოდეს	V;2;SG;3;PL;SBJV;PRF = mogridebodes
+ერიდება	მორიდებოდეს	V;3;SG;3;PL;SBJV;PRF = moridebodes
+ერიდება	მოგვრიდებოდეს	V;1;PL;3;PL;SBJV;PRF = mogvridebodes
+ერიდება	მოგრიდებოდეთ	V;2;PL;3;PL;SBJV;PRF = mogridebodet
+ერიდება	მორიდებოდეთ	V;3;PL;3;PL;SBJV;PRF = moridebodet
+
+
+ერიდება	რიდი	V;V.MSDR;IPFV

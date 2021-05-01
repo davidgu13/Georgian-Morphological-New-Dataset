@@ -1,0 +1,371 @@
+#17 - ესწრება - attend:
+Screeve #1:
+ესწრება	მესწრები	V;2;SG;1;SG;IND;PRS = mesc'rebi
+ესწრება	მესწრება	V;3;SG;1;SG;IND;PRS = mesc'reba
+ესწრება	მესწრებით	V;2;PL;1;SG;IND;PRS = mesc'rebit
+ესწრება	მესწრებიან	V;3;PL;1;SG;IND;PRS = mesc'rebian
+ესწრება	გესწრები	V;1;SG;2;SG;IND;PRS = gesc'rebi
+ესწრება	გესწრება	V;3;SG;2;SG;IND;PRS = gesc'reba
+ესწრება	გესწრებით	V;1;PL;2;SG;IND;PRS = gesc'rebit
+ესწრება	გესწრებიან	V;3;PL;2;SG;IND;PRS = gesc'rebian
+ესწრება	ვესწრები	V;1;SG;3;SG;IND;PRS = vesc'rebi
+ესწრება	ესწრები	V;2;SG;3;SG;IND;PRS = esc'rebi
+ესწრება	ესწრება	V;3;SG;3;SG;IND;PRS = esc'reba
+ესწრება	ვესწრებით	V;1;PL;3;SG;IND;PRS = vesc'rebit
+ესწრება	ესწრებით	V;2;PL;3;SG;IND;PRS = esc'rebit
+ესწრება	ესწრებიან	V;3;PL;3;SG;IND;PRS = esc'rebian
+ესწრება	გვესწრები	V;2;SG;1;PL;IND;PRS = gvesc'rebi
+ესწრება	გვესწრება	V;3;SG;1;PL;IND;PRS = gvesc'reba
+ესწრება	გვესწრებით	V;2;PL;1;PL;IND;PRS = gvesc'rebit
+ესწრება	გვესწრებიან	V;3;PL;1;PL;IND;PRS = gvesc'rebian
+ესწრება	გესწრებით	V;1;SG;2;PL;IND;PRS = gesc'rebit
+ესწრება	გესწრებათ	V;3;SG;2;PL;IND;PRS = gesc'rebat
+ესწრება	გესწრებით	V;1;PL;2;PL;IND;PRS = gesc'rebit
+ესწრება	გესწრებიან	V;3;PL;2;PL;IND;PRS = gesc'rebian
+ესწრება	ვესწრები	V;1;SG;3;PL;IND;PRS = vesc'rebi
+ესწრება	ესწრები	V;2;SG;3;PL;IND;PRS = esc'rebi
+ესწრება	ესწრება	V;3;SG;3;PL;IND;PRS = esc'reba
+ესწრება	ვესწრებით	V;1;PL;3;PL;IND;PRS = vesc'rebit
+ესწრება	ესწრებით	V;2;PL;3;PL;IND;PRS = esc'rebit
+ესწრება	ესწრებიან	V;3;PL;3;PL;IND;PRS = esc'rebian
+
+
+Screeve #2:
+ესწრება	მესწრებოდი	V;2;SG;1;SG;IND;IPFV = mesc'rebodi
+ესწრება	მესწრებოდა	V;3;SG;1;SG;IND;IPFV = mesc'reboda
+ესწრება	მესწრებოდით	V;2;PL;1;SG;IND;IPFV = mesc'rebodit
+ესწრება	მესწრებოდნენ	V;3;PL;1;SG;IND;IPFV = mesc'rebodnen
+ესწრება	გესწრებოდი	V;1;SG;2;SG;IND;IPFV = gesc'rebodi
+ესწრება	გესწრებოდა	V;3;SG;2;SG;IND;IPFV = gesc'reboda
+ესწრება	გესწრებოდით	V;1;PL;2;SG;IND;IPFV = gesc'rebodit
+ესწრება	გესწრებოდნენ	V;3;PL;2;SG;IND;IPFV = gesc'rebodnen
+ესწრება	ვესწრებოდი	V;1;SG;3;SG;IND;IPFV = vesc'rebodi
+ესწრება	ესწრებოდი	V;2;SG;3;SG;IND;IPFV = esc'rebodi
+ესწრება	ესწრებოდა	V;3;SG;3;SG;IND;IPFV = esc'reboda
+ესწრება	ვესწრებოდით	V;1;PL;3;SG;IND;IPFV = vesc'rebodit
+ესწრება	ესწრებოდით	V;2;PL;3;SG;IND;IPFV = esc'rebodit
+ესწრება	ესწრებოდნენ	V;3;PL;3;SG;IND;IPFV = esc'rebodnen
+ესწრება	გვესწრებოდი	V;2;SG;1;PL;IND;IPFV = gvesc'rebodi
+ესწრება	გვესწრებოდა	V;3;SG;1;PL;IND;IPFV = gvesc'reboda
+ესწრება	გვესწრებოდით	V;2;PL;1;PL;IND;IPFV = gvesc'rebodit
+ესწრება	გვესწრებოდნენ	V;3;PL;1;PL;IND;IPFV = gvesc'rebodnen
+ესწრება	გესწრებოდით	V;1;SG;2;PL;IND;IPFV = gesc'rebodit
+ესწრება	გესწრებოდათ	V;3;SG;2;PL;IND;IPFV = gesc'rebodat
+ესწრება	გესწრებოდით	V;1;PL;2;PL;IND;IPFV = gesc'rebodit
+ესწრება	გესწრებოდნენ	V;3;PL;2;PL;IND;IPFV = gesc'rebodnen
+ესწრება	ვესწრებოდი	V;1;SG;3;PL;IND;IPFV = vesc'rebodi
+ესწრება	ესწრებოდი	V;2;SG;3;PL;IND;IPFV = esc'rebodi
+ესწრება	ესწრებოდა	V;3;SG;3;PL;IND;IPFV = esc'reboda
+ესწრება	ვესწრებოდით	V;1;PL;3;PL;IND;IPFV = vesc'rebodit
+ესწრება	ესწრებოდით	V;2;PL;3;PL;IND;IPFV = esc'rebodit
+ესწრება	ესწრებოდნენ	V;3;PL;3;PL;IND;IPFV = esc'rebodnen
+
+
+Screeve #3:
+ესწრება	მესწრებოდე	V;2;SG;1;SG;SBJV;PRS = mesc'rebode
+ესწრება	მესწრებოდეს	V;3;SG;1;SG;SBJV;PRS = mesc'rebodes
+ესწრება	მესწრებოდეთ	V;2;PL;1;SG;SBJV;PRS = mesc'rebodet
+ესწრება	მესწრებოდნენ	V;3;PL;1;SG;SBJV;PRS = mesc'rebodnen
+ესწრება	გესწრებოდე	V;1;SG;2;SG;SBJV;PRS = gesc'rebode
+ესწრება	გესწრებოდეს	V;3;SG;2;SG;SBJV;PRS = gesc'rebodes
+ესწრება	გესწრებოდეთ	V;1;PL;2;SG;SBJV;PRS = gesc'rebodet
+ესწრება	გესწრებოდნენ	V;3;PL;2;SG;SBJV;PRS = gesc'rebodnen
+ესწრება	ვესწრებოდე	V;1;SG;3;SG;SBJV;PRS = vesc'rebode
+ესწრება	ესწრებოდე	V;2;SG;3;SG;SBJV;PRS = esc'rebode
+ესწრება	ესწრებოდეს	V;3;SG;3;SG;SBJV;PRS = esc'rebodes
+ესწრება	ვესწრებოდეთ	V;1;PL;3;SG;SBJV;PRS = vesc'rebodet
+ესწრება	ესწრებოდეთ	V;2;PL;3;SG;SBJV;PRS = esc'rebodet
+ესწრება	ესწრებოდნენ	V;3;PL;3;SG;SBJV;PRS = esc'rebodnen
+ესწრება	გვესწრებოდე	V;2;SG;1;PL;SBJV;PRS = gvesc'rebode
+ესწრება	გვესწრებოდეს	V;3;SG;1;PL;SBJV;PRS = gvesc'rebodes
+ესწრება	გვესწრებოდეთ	V;2;PL;1;PL;SBJV;PRS = gvesc'rebodet
+ესწრება	გვესწრებოდნენ	V;3;PL;1;PL;SBJV;PRS = gvesc'rebodnen
+ესწრება	გესწრებოდეთ	V;1;SG;2;PL;SBJV;PRS = gesc'rebodet
+ესწრება	გესწრებოდეთ	V;3;SG;2;PL;SBJV;PRS = gesc'rebodet
+ესწრება	გესწრებოდეთ	V;1;PL;2;PL;SBJV;PRS = gesc'rebodet
+ესწრება	გესწრებოდნენ	V;3;PL;2;PL;SBJV;PRS = gesc'rebodnen
+ესწრება	ვესწრებოდე	V;1;SG;3;PL;SBJV;PRS = vesc'rebode
+ესწრება	ესწრებოდე	V;2;SG;3;PL;SBJV;PRS = esc'rebode
+ესწრება	ესწრებოდეს	V;3;SG;3;PL;SBJV;PRS = esc'rebodes
+ესწრება	ვესწრებოდეთ	V;1;PL;3;PL;SBJV;PRS = vesc'rebodet
+ესწრება	ესწრებოდეთ	V;2;PL;3;PL;SBJV;PRS = esc'rebodet
+ესწრება	ესწრებოდნენ	V;3;PL;3;PL;SBJV;PRS = esc'rebodnen
+
+
+Screeve #4:
+ესწრება	დამესწრები	V;2;SG;1;SG;IND;FUT = damesc'rebi
+ესწრება	დამესწრება	V;3;SG;1;SG;IND;FUT = damesc'reba
+ესწრება	დამესწრებით	V;2;PL;1;SG;IND;FUT = damesc'rebit
+ესწრება	დამესწრებიან	V;3;PL;1;SG;IND;FUT = damesc'rebian
+ესწრება	დაგესწრები	V;1;SG;2;SG;IND;FUT = dagesc'rebi
+ესწრება	დაგესწრება	V;3;SG;2;SG;IND;FUT = dagesc'reba
+ესწრება	დაგესწრებით	V;1;PL;2;SG;IND;FUT = dagesc'rebit
+ესწრება	დაგესწრებიან	V;3;PL;2;SG;IND;FUT = dagesc'rebian
+ესწრება	დავესწრები	V;1;SG;3;SG;IND;FUT = davesc'rebi
+ესწრება	დაესწრები	V;2;SG;3;SG;IND;FUT = daesc'rebi
+ესწრება	დაესწრება	V;3;SG;3;SG;IND;FUT = daesc'reba
+ესწრება	დავესწრებით	V;1;PL;3;SG;IND;FUT = davesc'rebit
+ესწრება	დაესწრებით	V;2;PL;3;SG;IND;FUT = daesc'rebit
+ესწრება	დაესწრებიან	V;3;PL;3;SG;IND;FUT = daesc'rebian
+ესწრება	დაგვესწრები	V;2;SG;1;PL;IND;FUT = dagvesc'rebi
+ესწრება	დაგვესწრება	V;3;SG;1;PL;IND;FUT = dagvesc'reba
+ესწრება	დაგვესწრებით	V;2;PL;1;PL;IND;FUT = dagvesc'rebit
+ესწრება	დაგვესწრებიან	V;3;PL;1;PL;IND;FUT = dagvesc'rebian
+ესწრება	დაგესწრებით	V;1;SG;2;PL;IND;FUT = dagesc'rebit
+ესწრება	დაგესწრებათ	V;3;SG;2;PL;IND;FUT = dagesc'rebat
+ესწრება	დაგესწრებით	V;1;PL;2;PL;IND;FUT = dagesc'rebit
+ესწრება	დაგესწრებიან	V;3;PL;2;PL;IND;FUT = dagesc'rebian
+ესწრება	დავესწრები	V;1;SG;3;PL;IND;FUT = davesc'rebi
+ესწრება	დაესწრები	V;2;SG;3;PL;IND;FUT = daesc'rebi
+ესწრება	დაესწრება	V;3;SG;3;PL;IND;FUT = daesc'reba
+ესწრება	დავესწრებით	V;1;PL;3;PL;IND;FUT = davesc'rebit
+ესწრება	დაესწრებით	V;2;PL;3;PL;IND;FUT = daesc'rebit
+ესწრება	დაესწრებიან	V;3;PL;3;PL;IND;FUT = daesc'rebian
+
+
+Screeve #5:
+ესწრება	დამესწრებოდი	V;2;SG;1;SG;COND = damesc'rebodi
+ესწრება	დამესწრებოდა	V;3;SG;1;SG;COND = damesc'reboda
+ესწრება	დამესწრებოდით	V;2;PL;1;SG;COND = damesc'rebodit
+ესწრება	დამესწრებოდნენ	V;3;PL;1;SG;COND = damesc'rebodnen
+ესწრება	დაგესწრებოდი	V;1;SG;2;SG;COND = dagesc'rebodi
+ესწრება	დაგესწრებოდა	V;3;SG;2;SG;COND = dagesc'reboda
+ესწრება	დაგესწრებოდით	V;1;PL;2;SG;COND = dagesc'rebodit
+ესწრება	დაგესწრებოდნენ	V;3;PL;2;SG;COND = dagesc'rebodnen
+ესწრება	დავესწრებოდი	V;1;SG;3;SG;COND = davesc'rebodi
+ესწრება	დაესწრებოდი	V;2;SG;3;SG;COND = daesc'rebodi
+ესწრება	დაესწრებოდა	V;3;SG;3;SG;COND = daesc'reboda
+ესწრება	დავესწრებოდით	V;1;PL;3;SG;COND = davesc'rebodit
+ესწრება	დაესწრებოდით	V;2;PL;3;SG;COND = daesc'rebodit
+ესწრება	დაესწრებოდნენ	V;3;PL;3;SG;COND = daesc'rebodnen
+ესწრება	დაგვესწრებოდი	V;2;SG;1;PL;COND = dagvesc'rebodi
+ესწრება	დაგვესწრებოდა	V;3;SG;1;PL;COND = dagvesc'reboda
+ესწრება	დაგვესწრებოდით	V;2;PL;1;PL;COND = dagvesc'rebodit
+ესწრება	დაგვესწრებოდნენ	V;3;PL;1;PL;COND = dagvesc'rebodnen
+ესწრება	დაგესწრებოდით	V;1;SG;2;PL;COND = dagesc'rebodit
+ესწრება	დაგესწრებოდათ	V;3;SG;2;PL;COND = dagesc'rebodat
+ესწრება	დაგესწრებოდით	V;1;PL;2;PL;COND = dagesc'rebodit
+ესწრება	დაგესწრებოდნენ	V;3;PL;2;PL;COND = dagesc'rebodnen
+ესწრება	დავესწრებოდი	V;1;SG;3;PL;COND = davesc'rebodi
+ესწრება	დაესწრებოდი	V;2;SG;3;PL;COND = daesc'rebodi
+ესწრება	დაესწრებოდა	V;3;SG;3;PL;COND = daesc'reboda
+ესწრება	დავესწრებოდით	V;1;PL;3;PL;COND = davesc'rebodit
+ესწრება	დაესწრებოდით	V;2;PL;3;PL;COND = daesc'rebodit
+ესწრება	დაესწრებოდნენ	V;3;PL;3;PL;COND = daesc'rebodnen
+
+
+Screeve #6:
+ესწრება	დამესწრებოდე	V;2;SG;1;SG;SBJV;FUT = damesc'rebode
+ესწრება	დამესწრებოდეს	V;3;SG;1;SG;SBJV;FUT = damesc'rebodes
+ესწრება	დამესწრებოდეთ	V;2;PL;1;SG;SBJV;FUT = damesc'rebodet
+ესწრება	დამესწრებოდნენ	V;3;PL;1;SG;SBJV;FUT = damesc'rebodnen
+ესწრება	დაგესწრებოდე	V;1;SG;2;SG;SBJV;FUT = dagesc'rebode
+ესწრება	დაგესწრებოდეს	V;3;SG;2;SG;SBJV;FUT = dagesc'rebodes
+ესწრება	დაგესწრებოდეთ	V;1;PL;2;SG;SBJV;FUT = dagesc'rebodet
+ესწრება	დაგესწრებოდნენ	V;3;PL;2;SG;SBJV;FUT = dagesc'rebodnen
+ესწრება	დავესწრებოდე	V;1;SG;3;SG;SBJV;FUT = davesc'rebode
+ესწრება	დაესწრებოდე	V;2;SG;3;SG;SBJV;FUT = daesc'rebode
+ესწრება	დაესწრებოდეს	V;3;SG;3;SG;SBJV;FUT = daesc'rebodes
+ესწრება	დავესწრებოდეთ	V;1;PL;3;SG;SBJV;FUT = davesc'rebodet
+ესწრება	დაესწრებოდეთ	V;2;PL;3;SG;SBJV;FUT = daesc'rebodet
+ესწრება	დაესწრებოდნენ	V;3;PL;3;SG;SBJV;FUT = daesc'rebodnen
+ესწრება	დაგვესწრებოდე	V;2;SG;1;PL;SBJV;FUT = dagvesc'rebode
+ესწრება	დაგვესწრებოდეს	V;3;SG;1;PL;SBJV;FUT = dagvesc'rebodes
+ესწრება	დაგვესწრებოდეთ	V;2;PL;1;PL;SBJV;FUT = dagvesc'rebodet
+ესწრება	დაგვესწრებოდნენ	V;3;PL;1;PL;SBJV;FUT = dagvesc'rebodnen
+ესწრება	დაგესწრებოდეთ	V;1;SG;2;PL;SBJV;FUT = dagesc'rebodet
+ესწრება	დაგესწრებოდეთ	V;3;SG;2;PL;SBJV;FUT = dagesc'rebodet
+ესწრება	დაგესწრებოდეთ	V;1;PL;2;PL;SBJV;FUT = dagesc'rebodet
+ესწრება	დაგესწრებოდნენ	V;3;PL;2;PL;SBJV;FUT = dagesc'rebodnen
+ესწრება	დავესწრებოდე	V;1;SG;3;PL;SBJV;FUT = davesc'rebode
+ესწრება	დაესწრებოდე	V;2;SG;3;PL;SBJV;FUT = daesc'rebode
+ესწრება	დაესწრებოდეს	V;3;SG;3;PL;SBJV;FUT = daesc'rebodes
+ესწრება	დავესწრებოდეთ	V;1;PL;3;PL;SBJV;FUT = davesc'rebodet
+ესწრება	დაესწრებოდეთ	V;2;PL;3;PL;SBJV;FUT = daesc'rebodet
+ესწრება	დაესწრებოდნენ	V;3;PL;3;PL;SBJV;FUT = daesc'rebodnen
+
+
+Screeve #7:
+ესწრება	დამესწარი	V;2;SG;1;SG;IND;PST;PFV = damesc'ari
+ესწრება	დამესწრო	V;3;SG;1;SG;IND;PST;PFV = damesc'ro
+ესწრება	დამესწარით	V;2;PL;1;SG;IND;PST;PFV = damesc'arit
+ესწრება	დამესწრნენ	V;3;PL;1;SG;IND;PST;PFV = damesc'rnen
+ესწრება	დაგესწარი	V;1;SG;2;SG;IND;PST;PFV = dagesc'ari
+ესწრება	დაგესწრო	V;3;SG;2;SG;IND;PST;PFV = dagesc'ro
+ესწრება	დაგესწარით	V;1;PL;2;SG;IND;PST;PFV = dagesc'arit
+ესწრება	დაგესწრნენ	V;3;PL;2;SG;IND;PST;PFV = dagesc'rnen
+ესწრება	დავესწარი	V;1;SG;3;SG;IND;PST;PFV = davesc'ari
+ესწრება	დაესწარი	V;2;SG;3;SG;IND;PST;PFV = daesc'ari
+ესწრება	დაესწრო	V;3;SG;3;SG;IND;PST;PFV = daesc'ro
+ესწრება	დავესწარით	V;1;PL;3;SG;IND;PST;PFV = davesc'arit
+ესწრება	დაესწარით	V;2;PL;3;SG;IND;PST;PFV = daesc'arit
+ესწრება	დაესწრნენ	V;3;PL;3;SG;IND;PST;PFV = daesc'rnen
+ესწრება	დაგვესწარი	V;2;SG;1;PL;IND;PST;PFV = dagvesc'ari
+ესწრება	დაგვესწრო	V;3;SG;1;PL;IND;PST;PFV = dagvesc'ro
+ესწრება	დაგვესწარით	V;2;PL;1;PL;IND;PST;PFV = dagvesc'arit
+ესწრება	დაგვესწრნენ	V;3;PL;1;PL;IND;PST;PFV = dagvesc'rnen
+ესწრება	დაგესწარით	V;1;SG;2;PL;IND;PST;PFV = dagesc'arit
+ესწრება	დაგესწროთ	V;3;SG;2;PL;IND;PST;PFV = dagesc'rot
+ესწრება	დაგესწარით	V;1;PL;2;PL;IND;PST;PFV = dagesc'arit
+ესწრება	დაგესწრნენ	V;3;PL;2;PL;IND;PST;PFV = dagesc'rnen
+ესწრება	დავესწარი	V;1;SG;3;PL;IND;PST;PFV = davesc'ari
+ესწრება	დაესწარი	V;2;SG;3;PL;IND;PST;PFV = daesc'ari
+ესწრება	დაესწრო	V;3;SG;3;PL;IND;PST;PFV = daesc'ro
+ესწრება	დავესწარით	V;1;PL;3;PL;IND;PST;PFV = davesc'arit
+ესწრება	დაესწარით	V;2;PL;3;PL;IND;PST;PFV = daesc'arit
+ესწრება	დაესწრნენ	V;3;PL;3;PL;IND;PST;PFV = daesc'rnen
+
+ესწრება	დამესწარით	V;2;PL;1;SG;IMP = damesc'arit
+ესწრება	დამესწარი	V;2;SG;1;SG;IMP = damesc'ari
+ესწრება	დაესწარით	V;2;PL;3;SG;IMP = daesc'arit
+ესწრება	დაესწარი	V;2;SG;3;SG;IMP = daesc'ari
+ესწრება	დაგვესწარით	V;2;PL;1;PL;IMP = dagvesc'arit
+ესწრება	დაგვესწარი	V;2;SG;1;PL;IMP = dagvesc'ari
+ესწრება	დაესწარით	V;2;PL;3;PL;IMP = daesc'arit
+ესწრება	დაესწარი	V;2;SG;3;PL;IMP = daesc'ari
+
+
+
+Screeve #8:
+ესწრება	დამესწრო	V;2;SG;1;SG;OPT = damesc'ro
+ესწრება	დამესწროს	V;3;SG;1;SG;OPT = damesc'ros
+ესწრება	დამესწროთ	V;2;PL;1;SG;OPT = damesc'rot
+ესწრება	დამესწრონ	V;3;PL;1;SG;OPT = damesc'ron
+ესწრება	დაგესწრო	V;1;SG;2;SG;OPT = dagesc'ro
+ესწრება	დაგესწროს	V;3;SG;2;SG;OPT = dagesc'ros
+ესწრება	დაგესწროთ	V;1;PL;2;SG;OPT = dagesc'rot
+ესწრება	დაგესწრონ	V;3;PL;2;SG;OPT = dagesc'ron
+ესწრება	დავესწრო	V;1;SG;3;SG;OPT = davesc'ro
+ესწრება	დაესწრო	V;2;SG;3;SG;OPT = daesc'ro
+ესწრება	დაესწროს	V;3;SG;3;SG;OPT = daesc'ros
+ესწრება	დავესწროთ	V;1;PL;3;SG;OPT = davesc'rot
+ესწრება	დაესწროთ	V;2;PL;3;SG;OPT = daesc'rot
+ესწრება	დაესწრონ	V;3;PL;3;SG;OPT = daesc'ron
+ესწრება	დაგვესწრო	V;2;SG;1;PL;OPT = dagvesc'ro
+ესწრება	დაგვესწროს	V;3;SG;1;PL;OPT = dagvesc'ros
+ესწრება	დაგვესწროთ	V;2;PL;1;PL;OPT = dagvesc'rot
+ესწრება	დაგვესწრონ	V;3;PL;1;PL;OPT = dagvesc'ron
+ესწრება	დაგესწროთ	V;1;SG;2;PL;OPT = dagesc'rot
+ესწრება	დაგესწროთ	V;3;SG;2;PL;OPT = dagesc'rot
+ესწრება	დაგესწროთ	V;1;PL;2;PL;OPT = dagesc'rot
+ესწრება	დაგესწრონ	V;3;PL;2;PL;OPT = dagesc'ron
+ესწრება	დავესწრო	V;1;SG;3;PL;OPT = davesc'ro
+ესწრება	დაესწრო	V;2;SG;3;PL;OPT = daesc'ro
+ესწრება	დაესწროს	V;3;SG;3;PL;OPT = daesc'ros
+ესწრება	დავესწროთ	V;1;PL;3;PL;OPT = davesc'rot
+ესწრება	დაესწროთ	V;2;PL;3;PL;OPT = daesc'rot
+ესწრება	დაესწრონ	V;3;PL;3;PL;OPT = daesc'ron
+
+ესწრება	დამესწროს	V;3;SG;1;SG;IMP = damesc'ros
+ესწრება	დამესწრონ	V;3;PL;1;SG;IMP = damesc'ron
+ესწრება	დაგესწროს	V;3;SG;2;SG;IMP = dagesc'ros
+ესწრება	დაგესწროთ	V;1;PL;2;SG;IMP = dagesc'rot
+ესწრება	დაგესწრონ	V;3;PL;2;SG;IMP = dagesc'ron
+ესწრება	დაესწროს	V;3;SG;3;SG;IMP = daesc'ros
+ესწრება	დავესწროთ	V;1;PL;3;SG;IMP = davesc'rot
+ესწრება	დაესწრონ	V;3;PL;3;SG;IMP = daesc'ron
+ესწრება	დაგვესწროს	V;3;SG;1;PL;IMP = dagvesc'ros
+ესწრება	დაგვესწრონ	V;3;PL;1;PL;IMP = dagvesc'ron
+ესწრება	დაგესწროთ	V;3;SG;2;PL;IMP = dagesc'rot
+ესწრება	დაგესწროთ	V;1;PL;2;PL;IMP = dagesc'rot
+ესწრება	დაგესწრონ	V;3;PL;2;PL;IMP = dagesc'ron
+ესწრება	დაესწროს	V;3;SG;3;PL;IMP = daesc'ros
+ესწრება	დავესწროთ	V;1;PL;3;PL;IMP = davesc'rot
+ესწრება	დაესწრონ	V;3;PL;3;PL;IMP = daesc'ron
+
+
+
+Screeve #9:
+ესწრება	დამსწრებიხარ	V;2;SG;1;SG;IND;PRF = damsc'rebixar
+ესწრება	დამსწრებია	V;3;SG;1;SG;IND;PRF = damsc'rebia
+ესწრება	დამსწრებიხართ	V;2;PL;1;SG;IND;PRF = damsc'rebixart
+ესწრება	დამსწრებიან	V;3;PL;1;SG;IND;PRF = damsc'rebian
+ესწრება	დაგსწრებივარ	V;1;SG;2;SG;IND;PRF = dagsc'rebivar
+ესწრება	დაგსწრებია	V;3;SG;2;SG;IND;PRF = dagsc'rebia
+ესწრება	დაგსწრებივართ	V;1;PL;2;SG;IND;PRF = dagsc'rebivart
+ესწრება	დაგსწრებიან	V;3;PL;2;SG;IND;PRF = dagsc'rebian
+ესწრება	დავსწრებივარ	V;1;SG;3;SG;IND;PRF = davsc'rebivar
+ესწრება	დასწრებიხარ	V;2;SG;3;SG;IND;PRF = dasc'rebixar
+ესწრება	დასწრებია	V;3;SG;3;SG;IND;PRF = dasc'rebia
+ესწრება	დავსწრებივართ	V;1;PL;3;SG;IND;PRF = davsc'rebivart
+ესწრება	დასწრებიხართ	V;2;PL;3;SG;IND;PRF = dasc'rebixart
+ესწრება	დასწრებიან	V;3;PL;3;SG;IND;PRF = dasc'rebian
+ესწრება	დაგვსწრებიხარ	V;2;SG;1;PL;IND;PRF = dagvsc'rebixar
+ესწრება	დაგვსწრებია	V;3;SG;1;PL;IND;PRF = dagvsc'rebia
+ესწრება	დაგვსწრებიხართ	V;2;PL;1;PL;IND;PRF = dagvsc'rebixart
+ესწრება	დაგვსწრებიან	V;3;PL;1;PL;IND;PRF = dagvsc'rebian
+ესწრება	დაგსწრებივართ	V;1;SG;2;PL;IND;PRF = dagsc'rebivart
+ესწრება	დაგსწრებიათ	V;3;SG;2;PL;IND;PRF = dagsc'rebiat
+ესწრება	დაგსწრებივართ	V;1;PL;2;PL;IND;PRF = dagsc'rebivart
+ესწრება	დაგსწრებიან	V;3;PL;2;PL;IND;PRF = dagsc'rebian
+ესწრება	დავსწრებივარ	V;1;SG;3;PL;IND;PRF = davsc'rebivar
+ესწრება	დასწრებიხარ	V;2;SG;3;PL;IND;PRF = dasc'rebixar
+ესწრება	დასწრებია	V;3;SG;3;PL;IND;PRF = dasc'rebia
+ესწრება	დავსწრებივართ	V;1;PL;3;PL;IND;PRF = davsc'rebivart
+ესწრება	დასწრებიხართ	V;2;PL;3;PL;IND;PRF = dasc'rebixart
+ესწრება	დასწრებიან	V;3;PL;3;PL;IND;PRF = dasc'rebian
+
+
+Screeve #10:
+ესწრება	დამსწრებოდი	V;2;SG;1;SG;IND;PST;PRF = damsc'rebodi
+ესწრება	დამსწრებოდა	V;3;SG;1;SG;IND;PST;PRF = damsc'reboda
+ესწრება	დამსწრებოდით	V;2;PL;1;SG;IND;PST;PRF = damsc'rebodit
+ესწრება	დამსწრებოდნენ	V;3;PL;1;SG;IND;PST;PRF = damsc'rebodnen
+ესწრება	დაგსწრებოდი	V;1;SG;2;SG;IND;PST;PRF = dagsc'rebodi
+ესწრება	დაგსწრებოდა	V;3;SG;2;SG;IND;PST;PRF = dagsc'reboda
+ესწრება	დაგსწრებოდით	V;1;PL;2;SG;IND;PST;PRF = dagsc'rebodit
+ესწრება	დაგსწრებოდნენ	V;3;PL;2;SG;IND;PST;PRF = dagsc'rebodnen
+ესწრება	დავსწრებოდი	V;1;SG;3;SG;IND;PST;PRF = davsc'rebodi
+ესწრება	დასწრებოდი	V;2;SG;3;SG;IND;PST;PRF = dasc'rebodi
+ესწრება	დასწრებოდა	V;3;SG;3;SG;IND;PST;PRF = dasc'reboda
+ესწრება	დავსწრებოდით	V;1;PL;3;SG;IND;PST;PRF = davsc'rebodit
+ესწრება	დასწრებოდით	V;2;PL;3;SG;IND;PST;PRF = dasc'rebodit
+ესწრება	დასწრებოდნენ	V;3;PL;3;SG;IND;PST;PRF = dasc'rebodnen
+ესწრება	დაგვსწრებოდი	V;2;SG;1;PL;IND;PST;PRF = dagvsc'rebodi
+ესწრება	დაგვსწრებოდა	V;3;SG;1;PL;IND;PST;PRF = dagvsc'reboda
+ესწრება	დაგვსწრებოდით	V;2;PL;1;PL;IND;PST;PRF = dagvsc'rebodit
+ესწრება	დაგვსწრებოდნენ	V;3;PL;1;PL;IND;PST;PRF = dagvsc'rebodnen
+ესწრება	დაგსწრებოდით	V;1;SG;2;PL;IND;PST;PRF = dagsc'rebodit
+ესწრება	დაგსწრებოდათ	V;3;SG;2;PL;IND;PST;PRF = dagsc'rebodat
+ესწრება	დაგსწრებოდით	V;1;PL;2;PL;IND;PST;PRF = dagsc'rebodit
+ესწრება	დაგსწრებოდნენ	V;3;PL;2;PL;IND;PST;PRF = dagsc'rebodnen
+ესწრება	დავსწრებოდი	V;1;SG;3;PL;IND;PST;PRF = davsc'rebodi
+ესწრება	დასწრებოდი	V;2;SG;3;PL;IND;PST;PRF = dasc'rebodi
+ესწრება	დასწრებოდა	V;3;SG;3;PL;IND;PST;PRF = dasc'reboda
+ესწრება	დავსწრებოდით	V;1;PL;3;PL;IND;PST;PRF = davsc'rebodit
+ესწრება	დასწრებოდით	V;2;PL;3;PL;IND;PST;PRF = dasc'rebodit
+ესწრება	დასწრებოდნენ	V;3;PL;3;PL;IND;PST;PRF = dasc'rebodnen
+
+
+Screeve #11:
+ესწრება	დამსწრებოდე	V;2;SG;1;SG;SBJV;PRF = damsc'rebode
+ესწრება	დამსწრებოდეს	V;3;SG;1;SG;SBJV;PRF = damsc'rebodes
+ესწრება	დამსწრებოდეთ	V;2;PL;1;SG;SBJV;PRF = damsc'rebodet
+ესწრება	დამსწრებოდნენ	V;3;PL;1;SG;SBJV;PRF = damsc'rebodnen
+ესწრება	დაგსწრებოდე	V;1;SG;2;SG;SBJV;PRF = dagsc'rebode
+ესწრება	დაგსწრებოდეს	V;3;SG;2;SG;SBJV;PRF = dagsc'rebodes
+ესწრება	დაგსწრებოდეთ	V;1;PL;2;SG;SBJV;PRF = dagsc'rebodet
+ესწრება	დაგსწრებოდნენ	V;3;PL;2;SG;SBJV;PRF = dagsc'rebodnen
+ესწრება	დავსწრებოდე	V;1;SG;3;SG;SBJV;PRF = davsc'rebode
+ესწრება	დასწრებოდე	V;2;SG;3;SG;SBJV;PRF = dasc'rebode
+ესწრება	დასწრებოდეს	V;3;SG;3;SG;SBJV;PRF = dasc'rebodes
+ესწრება	დავსწრებოდეთ	V;1;PL;3;SG;SBJV;PRF = davsc'rebodet
+ესწრება	დასწრებოდეთ	V;2;PL;3;SG;SBJV;PRF = dasc'rebodet
+ესწრება	დასწრებოდნენ	V;3;PL;3;SG;SBJV;PRF = dasc'rebodnen
+ესწრება	დაგვსწრებოდე	V;2;SG;1;PL;SBJV;PRF = dagvsc'rebode
+ესწრება	დაგვსწრებოდეს	V;3;SG;1;PL;SBJV;PRF = dagvsc'rebodes
+ესწრება	დაგვსწრებოდეთ	V;2;PL;1;PL;SBJV;PRF = dagvsc'rebodet
+ესწრება	დაგვსწრებოდნენ	V;3;PL;1;PL;SBJV;PRF = dagvsc'rebodnen
+ესწრება	დაგსწრებოდეთ	V;1;SG;2;PL;SBJV;PRF = dagsc'rebodet
+ესწრება	დაგსწრებოდეთ	V;3;SG;2;PL;SBJV;PRF = dagsc'rebodet
+ესწრება	დაგსწრებოდეთ	V;1;PL;2;PL;SBJV;PRF = dagsc'rebodet
+ესწრება	დაგსწრებოდნენ	V;3;PL;2;PL;SBJV;PRF = dagsc'rebodnen
+ესწრება	დავსწრებოდე	V;1;SG;3;PL;SBJV;PRF = davsc'rebode
+ესწრება	დასწრებოდე	V;2;SG;3;PL;SBJV;PRF = dasc'rebode
+ესწრება	დასწრებოდეს	V;3;SG;3;PL;SBJV;PRF = dasc'rebodes
+ესწრება	დავსწრებოდეთ	V;1;PL;3;PL;SBJV;PRF = davsc'rebodet
+ესწრება	დასწრებოდეთ	V;2;PL;3;PL;SBJV;PRF = dasc'rebodet
+ესწრება	დასწრებოდნენ	V;3;PL;3;PL;SBJV;PRF = dasc'rebodnen
+
+
+ესწრება	დასწრება	V;V.MSDR;PRF

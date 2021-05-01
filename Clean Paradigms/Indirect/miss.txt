@@ -1,0 +1,281 @@
+#14 - ენატრება - miss:
+Screeve #1:
+ენატრება	გენატრებვარ	V;2;SG;1;SG;IND;PRS = genat'rebvar
+ენატრება	ვენატრებვარ	V;3;SG;1;SG;IND;PRS = venat'rebvar
+ენატრება	გენატრებვართ	V;2;PL;1;SG;IND;PRS = genat'rebvart
+ენატრება	ვენატრებვართ	V;3;PL;1;SG;IND;PRS = venat'rebvart
+ენატრება	მენატრებხარ	V;1;SG;2;SG;IND;PRS = menat'rebxar
+ენატრება	ენატრებხარ	V;3;SG;2;SG;IND;PRS = enat'rebxar
+ენატრება	გვენატრებხარ	V;1;PL;2;SG;IND;PRS = gvenat'rebxar
+ენატრება	ენატრებხარ	V;3;PL;2;SG;IND;PRS = enat'rebxar
+ენატრება	მენატრება	V;1;SG;3;SG;IND;PRS = menat'reba
+ენატრება	გენატრება	V;2;SG;3;SG;IND;PRS = genat'reba
+ენატრება	ენატრება	V;3;SG;3;SG;IND;PRS = enat'reba
+ენატრება	გვენატრება	V;1;PL;3;SG;IND;PRS = gvenat'reba
+ენატრება	გენატრებათ	V;2;PL;3;SG;IND;PRS = genat'rebat
+ენატრება	ენატრებათ	V;3;PL;3;SG;IND;PRS = enat'rebat
+ენატრება	გენატრებვართ	V;2;SG;1;PL;IND;PRS = genat'rebvart
+ენატრება	ვენატრებვართ	V;3;SG;1;PL;IND;PRS = venat'rebvart
+ენატრება	გენატრებვართ	V;2;PL;1;PL;IND;PRS = genat'rebvart
+ენატრება	ვენატრებვართ	V;3;PL;1;PL;IND;PRS = venat'rebvart
+ენატრება	მენატრებხართ	V;1;SG;2;PL;IND;PRS = menat'rebxart
+ენატრება	ენატრებხართ	V;3;SG;2;PL;IND;PRS = enat'rebxart
+ენატრება	გვენატრებხართ	V;1;PL;2;PL;IND;PRS = gvenat'rebxart
+ენატრება	ენატრებხართ	V;3;PL;2;PL;IND;PRS = enat'rebxart
+ენატრება	მენატრება	V;1;SG;3;PL;IND;PRS = menat'reba
+ენატრება	გენატრება	V;2;SG;3;PL;IND;PRS = genat'reba
+ენატრება	ენატრება	V;3;SG;3;PL;IND;PRS = enat'reba
+ენატრება	გვენატრება	V;1;PL;3;PL;IND;PRS = gvenat'reba
+ენატრება	გენატრებათ	V;2;PL;3;PL;IND;PRS = genat'rebat
+ენატრება	ენატრებათ	V;3;PL;3;PL;IND;PRS = enat'rebat
+
+
+Screeve #2:
+ენატრება	გენატრებოდი	V;2;SG;1;SG;IND;IPFV = genat'rebodi
+ენატრება	ვენატრებოდი	V;3;SG;1;SG;IND;IPFV = venat'rebodi
+ენატრება	გენატრებოდით	V;2;PL;1;SG;IND;IPFV = genat'rebodit
+ენატრება	ვენატრებოდით	V;3;PL;1;SG;IND;IPFV = venat'rebodit
+ენატრება	მენატრებოდი	V;1;SG;2;SG;IND;IPFV = menat'rebodi
+ენატრება	ენატრებოდი	V;3;SG;2;SG;IND;IPFV = enat'rebodi
+ენატრება	გვენატრებოდი	V;1;PL;2;SG;IND;IPFV = gvenat'rebodi
+ენატრება	ენატრებოდი	V;3;PL;2;SG;IND;IPFV = enat'rebodi
+ენატრება	მენატრებოდა	V;1;SG;3;SG;IND;IPFV = menat'reboda
+ენატრება	გენატრებოდა	V;2;SG;3;SG;IND;IPFV = genat'reboda
+ენატრება	ენატრებოდა	V;3;SG;3;SG;IND;IPFV = enat'reboda
+ენატრება	გვენატრებოდა	V;1;PL;3;SG;IND;IPFV = gvenat'reboda
+ენატრება	გენატრებოდათ	V;2;PL;3;SG;IND;IPFV = genat'rebodat
+ენატრება	ენატრებოდათ	V;3;PL;3;SG;IND;IPFV = enat'rebodat
+ენატრება	გენატრებოდით	V;2;SG;1;PL;IND;IPFV = genat'rebodit
+ენატრება	ვენატრებოდით	V;3;SG;1;PL;IND;IPFV = venat'rebodit
+ენატრება	გენატრებოდით	V;2;PL;1;PL;IND;IPFV = genat'rebodit
+ენატრება	ვენატრებოდით	V;3;PL;1;PL;IND;IPFV = venat'rebodit
+ენატრება	მენატრებოდით	V;1;SG;2;PL;IND;IPFV = menat'rebodit
+ენატრება	ენატრებოდით	V;3;SG;2;PL;IND;IPFV = enat'rebodit
+ენატრება	გვენატრებოდით	V;1;PL;2;PL;IND;IPFV = gvenat'rebodit
+ენატრება	ენატრებოდით	V;3;PL;2;PL;IND;IPFV = enat'rebodit
+ენატრება	მენატრებოდა	V;1;SG;3;PL;IND;IPFV = menat'reboda
+ენატრება	გენატრებოდა	V;2;SG;3;PL;IND;IPFV = genat'reboda
+ენატრება	ენატრებოდა	V;3;SG;3;PL;IND;IPFV = enat'reboda
+ენატრება	გვენატრებოდა	V;1;PL;3;PL;IND;IPFV = gvenat'reboda
+ენატრება	გენატრებოდათ	V;2;PL;3;PL;IND;IPFV = genat'rebodat
+ენატრება	ენატრებოდათ	V;3;PL;3;PL;IND;IPFV = enat'rebodat
+
+
+Screeve #3:
+ენატრება	გენატრებოდე	V;2;SG;1;SG;SBJV;PRS = genat'rebode
+ენატრება	ვენატრებოდე	V;3;SG;1;SG;SBJV;PRS = venat'rebode
+ენატრება	გენატრებოდეთ	V;2;PL;1;SG;SBJV;PRS = genat'rebodet
+ენატრება	ვენატრებოდეთ	V;3;PL;1;SG;SBJV;PRS = venat'rebodet
+ენატრება	მენატრებოდე	V;1;SG;2;SG;SBJV;PRS = menat'rebode
+ენატრება	ენატრებოდე	V;3;SG;2;SG;SBJV;PRS = enat'rebode
+ენატრება	გვენატრებოდე	V;1;PL;2;SG;SBJV;PRS = gvenat'rebode
+ენატრება	ენატრებოდე	V;3;PL;2;SG;SBJV;PRS = enat'rebode
+ენატრება	მენატრებოდეს	V;1;SG;3;SG;SBJV;PRS = menat'rebodes
+ენატრება	გენატრებოდეს	V;2;SG;3;SG;SBJV;PRS = genat'rebodes
+ენატრება	ენატრებოდეს	V;3;SG;3;SG;SBJV;PRS = enat'rebodes
+ენატრება	გვენატრებოდეს	V;1;PL;3;SG;SBJV;PRS = gvenat'rebodes
+ენატრება	გენატრებოდეთ	V;2;PL;3;SG;SBJV;PRS = genat'rebodet
+ენატრება	ენატრებოდეთ	V;3;PL;3;SG;SBJV;PRS = enat'rebodet
+ენატრება	გენატრებოდეთ	V;2;SG;1;PL;SBJV;PRS = genat'rebodet
+ენატრება	ვენატრებოდეთ	V;3;SG;1;PL;SBJV;PRS = venat'rebodet
+ენატრება	გენატრებოდეთ	V;2;PL;1;PL;SBJV;PRS = genat'rebodet
+ენატრება	ვენატრებოდეთ	V;3;PL;1;PL;SBJV;PRS = venat'rebodet
+ენატრება	მენატრებოდეთ	V;1;SG;2;PL;SBJV;PRS = menat'rebodet
+ენატრება	ენატრებოდეთ	V;3;SG;2;PL;SBJV;PRS = enat'rebodet
+ენატრება	გვენატრებოდეთ	V;1;PL;2;PL;SBJV;PRS = gvenat'rebodet
+ენატრება	ენატრებოდეთ	V;3;PL;2;PL;SBJV;PRS = enat'rebodet
+ენატრება	მენატრებოდეს	V;1;SG;3;PL;SBJV;PRS = menat'rebodes
+ენატრება	გენატრებოდეს	V;2;SG;3;PL;SBJV;PRS = genat'rebodes
+ენატრება	ენატრებოდეს	V;3;SG;3;PL;SBJV;PRS = enat'rebodes
+ენატრება	გვენატრებოდეს	V;1;PL;3;PL;SBJV;PRS = gvenat'rebodes
+ენატრება	გენატრებოდეთ	V;2;PL;3;PL;SBJV;PRS = genat'rebodet
+ენატრება	ენატრებოდეთ	V;3;PL;3;PL;SBJV;PRS = enat'rebodet
+
+
+Screeve #4:
+ენატრება	მოგენატრები	V;2;SG;1;SG;IND;FUT = mogenat'rebi
+ენატრება	მოვენატრები	V;3;SG;1;SG;IND;FUT = movenat'rebi
+ენატრება	მოგენატრებით	V;2;PL;1;SG;IND;FUT = mogenat'rebit
+ენატრება	მოვენატრებით	V;3;PL;1;SG;IND;FUT = movenat'rebit
+ენატრება	მომენატრები	V;1;SG;2;SG;IND;FUT = momenat'rebi
+ენატრება	მოენატრები	V;3;SG;2;SG;IND;FUT = moenat'rebi
+ენატრება	მოგვენატრები	V;1;PL;2;SG;IND;FUT = mogvenat'rebi
+ენატრება	მოენატრები	V;3;PL;2;SG;IND;FUT = moenat'rebi
+ენატრება	მომენატრება	V;1;SG;3;SG;IND;FUT = momenat'reba
+ენატრება	მოგენატრება	V;2;SG;3;SG;IND;FUT = mogenat'reba
+ენატრება	მოენატრება	V;3;SG;3;SG;IND;FUT = moenat'reba
+ენატრება	მოგვენატრება	V;1;PL;3;SG;IND;FUT = mogvenat'reba
+ენატრება	მოგენატრებათ	V;2;PL;3;SG;IND;FUT = mogenat'rebat
+ენატრება	მოენატრებათ	V;3;PL;3;SG;IND;FUT = moenat'rebat
+ენატრება	მოგენატრებით	V;2;SG;1;PL;IND;FUT = mogenat'rebit
+ენატრება	მოვენატრებით	V;3;SG;1;PL;IND;FUT = movenat'rebit
+ენატრება	მოგენატრებით	V;2;PL;1;PL;IND;FUT = mogenat'rebit
+ენატრება	მოვენატრებით	V;3;PL;1;PL;IND;FUT = movenat'rebit
+ენატრება	მომენატრებით	V;1;SG;2;PL;IND;FUT = momenat'rebit
+ენატრება	მოენატრებით	V;3;SG;2;PL;IND;FUT = moenat'rebit
+ენატრება	მოგვენატრებით	V;1;PL;2;PL;IND;FUT = mogvenat'rebit
+ენატრება	მოენატრებით	V;3;PL;2;PL;IND;FUT = moenat'rebit
+ენატრება	მომენატრება	V;1;SG;3;PL;IND;FUT = momenat'reba
+ენატრება	მოგენატრება	V;2;SG;3;PL;IND;FUT = mogenat'reba
+ენატრება	მოენატრება	V;3;SG;3;PL;IND;FUT = moenat'reba
+ენატრება	მოგვენატრება	V;1;PL;3;PL;IND;FUT = mogvenat'reba
+ენატრება	მოგენატრებათ	V;2;PL;3;PL;IND;FUT = mogenat'rebat
+ენატრება	მოენატრებათ	V;3;PL;3;PL;IND;FUT = moenat'rebat
+
+
+Screeve #5:
+ენატრება	მოგენატრებოდი	V;2;SG;1;SG;COND = mogenat'rebodi
+ენატრება	მოვენატრებოდი	V;3;SG;1;SG;COND = movenat'rebodi
+ენატრება	მოგენატრებოდით	V;2;PL;1;SG;COND = mogenat'rebodit
+ენატრება	მოვენატრებოდით	V;3;PL;1;SG;COND = movenat'rebodit
+ენატრება	მომენატრებოდი	V;1;SG;2;SG;COND = momenat'rebodi
+ენატრება	მოენატრებოდი	V;3;SG;2;SG;COND = moenat'rebodi
+ენატრება	მოგვენატრებოდი	V;1;PL;2;SG;COND = mogvenat'rebodi
+ენატრება	მოენატრებოდი	V;3;PL;2;SG;COND = moenat'rebodi
+ენატრება	მომენატრებოდა	V;1;SG;3;SG;COND = momenat'reboda
+ენატრება	მოგენატრებოდა	V;2;SG;3;SG;COND = mogenat'reboda
+ენატრება	მოენატრებოდა	V;3;SG;3;SG;COND = moenat'reboda
+ენატრება	მოგვენატრებოდა	V;1;PL;3;SG;COND = mogvenat'reboda
+ენატრება	მოგენატრებოდათ	V;2;PL;3;SG;COND = mogenat'rebodat
+ენატრება	მოენატრებოდათ	V;3;PL;3;SG;COND = moenat'rebodat
+ენატრება	მოგენატრებოდით	V;2;SG;1;PL;COND = mogenat'rebodit
+ენატრება	მოვენატრებოდით	V;3;SG;1;PL;COND = movenat'rebodit
+ენატრება	მოგენატრებოდით	V;2;PL;1;PL;COND = mogenat'rebodit
+ენატრება	მოვენატრებოდით	V;3;PL;1;PL;COND = movenat'rebodit
+ენატრება	მომენატრებოდით	V;1;SG;2;PL;COND = momenat'rebodit
+ენატრება	მოენატრებოდით	V;3;SG;2;PL;COND = moenat'rebodit
+ენატრება	მოგვენატრებოდით	V;1;PL;2;PL;COND = mogvenat'rebodit
+ენატრება	მოენატრებოდით	V;3;PL;2;PL;COND = moenat'rebodit
+ენატრება	მომენატრებოდა	V;1;SG;3;PL;COND = momenat'reboda
+ენატრება	მოგენატრებოდა	V;2;SG;3;PL;COND = mogenat'reboda
+ენატრება	მოენატრებოდა	V;3;SG;3;PL;COND = moenat'reboda
+ენატრება	მოგვენატრებოდა	V;1;PL;3;PL;COND = mogvenat'reboda
+ენატრება	მოგენატრებოდათ	V;2;PL;3;PL;COND = mogenat'rebodat
+ენატრება	მოენატრებოდათ	V;3;PL;3;PL;COND = moenat'rebodat
+
+
+Screeve #6:
+ენატრება	მოგენატრებოდე	V;2;SG;1;SG;SBJV;FUT = mogenat'rebode
+ენატრება	მოვენატრებოდე	V;3;SG;1;SG;SBJV;FUT = movenat'rebode
+ენატრება	მოგენატრებოდეთ	V;2;PL;1;SG;SBJV;FUT = mogenat'rebodet
+ენატრება	მოვენატრებოდეთ	V;3;PL;1;SG;SBJV;FUT = movenat'rebodet
+ენატრება	მომენატრებოდე	V;1;SG;2;SG;SBJV;FUT = momenat'rebode
+ენატრება	მოენატრებოდე	V;3;SG;2;SG;SBJV;FUT = moenat'rebode
+ენატრება	მოგვენატრებოდე	V;1;PL;2;SG;SBJV;FUT = mogvenat'rebode
+ენატრება	მოენატრებოდე	V;3;PL;2;SG;SBJV;FUT = moenat'rebode
+ენატრება	მომენატრებოდეს	V;1;SG;3;SG;SBJV;FUT = momenat'rebodes
+ენატრება	მოგენატრებოდეს	V;2;SG;3;SG;SBJV;FUT = mogenat'rebodes
+ენატრება	მოენატრებოდეს	V;3;SG;3;SG;SBJV;FUT = moenat'rebodes
+ენატრება	მოგვენატრებოდეს	V;1;PL;3;SG;SBJV;FUT = mogvenat'rebodes
+ენატრება	მოგენატრებოდეთ	V;2;PL;3;SG;SBJV;FUT = mogenat'rebodet
+ენატრება	მოენატრებოდეთ	V;3;PL;3;SG;SBJV;FUT = moenat'rebodet
+ენატრება	მოგენატრებოდეთ	V;2;SG;1;PL;SBJV;FUT = mogenat'rebodet
+ენატრება	მოვენატრებოდეთ	V;3;SG;1;PL;SBJV;FUT = movenat'rebodet
+ენატრება	მოგენატრებოდეთ	V;2;PL;1;PL;SBJV;FUT = mogenat'rebodet
+ენატრება	მოვენატრებოდეთ	V;3;PL;1;PL;SBJV;FUT = movenat'rebodet
+ენატრება	მომენატრებოდეთ	V;1;SG;2;PL;SBJV;FUT = momenat'rebodet
+ენატრება	მოენატრებოდეთ	V;3;SG;2;PL;SBJV;FUT = moenat'rebodet
+ენატრება	მოგვენატრებოდეთ	V;1;PL;2;PL;SBJV;FUT = mogvenat'rebodet
+ენატრება	მოენატრებოდეთ	V;3;PL;2;PL;SBJV;FUT = moenat'rebodet
+ენატრება	მომენატრებოდეს	V;1;SG;3;PL;SBJV;FUT = momenat'rebodes
+ენატრება	მოგენატრებოდეს	V;2;SG;3;PL;SBJV;FUT = mogenat'rebodes
+ენატრება	მოენატრებოდეს	V;3;SG;3;PL;SBJV;FUT = moenat'rebodes
+ენატრება	მოგვენატრებოდეს	V;1;PL;3;PL;SBJV;FUT = mogvenat'rebodes
+ენატრება	მოგენატრებოდეთ	V;2;PL;3;PL;SBJV;FUT = mogenat'rebodet
+ენატრება	მოენატრებოდეთ	V;3;PL;3;PL;SBJV;FUT = moenat'rebodet
+
+
+Screeve #9:
+ენატრება	მოგნატრებივარ	V;2;SG;1;SG;IND;PRF = mognat'rebivar
+ენატრება	მოვნატრებივარ	V;3;SG;1;SG;IND;PRF = movnat'rebivar
+ენატრება	მოგნატრებივართ	V;2;PL;1;SG;IND;PRF = mognat'rebivart
+ენატრება	მოვნატრებივარ	V;3;PL;1;SG;IND;PRF = movnat'rebivar
+ენატრება	მომნატრებიხარ	V;1;SG;2;SG;IND;PRF = momnat'rebixar
+ენატრება	მონატრებიხარ	V;3;SG;2;SG;IND;PRF = monat'rebixar
+ენატრება	მოგვნატრებიხარ	V;1;PL;2;SG;IND;PRF = mogvnat'rebixar
+ენატრება	მონატრებიხარ	V;3;PL;2;SG;IND;PRF = monat'rebixar
+ენატრება	მომნატრებია	V;1;SG;3;SG;IND;PRF = momnat'rebia
+ენატრება	მოგნატრებია	V;2;SG;3;SG;IND;PRF = mognat'rebia
+ენატრება	მონატრებია	V;3;SG;3;SG;IND;PRF = monat'rebia
+ენატრება	მოგვნატრებია	V;1;PL;3;SG;IND;PRF = mogvnat'rebia
+ენატრება	მოგნატრებიათ	V;2;PL;3;SG;IND;PRF = mognat'rebiat
+ენატრება	მონატრებიათ	V;3;PL;3;SG;IND;PRF = monat'rebiat
+ენატრება	მოგნატრებივართ	V;2;SG;1;PL;IND;PRF = mognat'rebivart
+ენატრება	მოვნატრებივართ	V;3;SG;1;PL;IND;PRF = movnat'rebivart
+ენატრება	მოგნატრებივართ	V;2;PL;1;PL;IND;PRF = mognat'rebivart
+ენატრება	მოვნატრებივართ	V;3;PL;1;PL;IND;PRF = movnat'rebivart
+ენატრება	მომნატრებიხართ	V;1;SG;2;PL;IND;PRF = momnat'rebixart
+ენატრება	მონატრებიხართ	V;3;SG;2;PL;IND;PRF = monat'rebixart
+ენატრება	მოგვნატრებიხართ	V;1;PL;2;PL;IND;PRF = mogvnat'rebixart
+ენატრება	მონატრებიხართ	V;3;PL;2;PL;IND;PRF = monat'rebixart
+ენატრება	მომნატრებია	V;1;SG;3;PL;IND;PRF = momnat'rebia
+ენატრება	მოგნატრებია	V;2;SG;3;PL;IND;PRF = mognat'rebia
+ენატრება	მონატრებია	V;3;SG;3;PL;IND;PRF = monat'rebia
+ენატრება	მოგვნატრებია	V;1;PL;3;PL;IND;PRF = mogvnat'rebia
+ენატრება	მოგნატრებიათ	V;2;PL;3;PL;IND;PRF = mognat'rebiat
+ენატრება	მონატრებიათ	V;3;PL;3;PL;IND;PRF = monat'rebiat
+
+
+Screeve #10:
+ენატრება	მოგნატრებოდი	V;2;SG;1;SG;IND;PST;PRF = mognat'rebodi
+ენატრება	მოვნატრებოდი	V;3;SG;1;SG;IND;PST;PRF = movnat'rebodi
+ენატრება	მოგნატრებოდით	V;2;PL;1;SG;IND;PST;PRF = mognat'rebodit
+ენატრება	მოვნატრებოდით	V;3;PL;1;SG;IND;PST;PRF = movnat'rebodit
+ენატრება	მომნატრებოდი	V;1;SG;2;SG;IND;PST;PRF = momnat'rebodi
+ენატრება	მონატრებოდი	V;3;SG;2;SG;IND;PST;PRF = monat'rebodi
+ენატრება	მოგვნატრებოდი	V;1;PL;2;SG;IND;PST;PRF = mogvnat'rebodi
+ენატრება	მონატრებოდი	V;3;PL;2;SG;IND;PST;PRF = monat'rebodi
+ენატრება	მომნატრებოდა	V;1;SG;3;SG;IND;PST;PRF = momnat'reboda
+ენატრება	მოგნატრებოდა	V;2;SG;3;SG;IND;PST;PRF = mognat'reboda
+ენატრება	მონატრებოდა	V;3;SG;3;SG;IND;PST;PRF = monat'reboda
+ენატრება	მოგვნატრებოდა	V;1;PL;3;SG;IND;PST;PRF = mogvnat'reboda
+ენატრება	მოგნატრებოდათ	V;2;PL;3;SG;IND;PST;PRF = mognat'rebodat
+ენატრება	მონატრებოდათ	V;3;PL;3;SG;IND;PST;PRF = monat'rebodat
+ენატრება	მოგნატრებოდით	V;2;SG;1;PL;IND;PST;PRF = mognat'rebodit
+ენატრება	მოვნატრებოდით	V;3;SG;1;PL;IND;PST;PRF = movnat'rebodit
+ენატრება	მოგნატრებოდით	V;2;PL;1;PL;IND;PST;PRF = mognat'rebodit
+ენატრება	მოვნატრებოდით	V;3;PL;1;PL;IND;PST;PRF = movnat'rebodit
+ენატრება	მომნატრებოდით	V;1;SG;2;PL;IND;PST;PRF = momnat'rebodit
+ენატრება	მონატრებოდით	V;3;SG;2;PL;IND;PST;PRF = monat'rebodit
+ენატრება	მოგვნატრებოდით	V;1;PL;2;PL;IND;PST;PRF = mogvnat'rebodit
+ენატრება	მონატრებოდით	V;3;PL;2;PL;IND;PST;PRF = monat'rebodit
+ენატრება	მომნატრებოდა	V;1;SG;3;PL;IND;PST;PRF = momnat'reboda
+ენატრება	მოგნატრებოდა	V;2;SG;3;PL;IND;PST;PRF = mognat'reboda
+ენატრება	მონატრებოდა	V;3;SG;3;PL;IND;PST;PRF = monat'reboda
+ენატრება	მოგვნატრებოდა	V;1;PL;3;PL;IND;PST;PRF = mogvnat'reboda
+ენატრება	მოგნატრებოდათ	V;2;PL;3;PL;IND;PST;PRF = mognat'rebodat
+ენატრება	მონატრებოდათ	V;3;PL;3;PL;IND;PST;PRF = monat'rebodat
+
+
+Screeve #11:
+ენატრება	მოგნატრებოდე	V;2;SG;1;SG;SBJV;PRF = mognat'rebode
+ენატრება	მოვნატრებოდე	V;3;SG;1;SG;SBJV;PRF = movnat'rebode
+ენატრება	მოგნატრებოდეთ	V;2;PL;1;SG;SBJV;PRF = mognat'rebodet
+ენატრება	მოვნატრებოდეთ	V;3;PL;1;SG;SBJV;PRF = movnat'rebodet
+ენატრება	მომნატრებოდე	V;1;SG;2;SG;SBJV;PRF = momnat'rebode
+ენატრება	მონატრებოდე	V;3;SG;2;SG;SBJV;PRF = monat'rebode
+ენატრება	მოგვნატრებოდე	V;1;PL;2;SG;SBJV;PRF = mogvnat'rebode
+ენატრება	მონატრებოდე	V;3;PL;2;SG;SBJV;PRF = monat'rebode
+ენატრება	მომნატრებოდეს	V;1;SG;3;SG;SBJV;PRF = momnat'rebodes
+ენატრება	მოგნატრებოდეს	V;2;SG;3;SG;SBJV;PRF = mognat'rebodes
+ენატრება	მონატრებოდეს	V;3;SG;3;SG;SBJV;PRF = monat'rebodes
+ენატრება	მოგვნატრებოდეს	V;1;PL;3;SG;SBJV;PRF = mogvnat'rebodes
+ენატრება	მოგნატრებოდეთ	V;2;PL;3;SG;SBJV;PRF = mognat'rebodet
+ენატრება	მონატრებოდეთ	V;3;PL;3;SG;SBJV;PRF = monat'rebodet
+ენატრება	მოგნატრებოდეთ	V;2;SG;1;PL;SBJV;PRF = mognat'rebodet
+ენატრება	მოვნატრებოდეთ	V;3;SG;1;PL;SBJV;PRF = movnat'rebodet
+ენატრება	მოგნატრებოდეთ	V;2;PL;1;PL;SBJV;PRF = mognat'rebodet
+ენატრება	მოვნატრებოდეთ	V;3;PL;1;PL;SBJV;PRF = movnat'rebodet
+ენატრება	მომნატრებოდეთ	V;1;SG;2;PL;SBJV;PRF = momnat'rebodet
+ენატრება	მონატრებოდეთ	V;3;SG;2;PL;SBJV;PRF = monat'rebodet
+ენატრება	მოგვნატრებოდეთ	V;1;PL;2;PL;SBJV;PRF = mogvnat'rebodet
+ენატრება	მონატრებოდეთ	V;3;PL;2;PL;SBJV;PRF = monat'rebodet
+ენატრება	მომნატრებოდეს	V;1;SG;3;PL;SBJV;PRF = momnat'rebodes
+ენატრება	მოგნატრებოდეს	V;2;SG;3;PL;SBJV;PRF = mognat'rebodes
+ენატრება	მონატრებოდეს	V;3;SG;3;PL;SBJV;PRF = monat'rebodes
+ენატრება	მოგვნატრებოდეს	V;1;PL;3;PL;SBJV;PRF = mogvnat'rebodes
+ენატრება	მოგნატრებოდეთ	V;2;PL;3;PL;SBJV;PRF = mognat'rebodet
+ენატრება	მონატრებოდეთ	V;3;PL;3;PL;SBJV;PRF = monat'rebodet
+
+
+ენატრება	მონატრება	V;V.MSDR;IPFV

@@ -1,0 +1,371 @@
+#10 - ემალება - hide_tv:
+Screeve #1:
+ემალება	მემალები	V;2;SG;1;SG;IND;PRS = memalebi
+ემალება	მემალება	V;3;SG;1;SG;IND;PRS = memaleba
+ემალება	მემალებით	V;2;PL;1;SG;IND;PRS = memalebit
+ემალება	მემალებიან	V;3;PL;1;SG;IND;PRS = memalebian
+ემალება	გემალები	V;1;SG;2;SG;IND;PRS = gemalebi
+ემალება	გემალება	V;3;SG;2;SG;IND;PRS = gemaleba
+ემალება	გემალებით	V;1;PL;2;SG;IND;PRS = gemalebit
+ემალება	გემალებიან	V;3;PL;2;SG;IND;PRS = gemalebian
+ემალება	ვემალები	V;1;SG;3;SG;IND;PRS = vemalebi
+ემალება	ემალები	V;2;SG;3;SG;IND;PRS = emalebi
+ემალება	ემალება	V;3;SG;3;SG;IND;PRS = emaleba
+ემალება	ვემალებით	V;1;PL;3;SG;IND;PRS = vemalebit
+ემალება	ემალებით	V;2;PL;3;SG;IND;PRS = emalebit
+ემალება	ემალებიან	V;3;PL;3;SG;IND;PRS = emalebian
+ემალება	გვემალები	V;2;SG;1;PL;IND;PRS = gvemalebi
+ემალება	გვემალება	V;3;SG;1;PL;IND;PRS = gvemaleba
+ემალება	გვემალებით	V;2;PL;1;PL;IND;PRS = gvemalebit
+ემალება	გვემალებიან	V;3;PL;1;PL;IND;PRS = gvemalebian
+ემალება	გემალებით	V;1;SG;2;PL;IND;PRS = gemalebit
+ემალება	გემალებათ	V;3;SG;2;PL;IND;PRS = gemalebat
+ემალება	გემალებით	V;1;PL;2;PL;IND;PRS = gemalebit
+ემალება	გემალებიან	V;3;PL;2;PL;IND;PRS = gemalebian
+ემალება	ვემალები	V;1;SG;3;PL;IND;PRS = vemalebi
+ემალება	ემალები	V;2;SG;3;PL;IND;PRS = emalebi
+ემალება	ემალება	V;3;SG;3;PL;IND;PRS = emaleba
+ემალება	ვემალებით	V;1;PL;3;PL;IND;PRS = vemalebit
+ემალება	ემალებით	V;2;PL;3;PL;IND;PRS = emalebit
+ემალება	ემალებიან	V;3;PL;3;PL;IND;PRS = emalebian
+
+
+Screeve #2:
+ემალება	მემალებოდი	V;2;SG;1;SG;IND;IPFV = memalebodi
+ემალება	მემალებოდა	V;3;SG;1;SG;IND;IPFV = memaleboda
+ემალება	მემალებოდით	V;2;PL;1;SG;IND;IPFV = memalebodit
+ემალება	მემალებოდნენ	V;3;PL;1;SG;IND;IPFV = memalebodnen
+ემალება	გემალებოდი	V;1;SG;2;SG;IND;IPFV = gemalebodi
+ემალება	გემალებოდა	V;3;SG;2;SG;IND;IPFV = gemaleboda
+ემალება	გემალებოდით	V;1;PL;2;SG;IND;IPFV = gemalebodit
+ემალება	გემალებოდნენ	V;3;PL;2;SG;IND;IPFV = gemalebodnen
+ემალება	ვემალებოდი	V;1;SG;3;SG;IND;IPFV = vemalebodi
+ემალება	ემალებოდი	V;2;SG;3;SG;IND;IPFV = emalebodi
+ემალება	ემალებოდა	V;3;SG;3;SG;IND;IPFV = emaleboda
+ემალება	ვემალებოდით	V;1;PL;3;SG;IND;IPFV = vemalebodit
+ემალება	ემალებოდით	V;2;PL;3;SG;IND;IPFV = emalebodit
+ემალება	ემალებოდნენ	V;3;PL;3;SG;IND;IPFV = emalebodnen
+ემალება	გვემალებოდი	V;2;SG;1;PL;IND;IPFV = gvemalebodi
+ემალება	გვემალებოდა	V;3;SG;1;PL;IND;IPFV = gvemaleboda
+ემალება	გვემალებოდით	V;2;PL;1;PL;IND;IPFV = gvemalebodit
+ემალება	გვემალებოდნენ	V;3;PL;1;PL;IND;IPFV = gvemalebodnen
+ემალება	გემალებოდით	V;1;SG;2;PL;IND;IPFV = gemalebodit
+ემალება	გემალებოდათ	V;3;SG;2;PL;IND;IPFV = gemalebodat
+ემალება	გემალებოდით	V;1;PL;2;PL;IND;IPFV = gemalebodit
+ემალება	გემალებოდნენ	V;3;PL;2;PL;IND;IPFV = gemalebodnen
+ემალება	ვემალებოდი	V;1;SG;3;PL;IND;IPFV = vemalebodi
+ემალება	ემალებოდი	V;2;SG;3;PL;IND;IPFV = emalebodi
+ემალება	ემალებოდა	V;3;SG;3;PL;IND;IPFV = emaleboda
+ემალება	ვემალებოდით	V;1;PL;3;PL;IND;IPFV = vemalebodit
+ემალება	ემალებოდით	V;2;PL;3;PL;IND;IPFV = emalebodit
+ემალება	ემალებოდნენ	V;3;PL;3;PL;IND;IPFV = emalebodnen
+
+
+Screeve #3:
+ემალება	მემალებოდე	V;2;SG;1;SG;SBJV;PRS = memalebode
+ემალება	მემალებოდეს	V;3;SG;1;SG;SBJV;PRS = memalebodes
+ემალება	მემალებოდეთ	V;2;PL;1;SG;SBJV;PRS = memalebodet
+ემალება	მემალებოდნენ	V;3;PL;1;SG;SBJV;PRS = memalebodnen
+ემალება	გემალებოდე	V;1;SG;2;SG;SBJV;PRS = gemalebode
+ემალება	გემალებოდეს	V;3;SG;2;SG;SBJV;PRS = gemalebodes
+ემალება	გემალებოდეთ	V;1;PL;2;SG;SBJV;PRS = gemalebodet
+ემალება	გემალებოდნენ	V;3;PL;2;SG;SBJV;PRS = gemalebodnen
+ემალება	ვემალებოდე	V;1;SG;3;SG;SBJV;PRS = vemalebode
+ემალება	ემალებოდე	V;2;SG;3;SG;SBJV;PRS = emalebode
+ემალება	ემალებოდეს	V;3;SG;3;SG;SBJV;PRS = emalebodes
+ემალება	ვემალებოდეთ	V;1;PL;3;SG;SBJV;PRS = vemalebodet
+ემალება	ემალებოდეთ	V;2;PL;3;SG;SBJV;PRS = emalebodet
+ემალება	ემალებოდნენ	V;3;PL;3;SG;SBJV;PRS = emalebodnen
+ემალება	გვემალებოდე	V;2;SG;1;PL;SBJV;PRS = gvemalebode
+ემალება	გვემალებოდეს	V;3;SG;1;PL;SBJV;PRS = gvemalebodes
+ემალება	გვემალებოდეთ	V;2;PL;1;PL;SBJV;PRS = gvemalebodet
+ემალება	გვემალებოდნენ	V;3;PL;1;PL;SBJV;PRS = gvemalebodnen
+ემალება	გემალებოდეთ	V;1;SG;2;PL;SBJV;PRS = gemalebodet
+ემალება	გემალებოდეთ	V;3;SG;2;PL;SBJV;PRS = gemalebodet
+ემალება	გემალებოდეთ	V;1;PL;2;PL;SBJV;PRS = gemalebodet
+ემალება	გემალებოდნენ	V;3;PL;2;PL;SBJV;PRS = gemalebodnen
+ემალება	ვემალებოდე	V;1;SG;3;PL;SBJV;PRS = vemalebode
+ემალება	ემალებოდე	V;2;SG;3;PL;SBJV;PRS = emalebode
+ემალება	ემალებოდეს	V;3;SG;3;PL;SBJV;PRS = emalebodes
+ემალება	ვემალებოდეთ	V;1;PL;3;PL;SBJV;PRS = vemalebodet
+ემალება	ემალებოდეთ	V;2;PL;3;PL;SBJV;PRS = emalebodet
+ემალება	ემალებოდნენ	V;3;PL;3;PL;SBJV;PRS = emalebodnen
+
+
+Screeve #4:
+ემალება	დამემალები	V;2;SG;1;SG;IND;FUT = damemalebi
+ემალება	დამემალება	V;3;SG;1;SG;IND;FUT = damemaleba
+ემალება	დამემალებით	V;2;PL;1;SG;IND;FUT = damemalebit
+ემალება	დამემალებიან	V;3;PL;1;SG;IND;FUT = damemalebian
+ემალება	დაგემალები	V;1;SG;2;SG;IND;FUT = dagemalebi
+ემალება	დაგემალება	V;3;SG;2;SG;IND;FUT = dagemaleba
+ემალება	დაგემალებით	V;1;PL;2;SG;IND;FUT = dagemalebit
+ემალება	დაგემალებიან	V;3;PL;2;SG;IND;FUT = dagemalebian
+ემალება	დავემალები	V;1;SG;3;SG;IND;FUT = davemalebi
+ემალება	დაემალები	V;2;SG;3;SG;IND;FUT = daemalebi
+ემალება	დაემალება	V;3;SG;3;SG;IND;FUT = daemaleba
+ემალება	დავემალებით	V;1;PL;3;SG;IND;FUT = davemalebit
+ემალება	დაემალებით	V;2;PL;3;SG;IND;FUT = daemalebit
+ემალება	დაემალებიან	V;3;PL;3;SG;IND;FUT = daemalebian
+ემალება	დაგვემალები	V;2;SG;1;PL;IND;FUT = dagvemalebi
+ემალება	დაგვემალება	V;3;SG;1;PL;IND;FUT = dagvemaleba
+ემალება	დაგვემალებით	V;2;PL;1;PL;IND;FUT = dagvemalebit
+ემალება	დაგვემალებიან	V;3;PL;1;PL;IND;FUT = dagvemalebian
+ემალება	დაგემალებით	V;1;SG;2;PL;IND;FUT = dagemalebit
+ემალება	დაგემალებათ	V;3;SG;2;PL;IND;FUT = dagemalebat
+ემალება	დაგემალებით	V;1;PL;2;PL;IND;FUT = dagemalebit
+ემალება	დაგემალებიან	V;3;PL;2;PL;IND;FUT = dagemalebian
+ემალება	დავემალები	V;1;SG;3;PL;IND;FUT = davemalebi
+ემალება	დაემალები	V;2;SG;3;PL;IND;FUT = daemalebi
+ემალება	დაემალება	V;3;SG;3;PL;IND;FUT = daemaleba
+ემალება	დავემალებით	V;1;PL;3;PL;IND;FUT = davemalebit
+ემალება	დაემალებით	V;2;PL;3;PL;IND;FUT = daemalebit
+ემალება	დაემალებიან	V;3;PL;3;PL;IND;FUT = daemalebian
+
+
+Screeve #5:
+ემალება	დამემალებოდი	V;2;SG;1;SG;COND = damemalebodi
+ემალება	დამემალებოდა	V;3;SG;1;SG;COND = damemaleboda
+ემალება	დამემალებოდით	V;2;PL;1;SG;COND = damemalebodit
+ემალება	დამემალებოდნენ	V;3;PL;1;SG;COND = damemalebodnen
+ემალება	დაგემალებოდი	V;1;SG;2;SG;COND = dagemalebodi
+ემალება	დაგემალებოდა	V;3;SG;2;SG;COND = dagemaleboda
+ემალება	დაგემალებოდით	V;1;PL;2;SG;COND = dagemalebodit
+ემალება	დაგემალებოდნენ	V;3;PL;2;SG;COND = dagemalebodnen
+ემალება	დავემალებოდი	V;1;SG;3;SG;COND = davemalebodi
+ემალება	დაემალებოდი	V;2;SG;3;SG;COND = daemalebodi
+ემალება	დაემალებოდა	V;3;SG;3;SG;COND = daemaleboda
+ემალება	დავემალებოდით	V;1;PL;3;SG;COND = davemalebodit
+ემალება	დაემალებოდით	V;2;PL;3;SG;COND = daemalebodit
+ემალება	დაემალებოდნენ	V;3;PL;3;SG;COND = daemalebodnen
+ემალება	დაგვემალებოდი	V;2;SG;1;PL;COND = dagvemalebodi
+ემალება	დაგვემალებოდა	V;3;SG;1;PL;COND = dagvemaleboda
+ემალება	დაგვემალებოდით	V;2;PL;1;PL;COND = dagvemalebodit
+ემალება	დაგვემალებოდნენ	V;3;PL;1;PL;COND = dagvemalebodnen
+ემალება	დაგემალებოდით	V;1;SG;2;PL;COND = dagemalebodit
+ემალება	დაგემალებოდათ	V;3;SG;2;PL;COND = dagemalebodat
+ემალება	დაგემალებოდით	V;1;PL;2;PL;COND = dagemalebodit
+ემალება	დაგემალებოდნენ	V;3;PL;2;PL;COND = dagemalebodnen
+ემალება	დავემალებოდი	V;1;SG;3;PL;COND = davemalebodi
+ემალება	დაემალებოდი	V;2;SG;3;PL;COND = daemalebodi
+ემალება	დაემალებოდა	V;3;SG;3;PL;COND = daemaleboda
+ემალება	დავემალებოდით	V;1;PL;3;PL;COND = davemalebodit
+ემალება	დაემალებოდით	V;2;PL;3;PL;COND = daemalebodit
+ემალება	დაემალებოდნენ	V;3;PL;3;PL;COND = daemalebodnen
+
+
+Screeve #6:
+ემალება	დამემალებოდე	V;2;SG;1;SG;SBJV;FUT = damemalebode
+ემალება	დამემალებოდეს	V;3;SG;1;SG;SBJV;FUT = damemalebodes
+ემალება	დამემალებოდეთ	V;2;PL;1;SG;SBJV;FUT = damemalebodet
+ემალება	დამემალებოდნენ	V;3;PL;1;SG;SBJV;FUT = damemalebodnen
+ემალება	დაგემალებოდე	V;1;SG;2;SG;SBJV;FUT = dagemalebode
+ემალება	დაგემალებოდეს	V;3;SG;2;SG;SBJV;FUT = dagemalebodes
+ემალება	დაგემალებოდეთ	V;1;PL;2;SG;SBJV;FUT = dagemalebodet
+ემალება	დაგემალებოდნენ	V;3;PL;2;SG;SBJV;FUT = dagemalebodnen
+ემალება	დავემალებოდე	V;1;SG;3;SG;SBJV;FUT = davemalebode
+ემალება	დაემალებოდე	V;2;SG;3;SG;SBJV;FUT = daemalebode
+ემალება	დაემალებოდეს	V;3;SG;3;SG;SBJV;FUT = daemalebodes
+ემალება	დავემალებოდეთ	V;1;PL;3;SG;SBJV;FUT = davemalebodet
+ემალება	დაემალებოდეთ	V;2;PL;3;SG;SBJV;FUT = daemalebodet
+ემალება	დაემალებოდნენ	V;3;PL;3;SG;SBJV;FUT = daemalebodnen
+ემალება	დაგვემალებოდე	V;2;SG;1;PL;SBJV;FUT = dagvemalebode
+ემალება	დაგვემალებოდეს	V;3;SG;1;PL;SBJV;FUT = dagvemalebodes
+ემალება	დაგვემალებოდეთ	V;2;PL;1;PL;SBJV;FUT = dagvemalebodet
+ემალება	დაგვემალებოდნენ	V;3;PL;1;PL;SBJV;FUT = dagvemalebodnen
+ემალება	დაგემალებოდეთ	V;1;SG;2;PL;SBJV;FUT = dagemalebodet
+ემალება	დაგემალებოდეთ	V;3;SG;2;PL;SBJV;FUT = dagemalebodet
+ემალება	დაგემალებოდეთ	V;1;PL;2;PL;SBJV;FUT = dagemalebodet
+ემალება	დაგემალებოდნენ	V;3;PL;2;PL;SBJV;FUT = dagemalebodnen
+ემალება	დავემალებოდე	V;1;SG;3;PL;SBJV;FUT = davemalebode
+ემალება	დაემალებოდე	V;2;SG;3;PL;SBJV;FUT = daemalebode
+ემალება	დაემალებოდეს	V;3;SG;3;PL;SBJV;FUT = daemalebodes
+ემალება	დავემალებოდეთ	V;1;PL;3;PL;SBJV;FUT = davemalebodet
+ემალება	დაემალებოდეთ	V;2;PL;3;PL;SBJV;FUT = daemalebodet
+ემალება	დაემალებოდნენ	V;3;PL;3;PL;SBJV;FUT = daemalebodnen
+
+
+Screeve #7:
+ემალება	დამემალე	V;2;SG;1;SG;IND;PST;PFV = damemale
+ემალება	დამემალა	V;3;SG;1;SG;IND;PST;PFV = damemala
+ემალება	დამემალეთ	V;2;PL;1;SG;IND;PST;PFV = damemalet
+ემალება	დამემალნენ	V;3;PL;1;SG;IND;PST;PFV = damemalnen
+ემალება	დაგემალე	V;1;SG;2;SG;IND;PST;PFV = dagemale
+ემალება	დაგემალა	V;3;SG;2;SG;IND;PST;PFV = dagemala
+ემალება	დაგემალეთ	V;1;PL;2;SG;IND;PST;PFV = dagemalet
+ემალება	დაგემალნენ	V;3;PL;2;SG;IND;PST;PFV = dagemalnen
+ემალება	დავემალე	V;1;SG;3;SG;IND;PST;PFV = davemale
+ემალება	დაემალე	V;2;SG;3;SG;IND;PST;PFV = daemale
+ემალება	დაემალა	V;3;SG;3;SG;IND;PST;PFV = daemala
+ემალება	დავემალეთ	V;1;PL;3;SG;IND;PST;PFV = davemalet
+ემალება	დაემალეთ	V;2;PL;3;SG;IND;PST;PFV = daemalet
+ემალება	დაემალნენ	V;3;PL;3;SG;IND;PST;PFV = daemalnen
+ემალება	დაგვემალე	V;2;SG;1;PL;IND;PST;PFV = dagvemale
+ემალება	დაგვემალა	V;3;SG;1;PL;IND;PST;PFV = dagvemala
+ემალება	დაგვემალეთ	V;2;PL;1;PL;IND;PST;PFV = dagvemalet
+ემალება	დაგვემალნენ	V;3;PL;1;PL;IND;PST;PFV = dagvemalnen
+ემალება	დაგემალეთ	V;1;SG;2;PL;IND;PST;PFV = dagemalet
+ემალება	დაგემალათ	V;3;SG;2;PL;IND;PST;PFV = dagemalat
+ემალება	დაგემალეთ	V;1;PL;2;PL;IND;PST;PFV = dagemalet
+ემალება	დაგემალნენ	V;3;PL;2;PL;IND;PST;PFV = dagemalnen
+ემალება	დავემალე	V;1;SG;3;PL;IND;PST;PFV = davemale
+ემალება	დაემალე	V;2;SG;3;PL;IND;PST;PFV = daemale
+ემალება	დაემალა	V;3;SG;3;PL;IND;PST;PFV = daemala
+ემალება	დავემალეთ	V;1;PL;3;PL;IND;PST;PFV = davemalet
+ემალება	დაემალეთ	V;2;PL;3;PL;IND;PST;PFV = daemalet
+ემალება	დაემალნენ	V;3;PL;3;PL;IND;PST;PFV = daemalnen
+
+ემალება	დამემალეთ	V;2;PL;1;SG;IMP = damemalet
+ემალება	დამემალე	V;2;SG;1;SG;IMP = damemale
+ემალება	დაემალეთ	V;2;PL;3;SG;IMP = daemalet
+ემალება	დაემალე	V;2;SG;3;SG;IMP = daemale
+ემალება	დაგვემალეთ	V;2;PL;1;PL;IMP = dagvemalet
+ემალება	დაგვემალე	V;2;SG;1;PL;IMP = dagvemale
+ემალება	დაემალეთ	V;2;PL;3;PL;IMP = daemalet
+ემალება	დაემალე	V;2;SG;3;PL;IMP = daemale
+
+
+
+Screeve #8:
+ემალება	დამემალო	V;2;SG;1;SG;OPT = damemalo
+ემალება	დამემალოს	V;3;SG;1;SG;OPT = damemalos
+ემალება	დამემალოთ	V;2;PL;1;SG;OPT = damemalot
+ემალება	დამემალონ	V;3;PL;1;SG;OPT = damemalon
+ემალება	დაგემალო	V;1;SG;2;SG;OPT = dagemalo
+ემალება	დაგემალოს	V;3;SG;2;SG;OPT = dagemalos
+ემალება	დაგემალოთ	V;1;PL;2;SG;OPT = dagemalot
+ემალება	დაგემალონ	V;3;PL;2;SG;OPT = dagemalon
+ემალება	დავემალო	V;1;SG;3;SG;OPT = davemalo
+ემალება	დაემალო	V;2;SG;3;SG;OPT = daemalo
+ემალება	დაემალოს	V;3;SG;3;SG;OPT = daemalos
+ემალება	დავემალოთ	V;1;PL;3;SG;OPT = davemalot
+ემალება	დაემალოთ	V;2;PL;3;SG;OPT = daemalot
+ემალება	დაემალონ	V;3;PL;3;SG;OPT = daemalon
+ემალება	დაგვემალო	V;2;SG;1;PL;OPT = dagvemalo
+ემალება	დაგვემალოს	V;3;SG;1;PL;OPT = dagvemalos
+ემალება	დაგვემალოთ	V;2;PL;1;PL;OPT = dagvemalot
+ემალება	დაგვემალონ	V;3;PL;1;PL;OPT = dagvemalon
+ემალება	დაგემალოთ	V;1;SG;2;PL;OPT = dagemalot
+ემალება	დაგემალოთ	V;3;SG;2;PL;OPT = dagemalot
+ემალება	დაგემალოთ	V;1;PL;2;PL;OPT = dagemalot
+ემალება	დაგემალონ	V;3;PL;2;PL;OPT = dagemalon
+ემალება	დავემალო	V;1;SG;3;PL;OPT = davemalo
+ემალება	დაემალო	V;2;SG;3;PL;OPT = daemalo
+ემალება	დაემალოს	V;3;SG;3;PL;OPT = daemalos
+ემალება	დავემალოთ	V;1;PL;3;PL;OPT = davemalot
+ემალება	დაემალოთ	V;2;PL;3;PL;OPT = daemalot
+ემალება	დაემალონ	V;3;PL;3;PL;OPT = daemalon
+
+ემალება	დამემალოს	V;3;SG;1;SG;IMP = damemalos
+ემალება	დამემალონ	V;3;PL;1;SG;IMP = damemalon
+ემალება	დაგემალოთ	V;1;PL;2;SG;IMP = dagemalot
+ემალება	დაგემალოს	V;3;SG;2;SG;IMP = dagemalos
+ემალება	დაგემალონ	V;3;PL;2;SG;IMP = dagemalon
+ემალება	დავემალოთ	V;1;PL;3;SG;IMP = davemalot
+ემალება	დაემალოს	V;3;SG;3;SG;IMP = daemalos
+ემალება	დაემალონ	V;3;PL;3;SG;IMP = daemalon
+ემალება	დაგვემალოს	V;3;SG;1;PL;IMP = dagvemalos
+ემალება	დაგვემალონ	V;3;PL;1;PL;IMP = dagvemalon
+ემალება	დაგემალოთ	V;1;PL;2;PL;IMP = dagemalot
+ემალება	დაგემალოთ	V;3;SG;2;PL;IMP = dagemalot
+ემალება	დაგემალონ	V;3;PL;2;PL;IMP = dagemalon
+ემალება	დავემალოთ	V;1;PL;3;PL;IMP = davemalot
+ემალება	დაემალოს	V;3;SG;3;PL;IMP = daemalos
+ემალება	დაემალონ	V;3;PL;3;PL;IMP = daemalon
+
+
+
+Screeve #9:
+ემალება	დამმალვიხარ	V;2;SG;1;SG;IND;PRF = dammalvixar
+ემალება	დამმალვია	V;3;SG;1;SG;IND;PRF = dammalvia
+ემალება	დამმალვიხართ	V;2;PL;1;SG;IND;PRF = dammalvixart
+ემალება	დამმალვიან	V;3;PL;1;SG;IND;PRF = dammalvian
+ემალება	დაგმალვივარ	V;1;SG;2;SG;IND;PRF = dagmalvivar
+ემალება	დაგმალვია	V;3;SG;2;SG;IND;PRF = dagmalvia
+ემალება	დაგმალვივართ	V;1;PL;2;SG;IND;PRF = dagmalvivart
+ემალება	დაგმალვიან	V;3;PL;2;SG;IND;PRF = dagmalvian
+ემალება	დავმალვივარ	V;1;SG;3;SG;IND;PRF = davmalvivar
+ემალება	დამალვიხარ	V;2;SG;3;SG;IND;PRF = damalvixar
+ემალება	დამალვია	V;3;SG;3;SG;IND;PRF = damalvia
+ემალება	დავმალვივართ	V;1;PL;3;SG;IND;PRF = davmalvivart
+ემალება	დამალვიხართ	V;2;PL;3;SG;IND;PRF = damalvixart
+ემალება	დამალვიან	V;3;PL;3;SG;IND;PRF = damalvian
+ემალება	დაგვმალვიხარ	V;2;SG;1;PL;IND;PRF = dagvmalvixar
+ემალება	დაგვმალვია	V;3;SG;1;PL;IND;PRF = dagvmalvia
+ემალება	დაგვმალვიხართ	V;2;PL;1;PL;IND;PRF = dagvmalvixart
+ემალება	დაგვმალვიან	V;3;PL;1;PL;IND;PRF = dagvmalvian
+ემალება	დაგმალვივართ	V;1;SG;2;PL;IND;PRF = dagmalvivart
+ემალება	დაგმალვიათ	V;3;SG;2;PL;IND;PRF = dagmalviat
+ემალება	დაგმალვივართ	V;1;PL;2;PL;IND;PRF = dagmalvivart
+ემალება	დაგმალვიან	V;3;PL;2;PL;IND;PRF = dagmalvian
+ემალება	დავმალვივარ	V;1;SG;3;PL;IND;PRF = davmalvivar
+ემალება	დამალვიხარ	V;2;SG;3;PL;IND;PRF = damalvixar
+ემალება	დამალვია	V;3;SG;3;PL;IND;PRF = damalvia
+ემალება	დავმალვივართ	V;1;PL;3;PL;IND;PRF = davmalvivart
+ემალება	დამალვიხართ	V;2;PL;3;PL;IND;PRF = damalvixart
+ემალება	დამალვიან	V;3;PL;3;PL;IND;PRF = damalvian
+
+
+Screeve #10:
+ემალება	დამმალოდი	V;2;SG;1;SG;IND;PST;PRF = dammalodi
+ემალება	დამმალოდა	V;3;SG;1;SG;IND;PST;PRF = dammaloda
+ემალება	დამმალოდით	V;2;PL;1;SG;IND;PST;PRF = dammalodit
+ემალება	დამმალოდნენ	V;3;PL;1;SG;IND;PST;PRF = dammalodnen
+ემალება	დაგმალოდი	V;1;SG;2;SG;IND;PST;PRF = dagmalodi
+ემალება	დაგმალოდა	V;3;SG;2;SG;IND;PST;PRF = dagmaloda
+ემალება	დაგმალოდით	V;1;PL;2;SG;IND;PST;PRF = dagmalodit
+ემალება	დაგმალოდნენ	V;3;PL;2;SG;IND;PST;PRF = dagmalodnen
+ემალება	დავმალოდი	V;1;SG;3;SG;IND;PST;PRF = davmalodi
+ემალება	დამალოდი	V;2;SG;3;SG;IND;PST;PRF = damalodi
+ემალება	დამალოდა	V;3;SG;3;SG;IND;PST;PRF = damaloda
+ემალება	დავმალოდით	V;1;PL;3;SG;IND;PST;PRF = davmalodit
+ემალება	დამალოდით	V;2;PL;3;SG;IND;PST;PRF = damalodit
+ემალება	დამალოდნენ	V;3;PL;3;SG;IND;PST;PRF = damalodnen
+ემალება	დაგვმალოდი	V;2;SG;1;PL;IND;PST;PRF = dagvmalodi
+ემალება	დაგვმალოდა	V;3;SG;1;PL;IND;PST;PRF = dagvmaloda
+ემალება	დაგვმალოდით	V;2;PL;1;PL;IND;PST;PRF = dagvmalodit
+ემალება	დაგვმალოდნენ	V;3;PL;1;PL;IND;PST;PRF = dagvmalodnen
+ემალება	დაგმალოდით	V;1;SG;2;PL;IND;PST;PRF = dagmalodit
+ემალება	დაგმალოდათ	V;3;SG;2;PL;IND;PST;PRF = dagmalodat
+ემალება	დაგმალოდით	V;1;PL;2;PL;IND;PST;PRF = dagmalodit
+ემალება	დაგმალოდნენ	V;3;PL;2;PL;IND;PST;PRF = dagmalodnen
+ემალება	დავმალოდი	V;1;SG;3;PL;IND;PST;PRF = davmalodi
+ემალება	დამალოდი	V;2;SG;3;PL;IND;PST;PRF = damalodi
+ემალება	დამალოდა	V;3;SG;3;PL;IND;PST;PRF = damaloda
+ემალება	დავმალოდით	V;1;PL;3;PL;IND;PST;PRF = davmalodit
+ემალება	დამალოდით	V;2;PL;3;PL;IND;PST;PRF = damalodit
+ემალება	დამალოდნენ	V;3;PL;3;PL;IND;PST;PRF = damalodnen
+
+
+Screeve #11:
+ემალება	დამმალოდე	V;2;SG;1;SG;SBJV;PRF = dammalode
+ემალება	დამმალოდეს	V;3;SG;1;SG;SBJV;PRF = dammalodes
+ემალება	დამმალოდეთ	V;2;PL;1;SG;SBJV;PRF = dammalodet
+ემალება	დამმალოდნენ	V;3;PL;1;SG;SBJV;PRF = dammalodnen
+ემალება	დაგმალოდე	V;1;SG;2;SG;SBJV;PRF = dagmalode
+ემალება	დაგმალოდეს	V;3;SG;2;SG;SBJV;PRF = dagmalodes
+ემალება	დაგმალოდეთ	V;1;PL;2;SG;SBJV;PRF = dagmalodet
+ემალება	დაგმალოდნენ	V;3;PL;2;SG;SBJV;PRF = dagmalodnen
+ემალება	დავმალოდე	V;1;SG;3;SG;SBJV;PRF = davmalode
+ემალება	დამალოდე	V;2;SG;3;SG;SBJV;PRF = damalode
+ემალება	დამალოდეს	V;3;SG;3;SG;SBJV;PRF = damalodes
+ემალება	დავმალოდეთ	V;1;PL;3;SG;SBJV;PRF = davmalodet
+ემალება	დამალოდეთ	V;2;PL;3;SG;SBJV;PRF = damalodet
+ემალება	დამალოდნენ	V;3;PL;3;SG;SBJV;PRF = damalodnen
+ემალება	დაგვმალოდე	V;2;SG;1;PL;SBJV;PRF = dagvmalode
+ემალება	დაგვმალოდეს	V;3;SG;1;PL;SBJV;PRF = dagvmalodes
+ემალება	დაგვმალოდეთ	V;2;PL;1;PL;SBJV;PRF = dagvmalodet
+ემალება	დაგვმალოდნენ	V;3;PL;1;PL;SBJV;PRF = dagvmalodnen
+ემალება	დაგმალოდეთ	V;1;SG;2;PL;SBJV;PRF = dagmalodet
+ემალება	დაგმალოდეთ	V;3;SG;2;PL;SBJV;PRF = dagmalodet
+ემალება	დაგმალოდეთ	V;1;PL;2;PL;SBJV;PRF = dagmalodet
+ემალება	დაგმალოდნენ	V;3;PL;2;PL;SBJV;PRF = dagmalodnen
+ემალება	დავმალოდე	V;1;SG;3;PL;SBJV;PRF = davmalode
+ემალება	დამალოდე	V;2;SG;3;PL;SBJV;PRF = damalode
+ემალება	დამალოდეს	V;3;SG;3;PL;SBJV;PRF = damalodes
+ემალება	დავმალოდეთ	V;1;PL;3;PL;SBJV;PRF = davmalodet
+ემალება	დამალოდეთ	V;2;PL;3;PL;SBJV;PRF = damalodet
+ემალება	დამალოდნენ	V;3;PL;3;PL;SBJV;PRF = damalodnen
+
+
+ემალება	დამალვა	V;V.MSDR;PRF

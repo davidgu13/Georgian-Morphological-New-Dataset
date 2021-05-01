@@ -1,0 +1,281 @@
+#15 - ენანება - be_a_shame:
+Screeve #1:
+ენანება	გენანებვარ	V;2;SG;1;SG;IND;PRS = genanebvar
+ენანება	ვენანებვარ	V;3;SG;1;SG;IND;PRS = venanebvar
+ენანება	გენანებვართ	V;2;PL;1;SG;IND;PRS = genanebvart
+ენანება	ვენანებვართ	V;3;PL;1;SG;IND;PRS = venanebvart
+ენანება	მენანებხარ	V;1;SG;2;SG;IND;PRS = menanebxar
+ენანება	ენანებხარ	V;3;SG;2;SG;IND;PRS = enanebxar
+ენანება	გვენანებხარ	V;1;PL;2;SG;IND;PRS = gvenanebxar
+ენანება	ენანებხარ	V;3;PL;2;SG;IND;PRS = enanebxar
+ენანება	მენანება	V;1;SG;3;SG;IND;PRS = menaneba
+ენანება	გენანება	V;2;SG;3;SG;IND;PRS = genaneba
+ენანება	ენანება	V;3;SG;3;SG;IND;PRS = enaneba
+ენანება	გვენანება	V;1;PL;3;SG;IND;PRS = gvenaneba
+ენანება	გენანებათ	V;2;PL;3;SG;IND;PRS = genanebat
+ენანება	ენანებათ	V;3;PL;3;SG;IND;PRS = enanebat
+ენანება	გენანებვართ	V;2;SG;1;PL;IND;PRS = genanebvart
+ენანება	ვენანებვართ	V;3;SG;1;PL;IND;PRS = venanebvart
+ენანება	გენანებვართ	V;2;PL;1;PL;IND;PRS = genanebvart
+ენანება	ვენანებვართ	V;3;PL;1;PL;IND;PRS = venanebvart
+ენანება	მენანებხართ	V;1;SG;2;PL;IND;PRS = menanebxart
+ენანება	ენანებხართ	V;3;SG;2;PL;IND;PRS = enanebxart
+ენანება	გვენანებხართ	V;1;PL;2;PL;IND;PRS = gvenanebxart
+ენანება	ენანებხართ	V;3;PL;2;PL;IND;PRS = enanebxart
+ენანება	მენანება	V;1;SG;3;PL;IND;PRS = menaneba
+ენანება	გენანება	V;2;SG;3;PL;IND;PRS = genaneba
+ენანება	ენანება	V;3;SG;3;PL;IND;PRS = enaneba
+ენანება	გვენანება	V;1;PL;3;PL;IND;PRS = gvenaneba
+ენანება	გენანებათ	V;2;PL;3;PL;IND;PRS = genanebat
+ენანება	ენანებათ	V;3;PL;3;PL;IND;PRS = enanebat
+
+
+Screeve #2:
+ენანება	გენანებოდი	V;2;SG;1;SG;IND;IPFV = genanebodi
+ენანება	ვენანებოდი	V;3;SG;1;SG;IND;IPFV = venanebodi
+ენანება	გენანებოდით	V;2;PL;1;SG;IND;IPFV = genanebodit
+ენანება	ვენანებოდით	V;3;PL;1;SG;IND;IPFV = venanebodit
+ენანება	მენანებოდი	V;1;SG;2;SG;IND;IPFV = menanebodi
+ენანება	ენანებოდი	V;3;SG;2;SG;IND;IPFV = enanebodi
+ენანება	გვენანებოდი	V;1;PL;2;SG;IND;IPFV = gvenanebodi
+ენანება	ენანებოდი	V;3;PL;2;SG;IND;IPFV = enanebodi
+ენანება	მენანებოდა	V;1;SG;3;SG;IND;IPFV = menaneboda
+ენანება	გენანებოდა	V;2;SG;3;SG;IND;IPFV = genaneboda
+ენანება	ენანებოდა	V;3;SG;3;SG;IND;IPFV = enaneboda
+ენანება	გვენანებოდა	V;1;PL;3;SG;IND;IPFV = gvenaneboda
+ენანება	გენანებოდათ	V;2;PL;3;SG;IND;IPFV = genanebodat
+ენანება	ენანებოდათ	V;3;PL;3;SG;IND;IPFV = enanebodat
+ენანება	გენანებოდით	V;2;SG;1;PL;IND;IPFV = genanebodit
+ენანება	ვენანებოდით	V;3;SG;1;PL;IND;IPFV = venanebodit
+ენანება	გენანებოდით	V;2;PL;1;PL;IND;IPFV = genanebodit
+ენანება	ვენანებოდით	V;3;PL;1;PL;IND;IPFV = venanebodit
+ენანება	მენანებოდით	V;1;SG;2;PL;IND;IPFV = menanebodit
+ენანება	ენანებოდით	V;3;SG;2;PL;IND;IPFV = enanebodit
+ენანება	გვენანებოდით	V;1;PL;2;PL;IND;IPFV = gvenanebodit
+ენანება	ენანებოდით	V;3;PL;2;PL;IND;IPFV = enanebodit
+ენანება	მენანებოდა	V;1;SG;3;PL;IND;IPFV = menaneboda
+ენანება	გენანებოდა	V;2;SG;3;PL;IND;IPFV = genaneboda
+ენანება	ენანებოდა	V;3;SG;3;PL;IND;IPFV = enaneboda
+ენანება	გვენანებოდა	V;1;PL;3;PL;IND;IPFV = gvenaneboda
+ენანება	გენანებოდათ	V;2;PL;3;PL;IND;IPFV = genanebodat
+ენანება	ენანებოდათ	V;3;PL;3;PL;IND;IPFV = enanebodat
+
+
+Screeve #3:
+ენანება	გენანებოდე	V;2;SG;1;SG;SBJV;PRS = genanebode
+ენანება	ვენანებოდე	V;3;SG;1;SG;SBJV;PRS = venanebode
+ენანება	გენანებოდეთ	V;2;PL;1;SG;SBJV;PRS = genanebodet
+ენანება	ვენანებოდეთ	V;3;PL;1;SG;SBJV;PRS = venanebodet
+ენანება	მენანებოდე	V;1;SG;2;SG;SBJV;PRS = menanebode
+ენანება	ენანებოდე	V;3;SG;2;SG;SBJV;PRS = enanebode
+ენანება	გვენანებოდე	V;1;PL;2;SG;SBJV;PRS = gvenanebode
+ენანება	ენანებოდე	V;3;PL;2;SG;SBJV;PRS = enanebode
+ენანება	მენანებოდეს	V;1;SG;3;SG;SBJV;PRS = menanebodes
+ენანება	გენანებოდეს	V;2;SG;3;SG;SBJV;PRS = genanebodes
+ენანება	ენანებოდეს	V;3;SG;3;SG;SBJV;PRS = enanebodes
+ენანება	გვენანებოდეს	V;1;PL;3;SG;SBJV;PRS = gvenanebodes
+ენანება	გენანებოდეთ	V;2;PL;3;SG;SBJV;PRS = genanebodet
+ენანება	ენანებოდეთ	V;3;PL;3;SG;SBJV;PRS = enanebodet
+ენანება	გენანებოდეთ	V;2;SG;1;PL;SBJV;PRS = genanebodet
+ენანება	ვენანებოდეთ	V;3;SG;1;PL;SBJV;PRS = venanebodet
+ენანება	გენანებოდეთ	V;2;PL;1;PL;SBJV;PRS = genanebodet
+ენანება	ვენანებოდეთ	V;3;PL;1;PL;SBJV;PRS = venanebodet
+ენანება	მენანებოდეთ	V;1;SG;2;PL;SBJV;PRS = menanebodet
+ენანება	ენანებოდეთ	V;3;SG;2;PL;SBJV;PRS = enanebodet
+ენანება	გვენანებოდეთ	V;1;PL;2;PL;SBJV;PRS = gvenanebodet
+ენანება	ენანებოდეთ	V;3;PL;2;PL;SBJV;PRS = enanebodet
+ენანება	მენანებოდეს	V;1;SG;3;PL;SBJV;PRS = menanebodes
+ენანება	გენანებოდეს	V;2;SG;3;PL;SBJV;PRS = genanebodes
+ენანება	ენანებოდეს	V;3;SG;3;PL;SBJV;PRS = enanebodes
+ენანება	გვენანებოდეს	V;1;PL;3;PL;SBJV;PRS = gvenanebodes
+ენანება	გენანებოდეთ	V;2;PL;3;PL;SBJV;PRS = genanebodet
+ენანება	ენანებოდეთ	V;3;PL;3;PL;SBJV;PRS = enanebodet
+
+
+Screeve #4:
+ენანება	დაგენანები	V;2;SG;1;SG;IND;FUT = dagenanebi
+ენანება	დავენანები	V;3;SG;1;SG;IND;FUT = davenanebi
+ენანება	დაგენანებით	V;2;PL;1;SG;IND;FUT = dagenanebit
+ენანება	დავენანებით	V;3;PL;1;SG;IND;FUT = davenanebit
+ენანება	დამენანები	V;1;SG;2;SG;IND;FUT = damenanebi
+ენანება	დაენანები	V;3;SG;2;SG;IND;FUT = daenanebi
+ენანება	დაგვენანები	V;1;PL;2;SG;IND;FUT = dagvenanebi
+ენანება	დაენანები	V;3;PL;2;SG;IND;FUT = daenanebi
+ენანება	დამენანება	V;1;SG;3;SG;IND;FUT = damenaneba
+ენანება	დაგენანება	V;2;SG;3;SG;IND;FUT = dagenaneba
+ენანება	დაენანება	V;3;SG;3;SG;IND;FUT = daenaneba
+ენანება	დაგვენანება	V;1;PL;3;SG;IND;FUT = dagvenaneba
+ენანება	დაგენანებათ	V;2;PL;3;SG;IND;FUT = dagenanebat
+ენანება	დაენანებათ	V;3;PL;3;SG;IND;FUT = daenanebat
+ენანება	დაგენანებით	V;2;SG;1;PL;IND;FUT = dagenanebit
+ენანება	დავენანებით	V;3;SG;1;PL;IND;FUT = davenanebit
+ენანება	დაგენანებით	V;2;PL;1;PL;IND;FUT = dagenanebit
+ენანება	დავენანებით	V;3;PL;1;PL;IND;FUT = davenanebit
+ენანება	დამენანებით	V;1;SG;2;PL;IND;FUT = damenanebit
+ენანება	დაენანებით	V;3;SG;2;PL;IND;FUT = daenanebit
+ენანება	დაგვენანებით	V;1;PL;2;PL;IND;FUT = dagvenanebit
+ენანება	დაენანებით	V;3;PL;2;PL;IND;FUT = daenanebit
+ენანება	დამენანება	V;1;SG;3;PL;IND;FUT = damenaneba
+ენანება	დაგენანება	V;2;SG;3;PL;IND;FUT = dagenaneba
+ენანება	დაენანება	V;3;SG;3;PL;IND;FUT = daenaneba
+ენანება	დაგვენანება	V;1;PL;3;PL;IND;FUT = dagvenaneba
+ენანება	დაგენანებათ	V;2;PL;3;PL;IND;FUT = dagenanebat
+ენანება	დაენანებათ	V;3;PL;3;PL;IND;FUT = daenanebat
+
+
+Screeve #5:
+ენანება	დაგენანებოდი	V;2;SG;1;SG;COND = dagenanebodi
+ენანება	დავენანებოდი	V;3;SG;1;SG;COND = davenanebodi
+ენანება	დაგენანებოდით	V;2;PL;1;SG;COND = dagenanebodit
+ენანება	დავენანებოდით	V;3;PL;1;SG;COND = davenanebodit
+ენანება	დამენანებოდი	V;1;SG;2;SG;COND = damenanebodi
+ენანება	დაენანებოდი	V;3;SG;2;SG;COND = daenanebodi
+ენანება	დაგვენანებოდი	V;1;PL;2;SG;COND = dagvenanebodi
+ენანება	დაენანებოდი	V;3;PL;2;SG;COND = daenanebodi
+ენანება	დამენანებოდა	V;1;SG;3;SG;COND = damenaneboda
+ენანება	დაგენანებოდა	V;2;SG;3;SG;COND = dagenaneboda
+ენანება	დაენანებოდა	V;3;SG;3;SG;COND = daenaneboda
+ენანება	დაგვენანებოდა	V;1;PL;3;SG;COND = dagvenaneboda
+ენანება	დაგენანებოდათ	V;2;PL;3;SG;COND = dagenanebodat
+ენანება	დაენანებოდათ	V;3;PL;3;SG;COND = daenanebodat
+ენანება	დაგენანებოდით	V;2;SG;1;PL;COND = dagenanebodit
+ენანება	დავენანებოდით	V;3;SG;1;PL;COND = davenanebodit
+ენანება	დაგენანებოდით	V;2;PL;1;PL;COND = dagenanebodit
+ენანება	დავენანებოდით	V;3;PL;1;PL;COND = davenanebodit
+ენანება	დამენანებოდით	V;1;SG;2;PL;COND = damenanebodit
+ენანება	დაენანებოდით	V;3;SG;2;PL;COND = daenanebodit
+ენანება	დაგვენანებოდით	V;1;PL;2;PL;COND = dagvenanebodit
+ენანება	დაენანებოდით	V;3;PL;2;PL;COND = daenanebodit
+ენანება	დამენანებოდა	V;1;SG;3;PL;COND = damenaneboda
+ენანება	დაგენანებოდა	V;2;SG;3;PL;COND = dagenaneboda
+ენანება	დაენანებოდა	V;3;SG;3;PL;COND = daenaneboda
+ენანება	დაგვენანებოდა	V;1;PL;3;PL;COND = dagvenaneboda
+ენანება	დაგენანებოდათ	V;2;PL;3;PL;COND = dagenanebodat
+ენანება	დაენანებოდათ	V;3;PL;3;PL;COND = daenanebodat
+
+
+Screeve #6:
+ენანება	დაგენანებოდე	V;2;SG;1;SG;SBJV;FUT = dagenanebode
+ენანება	დავენანებოდე	V;3;SG;1;SG;SBJV;FUT = davenanebode
+ენანება	დაგენანებოდეთ	V;2;PL;1;SG;SBJV;FUT = dagenanebodet
+ენანება	დავენანებოდეთ	V;3;PL;1;SG;SBJV;FUT = davenanebodet
+ენანება	დამენანებოდე	V;1;SG;2;SG;SBJV;FUT = damenanebode
+ენანება	დაენანებოდე	V;3;SG;2;SG;SBJV;FUT = daenanebode
+ენანება	დაგვენანებოდე	V;1;PL;2;SG;SBJV;FUT = dagvenanebode
+ენანება	დაენანებოდე	V;3;PL;2;SG;SBJV;FUT = daenanebode
+ენანება	დამენანებოდეს	V;1;SG;3;SG;SBJV;FUT = damenanebodes
+ენანება	დაგენანებოდეს	V;2;SG;3;SG;SBJV;FUT = dagenanebodes
+ენანება	დაენანებოდეს	V;3;SG;3;SG;SBJV;FUT = daenanebodes
+ენანება	დაგვენანებოდეს	V;1;PL;3;SG;SBJV;FUT = dagvenanebodes
+ენანება	დაგენანებოდეთ	V;2;PL;3;SG;SBJV;FUT = dagenanebodet
+ენანება	დაენანებოდეთ	V;3;PL;3;SG;SBJV;FUT = daenanebodet
+ენანება	დაგენანებოდეთ	V;2;SG;1;PL;SBJV;FUT = dagenanebodet
+ენანება	დავენანებოდეთ	V;3;SG;1;PL;SBJV;FUT = davenanebodet
+ენანება	დაგენანებოდეთ	V;2;PL;1;PL;SBJV;FUT = dagenanebodet
+ენანება	დავენანებოდეთ	V;3;PL;1;PL;SBJV;FUT = davenanebodet
+ენანება	დამენანებოდეთ	V;1;SG;2;PL;SBJV;FUT = damenanebodet
+ენანება	დაენანებოდეთ	V;3;SG;2;PL;SBJV;FUT = daenanebodet
+ენანება	დაგვენანებოდეთ	V;1;PL;2;PL;SBJV;FUT = dagvenanebodet
+ენანება	დაენანებოდეთ	V;3;PL;2;PL;SBJV;FUT = daenanebodet
+ენანება	დამენანებოდეს	V;1;SG;3;PL;SBJV;FUT = damenanebodes
+ენანება	დაგენანებოდეს	V;2;SG;3;PL;SBJV;FUT = dagenanebodes
+ენანება	დაენანებოდეს	V;3;SG;3;PL;SBJV;FUT = daenanebodes
+ენანება	დაგვენანებოდეს	V;1;PL;3;PL;SBJV;FUT = dagvenanebodes
+ენანება	დაგენანებოდეთ	V;2;PL;3;PL;SBJV;FUT = dagenanebodet
+ენანება	დაენანებოდეთ	V;3;PL;3;PL;SBJV;FUT = daenanebodet
+
+
+Screeve #9:
+ენანება	დაგნანებივარ	V;2;SG;1;SG;IND;PRF = dagnanebivar
+ენანება	დავნანებივარ	V;3;SG;1;SG;IND;PRF = davnanebivar
+ენანება	დაგნანებივართ	V;2;PL;1;SG;IND;PRF = dagnanebivart
+ენანება	დავნანებივარ	V;3;PL;1;SG;IND;PRF = davnanebivar
+ენანება	დამნანებიხარ	V;1;SG;2;SG;IND;PRF = damnanebixar
+ენანება	დანანებიხარ	V;3;SG;2;SG;IND;PRF = dananebixar
+ენანება	დაგვნანებიხარ	V;1;PL;2;SG;IND;PRF = dagvnanebixar
+ენანება	დანანებიხარ	V;3;PL;2;SG;IND;PRF = dananebixar
+ენანება	დამნანებია	V;1;SG;3;SG;IND;PRF = damnanebia
+ენანება	დაგნანებია	V;2;SG;3;SG;IND;PRF = dagnanebia
+ენანება	დანანებია	V;3;SG;3;SG;IND;PRF = dananebia
+ენანება	დაგვნანებია	V;1;PL;3;SG;IND;PRF = dagvnanebia
+ენანება	დაგნანებიათ	V;2;PL;3;SG;IND;PRF = dagnanebiat
+ენანება	დანანებიათ	V;3;PL;3;SG;IND;PRF = dananebiat
+ენანება	დაგნანებივართ	V;2;SG;1;PL;IND;PRF = dagnanebivart
+ენანება	დავნანებივართ	V;3;SG;1;PL;IND;PRF = davnanebivart
+ენანება	დაგნანებივართ	V;2;PL;1;PL;IND;PRF = dagnanebivart
+ენანება	დავნანებივართ	V;3;PL;1;PL;IND;PRF = davnanebivart
+ენანება	დამნანებიხართ	V;1;SG;2;PL;IND;PRF = damnanebixart
+ენანება	დანანებიხართ	V;3;SG;2;PL;IND;PRF = dananebixart
+ენანება	დაგვნანებიხართ	V;1;PL;2;PL;IND;PRF = dagvnanebixart
+ენანება	დანანებიხართ	V;3;PL;2;PL;IND;PRF = dananebixart
+ენანება	დამნანებია	V;1;SG;3;PL;IND;PRF = damnanebia
+ენანება	დაგნანებია	V;2;SG;3;PL;IND;PRF = dagnanebia
+ენანება	დანანებია	V;3;SG;3;PL;IND;PRF = dananebia
+ენანება	დაგვნანებია	V;1;PL;3;PL;IND;PRF = dagvnanebia
+ენანება	დაგნანებიათ	V;2;PL;3;PL;IND;PRF = dagnanebiat
+ენანება	დანანებიათ	V;3;PL;3;PL;IND;PRF = dananebiat
+
+
+Screeve #10:
+ენანება	დაგნანებოდი	V;2;SG;1;SG;IND;PST;PRF = dagnanebodi
+ენანება	დავნანებოდი	V;3;SG;1;SG;IND;PST;PRF = davnanebodi
+ენანება	დაგნანებოდით	V;2;PL;1;SG;IND;PST;PRF = dagnanebodit
+ენანება	დავნანებოდით	V;3;PL;1;SG;IND;PST;PRF = davnanebodit
+ენანება	დამნანებოდი	V;1;SG;2;SG;IND;PST;PRF = damnanebodi
+ენანება	დანანებოდი	V;3;SG;2;SG;IND;PST;PRF = dananebodi
+ენანება	დაგვნანებოდი	V;1;PL;2;SG;IND;PST;PRF = dagvnanebodi
+ენანება	დანანებოდი	V;3;PL;2;SG;IND;PST;PRF = dananebodi
+ენანება	დამნანებოდა	V;1;SG;3;SG;IND;PST;PRF = damnaneboda
+ენანება	დაგნანებოდა	V;2;SG;3;SG;IND;PST;PRF = dagnaneboda
+ენანება	დანანებოდა	V;3;SG;3;SG;IND;PST;PRF = dananeboda
+ენანება	დაგვნანებოდა	V;1;PL;3;SG;IND;PST;PRF = dagvnaneboda
+ენანება	დაგნანებოდათ	V;2;PL;3;SG;IND;PST;PRF = dagnanebodat
+ენანება	დანანებოდათ	V;3;PL;3;SG;IND;PST;PRF = dananebodat
+ენანება	დაგნანებოდით	V;2;SG;1;PL;IND;PST;PRF = dagnanebodit
+ენანება	დავნანებოდით	V;3;SG;1;PL;IND;PST;PRF = davnanebodit
+ენანება	დაგნანებოდით	V;2;PL;1;PL;IND;PST;PRF = dagnanebodit
+ენანება	დავნანებოდით	V;3;PL;1;PL;IND;PST;PRF = davnanebodit
+ენანება	დამნანებოდით	V;1;SG;2;PL;IND;PST;PRF = damnanebodit
+ენანება	დანანებოდით	V;3;SG;2;PL;IND;PST;PRF = dananebodit
+ენანება	დაგვნანებოდით	V;1;PL;2;PL;IND;PST;PRF = dagvnanebodit
+ენანება	დანანებოდით	V;3;PL;2;PL;IND;PST;PRF = dananebodit
+ენანება	დამნანებოდა	V;1;SG;3;PL;IND;PST;PRF = damnaneboda
+ენანება	დაგნანებოდა	V;2;SG;3;PL;IND;PST;PRF = dagnaneboda
+ენანება	დანანებოდა	V;3;SG;3;PL;IND;PST;PRF = dananeboda
+ენანება	დაგვნანებოდა	V;1;PL;3;PL;IND;PST;PRF = dagvnaneboda
+ენანება	დაგნანებოდათ	V;2;PL;3;PL;IND;PST;PRF = dagnanebodat
+ენანება	დანანებოდათ	V;3;PL;3;PL;IND;PST;PRF = dananebodat
+
+
+Screeve #11:
+ენანება	დაგნანებოდე	V;2;SG;1;SG;SBJV;PRF = dagnanebode
+ენანება	დავნანებოდე	V;3;SG;1;SG;SBJV;PRF = davnanebode
+ენანება	დაგნანებოდეთ	V;2;PL;1;SG;SBJV;PRF = dagnanebodet
+ენანება	დავნანებოდეთ	V;3;PL;1;SG;SBJV;PRF = davnanebodet
+ენანება	დამნანებოდე	V;1;SG;2;SG;SBJV;PRF = damnanebode
+ენანება	დანანებოდე	V;3;SG;2;SG;SBJV;PRF = dananebode
+ენანება	დაგვნანებოდე	V;1;PL;2;SG;SBJV;PRF = dagvnanebode
+ენანება	დანანებოდე	V;3;PL;2;SG;SBJV;PRF = dananebode
+ენანება	დამნანებოდეს	V;1;SG;3;SG;SBJV;PRF = damnanebodes
+ენანება	დაგნანებოდეს	V;2;SG;3;SG;SBJV;PRF = dagnanebodes
+ენანება	დანანებოდეს	V;3;SG;3;SG;SBJV;PRF = dananebodes
+ენანება	დაგვნანებოდეს	V;1;PL;3;SG;SBJV;PRF = dagvnanebodes
+ენანება	დაგნანებოდეთ	V;2;PL;3;SG;SBJV;PRF = dagnanebodet
+ენანება	დანანებოდეთ	V;3;PL;3;SG;SBJV;PRF = dananebodet
+ენანება	დაგნანებოდეთ	V;2;SG;1;PL;SBJV;PRF = dagnanebodet
+ენანება	დავნანებოდეთ	V;3;SG;1;PL;SBJV;PRF = davnanebodet
+ენანება	დაგნანებოდეთ	V;2;PL;1;PL;SBJV;PRF = dagnanebodet
+ენანება	დავნანებოდეთ	V;3;PL;1;PL;SBJV;PRF = davnanebodet
+ენანება	დამნანებოდეთ	V;1;SG;2;PL;SBJV;PRF = damnanebodet
+ენანება	დანანებოდეთ	V;3;SG;2;PL;SBJV;PRF = dananebodet
+ენანება	დაგვნანებოდეთ	V;1;PL;2;PL;SBJV;PRF = dagvnanebodet
+ენანება	დანანებოდეთ	V;3;PL;2;PL;SBJV;PRF = dananebodet
+ენანება	დამნანებოდეს	V;1;SG;3;PL;SBJV;PRF = damnanebodes
+ენანება	დაგნანებოდეს	V;2;SG;3;PL;SBJV;PRF = dagnanebodes
+ენანება	დანანებოდეს	V;3;SG;3;PL;SBJV;PRF = dananebodes
+ენანება	დაგვნანებოდეს	V;1;PL;3;PL;SBJV;PRF = dagvnanebodes
+ენანება	დაგნანებოდეთ	V;2;PL;3;PL;SBJV;PRF = dagnanebodet
+ენანება	დანანებოდეთ	V;3;PL;3;PL;SBJV;PRF = dananebodet
+
+
+ენანება	დანანება	V;V.MSDR;IPFV

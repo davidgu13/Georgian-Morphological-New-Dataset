@@ -1,0 +1,281 @@
+#7 - ახსოვს - remember:
+Screeve #1:
+ახსოვს	გახსოვვარ	V;2;SG;1;SG;IND;PRS = gaxsovvar
+ახსოვს	ვახსოვვარ	V;3;SG;1;SG;IND;PRS = vaxsovvar
+ახსოვს	გახსოვვართ	V;2;PL;1;SG;IND;PRS = gaxsovvart
+ახსოვს	ვახსოვვართ	V;3;PL;1;SG;IND;PRS = vaxsovvart
+ახსოვს	მახსოვხარ	V;1;SG;2;SG;IND;PRS = maxsovxar
+ახსოვს	ახსოვხარ	V;3;SG;2;SG;IND;PRS = axsovxar
+ახსოვს	გვახსოვხარ	V;1;PL;2;SG;IND;PRS = gvaxsovxar
+ახსოვს	ახსოვხარ	V;3;PL;2;SG;IND;PRS = axsovxar
+ახსოვს	მახსოვს	V;1;SG;3;SG;IND;PRS = maxsovs
+ახსოვს	გახსოვს	V;2;SG;3;SG;IND;PRS = gaxsovs
+ახსოვს	ახსოვს	V;3;SG;3;SG;IND;PRS = axsovs
+ახსოვს	გვახსოვს	V;1;PL;3;SG;IND;PRS = gvaxsovs
+ახსოვს	გახსოვთ	V;2;PL;3;SG;IND;PRS = gaxsovt
+ახსოვს	ახსოვთ	V;3;PL;3;SG;IND;PRS = axsovt
+ახსოვს	გახსოვვართ	V;2;SG;1;PL;IND;PRS = gaxsovvart
+ახსოვს	ვახსოვვართ	V;3;SG;1;PL;IND;PRS = vaxsovvart
+ახსოვს	გახსოვვართ	V;2;PL;1;PL;IND;PRS = gaxsovvart
+ახსოვს	ვახსოვვართ	V;3;PL;1;PL;IND;PRS = vaxsovvart
+ახსოვს	მახსოვხართ	V;1;SG;2;PL;IND;PRS = maxsovxart
+ახსოვს	ახსოვხართ	V;3;SG;2;PL;IND;PRS = axsovxart
+ახსოვს	გვახსოვხართ	V;1;PL;2;PL;IND;PRS = gvaxsovxart
+ახსოვს	ახსოვხართ	V;3;PL;2;PL;IND;PRS = axsovxart
+ახსოვს	მახსოვს	V;1;SG;3;PL;IND;PRS = maxsovs
+ახსოვს	გახსოვს	V;2;SG;3;PL;IND;PRS = gaxsovs
+ახსოვს	ახსოვს	V;3;SG;3;PL;IND;PRS = axsovs
+ახსოვს	გვახსოვს	V;1;PL;3;PL;IND;PRS = gvaxsovs
+ახსოვს	გახსოვთ	V;2;PL;3;PL;IND;PRS = gaxsovt
+ახსოვს	ახსოვთ	V;3;PL;3;PL;IND;PRS = axsovt
+
+
+Screeve #2:
+ახსოვს	გახსოვდი	V;2;SG;1;SG;IND;IPFV = gaxsovdi
+ახსოვს	ვახსოვდი	V;3;SG;1;SG;IND;IPFV = vaxsovdi
+ახსოვს	გახსოვდით	V;2;PL;1;SG;IND;IPFV = gaxsovdit
+ახსოვს	ვახსოვდით	V;3;PL;1;SG;IND;IPFV = vaxsovdit
+ახსოვს	მახსოვდი	V;1;SG;2;SG;IND;IPFV = maxsovdi
+ახსოვს	ახსოვდი	V;3;SG;2;SG;IND;IPFV = axsovdi
+ახსოვს	გვახსოვდი	V;1;PL;2;SG;IND;IPFV = gvaxsovdi
+ახსოვს	ახსოვდი	V;3;PL;2;SG;IND;IPFV = axsovdi
+ახსოვს	მახსოვდა	V;1;SG;3;SG;IND;IPFV = maxsovda
+ახსოვს	გახსოვდა	V;2;SG;3;SG;IND;IPFV = gaxsovda
+ახსოვს	ახსოვდა	V;3;SG;3;SG;IND;IPFV = axsovda
+ახსოვს	გვახსოვდა	V;1;PL;3;SG;IND;IPFV = gvaxsovda
+ახსოვს	გახსოვდათ	V;2;PL;3;SG;IND;IPFV = gaxsovdat
+ახსოვს	ახსოვდათ	V;3;PL;3;SG;IND;IPFV = axsovdat
+ახსოვს	გახსოვდით	V;2;SG;1;PL;IND;IPFV = gaxsovdit
+ახსოვს	ვახსოვდით	V;3;SG;1;PL;IND;IPFV = vaxsovdit
+ახსოვს	გახსოვდით	V;2;PL;1;PL;IND;IPFV = gaxsovdit
+ახსოვს	ვახსოვდით	V;3;PL;1;PL;IND;IPFV = vaxsovdit
+ახსოვს	მახსოვდით	V;1;SG;2;PL;IND;IPFV = maxsovdit
+ახსოვს	ახსოვდით	V;3;SG;2;PL;IND;IPFV = axsovdit
+ახსოვს	გვახსოვდით	V;1;PL;2;PL;IND;IPFV = gvaxsovdit
+ახსოვს	ახსოვდით	V;3;PL;2;PL;IND;IPFV = axsovdit
+ახსოვს	მახსოვდა	V;1;SG;3;PL;IND;IPFV = maxsovda
+ახსოვს	გახსოვდა	V;2;SG;3;PL;IND;IPFV = gaxsovda
+ახსოვს	ახსოვდა	V;3;SG;3;PL;IND;IPFV = axsovda
+ახსოვს	გვახსოვდა	V;1;PL;3;PL;IND;IPFV = gvaxsovda
+ახსოვს	გახსოვდათ	V;2;PL;3;PL;IND;IPFV = gaxsovdat
+ახსოვს	ახსოვდათ	V;3;PL;3;PL;IND;IPFV = axsovdat
+
+
+Screeve #3:
+ახსოვს	გახსოვდე	V;2;SG;1;SG;SBJV;PRS = gaxsovde
+ახსოვს	ვახსოვდე	V;3;SG;1;SG;SBJV;PRS = vaxsovde
+ახსოვს	გახსოვდეთ	V;2;PL;1;SG;SBJV;PRS = gaxsovdet
+ახსოვს	ვახსოვდეთ	V;3;PL;1;SG;SBJV;PRS = vaxsovdet
+ახსოვს	მახსოვდე	V;1;SG;2;SG;SBJV;PRS = maxsovde
+ახსოვს	ახსოვდე	V;3;SG;2;SG;SBJV;PRS = axsovde
+ახსოვს	გვახსოვდე	V;1;PL;2;SG;SBJV;PRS = gvaxsovde
+ახსოვს	ახსოვდე	V;3;PL;2;SG;SBJV;PRS = axsovde
+ახსოვს	მახსოვდეს	V;1;SG;3;SG;SBJV;PRS = maxsovdes
+ახსოვს	გახსოვდეს	V;2;SG;3;SG;SBJV;PRS = gaxsovdes
+ახსოვს	ახსოვდეს	V;3;SG;3;SG;SBJV;PRS = axsovdes
+ახსოვს	გვახსოვდეს	V;1;PL;3;SG;SBJV;PRS = gvaxsovdes
+ახსოვს	გახსოვდეთ	V;2;PL;3;SG;SBJV;PRS = gaxsovdet
+ახსოვს	ახსოვდეთ	V;3;PL;3;SG;SBJV;PRS = axsovdet
+ახსოვს	გახსოვდეთ	V;2;SG;1;PL;SBJV;PRS = gaxsovdet
+ახსოვს	ვახსოვდეთ	V;3;SG;1;PL;SBJV;PRS = vaxsovdet
+ახსოვს	გახსოვდეთ	V;2;PL;1;PL;SBJV;PRS = gaxsovdet
+ახსოვს	ვახსოვდეთ	V;3;PL;1;PL;SBJV;PRS = vaxsovdet
+ახსოვს	მახსოვდეთ	V;1;SG;2;PL;SBJV;PRS = maxsovdet
+ახსოვს	ახსოვდეთ	V;3;SG;2;PL;SBJV;PRS = axsovdet
+ახსოვს	გვახსოვდეთ	V;1;PL;2;PL;SBJV;PRS = gvaxsovdet
+ახსოვს	ახსოვდეთ	V;3;PL;2;PL;SBJV;PRS = axsovdet
+ახსოვს	მახსოვდეს	V;1;SG;3;PL;SBJV;PRS = maxsovdes
+ახსოვს	გახსოვდეს	V;2;SG;3;PL;SBJV;PRS = gaxsovdes
+ახსოვს	ახსოვდეს	V;3;SG;3;PL;SBJV;PRS = axsovdes
+ახსოვს	გვახსოვდეს	V;1;PL;3;PL;SBJV;PRS = gvaxsovdes
+ახსოვს	გახსოვდეთ	V;2;PL;3;PL;SBJV;PRS = gaxsovdet
+ახსოვს	ახსოვდეთ	V;3;PL;3;PL;SBJV;PRS = axsovdet
+
+
+Screeve #4:
+ახსოვს	გეხსომები	V;2;SG;1;SG;IND;FUT = gexsomebi
+ახსოვს	ვეხსომები	V;3;SG;1;SG;IND;FUT = vexsomebi
+ახსოვს	გეხსომებით	V;2;PL;1;SG;IND;FUT = gexsomebit
+ახსოვს	ვეხსომებით	V;3;PL;1;SG;IND;FUT = vexsomebit
+ახსოვს	მეხსომები	V;1;SG;2;SG;IND;FUT = mexsomebi
+ახსოვს	ეხსომები	V;3;SG;2;SG;IND;FUT = exsomebi
+ახსოვს	გვეხსომები	V;1;PL;2;SG;IND;FUT = gvexsomebi
+ახსოვს	ეხსომები	V;3;PL;2;SG;IND;FUT = exsomebi
+ახსოვს	მეხსომება	V;1;SG;3;SG;IND;FUT = mexsomeba
+ახსოვს	გეხსომება	V;2;SG;3;SG;IND;FUT = gexsomeba
+ახსოვს	ეხსომება	V;3;SG;3;SG;IND;FUT = exsomeba
+ახსოვს	გვეხსომება	V;1;PL;3;SG;IND;FUT = gvexsomeba
+ახსოვს	გეხსომებათ	V;2;PL;3;SG;IND;FUT = gexsomebat
+ახსოვს	ეხსომებათ	V;3;PL;3;SG;IND;FUT = exsomebat
+ახსოვს	გეხსომებით	V;2;SG;1;PL;IND;FUT = gexsomebit
+ახსოვს	ვეხსომებით	V;3;SG;1;PL;IND;FUT = vexsomebit
+ახსოვს	გეხსომებით	V;2;PL;1;PL;IND;FUT = gexsomebit
+ახსოვს	ვეხსომებით	V;3;PL;1;PL;IND;FUT = vexsomebit
+ახსოვს	მეხსომებით	V;1;SG;2;PL;IND;FUT = mexsomebit
+ახსოვს	ეხსომებით	V;3;SG;2;PL;IND;FUT = exsomebit
+ახსოვს	გვეხსომებით	V;1;PL;2;PL;IND;FUT = gvexsomebit
+ახსოვს	ეხსომებით	V;3;PL;2;PL;IND;FUT = exsomebit
+ახსოვს	მეხსომება	V;1;SG;3;PL;IND;FUT = mexsomeba
+ახსოვს	გეხსომება	V;2;SG;3;PL;IND;FUT = gexsomeba
+ახსოვს	ეხსომება	V;3;SG;3;PL;IND;FUT = exsomeba
+ახსოვს	გვეხსომება	V;1;PL;3;PL;IND;FUT = gvexsomeba
+ახსოვს	გეხსომებათ	V;2;PL;3;PL;IND;FUT = gexsomebat
+ახსოვს	ეხსომებათ	V;3;PL;3;PL;IND;FUT = exsomebat
+
+
+Screeve #5:
+ახსოვს	გეხსომებოდი	V;2;SG;1;SG;COND = gexsomebodi
+ახსოვს	ვეხსომებოდი	V;3;SG;1;SG;COND = vexsomebodi
+ახსოვს	გეხსომებოდით	V;2;PL;1;SG;COND = gexsomebodit
+ახსოვს	ვეხსომებოდით	V;3;PL;1;SG;COND = vexsomebodit
+ახსოვს	მეხსომებოდი	V;1;SG;2;SG;COND = mexsomebodi
+ახსოვს	ეხსომებოდი	V;3;SG;2;SG;COND = exsomebodi
+ახსოვს	გვეხსომებოდი	V;1;PL;2;SG;COND = gvexsomebodi
+ახსოვს	ეხსომებოდი	V;3;PL;2;SG;COND = exsomebodi
+ახსოვს	მეხსომებოდა	V;1;SG;3;SG;COND = mexsomeboda
+ახსოვს	გეხსომებოდა	V;2;SG;3;SG;COND = gexsomeboda
+ახსოვს	ეხსომებოდა	V;3;SG;3;SG;COND = exsomeboda
+ახსოვს	გვეხსომებოდა	V;1;PL;3;SG;COND = gvexsomeboda
+ახსოვს	გეხსომებოდათ	V;2;PL;3;SG;COND = gexsomebodat
+ახსოვს	ეხსომებოდათ	V;3;PL;3;SG;COND = exsomebodat
+ახსოვს	გეხსომებოდით	V;2;SG;1;PL;COND = gexsomebodit
+ახსოვს	ვეხსომებოდით	V;3;SG;1;PL;COND = vexsomebodit
+ახსოვს	გეხსომებოდით	V;2;PL;1;PL;COND = gexsomebodit
+ახსოვს	ვეხსომებოდით	V;3;PL;1;PL;COND = vexsomebodit
+ახსოვს	მეხსომებოდით	V;1;SG;2;PL;COND = mexsomebodit
+ახსოვს	ეხსომებოდით	V;3;SG;2;PL;COND = exsomebodit
+ახსოვს	გვეხსომებოდით	V;1;PL;2;PL;COND = gvexsomebodit
+ახსოვს	ეხსომებოდით	V;3;PL;2;PL;COND = exsomebodit
+ახსოვს	მეხსომებოდა	V;1;SG;3;PL;COND = mexsomeboda
+ახსოვს	გეხსომებოდა	V;2;SG;3;PL;COND = gexsomeboda
+ახსოვს	ეხსომებოდა	V;3;SG;3;PL;COND = exsomeboda
+ახსოვს	გვეხსომებოდა	V;1;PL;3;PL;COND = gvexsomeboda
+ახსოვს	გეხსომებოდათ	V;2;PL;3;PL;COND = gexsomebodat
+ახსოვს	ეხსომებოდათ	V;3;PL;3;PL;COND = exsomebodat
+
+
+Screeve #6:
+ახსოვს	გეხსომებოდე	V;2;SG;1;SG;SBJV;FUT = gexsomebode
+ახსოვს	ვეხსომებოდე	V;3;SG;1;SG;SBJV;FUT = vexsomebode
+ახსოვს	გეხსომებოდეთ	V;2;PL;1;SG;SBJV;FUT = gexsomebodet
+ახსოვს	ვეხსომებოდეთ	V;3;PL;1;SG;SBJV;FUT = vexsomebodet
+ახსოვს	მეხსომებოდე	V;1;SG;2;SG;SBJV;FUT = mexsomebode
+ახსოვს	ეხსომებოდე	V;3;SG;2;SG;SBJV;FUT = exsomebode
+ახსოვს	გვეხსომებოდე	V;1;PL;2;SG;SBJV;FUT = gvexsomebode
+ახსოვს	ეხსომებოდე	V;3;PL;2;SG;SBJV;FUT = exsomebode
+ახსოვს	მეხსომებოდეს	V;1;SG;3;SG;SBJV;FUT = mexsomebodes
+ახსოვს	გეხსომებოდეს	V;2;SG;3;SG;SBJV;FUT = gexsomebodes
+ახსოვს	ეხსომებოდეს	V;3;SG;3;SG;SBJV;FUT = exsomebodes
+ახსოვს	გვეხსომებოდეს	V;1;PL;3;SG;SBJV;FUT = gvexsomebodes
+ახსოვს	გეხსომებოდეთ	V;2;PL;3;SG;SBJV;FUT = gexsomebodet
+ახსოვს	ეხსომებოდეთ	V;3;PL;3;SG;SBJV;FUT = exsomebodet
+ახსოვს	გეხსომებოდეთ	V;2;SG;1;PL;SBJV;FUT = gexsomebodet
+ახსოვს	ვეხსომებოდეთ	V;3;SG;1;PL;SBJV;FUT = vexsomebodet
+ახსოვს	გეხსომებოდეთ	V;2;PL;1;PL;SBJV;FUT = gexsomebodet
+ახსოვს	ვეხსომებოდეთ	V;3;PL;1;PL;SBJV;FUT = vexsomebodet
+ახსოვს	მეხსომებოდეთ	V;1;SG;2;PL;SBJV;FUT = mexsomebodet
+ახსოვს	ეხსომებოდეთ	V;3;SG;2;PL;SBJV;FUT = exsomebodet
+ახსოვს	გვეხსომებოდეთ	V;1;PL;2;PL;SBJV;FUT = gvexsomebodet
+ახსოვს	ეხსომებოდეთ	V;3;PL;2;PL;SBJV;FUT = exsomebodet
+ახსოვს	მეხსომებოდეს	V;1;SG;3;PL;SBJV;FUT = mexsomebodes
+ახსოვს	გეხსომებოდეს	V;2;SG;3;PL;SBJV;FUT = gexsomebodes
+ახსოვს	ეხსომებოდეს	V;3;SG;3;PL;SBJV;FUT = exsomebodes
+ახსოვს	გვეხსომებოდეს	V;1;PL;3;PL;SBJV;FUT = gvexsomebodes
+ახსოვს	გეხსომებოდეთ	V;2;PL;3;PL;SBJV;FUT = gexsomebodet
+ახსოვს	ეხსომებოდეთ	V;3;PL;3;PL;SBJV;FUT = exsomebodet
+
+
+Screeve #9:
+ახსოვს	გხსომებივარ	V;2;SG;1;SG;IND;PRF = gxsomebivar
+ახსოვს	ვხსომებივარ	V;3;SG;1;SG;IND;PRF = vxsomebivar
+ახსოვს	გხსომებივართ	V;2;PL;1;SG;IND;PRF = gxsomebivart
+ახსოვს	ვხსომებივარ	V;3;PL;1;SG;IND;PRF = vxsomebivar
+ახსოვს	მხსომებიხარ	V;1;SG;2;SG;IND;PRF = mxsomebixar
+ახსოვს	ხსომებიხარ	V;3;SG;2;SG;IND;PRF = xsomebixar
+ახსოვს	გვხსომებიხარ	V;1;PL;2;SG;IND;PRF = gvxsomebixar
+ახსოვს	ხსომებიხარ	V;3;PL;2;SG;IND;PRF = xsomebixar
+ახსოვს	მხსომებია	V;1;SG;3;SG;IND;PRF = mxsomebia
+ახსოვს	გხსომებია	V;2;SG;3;SG;IND;PRF = gxsomebia
+ახსოვს	ხსომებია	V;3;SG;3;SG;IND;PRF = xsomebia
+ახსოვს	გვხსომებია	V;1;PL;3;SG;IND;PRF = gvxsomebia
+ახსოვს	გხსომებიათ	V;2;PL;3;SG;IND;PRF = gxsomebiat
+ახსოვს	ხსომებიათ	V;3;PL;3;SG;IND;PRF = xsomebiat
+ახსოვს	გხსომებივართ	V;2;SG;1;PL;IND;PRF = gxsomebivart
+ახსოვს	ვხსომებივართ	V;3;SG;1;PL;IND;PRF = vxsomebivart
+ახსოვს	გხსომებივართ	V;2;PL;1;PL;IND;PRF = gxsomebivart
+ახსოვს	ვხსომებივართ	V;3;PL;1;PL;IND;PRF = vxsomebivart
+ახსოვს	მხსომებიხართ	V;1;SG;2;PL;IND;PRF = mxsomebixart
+ახსოვს	ხსომებიხართ	V;3;SG;2;PL;IND;PRF = xsomebixart
+ახსოვს	გვხსომებიხართ	V;1;PL;2;PL;IND;PRF = gvxsomebixart
+ახსოვს	ხსომებიხართ	V;3;PL;2;PL;IND;PRF = xsomebixart
+ახსოვს	მხსომებია	V;1;SG;3;PL;IND;PRF = mxsomebia
+ახსოვს	გხსომებია	V;2;SG;3;PL;IND;PRF = gxsomebia
+ახსოვს	ხსომებია	V;3;SG;3;PL;IND;PRF = xsomebia
+ახსოვს	გვხსომებია	V;1;PL;3;PL;IND;PRF = gvxsomebia
+ახსოვს	გხსომებიათ	V;2;PL;3;PL;IND;PRF = gxsomebiat
+ახსოვს	ხსომებიათ	V;3;PL;3;PL;IND;PRF = xsomebiat
+
+
+Screeve #10:
+ახსოვს	გხსომებოდი	V;2;SG;1;SG;IND;PST;PRF = gxsomebodi
+ახსოვს	ვხსომებოდი	V;3;SG;1;SG;IND;PST;PRF = vxsomebodi
+ახსოვს	გხსომებოდით	V;2;PL;1;SG;IND;PST;PRF = gxsomebodit
+ახსოვს	ვხსომებოდით	V;3;PL;1;SG;IND;PST;PRF = vxsomebodit
+ახსოვს	მხსომებოდი	V;1;SG;2;SG;IND;PST;PRF = mxsomebodi
+ახსოვს	ხსომებოდი	V;3;SG;2;SG;IND;PST;PRF = xsomebodi
+ახსოვს	გვხსომებოდი	V;1;PL;2;SG;IND;PST;PRF = gvxsomebodi
+ახსოვს	ხსომებოდი	V;3;PL;2;SG;IND;PST;PRF = xsomebodi
+ახსოვს	მხსომებოდა	V;1;SG;3;SG;IND;PST;PRF = mxsomeboda
+ახსოვს	გხსომებოდა	V;2;SG;3;SG;IND;PST;PRF = gxsomeboda
+ახსოვს	ხსომებოდა	V;3;SG;3;SG;IND;PST;PRF = xsomeboda
+ახსოვს	გვხსომებოდა	V;1;PL;3;SG;IND;PST;PRF = gvxsomeboda
+ახსოვს	გხსომებოდათ	V;2;PL;3;SG;IND;PST;PRF = gxsomebodat
+ახსოვს	ხსომებოდათ	V;3;PL;3;SG;IND;PST;PRF = xsomebodat
+ახსოვს	გხსომებოდით	V;2;SG;1;PL;IND;PST;PRF = gxsomebodit
+ახსოვს	ვხსომებოდით	V;3;SG;1;PL;IND;PST;PRF = vxsomebodit
+ახსოვს	გხსომებოდით	V;2;PL;1;PL;IND;PST;PRF = gxsomebodit
+ახსოვს	ვხსომებოდით	V;3;PL;1;PL;IND;PST;PRF = vxsomebodit
+ახსოვს	მხსომებოდით	V;1;SG;2;PL;IND;PST;PRF = mxsomebodit
+ახსოვს	ხსომებოდით	V;3;SG;2;PL;IND;PST;PRF = xsomebodit
+ახსოვს	გვხსომებოდით	V;1;PL;2;PL;IND;PST;PRF = gvxsomebodit
+ახსოვს	ხსომებოდით	V;3;PL;2;PL;IND;PST;PRF = xsomebodit
+ახსოვს	მხსომებოდა	V;1;SG;3;PL;IND;PST;PRF = mxsomeboda
+ახსოვს	გხსომებოდა	V;2;SG;3;PL;IND;PST;PRF = gxsomeboda
+ახსოვს	ხსომებოდა	V;3;SG;3;PL;IND;PST;PRF = xsomeboda
+ახსოვს	გვხსომებოდა	V;1;PL;3;PL;IND;PST;PRF = gvxsomeboda
+ახსოვს	გხსომებოდათ	V;2;PL;3;PL;IND;PST;PRF = gxsomebodat
+ახსოვს	ხსომებოდათ	V;3;PL;3;PL;IND;PST;PRF = xsomebodat
+
+
+Screeve #11:
+ახსოვს	გხსომებოდე	V;2;SG;1;SG;SBJV;PRF = gxsomebode
+ახსოვს	ვხსომებოდე	V;3;SG;1;SG;SBJV;PRF = vxsomebode
+ახსოვს	გხსომებოდეთ	V;2;PL;1;SG;SBJV;PRF = gxsomebodet
+ახსოვს	ვხსომებოდეთ	V;3;PL;1;SG;SBJV;PRF = vxsomebodet
+ახსოვს	მხსომებოდე	V;1;SG;2;SG;SBJV;PRF = mxsomebode
+ახსოვს	ხსომებოდე	V;3;SG;2;SG;SBJV;PRF = xsomebode
+ახსოვს	გვხსომებოდე	V;1;PL;2;SG;SBJV;PRF = gvxsomebode
+ახსოვს	ხსომებოდე	V;3;PL;2;SG;SBJV;PRF = xsomebode
+ახსოვს	მხსომებოდეს	V;1;SG;3;SG;SBJV;PRF = mxsomebodes
+ახსოვს	გხსომებოდეს	V;2;SG;3;SG;SBJV;PRF = gxsomebodes
+ახსოვს	ხსომებოდეს	V;3;SG;3;SG;SBJV;PRF = xsomebodes
+ახსოვს	გვხსომებოდეს	V;1;PL;3;SG;SBJV;PRF = gvxsomebodes
+ახსოვს	გხსომებოდეთ	V;2;PL;3;SG;SBJV;PRF = gxsomebodet
+ახსოვს	ხსომებოდეთ	V;3;PL;3;SG;SBJV;PRF = xsomebodet
+ახსოვს	გხსომებოდეთ	V;2;SG;1;PL;SBJV;PRF = gxsomebodet
+ახსოვს	ვხსომებოდეთ	V;3;SG;1;PL;SBJV;PRF = vxsomebodet
+ახსოვს	გხსომებოდეთ	V;2;PL;1;PL;SBJV;PRF = gxsomebodet
+ახსოვს	ვხსომებოდეთ	V;3;PL;1;PL;SBJV;PRF = vxsomebodet
+ახსოვს	მხსომებოდეთ	V;1;SG;2;PL;SBJV;PRF = mxsomebodet
+ახსოვს	ხსომებოდეთ	V;3;SG;2;PL;SBJV;PRF = xsomebodet
+ახსოვს	გვხსომებოდეთ	V;1;PL;2;PL;SBJV;PRF = gvxsomebodet
+ახსოვს	ხსომებოდეთ	V;3;PL;2;PL;SBJV;PRF = xsomebodet
+ახსოვს	მხსომებოდეს	V;1;SG;3;PL;SBJV;PRF = mxsomebodes
+ახსოვს	გხსომებოდეს	V;2;SG;3;PL;SBJV;PRF = gxsomebodes
+ახსოვს	ხსომებოდეს	V;3;SG;3;PL;SBJV;PRF = xsomebodes
+ახსოვს	გვხსომებოდეს	V;1;PL;3;PL;SBJV;PRF = gvxsomebodes
+ახსოვს	გხსომებოდეთ	V;2;PL;3;PL;SBJV;PRF = gxsomebodet
+ახსოვს	ხსომებოდეთ	V;3;PL;3;PL;SBJV;PRF = xsomebodet
+
+
+ახსოვს	ხსოვნა	V;V.MSDR;IPFV

@@ -1,0 +1,372 @@
+#19 - ელოდება - wait_tv:
+Screeve #1:
+ელოდება	მელოდები	V;2;SG;1;SG;IND;PRS = melodebi
+ელოდება	მელოდება	V;3;SG;1;SG;IND;PRS = melodeba
+ელოდება	მელოდებით	V;2;PL;1;SG;IND;PRS = melodebit
+ელოდება	მელოდებიან	V;3;PL;1;SG;IND;PRS = melodebian
+ელოდება	გელოდები	V;1;SG;2;SG;IND;PRS = gelodebi
+ელოდება	გელოდება	V;3;SG;2;SG;IND;PRS = gelodeba
+ელოდება	გელოდებით	V;1;PL;2;SG;IND;PRS = gelodebit
+ელოდება	გელოდებიან	V;3;PL;2;SG;IND;PRS = gelodebian
+ელოდება	ველოდები	V;1;SG;3;SG;IND;PRS = velodebi
+ელოდება	ელოდები	V;2;SG;3;SG;IND;PRS = elodebi
+ელოდება	ელოდება	V;3;SG;3;SG;IND;PRS = elodeba
+ელოდება	ველოდებით	V;1;PL;3;SG;IND;PRS = velodebit
+ელოდება	ელოდებით	V;2;PL;3;SG;IND;PRS = elodebit
+ელოდება	ელოდებიან	V;3;PL;3;SG;IND;PRS = elodebian
+ელოდება	გველოდები	V;2;SG;1;PL;IND;PRS = gvelodebi
+ელოდება	გველოდება	V;3;SG;1;PL;IND;PRS = gvelodeba
+ელოდება	გველოდებით	V;2;PL;1;PL;IND;PRS = gvelodebit
+ელოდება	გველოდებიან	V;3;PL;1;PL;IND;PRS = gvelodebian
+ელოდება	გელოდებით	V;1;SG;2;PL;IND;PRS = gelodebit
+ელოდება	გელოდებათ	V;3;SG;2;PL;IND;PRS = gelodebat
+ელოდება	გელოდებით	V;1;PL;2;PL;IND;PRS = gelodebit
+ელოდება	გელოდებიან	V;3;PL;2;PL;IND;PRS = gelodebian
+ელოდება	ველოდები	V;1;SG;3;PL;IND;PRS = velodebi
+ელოდება	ელოდები	V;2;SG;3;PL;IND;PRS = elodebi
+ელოდება	ელოდება	V;3;SG;3;PL;IND;PRS = elodeba
+ელოდება	ველოდებით	V;1;PL;3;PL;IND;PRS = velodebit
+ელოდება	ელოდებით	V;2;PL;3;PL;IND;PRS = elodebit
+ელოდება	ელოდებიან	V;3;PL;3;PL;IND;PRS = elodebian
+
+
+Screeve #2:
+ელოდება	მელოდებოდი	V;2;SG;1;SG;IND;IPFV = melodebodi
+ელოდება	მელოდებოდა	V;3;SG;1;SG;IND;IPFV = melodeboda
+ელოდება	მელოდებოდით	V;2;PL;1;SG;IND;IPFV = melodebodit
+ელოდება	მელოდებოდნენ	V;3;PL;1;SG;IND;IPFV = melodebodnen
+ელოდება	გელოდებოდი	V;1;SG;2;SG;IND;IPFV = gelodebodi
+ელოდება	გელოდებოდა	V;3;SG;2;SG;IND;IPFV = gelodeboda
+ელოდება	გელოდებოდით	V;1;PL;2;SG;IND;IPFV = gelodebodit
+ელოდება	გელოდებოდნენ	V;3;PL;2;SG;IND;IPFV = gelodebodnen
+ელოდება	ველოდებოდი	V;1;SG;3;SG;IND;IPFV = velodebodi
+ელოდება	ელოდებოდი	V;2;SG;3;SG;IND;IPFV = elodebodi
+ელოდება	ელოდებოდა	V;3;SG;3;SG;IND;IPFV = elodeboda
+ელოდება	ველოდებოდით	V;1;PL;3;SG;IND;IPFV = velodebodit
+ელოდება	ელოდებოდით	V;2;PL;3;SG;IND;IPFV = elodebodit
+ელოდება	ელოდებოდნენ	V;3;PL;3;SG;IND;IPFV = elodebodnen
+ელოდება	გველოდებოდი	V;2;SG;1;PL;IND;IPFV = gvelodebodi
+ელოდება	გველოდებოდა	V;3;SG;1;PL;IND;IPFV = gvelodeboda
+ელოდება	გველოდებოდით	V;2;PL;1;PL;IND;IPFV = gvelodebodit
+ელოდება	გველოდებოდნენ	V;3;PL;1;PL;IND;IPFV = gvelodebodnen
+ელოდება	გელოდებოდით	V;1;SG;2;PL;IND;IPFV = gelodebodit
+ელოდება	გელოდებოდათ	V;3;SG;2;PL;IND;IPFV = gelodebodat
+ელოდება	გელოდებოდით	V;1;PL;2;PL;IND;IPFV = gelodebodit
+ელოდება	გელოდებოდნენ	V;3;PL;2;PL;IND;IPFV = gelodebodnen
+ელოდება	ველოდებოდი	V;1;SG;3;PL;IND;IPFV = velodebodi
+ელოდება	ელოდებოდი	V;2;SG;3;PL;IND;IPFV = elodebodi
+ელოდება	ელოდებოდა	V;3;SG;3;PL;IND;IPFV = elodeboda
+ელოდება	ველოდებოდით	V;1;PL;3;PL;IND;IPFV = velodebodit
+ელოდება	ელოდებოდით	V;2;PL;3;PL;IND;IPFV = elodebodit
+ელოდება	ელოდებოდნენ	V;3;PL;3;PL;IND;IPFV = elodebodnen
+
+
+Screeve #3:
+ელოდება	მელოდებოდე	V;2;SG;1;SG;SBJV;PRS = melodebode
+ელოდება	მელოდებოდეს	V;3;SG;1;SG;SBJV;PRS = melodebodes
+ელოდება	მელოდებოდეთ	V;2;PL;1;SG;SBJV;PRS = melodebodet
+ელოდება	მელოდებოდნენ	V;3;PL;1;SG;SBJV;PRS = melodebodnen
+ელოდება	გელოდებოდე	V;1;SG;2;SG;SBJV;PRS = gelodebode
+ელოდება	გელოდებოდეს	V;3;SG;2;SG;SBJV;PRS = gelodebodes
+ელოდება	გელოდებოდეთ	V;1;PL;2;SG;SBJV;PRS = gelodebodet
+ელოდება	გელოდებოდნენ	V;3;PL;2;SG;SBJV;PRS = gelodebodnen
+ელოდება	ველოდებოდე	V;1;SG;3;SG;SBJV;PRS = velodebode
+ელოდება	ელოდებოდე	V;2;SG;3;SG;SBJV;PRS = elodebode
+ელოდება	ელოდებოდეს	V;3;SG;3;SG;SBJV;PRS = elodebodes
+ელოდება	ველოდებოდეთ	V;1;PL;3;SG;SBJV;PRS = velodebodet
+ელოდება	ელოდებოდეთ	V;2;PL;3;SG;SBJV;PRS = elodebodet
+ელოდება	ელოდებოდნენ	V;3;PL;3;SG;SBJV;PRS = elodebodnen
+ელოდება	გველოდებოდე	V;2;SG;1;PL;SBJV;PRS = gvelodebode
+ელოდება	გველოდებოდეს	V;3;SG;1;PL;SBJV;PRS = gvelodebodes
+ელოდება	გველოდებოდეთ	V;2;PL;1;PL;SBJV;PRS = gvelodebodet
+ელოდება	გველოდებოდნენ	V;3;PL;1;PL;SBJV;PRS = gvelodebodnen
+ელოდება	გელოდებოდეთ	V;1;SG;2;PL;SBJV;PRS = gelodebodet
+ელოდება	გელოდებოდეთ	V;3;SG;2;PL;SBJV;PRS = gelodebodet
+ელოდება	გელოდებოდეთ	V;1;PL;2;PL;SBJV;PRS = gelodebodet
+ელოდება	გელოდებოდნენ	V;3;PL;2;PL;SBJV;PRS = gelodebodnen
+ელოდება	ველოდებოდე	V;1;SG;3;PL;SBJV;PRS = velodebode
+ელოდება	ელოდებოდე	V;2;SG;3;PL;SBJV;PRS = elodebode
+ელოდება	ელოდებოდეს	V;3;SG;3;PL;SBJV;PRS = elodebodes
+ელოდება	ველოდებოდეთ	V;1;PL;3;PL;SBJV;PRS = velodebodet
+ელოდება	ელოდებოდეთ	V;2;PL;3;PL;SBJV;PRS = elodebodet
+ელოდება	ელოდებოდნენ	V;3;PL;3;PL;SBJV;PRS = elodebodnen
+
+
+Screeve #4:
+ელოდება	დამელოდები	V;2;SG;1;SG;IND;FUT = damelodebi
+ელოდება	დამელოდება	V;3;SG;1;SG;IND;FUT = damelodeba
+ელოდება	დამელოდებით	V;2;PL;1;SG;IND;FUT = damelodebit
+ელოდება	დამელოდებიან	V;3;PL;1;SG;IND;FUT = damelodebian
+ელოდება	დაგელოდები	V;1;SG;2;SG;IND;FUT = dagelodebi
+ელოდება	დაგელოდება	V;3;SG;2;SG;IND;FUT = dagelodeba
+ელოდება	დაგელოდებით	V;1;PL;2;SG;IND;FUT = dagelodebit
+ელოდება	დაგელოდებიან	V;3;PL;2;SG;IND;FUT = dagelodebian
+ელოდება	დაველოდები	V;1;SG;3;SG;IND;FUT = davelodebi
+ელოდება	დაელოდები	V;2;SG;3;SG;IND;FUT = daelodebi
+ელოდება	დაელოდება	V;3;SG;3;SG;IND;FUT = daelodeba
+ელოდება	დაველოდებით	V;1;PL;3;SG;IND;FUT = davelodebit
+ელოდება	დაელოდებით	V;2;PL;3;SG;IND;FUT = daelodebit
+ელოდება	დაელოდებიან	V;3;PL;3;SG;IND;FUT = daelodebian
+ელოდება	დაგველოდები	V;2;SG;1;PL;IND;FUT = dagvelodebi
+ელოდება	დაგველოდება	V;3;SG;1;PL;IND;FUT = dagvelodeba
+ელოდება	დაგველოდებით	V;2;PL;1;PL;IND;FUT = dagvelodebit
+ელოდება	დაგველოდებიან	V;3;PL;1;PL;IND;FUT = dagvelodebian
+ელოდება	დაგელოდებით	V;1;SG;2;PL;IND;FUT = dagelodebit
+ელოდება	დაგელოდებათ	V;3;SG;2;PL;IND;FUT = dagelodebat
+ელოდება	დაგელოდებით	V;1;PL;2;PL;IND;FUT = dagelodebit
+ელოდება	დაგელოდებიან	V;3;PL;2;PL;IND;FUT = dagelodebian
+ელოდება	დაველოდები	V;1;SG;3;PL;IND;FUT = davelodebi
+ელოდება	დაელოდები	V;2;SG;3;PL;IND;FUT = daelodebi
+ელოდება	დაელოდება	V;3;SG;3;PL;IND;FUT = daelodeba
+ელოდება	დაველოდებით	V;1;PL;3;PL;IND;FUT = davelodebit
+ელოდება	დაელოდებით	V;2;PL;3;PL;IND;FUT = daelodebit
+ელოდება	დაელოდებიან	V;3;PL;3;PL;IND;FUT = daelodebian
+
+
+Screeve #5:
+ელოდება	დამელოდებოდი	V;2;SG;1;SG;COND = damelodebodi
+ელოდება	დამელოდებოდა	V;3;SG;1;SG;COND = damelodeboda
+ელოდება	დამელოდებოდით	V;2;PL;1;SG;COND = damelodebodit
+ელოდება	დამელოდებოდნენ	V;3;PL;1;SG;COND = damelodebodnen
+ელოდება	დაგელოდებოდი	V;1;SG;2;SG;COND = dagelodebodi
+ელოდება	დაგელოდებოდა	V;3;SG;2;SG;COND = dagelodeboda
+ელოდება	დაგელოდებოდით	V;1;PL;2;SG;COND = dagelodebodit
+ელოდება	დაგელოდებოდნენ	V;3;PL;2;SG;COND = dagelodebodnen
+ელოდება	დაველოდებოდი	V;1;SG;3;SG;COND = davelodebodi
+ელოდება	დაელოდებოდი	V;2;SG;3;SG;COND = daelodebodi
+ელოდება	დაელოდებოდა	V;3;SG;3;SG;COND = daelodeboda
+ელოდება	დაველოდებოდით	V;1;PL;3;SG;COND = davelodebodit
+ელოდება	დაელოდებოდით	V;2;PL;3;SG;COND = daelodebodit
+ელოდება	დაელოდებოდნენ	V;3;PL;3;SG;COND = daelodebodnen
+ელოდება	დაგველოდებოდი	V;2;SG;1;PL;COND = dagvelodebodi
+ელოდება	დაგველოდებოდა	V;3;SG;1;PL;COND = dagvelodeboda
+ელოდება	დაგველოდებოდით	V;2;PL;1;PL;COND = dagvelodebodit
+ელოდება	დაგველოდებოდნენ	V;3;PL;1;PL;COND = dagvelodebodnen
+ელოდება	დაგელოდებოდით	V;1;SG;2;PL;COND = dagelodebodit
+ელოდება	დაგელოდებოდათ	V;3;SG;2;PL;COND = dagelodebodat
+ელოდება	დაგელოდებოდით	V;1;PL;2;PL;COND = dagelodebodit
+ელოდება	დაგელოდებოდნენ	V;3;PL;2;PL;COND = dagelodebodnen
+ელოდება	დაველოდებოდი	V;1;SG;3;PL;COND = davelodebodi
+ელოდება	დაელოდებოდი	V;2;SG;3;PL;COND = daelodebodi
+ელოდება	დაელოდებოდა	V;3;SG;3;PL;COND = daelodeboda
+ელოდება	დაველოდებოდით	V;1;PL;3;PL;COND = davelodebodit
+ელოდება	დაელოდებოდით	V;2;PL;3;PL;COND = daelodebodit
+ელოდება	დაელოდებოდნენ	V;3;PL;3;PL;COND = daelodebodnen
+
+
+Screeve #6:
+ელოდება	დამელოდებოდე	V;2;SG;1;SG;SBJV;FUT = damelodebode
+ელოდება	დამელოდებოდეს	V;3;SG;1;SG;SBJV;FUT = damelodebodes
+ელოდება	დამელოდებოდეთ	V;2;PL;1;SG;SBJV;FUT = damelodebodet
+ელოდება	დამელოდებოდნენ	V;3;PL;1;SG;SBJV;FUT = damelodebodnen
+ელოდება	დაგელოდებოდე	V;1;SG;2;SG;SBJV;FUT = dagelodebode
+ელოდება	დაგელოდებოდეს	V;3;SG;2;SG;SBJV;FUT = dagelodebodes
+ელოდება	დაგელოდებოდეთ	V;1;PL;2;SG;SBJV;FUT = dagelodebodet
+ელოდება	დაგელოდებოდნენ	V;3;PL;2;SG;SBJV;FUT = dagelodebodnen
+ელოდება	დაველოდებოდე	V;1;SG;3;SG;SBJV;FUT = davelodebode
+ელოდება	დაელოდებოდე	V;2;SG;3;SG;SBJV;FUT = daelodebode
+ელოდება	დაელოდებოდეს	V;3;SG;3;SG;SBJV;FUT = daelodebodes
+ელოდება	დაველოდებოდეთ	V;1;PL;3;SG;SBJV;FUT = davelodebodet
+ელოდება	დაელოდებოდეთ	V;2;PL;3;SG;SBJV;FUT = daelodebodet
+ელოდება	დაელოდებოდნენ	V;3;PL;3;SG;SBJV;FUT = daelodebodnen
+ელოდება	დაგველოდებოდე	V;2;SG;1;PL;SBJV;FUT = dagvelodebode
+ელოდება	დაგველოდებოდეს	V;3;SG;1;PL;SBJV;FUT = dagvelodebodes
+ელოდება	დაგველოდებოდეთ	V;2;PL;1;PL;SBJV;FUT = dagvelodebodet
+ელოდება	დაგველოდებოდნენ	V;3;PL;1;PL;SBJV;FUT = dagvelodebodnen
+ელოდება	დაგელოდებოდეთ	V;1;SG;2;PL;SBJV;FUT = dagelodebodet
+ელოდება	დაგელოდებოდეთ	V;3;SG;2;PL;SBJV;FUT = dagelodebodet
+ელოდება	დაგელოდებოდეთ	V;1;PL;2;PL;SBJV;FUT = dagelodebodet
+ელოდება	დაგელოდებოდნენ	V;3;PL;2;PL;SBJV;FUT = dagelodebodnen
+ელოდება	დაველოდებოდე	V;1;SG;3;PL;SBJV;FUT = davelodebode
+ელოდება	დაელოდებოდე	V;2;SG;3;PL;SBJV;FUT = daelodebode
+ელოდება	დაელოდებოდეს	V;3;SG;3;PL;SBJV;FUT = daelodebodes
+ელოდება	დაველოდებოდეთ	V;1;PL;3;PL;SBJV;FUT = davelodebodet
+ელოდება	დაელოდებოდეთ	V;2;PL;3;PL;SBJV;FUT = daelodebodet
+ელოდება	დაელოდებოდნენ	V;3;PL;3;PL;SBJV;FUT = daelodebodnen
+
+
+Screeve #7:
+ელოდება	დამელოდე	V;2;SG;1;SG;IND;PST;PFV = damelode
+ელოდება	დამელოდა	V;3;SG;1;SG;IND;PST;PFV = dameloda
+ელოდება	დამელოდეთ	V;2;PL;1;SG;IND;PST;PFV = damelodet
+ელოდება	დამელოდნენ	V;3;PL;1;SG;IND;PST;PFV = damelodnen
+ელოდება	დაგელოდე	V;1;SG;2;SG;IND;PST;PFV = dagelode
+ელოდება	დაგელოდა	V;3;SG;2;SG;IND;PST;PFV = dageloda
+ელოდება	დაგელოდეთ	V;1;PL;2;SG;IND;PST;PFV = dagelodet
+ელოდება	დაგელოდნენ	V;3;PL;2;SG;IND;PST;PFV = dagelodnen
+ელოდება	დაველოდე	V;1;SG;3;SG;IND;PST;PFV = davelode
+ელოდება	დაელოდე	V;2;SG;3;SG;IND;PST;PFV = daelode
+ელოდება	დაელოდა	V;3;SG;3;SG;IND;PST;PFV = daeloda
+ელოდება	დაველოდეთ	V;1;PL;3;SG;IND;PST;PFV = davelodet
+ელოდება	დაელოდეთ	V;2;PL;3;SG;IND;PST;PFV = daelodet
+ელოდება	დაელოდნენ	V;3;PL;3;SG;IND;PST;PFV = daelodnen
+ელოდება	დაგველოდე	V;2;SG;1;PL;IND;PST;PFV = dagvelode
+ელოდება	დაგველოდა	V;3;SG;1;PL;IND;PST;PFV = dagveloda
+ელოდება	დაგველოდეთ	V;2;PL;1;PL;IND;PST;PFV = dagvelodet
+ელოდება	დაგველოდნენ	V;3;PL;1;PL;IND;PST;PFV = dagvelodnen
+ელოდება	დაგელოდეთ	V;1;SG;2;PL;IND;PST;PFV = dagelodet
+ელოდება	დაგელოდათ	V;3;SG;2;PL;IND;PST;PFV = dagelodat
+ელოდება	დაგელოდეთ	V;1;PL;2;PL;IND;PST;PFV = dagelodet
+ელოდება	დაგელოდნენ	V;3;PL;2;PL;IND;PST;PFV = dagelodnen
+ელოდება	დაველოდე	V;1;SG;3;PL;IND;PST;PFV = davelode
+ელოდება	დაელოდე	V;2;SG;3;PL;IND;PST;PFV = daelode
+ელოდება	დაელოდა	V;3;SG;3;PL;IND;PST;PFV = daeloda
+ელოდება	დაველოდეთ	V;1;PL;3;PL;IND;PST;PFV = davelodet
+ელოდება	დაელოდეთ	V;2;PL;3;PL;IND;PST;PFV = daelodet
+ელოდება	დაელოდნენ	V;3;PL;3;PL;IND;PST;PFV = daelodnen
+
+ელოდება	დამელოდე	V;2;SG;1;SG;IMP = damelode
+ელოდება	დამელოდეთ	V;2;PL;1;SG;IMP = damelodet
+ელოდება	დაელოდე	V;2;SG;3;SG;IMP = daelode
+ელოდება	დაელოდეთ	V;2;PL;3;SG;IMP = daelodet
+ელოდება	დაგველოდე	V;2;SG;1;PL;IMP = dagvelode
+ელოდება	დაგველოდეთ	V;2;PL;1;PL;IMP = dagvelodet
+ელოდება	დაელოდე	V;2;SG;3;PL;IMP = daelode
+ელოდება	დაელოდეთ	V;2;PL;3;PL;IMP = daelodet
+
+
+
+Screeve #8:
+ელოდება	დამელოდო	V;2;SG;1;SG;OPT = damelodo
+ელოდება	დამელოდოს	V;3;SG;1;SG;OPT = damelodos
+ელოდება	დამელოდოთ	V;2;PL;1;SG;OPT = damelodot
+ელოდება	დამელოდონ	V;3;PL;1;SG;OPT = damelodon
+ელოდება	დაგელოდო	V;1;SG;2;SG;OPT = dagelodo
+ელოდება	დაგელოდოს	V;3;SG;2;SG;OPT = dagelodos
+ელოდება	დაგელოდოთ	V;1;PL;2;SG;OPT = dagelodot
+ელოდება	დაგელოდონ	V;3;PL;2;SG;OPT = dagelodon
+ელოდება	დაველოდო	V;1;SG;3;SG;OPT = davelodo
+ელოდება	დაელოდო	V;2;SG;3;SG;OPT = daelodo
+ელოდება	დაელოდოს	V;3;SG;3;SG;OPT = daelodos
+ელოდება	დაველოდოთ	V;1;PL;3;SG;OPT = davelodot
+ელოდება	დაელოდოთ	V;2;PL;3;SG;OPT = daelodot
+ელოდება	დაელოდონ	V;3;PL;3;SG;OPT = daelodon
+ელოდება	დაგველოდო	V;2;SG;1;PL;OPT = dagvelodo
+ელოდება	დაგველოდოს	V;3;SG;1;PL;OPT = dagvelodos
+ელოდება	დაგველოდოთ	V;2;PL;1;PL;OPT = dagvelodot
+ელოდება	დაგველოდონ	V;3;PL;1;PL;OPT = dagvelodon
+ელოდება	დაგელოდოთ	V;1;SG;2;PL;OPT = dagelodot
+ელოდება	დაგელოდოთ	V;3;SG;2;PL;OPT = dagelodot
+ელოდება	დაგელოდოთ	V;1;PL;2;PL;OPT = dagelodot
+ელოდება	დაგელოდონ	V;3;PL;2;PL;OPT = dagelodon
+ელოდება	დაველოდო	V;1;SG;3;PL;OPT = davelodo
+ელოდება	დაელოდო	V;2;SG;3;PL;OPT = daelodo
+ელოდება	დაელოდოს	V;3;SG;3;PL;OPT = daelodos
+ელოდება	დაველოდოთ	V;1;PL;3;PL;OPT = davelodot
+ელოდება	დაელოდოთ	V;2;PL;3;PL;OPT = daelodot
+ელოდება	დაელოდონ	V;3;PL;3;PL;OPT = daelodon
+
+ელოდება	დამელოდონ	V;3;PL;1;SG;IMP = damelodon
+ელოდება	დამელოდოს	V;3;SG;1;SG;IMP = damelodos
+ელოდება	დაგელოდონ	V;3;PL;2;SG;IMP = dagelodon
+ელოდება	დაგელოდოს	V;3;SG;2;SG;IMP = dagelodos
+ელოდება	დაგელოდოთ	V;1;PL;2;SG;IMP = dagelodot
+ელოდება	დაელოდონ	V;3;PL;3;SG;IMP = daelodon
+ელოდება	დაელოდოს	V;3;SG;3;SG;IMP = daelodos
+ელოდება	დაველოდოთ	V;1;PL;3;SG;IMP = davelodot
+ელოდება	დაგველოდონ	V;3;PL;1;PL;IMP = dagvelodon
+ელოდება	დაგველოდოს	V;3;SG;1;PL;IMP = dagvelodos
+ელოდება	დაგელოდონ	V;3;PL;2;PL;IMP = dagelodon
+ელოდება	დაგელოდოთ	V;3;SG;2;PL;IMP = dagelodot
+ელოდება	დაგელოდოთ	V;1;PL;2;PL;IMP = dagelodot
+ელოდება	დაელოდონ	V;3;PL;3;PL;IMP = daelodon
+ელოდება	დაელოდოს	V;3;SG;3;PL;IMP = daelodos
+ელოდება	დაველოდოთ	V;1;PL;3;PL;IMP = davelodot
+
+
+
+Screeve #9:
+ელოდება	დამლოდებიხარ	V;2;SG;1;SG;IND;PRF = damlodebixar
+ელოდება	დამლოდებია	V;3;SG;1;SG;IND;PRF = damlodebia
+ელოდება	დამლოდებიხართ	V;2;PL;1;SG;IND;PRF = damlodebixart
+ელოდება	დამლოდებიან	V;3;PL;1;SG;IND;PRF = damlodebian
+ელოდება	დაგლოდებივარ	V;1;SG;2;SG;IND;PRF = daglodebivar
+ელოდება	დაგლოდებია	V;3;SG;2;SG;IND;PRF = daglodebia
+ელოდება	დაგლოდებივართ	V;1;PL;2;SG;IND;PRF = daglodebivart
+ელოდება	დაგლოდებიან	V;3;PL;2;SG;IND;PRF = daglodebian
+ელოდება	დავლოდებივარ	V;1;SG;3;SG;IND;PRF = davlodebivar
+ელოდება	დალოდებიხარ	V;2;SG;3;SG;IND;PRF = dalodebixar
+ელოდება	დალოდებია	V;3;SG;3;SG;IND;PRF = dalodebia
+ელოდება	დავლოდებივართ	V;1;PL;3;SG;IND;PRF = davlodebivart
+ელოდება	დალოდებიხართ	V;2;PL;3;SG;IND;PRF = dalodebixart
+ელოდება	დალოდებიან	V;3;PL;3;SG;IND;PRF = dalodebian
+ელოდება	დაგვლოდებიხარ	V;2;SG;1;PL;IND;PRF = dagvlodebixar
+ელოდება	დაგვლოდებია	V;3;SG;1;PL;IND;PRF = dagvlodebia
+ელოდება	დაგვლოდებიხართ	V;2;PL;1;PL;IND;PRF = dagvlodebixart
+ელოდება	დაგვლოდებიან	V;3;PL;1;PL;IND;PRF = dagvlodebian
+ელოდება	დაგლოდებივართ	V;1;SG;2;PL;IND;PRF = daglodebivart
+ელოდება	დაგლოდებიათ	V;3;SG;2;PL;IND;PRF = daglodebiat
+ელოდება	დაგლოდებივართ	V;1;PL;2;PL;IND;PRF = daglodebivart
+ელოდება	დაგლოდებიან	V;3;PL;2;PL;IND;PRF = daglodebian
+ელოდება	დავლოდებივარ	V;1;SG;3;PL;IND;PRF = davlodebivar
+ელოდება	დალოდებიხარ	V;2;SG;3;PL;IND;PRF = dalodebixar
+ელოდება	დალოდებია	V;3;SG;3;PL;IND;PRF = dalodebia
+ელოდება	დავლოდებივართ	V;1;PL;3;PL;IND;PRF = davlodebivart
+ელოდება	დალოდებიხართ	V;2;PL;3;PL;IND;PRF = dalodebixart
+ელოდება	დალოდებიან	V;3;PL;3;PL;IND;PRF = dalodebian
+
+
+Screeve #10:
+ელოდება	დამლოდებოდი	V;2;SG;1;SG;IND;PST;PRF = damlodebodi
+ელოდება	დამლოდებოდა	V;3;SG;1;SG;IND;PST;PRF = damlodeboda
+ელოდება	დამლოდებოდით	V;2;PL;1;SG;IND;PST;PRF = damlodebodit
+ელოდება	დამლოდებოდნენ	V;3;PL;1;SG;IND;PST;PRF = damlodebodnen
+ელოდება	დაგლოდებოდი	V;1;SG;2;SG;IND;PST;PRF = daglodebodi
+ელოდება	დაგლოდებოდა	V;3;SG;2;SG;IND;PST;PRF = daglodeboda
+ელოდება	დაგლოდებოდით	V;1;PL;2;SG;IND;PST;PRF = daglodebodit
+ელოდება	დაგლოდებოდნენ	V;3;PL;2;SG;IND;PST;PRF = daglodebodnen
+ელოდება	დავლოდებოდი	V;1;SG;3;SG;IND;PST;PRF = davlodebodi
+ელოდება	დალოდებოდი	V;2;SG;3;SG;IND;PST;PRF = dalodebodi
+ელოდება	დალოდებოდა	V;3;SG;3;SG;IND;PST;PRF = dalodeboda
+ელოდება	დავლოდებოდით	V;1;PL;3;SG;IND;PST;PRF = davlodebodit
+ელოდება	დალოდებოდით	V;2;PL;3;SG;IND;PST;PRF = dalodebodit
+ელოდება	დალოდებოდნენ	V;3;PL;3;SG;IND;PST;PRF = dalodebodnen
+ელოდება	დაგვლოდებოდი	V;2;SG;1;PL;IND;PST;PRF = dagvlodebodi
+ელოდება	დაგვლოდებოდა	V;3;SG;1;PL;IND;PST;PRF = dagvlodeboda
+ელოდება	დაგვლოდებოდით	V;2;PL;1;PL;IND;PST;PRF = dagvlodebodit
+ელოდება	დაგვლოდებოდნენ	V;3;PL;1;PL;IND;PST;PRF = dagvlodebodnen
+ელოდება	დაგლოდებოდით	V;1;SG;2;PL;IND;PST;PRF = daglodebodit
+ელოდება	დაგლოდებოდათ	V;3;SG;2;PL;IND;PST;PRF = daglodebodat
+ელოდება	დაგლოდებოდით	V;1;PL;2;PL;IND;PST;PRF = daglodebodit
+ელოდება	დაგლოდებოდნენ	V;3;PL;2;PL;IND;PST;PRF = daglodebodnen
+ელოდება	დავლოდებოდი	V;1;SG;3;PL;IND;PST;PRF = davlodebodi
+ელოდება	დალოდებოდი	V;2;SG;3;PL;IND;PST;PRF = dalodebodi
+ელოდება	დალოდებოდა	V;3;SG;3;PL;IND;PST;PRF = dalodeboda
+ელოდება	დავლოდებოდით	V;1;PL;3;PL;IND;PST;PRF = davlodebodit
+ელოდება	დალოდებოდით	V;2;PL;3;PL;IND;PST;PRF = dalodebodit
+ელოდება	დალოდებოდნენ	V;3;PL;3;PL;IND;PST;PRF = dalodebodnen
+
+
+Screeve #11:
+ელოდება	დამლოდებოდე	V;2;SG;1;SG;SBJV;PRF = damlodebode
+ელოდება	დამლოდებოდეს	V;3;SG;1;SG;SBJV;PRF = damlodebodes
+ელოდება	დამლოდებოდეთ	V;2;PL;1;SG;SBJV;PRF = damlodebodet
+ელოდება	დამლოდებოდნენ	V;3;PL;1;SG;SBJV;PRF = damlodebodnen
+ელოდება	დაგლოდებოდე	V;1;SG;2;SG;SBJV;PRF = daglodebode
+ელოდება	დაგლოდებოდეს	V;3;SG;2;SG;SBJV;PRF = daglodebodes
+ელოდება	დაგლოდებოდეთ	V;1;PL;2;SG;SBJV;PRF = daglodebodet
+ელოდება	დაგლოდებოდნენ	V;3;PL;2;SG;SBJV;PRF = daglodebodnen
+ელოდება	დავლოდებოდე	V;1;SG;3;SG;SBJV;PRF = davlodebode
+ელოდება	დალოდებოდე	V;2;SG;3;SG;SBJV;PRF = dalodebode
+ელოდება	დალოდებოდეს	V;3;SG;3;SG;SBJV;PRF = dalodebodes
+ელოდება	დავლოდებოდეთ	V;1;PL;3;SG;SBJV;PRF = davlodebodet
+ელოდება	დალოდებოდეთ	V;2;PL;3;SG;SBJV;PRF = dalodebodet
+ელოდება	დალოდებოდნენ	V;3;PL;3;SG;SBJV;PRF = dalodebodnen
+ელოდება	დაგვლოდებოდე	V;2;SG;1;PL;SBJV;PRF = dagvlodebode
+ელოდება	დაგვლოდებოდეს	V;3;SG;1;PL;SBJV;PRF = dagvlodebodes
+ელოდება	დაგვლოდებოდეთ	V;2;PL;1;PL;SBJV;PRF = dagvlodebodet
+ელოდება	დაგვლოდებოდნენ	V;3;PL;1;PL;SBJV;PRF = dagvlodebodnen
+ელოდება	დაგლოდებოდეთ	V;1;SG;2;PL;SBJV;PRF = daglodebodet
+ელოდება	დაგლოდებოდეთ	V;3;SG;2;PL;SBJV;PRF = daglodebodet
+ელოდება	დაგლოდებოდეთ	V;1;PL;2;PL;SBJV;PRF = daglodebodet
+ელოდება	დაგლოდებოდნენ	V;3;PL;2;PL;SBJV;PRF = daglodebodnen
+ელოდება	დავლოდებოდე	V;1;SG;3;PL;SBJV;PRF = davlodebode
+ელოდება	დალოდებოდე	V;2;SG;3;PL;SBJV;PRF = dalodebode
+ელოდება	დალოდებოდეს	V;3;SG;3;PL;SBJV;PRF = dalodebodes
+ელოდება	დავლოდებოდეთ	V;1;PL;3;PL;SBJV;PRF = davlodebodet
+ელოდება	დალოდებოდეთ	V;2;PL;3;PL;SBJV;PRF = dalodebodet
+ელოდება	დალოდებოდნენ	V;3;PL;3;PL;SBJV;PRF = dalodebodnen
+
+
+ელოდება	დალოდება	V;V.MSDR;PRF
+ელოდება	ლოდინი	V;V.MSDR;IPFV

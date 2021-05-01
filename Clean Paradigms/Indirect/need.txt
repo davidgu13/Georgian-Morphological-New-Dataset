@@ -1,0 +1,281 @@
+#8 - სჭირდება - need:
+Screeve #1:
+სჭირდება	გჭირდებვარ	V;2;SG;1;SG;IND;PRS = gč'irdebvar
+სჭირდება	ვჭირდებვარ	V;3;SG;1;SG;IND;PRS = vč'irdebvar
+სჭირდება	გჭირდებვართ	V;2;PL;1;SG;IND;PRS = gč'irdebvart
+სჭირდება	ვჭირდებვართ	V;3;PL;1;SG;IND;PRS = vč'irdebvart
+სჭირდება	მჭირდებხარ	V;1;SG;2;SG;IND;PRS = mč'irdebxar
+სჭირდება	სჭირდებხარ	V;3;SG;2;SG;IND;PRS = sč'irdebxar
+სჭირდება	გვჭირდებხარ	V;1;PL;2;SG;IND;PRS = gvč'irdebxar
+სჭირდება	სჭირდებხარ	V;3;PL;2;SG;IND;PRS = sč'irdebxar
+სჭირდება	მჭირდება	V;1;SG;3;SG;IND;PRS = mč'irdeba
+სჭირდება	გჭირდება	V;2;SG;3;SG;IND;PRS = gč'irdeba
+სჭირდება	სჭირდება	V;3;SG;3;SG;IND;PRS = sč'irdeba
+სჭირდება	გვჭირდება	V;1;PL;3;SG;IND;PRS = gvč'irdeba
+სჭირდება	გჭირდებათ	V;2;PL;3;SG;IND;PRS = gč'irdebat
+სჭირდება	სჭირდებათ	V;3;PL;3;SG;IND;PRS = sč'irdebat
+სჭირდება	გჭირდებვართ	V;2;SG;1;PL;IND;PRS = gč'irdebvart
+სჭირდება	ვჭირდებვართ	V;3;SG;1;PL;IND;PRS = vč'irdebvart
+სჭირდება	გჭირდებვართ	V;2;PL;1;PL;IND;PRS = gč'irdebvart
+სჭირდება	ვჭირდებვართ	V;3;PL;1;PL;IND;PRS = vč'irdebvart
+სჭირდება	მჭირდებხართ	V;1;SG;2;PL;IND;PRS = mč'irdebxart
+სჭირდება	სჭირდებხართ	V;3;SG;2;PL;IND;PRS = sč'irdebxart
+სჭირდება	გვჭირდებხართ	V;1;PL;2;PL;IND;PRS = gvč'irdebxart
+სჭირდება	სჭირდებხართ	V;3;PL;2;PL;IND;PRS = sč'irdebxart
+სჭირდება	მჭირდება	V;1;SG;3;PL;IND;PRS = mč'irdeba
+სჭირდება	გჭირდება	V;2;SG;3;PL;IND;PRS = gč'irdeba
+სჭირდება	სჭირდება	V;3;SG;3;PL;IND;PRS = sč'irdeba
+სჭირდება	გვჭირდება	V;1;PL;3;PL;IND;PRS = gvč'irdeba
+სჭირდება	გჭირდებათ	V;2;PL;3;PL;IND;PRS = gč'irdebat
+სჭირდება	სჭირდებათ	V;3;PL;3;PL;IND;PRS = sč'irdebat
+
+
+Screeve #2:
+სჭირდება	გჭირდებოდი	V;2;SG;1;SG;IND;IPFV = gč'irdebodi
+სჭირდება	ვჭირდებოდი	V;3;SG;1;SG;IND;IPFV = vč'irdebodi
+სჭირდება	გჭირდებოდით	V;2;PL;1;SG;IND;IPFV = gč'irdebodit
+სჭირდება	ვჭირდებოდით	V;3;PL;1;SG;IND;IPFV = vč'irdebodit
+სჭირდება	მჭირდებოდი	V;1;SG;2;SG;IND;IPFV = mč'irdebodi
+სჭირდება	სჭირდებოდი	V;3;SG;2;SG;IND;IPFV = sč'irdebodi
+სჭირდება	გვჭირდებოდი	V;1;PL;2;SG;IND;IPFV = gvč'irdebodi
+სჭირდება	სჭირდებოდი	V;3;PL;2;SG;IND;IPFV = sč'irdebodi
+სჭირდება	მჭირდებოდა	V;1;SG;3;SG;IND;IPFV = mč'irdeboda
+სჭირდება	გჭირდებოდა	V;2;SG;3;SG;IND;IPFV = gč'irdeboda
+სჭირდება	სჭირდებოდა	V;3;SG;3;SG;IND;IPFV = sč'irdeboda
+სჭირდება	გვჭირდებოდა	V;1;PL;3;SG;IND;IPFV = gvč'irdeboda
+სჭირდება	გჭირდებოდათ	V;2;PL;3;SG;IND;IPFV = gč'irdebodat
+სჭირდება	სჭირდებოდათ	V;3;PL;3;SG;IND;IPFV = sč'irdebodat
+სჭირდება	გჭირდებოდით	V;2;SG;1;PL;IND;IPFV = gč'irdebodit
+სჭირდება	ვჭირდებოდით	V;3;SG;1;PL;IND;IPFV = vč'irdebodit
+სჭირდება	გჭირდებოდით	V;2;PL;1;PL;IND;IPFV = gč'irdebodit
+სჭირდება	ვჭირდებოდით	V;3;PL;1;PL;IND;IPFV = vč'irdebodit
+სჭირდება	მჭირდებოდით	V;1;SG;2;PL;IND;IPFV = mč'irdebodit
+სჭირდება	სჭირდებოდით	V;3;SG;2;PL;IND;IPFV = sč'irdebodit
+სჭირდება	გვჭირდებოდით	V;1;PL;2;PL;IND;IPFV = gvč'irdebodit
+სჭირდება	სჭირდებოდით	V;3;PL;2;PL;IND;IPFV = sč'irdebodit
+სჭირდება	მჭირდებოდა	V;1;SG;3;PL;IND;IPFV = mč'irdeboda
+სჭირდება	გჭირდებოდა	V;2;SG;3;PL;IND;IPFV = gč'irdeboda
+სჭირდება	სჭირდებოდა	V;3;SG;3;PL;IND;IPFV = sč'irdeboda
+სჭირდება	გვჭირდებოდა	V;1;PL;3;PL;IND;IPFV = gvč'irdeboda
+სჭირდება	გჭირდებოდათ	V;2;PL;3;PL;IND;IPFV = gč'irdebodat
+სჭირდება	სჭირდებოდათ	V;3;PL;3;PL;IND;IPFV = sč'irdebodat
+
+
+Screeve #3:
+სჭირდება	გჭირდებოდე	V;2;SG;1;SG;SBJV;PRS = gč'irdebode
+სჭირდება	ვჭირდებოდე	V;3;SG;1;SG;SBJV;PRS = vč'irdebode
+სჭირდება	გჭირდებოდეთ	V;2;PL;1;SG;SBJV;PRS = gč'irdebodet
+სჭირდება	ვჭირდებოდეთ	V;3;PL;1;SG;SBJV;PRS = vč'irdebodet
+სჭირდება	მჭირდებოდე	V;1;SG;2;SG;SBJV;PRS = mč'irdebode
+სჭირდება	სჭირდებოდე	V;3;SG;2;SG;SBJV;PRS = sč'irdebode
+სჭირდება	გვჭირდებოდე	V;1;PL;2;SG;SBJV;PRS = gvč'irdebode
+სჭირდება	სჭირდებოდე	V;3;PL;2;SG;SBJV;PRS = sč'irdebode
+სჭირდება	მჭირდებოდეს	V;1;SG;3;SG;SBJV;PRS = mč'irdebodes
+სჭირდება	გჭირდებოდეს	V;2;SG;3;SG;SBJV;PRS = gč'irdebodes
+სჭირდება	სჭირდებოდეს	V;3;SG;3;SG;SBJV;PRS = sč'irdebodes
+სჭირდება	გვჭირდებოდეს	V;1;PL;3;SG;SBJV;PRS = gvč'irdebodes
+სჭირდება	გჭირდებოდეთ	V;2;PL;3;SG;SBJV;PRS = gč'irdebodet
+სჭირდება	სჭირდებოდეთ	V;3;PL;3;SG;SBJV;PRS = sč'irdebodet
+სჭირდება	გჭირდებოდეთ	V;2;SG;1;PL;SBJV;PRS = gč'irdebodet
+სჭირდება	ვჭირდებოდეთ	V;3;SG;1;PL;SBJV;PRS = vč'irdebodet
+სჭირდება	გჭირდებოდეთ	V;2;PL;1;PL;SBJV;PRS = gč'irdebodet
+სჭირდება	ვჭირდებოდეთ	V;3;PL;1;PL;SBJV;PRS = vč'irdebodet
+სჭირდება	მჭირდებოდეთ	V;1;SG;2;PL;SBJV;PRS = mč'irdebodet
+სჭირდება	სჭირდებოდეთ	V;3;SG;2;PL;SBJV;PRS = sč'irdebodet
+სჭირდება	გვჭირდებოდეთ	V;1;PL;2;PL;SBJV;PRS = gvč'irdebodet
+სჭირდება	სჭირდებოდეთ	V;3;PL;2;PL;SBJV;PRS = sč'irdebodet
+სჭირდება	მჭირდებოდეს	V;1;SG;3;PL;SBJV;PRS = mč'irdebodes
+სჭირდება	გჭირდებოდეს	V;2;SG;3;PL;SBJV;PRS = gč'irdebodes
+სჭირდება	სჭირდებოდეს	V;3;SG;3;PL;SBJV;PRS = sč'irdebodes
+სჭირდება	გვჭირდებოდეს	V;1;PL;3;PL;SBJV;PRS = gvč'irdebodes
+სჭირდება	გჭირდებოდეთ	V;2;PL;3;PL;SBJV;PRS = gč'irdebodet
+სჭირდება	სჭირდებოდეთ	V;3;PL;3;PL;SBJV;PRS = sč'irdebodet
+
+
+Screeve #4:
+სჭირდება	დაგჭირდები	V;2;SG;1;SG;IND;FUT = dagč'irdebi
+სჭირდება	დავჭირდები	V;3;SG;1;SG;IND;FUT = davč'irdebi
+სჭირდება	დაგჭირდებით	V;2;PL;1;SG;IND;FUT = dagč'irdebit
+სჭირდება	დავჭირდებით	V;3;PL;1;SG;IND;FUT = davč'irdebit
+სჭირდება	დამჭირდები	V;1;SG;2;SG;IND;FUT = damč'irdebi
+სჭირდება	დასჭირდები	V;3;SG;2;SG;IND;FUT = dasč'irdebi
+სჭირდება	დაგვჭირდები	V;1;PL;2;SG;IND;FUT = dagvč'irdebi
+სჭირდება	დასჭირდები	V;3;PL;2;SG;IND;FUT = dasč'irdebi
+სჭირდება	დამჭირდება	V;1;SG;3;SG;IND;FUT = damč'irdeba
+სჭირდება	დაგჭირდება	V;2;SG;3;SG;IND;FUT = dagč'irdeba
+სჭირდება	დასჭირდება	V;3;SG;3;SG;IND;FUT = dasč'irdeba
+სჭირდება	დაგვჭირდება	V;1;PL;3;SG;IND;FUT = dagvč'irdeba
+სჭირდება	დაგჭირდებათ	V;2;PL;3;SG;IND;FUT = dagč'irdebat
+სჭირდება	დასჭირდებათ	V;3;PL;3;SG;IND;FUT = dasč'irdebat
+სჭირდება	დაგჭირდებით	V;2;SG;1;PL;IND;FUT = dagč'irdebit
+სჭირდება	დავჭირდებით	V;3;SG;1;PL;IND;FUT = davč'irdebit
+სჭირდება	დაგჭირდებით	V;2;PL;1;PL;IND;FUT = dagč'irdebit
+სჭირდება	დავჭირდებით	V;3;PL;1;PL;IND;FUT = davč'irdebit
+სჭირდება	დამჭირდებით	V;1;SG;2;PL;IND;FUT = damč'irdebit
+სჭირდება	დასჭირდებით	V;3;SG;2;PL;IND;FUT = dasč'irdebit
+სჭირდება	დაგვჭირდებით	V;1;PL;2;PL;IND;FUT = dagvč'irdebit
+სჭირდება	დასჭირდებით	V;3;PL;2;PL;IND;FUT = dasč'irdebit
+სჭირდება	დამჭირდება	V;1;SG;3;PL;IND;FUT = damč'irdeba
+სჭირდება	დაგჭირდება	V;2;SG;3;PL;IND;FUT = dagč'irdeba
+სჭირდება	დასჭირდება	V;3;SG;3;PL;IND;FUT = dasč'irdeba
+სჭირდება	დაგვჭირდება	V;1;PL;3;PL;IND;FUT = dagvč'irdeba
+სჭირდება	დაგჭირდებათ	V;2;PL;3;PL;IND;FUT = dagč'irdebat
+სჭირდება	დასჭირდებათ	V;3;PL;3;PL;IND;FUT = dasč'irdebat
+
+
+Screeve #5:
+სჭირდება	დაგჭირდებოდი	V;2;SG;1;SG;COND = dagč'irdebodi
+სჭირდება	დავჭირდებოდი	V;3;SG;1;SG;COND = davč'irdebodi
+სჭირდება	დაგჭირდებოდით	V;2;PL;1;SG;COND = dagč'irdebodit
+სჭირდება	დავჭირდებოდით	V;3;PL;1;SG;COND = davč'irdebodit
+სჭირდება	დამჭირდებოდი	V;1;SG;2;SG;COND = damč'irdebodi
+სჭირდება	დასჭირდებოდი	V;3;SG;2;SG;COND = dasč'irdebodi
+სჭირდება	დაგვჭირდებოდი	V;1;PL;2;SG;COND = dagvč'irdebodi
+სჭირდება	დასჭირდებოდი	V;3;PL;2;SG;COND = dasč'irdebodi
+სჭირდება	დამჭირდებოდა	V;1;SG;3;SG;COND = damč'irdeboda
+სჭირდება	დაგჭირდებოდა	V;2;SG;3;SG;COND = dagč'irdeboda
+სჭირდება	დასჭირდებოდა	V;3;SG;3;SG;COND = dasč'irdeboda
+სჭირდება	დაგვჭირდებოდა	V;1;PL;3;SG;COND = dagvč'irdeboda
+სჭირდება	დაგჭირდებოდათ	V;2;PL;3;SG;COND = dagč'irdebodat
+სჭირდება	დასჭირდებოდათ	V;3;PL;3;SG;COND = dasč'irdebodat
+სჭირდება	დაგჭირდებოდით	V;2;SG;1;PL;COND = dagč'irdebodit
+სჭირდება	დავჭირდებოდით	V;3;SG;1;PL;COND = davč'irdebodit
+სჭირდება	დაგჭირდებოდით	V;2;PL;1;PL;COND = dagč'irdebodit
+სჭირდება	დავჭირდებოდით	V;3;PL;1;PL;COND = davč'irdebodit
+სჭირდება	დამჭირდებოდით	V;1;SG;2;PL;COND = damč'irdebodit
+სჭირდება	დასჭირდებოდით	V;3;SG;2;PL;COND = dasč'irdebodit
+სჭირდება	დაგვჭირდებოდით	V;1;PL;2;PL;COND = dagvč'irdebodit
+სჭირდება	დასჭირდებოდით	V;3;PL;2;PL;COND = dasč'irdebodit
+სჭირდება	დამჭირდებოდა	V;1;SG;3;PL;COND = damč'irdeboda
+სჭირდება	დაგჭირდებოდა	V;2;SG;3;PL;COND = dagč'irdeboda
+სჭირდება	დასჭირდებოდა	V;3;SG;3;PL;COND = dasč'irdeboda
+სჭირდება	დაგვჭირდებოდა	V;1;PL;3;PL;COND = dagvč'irdeboda
+სჭირდება	დაგჭირდებოდათ	V;2;PL;3;PL;COND = dagč'irdebodat
+სჭირდება	დასჭირდებოდათ	V;3;PL;3;PL;COND = dasč'irdebodat
+
+
+Screeve #6:
+სჭირდება	დაგჭირდებოდე	V;2;SG;1;SG;SBJV;FUT = dagč'irdebode
+სჭირდება	დავჭირდებოდე	V;3;SG;1;SG;SBJV;FUT = davč'irdebode
+სჭირდება	დაგჭირდებოდეთ	V;2;PL;1;SG;SBJV;FUT = dagč'irdebodet
+სჭირდება	დავჭირდებოდეთ	V;3;PL;1;SG;SBJV;FUT = davč'irdebodet
+სჭირდება	დამჭირდებოდე	V;1;SG;2;SG;SBJV;FUT = damč'irdebode
+სჭირდება	დასჭირდებოდე	V;3;SG;2;SG;SBJV;FUT = dasč'irdebode
+სჭირდება	დაგვჭირდებოდე	V;1;PL;2;SG;SBJV;FUT = dagvč'irdebode
+სჭირდება	დასჭირდებოდე	V;3;PL;2;SG;SBJV;FUT = dasč'irdebode
+სჭირდება	დამჭირდებოდეს	V;1;SG;3;SG;SBJV;FUT = damč'irdebodes
+სჭირდება	დაგჭირდებოდეს	V;2;SG;3;SG;SBJV;FUT = dagč'irdebodes
+სჭირდება	დასჭირდებოდეს	V;3;SG;3;SG;SBJV;FUT = dasč'irdebodes
+სჭირდება	დაგვჭირდებოდეს	V;1;PL;3;SG;SBJV;FUT = dagvč'irdebodes
+სჭირდება	დაგჭირდებოდეთ	V;2;PL;3;SG;SBJV;FUT = dagč'irdebodet
+სჭირდება	დასჭირდებოდეთ	V;3;PL;3;SG;SBJV;FUT = dasč'irdebodet
+სჭირდება	დაგჭირდებოდეთ	V;2;SG;1;PL;SBJV;FUT = dagč'irdebodet
+სჭირდება	დავჭირდებოდეთ	V;3;SG;1;PL;SBJV;FUT = davč'irdebodet
+სჭირდება	დაგჭირდებოდეთ	V;2;PL;1;PL;SBJV;FUT = dagč'irdebodet
+სჭირდება	დავჭირდებოდეთ	V;3;PL;1;PL;SBJV;FUT = davč'irdebodet
+სჭირდება	დამჭირდებოდეთ	V;1;SG;2;PL;SBJV;FUT = damč'irdebodet
+სჭირდება	დასჭირდებოდეთ	V;3;SG;2;PL;SBJV;FUT = dasč'irdebodet
+სჭირდება	დაგვჭირდებოდეთ	V;1;PL;2;PL;SBJV;FUT = dagvč'irdebodet
+სჭირდება	დასჭირდებოდეთ	V;3;PL;2;PL;SBJV;FUT = dasč'irdebodet
+სჭირდება	დამჭირდებოდეს	V;1;SG;3;PL;SBJV;FUT = damč'irdebodes
+სჭირდება	დაგჭირდებოდეს	V;2;SG;3;PL;SBJV;FUT = dagč'irdebodes
+სჭირდება	დასჭირდებოდეს	V;3;SG;3;PL;SBJV;FUT = dasč'irdebodes
+სჭირდება	დაგვჭირდებოდეს	V;1;PL;3;PL;SBJV;FUT = dagvč'irdebodes
+სჭირდება	დაგჭირდებოდეთ	V;2;PL;3;PL;SBJV;FUT = dagč'irdebodet
+სჭირდება	დასჭირდებოდეთ	V;3;PL;3;PL;SBJV;FUT = dasč'irdebodet
+
+
+Screeve #9:
+სჭირდება	დაგჭირვებივარ	V;2;SG;1;SG;IND;PRF = dagč'irvebivar
+სჭირდება	დავჭირვებივარ	V;3;SG;1;SG;IND;PRF = davč'irvebivar
+სჭირდება	დაგჭირვებივართ	V;2;PL;1;SG;IND;PRF = dagč'irvebivart
+სჭირდება	დავჭირვებივარ	V;3;PL;1;SG;IND;PRF = davč'irvebivar
+სჭირდება	დამჭირვებიხარ	V;1;SG;2;SG;IND;PRF = damč'irvebixar
+სჭირდება	დასჭირვებიხარ	V;3;SG;2;SG;IND;PRF = dasč'irvebixar
+სჭირდება	დაგვჭირვებიხარ	V;1;PL;2;SG;IND;PRF = dagvč'irvebixar
+სჭირდება	დასჭირვებიხარ	V;3;PL;2;SG;IND;PRF = dasč'irvebixar
+სჭირდება	დამჭირვებია	V;1;SG;3;SG;IND;PRF = damč'irvebia
+სჭირდება	დაგჭირვებია	V;2;SG;3;SG;IND;PRF = dagč'irvebia
+სჭირდება	დასჭირვებია	V;3;SG;3;SG;IND;PRF = dasč'irvebia
+სჭირდება	დაგვჭირვებია	V;1;PL;3;SG;IND;PRF = dagvč'irvebia
+სჭირდება	დაგჭირვებიათ	V;2;PL;3;SG;IND;PRF = dagč'irvebiat
+სჭირდება	დასჭირვებიათ	V;3;PL;3;SG;IND;PRF = dasč'irvebiat
+სჭირდება	დაგჭირვებივართ	V;2;SG;1;PL;IND;PRF = dagč'irvebivart
+სჭირდება	დავჭირვებივართ	V;3;SG;1;PL;IND;PRF = davč'irvebivart
+სჭირდება	დაგჭირვებივართ	V;2;PL;1;PL;IND;PRF = dagč'irvebivart
+სჭირდება	დავჭირვებივართ	V;3;PL;1;PL;IND;PRF = davč'irvebivart
+სჭირდება	დამჭირვებიხართ	V;1;SG;2;PL;IND;PRF = damč'irvebixart
+სჭირდება	დასჭირვებიხართ	V;3;SG;2;PL;IND;PRF = dasč'irvebixart
+სჭირდება	დაგვჭირვებიხართ	V;1;PL;2;PL;IND;PRF = dagvč'irvebixart
+სჭირდება	დასჭირვებიხართ	V;3;PL;2;PL;IND;PRF = dasč'irvebixart
+სჭირდება	დამჭირვებია	V;1;SG;3;PL;IND;PRF = damč'irvebia
+სჭირდება	დაგჭირვებია	V;2;SG;3;PL;IND;PRF = dagč'irvebia
+სჭირდება	დასჭირვებია	V;3;SG;3;PL;IND;PRF = dasč'irvebia
+სჭირდება	დაგვჭირვებია	V;1;PL;3;PL;IND;PRF = dagvč'irvebia
+სჭირდება	დაგჭირვებიათ	V;2;PL;3;PL;IND;PRF = dagč'irvebiat
+სჭირდება	დასჭირვებიათ	V;3;PL;3;PL;IND;PRF = dasč'irvebiat
+
+
+Screeve #10:
+სჭირდება	დაგჭირვებოდი	V;2;SG;1;SG;IND;PST;PRF = dagč'irvebodi
+სჭირდება	დავჭირვებოდი	V;3;SG;1;SG;IND;PST;PRF = davč'irvebodi
+სჭირდება	დაგჭირვებოდით	V;2;PL;1;SG;IND;PST;PRF = dagč'irvebodit
+სჭირდება	დავჭირვებოდით	V;3;PL;1;SG;IND;PST;PRF = davč'irvebodit
+სჭირდება	დამჭირვებოდი	V;1;SG;2;SG;IND;PST;PRF = damč'irvebodi
+სჭირდება	დასჭირვებოდი	V;3;SG;2;SG;IND;PST;PRF = dasč'irvebodi
+სჭირდება	დაგვჭირვებოდი	V;1;PL;2;SG;IND;PST;PRF = dagvč'irvebodi
+სჭირდება	დასჭირვებოდი	V;3;PL;2;SG;IND;PST;PRF = dasč'irvebodi
+სჭირდება	დამჭირვებოდა	V;1;SG;3;SG;IND;PST;PRF = damč'irveboda
+სჭირდება	დაგჭირვებოდა	V;2;SG;3;SG;IND;PST;PRF = dagč'irveboda
+სჭირდება	დასჭირვებოდა	V;3;SG;3;SG;IND;PST;PRF = dasč'irveboda
+სჭირდება	დაგვჭირვებოდა	V;1;PL;3;SG;IND;PST;PRF = dagvč'irveboda
+სჭირდება	დაგჭირვებოდათ	V;2;PL;3;SG;IND;PST;PRF = dagč'irvebodat
+სჭირდება	დასჭირვებოდათ	V;3;PL;3;SG;IND;PST;PRF = dasč'irvebodat
+სჭირდება	დაგჭირვებოდით	V;2;SG;1;PL;IND;PST;PRF = dagč'irvebodit
+სჭირდება	დავჭირვებოდით	V;3;SG;1;PL;IND;PST;PRF = davč'irvebodit
+სჭირდება	დაგჭირვებოდით	V;2;PL;1;PL;IND;PST;PRF = dagč'irvebodit
+სჭირდება	დავჭირვებოდით	V;3;PL;1;PL;IND;PST;PRF = davč'irvebodit
+სჭირდება	დამჭირვებოდით	V;1;SG;2;PL;IND;PST;PRF = damč'irvebodit
+სჭირდება	დასჭირვებოდით	V;3;SG;2;PL;IND;PST;PRF = dasč'irvebodit
+სჭირდება	დაგვჭირვებოდით	V;1;PL;2;PL;IND;PST;PRF = dagvč'irvebodit
+სჭირდება	დასჭირვებოდით	V;3;PL;2;PL;IND;PST;PRF = dasč'irvebodit
+სჭირდება	დამჭირვებოდა	V;1;SG;3;PL;IND;PST;PRF = damč'irveboda
+სჭირდება	დაგჭირვებოდა	V;2;SG;3;PL;IND;PST;PRF = dagč'irveboda
+სჭირდება	დასჭირვებოდა	V;3;SG;3;PL;IND;PST;PRF = dasč'irveboda
+სჭირდება	დაგვჭირვებოდა	V;1;PL;3;PL;IND;PST;PRF = dagvč'irveboda
+სჭირდება	დაგჭირვებოდათ	V;2;PL;3;PL;IND;PST;PRF = dagč'irvebodat
+სჭირდება	დასჭირვებოდათ	V;3;PL;3;PL;IND;PST;PRF = dasč'irvebodat
+
+
+Screeve #11:
+სჭირდება	დაგჭირვებოდე	V;2;SG;1;SG;SBJV;PRF = dagč'irvebode
+სჭირდება	დავჭირვებოდე	V;3;SG;1;SG;SBJV;PRF = davč'irvebode
+სჭირდება	დაგჭირვებოდეთ	V;2;PL;1;SG;SBJV;PRF = dagč'irvebodet
+სჭირდება	დავჭირვებოდეთ	V;3;PL;1;SG;SBJV;PRF = davč'irvebodet
+სჭირდება	დამჭირვებოდე	V;1;SG;2;SG;SBJV;PRF = damč'irvebode
+სჭირდება	დასჭირვებოდე	V;3;SG;2;SG;SBJV;PRF = dasč'irvebode
+სჭირდება	დაგვჭირვებოდე	V;1;PL;2;SG;SBJV;PRF = dagvč'irvebode
+სჭირდება	დასჭირვებოდე	V;3;PL;2;SG;SBJV;PRF = dasč'irvebode
+სჭირდება	დამჭირვებოდეს	V;1;SG;3;SG;SBJV;PRF = damč'irvebodes
+სჭირდება	დაგჭირვებოდეს	V;2;SG;3;SG;SBJV;PRF = dagč'irvebodes
+სჭირდება	დასჭირვებოდეს	V;3;SG;3;SG;SBJV;PRF = dasč'irvebodes
+სჭირდება	დაგვჭირვებოდეს	V;1;PL;3;SG;SBJV;PRF = dagvč'irvebodes
+სჭირდება	დაგჭირვებოდეთ	V;2;PL;3;SG;SBJV;PRF = dagč'irvebodet
+სჭირდება	დასჭირვებოდეთ	V;3;PL;3;SG;SBJV;PRF = dasč'irvebodet
+სჭირდება	დაგჭირვებოდეთ	V;2;SG;1;PL;SBJV;PRF = dagč'irvebodet
+სჭირდება	დავჭირვებოდეთ	V;3;SG;1;PL;SBJV;PRF = davč'irvebodet
+სჭირდება	დაგჭირვებოდეთ	V;2;PL;1;PL;SBJV;PRF = dagč'irvebodet
+სჭირდება	დავჭირვებოდეთ	V;3;PL;1;PL;SBJV;PRF = davč'irvebodet
+სჭირდება	დამჭირვებოდეთ	V;1;SG;2;PL;SBJV;PRF = damč'irvebodet
+სჭირდება	დასჭირვებოდეთ	V;3;SG;2;PL;SBJV;PRF = dasč'irvebodet
+სჭირდება	დაგვჭირვებოდეთ	V;1;PL;2;PL;SBJV;PRF = dagvč'irvebodet
+სჭირდება	დასჭირვებოდეთ	V;3;PL;2;PL;SBJV;PRF = dasč'irvebodet
+სჭირდება	დამჭირვებოდეს	V;1;SG;3;PL;SBJV;PRF = damč'irvebodes
+სჭირდება	დაგჭირვებოდეს	V;2;SG;3;PL;SBJV;PRF = dagč'irvebodes
+სჭირდება	დასჭირვებოდეს	V;3;SG;3;PL;SBJV;PRF = dasč'irvebodes
+სჭირდება	დაგვჭირვებოდეს	V;1;PL;3;PL;SBJV;PRF = dagvč'irvebodes
+სჭირდება	დაგჭირვებოდეთ	V;2;PL;3;PL;SBJV;PRF = dagč'irvebodet
+სჭირდება	დასჭირვებოდეთ	V;3;PL;3;PL;SBJV;PRF = dasč'irvebodet
+
+
+სჭირდება	დაჭირვება	V;V.MSDR;IPFV

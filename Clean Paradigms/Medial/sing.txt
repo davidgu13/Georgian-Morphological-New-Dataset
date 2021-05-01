@@ -1,0 +1,371 @@
+#48 - მღერის - sing:
+Screeve #1:
+მღერის	მმღერი	V;2;SG;1;SG;IND;PRS = mmġeri
+მღერის	მმღერის	V;3;SG;1;SG;IND;PRS = mmġeris
+მღერის	მმღერით	V;2;PL;1;SG;IND;PRS = mmġerit
+მღერის	მმღერიან	V;3;PL;1;SG;IND;PRS = mmġerian
+მღერის	გმღერი	V;1;SG;2;SG;IND;PRS = gmġeri
+მღერის	გმღერის	V;3;SG;2;SG;IND;PRS = gmġeris
+მღერის	გმღერით	V;1;PL;2;SG;IND;PRS = gmġerit
+მღერის	გმღერიან	V;3;PL;2;SG;IND;PRS = gmġerian
+მღერის	ვმღერი	V;1;SG;3;SG;IND;PRS = vmġeri
+მღერის	მღერი	V;2;SG;3;SG;IND;PRS = mġeri
+მღერის	მღერის	V;3;SG;3;SG;IND;PRS = mġeris
+მღერის	ვმღერით	V;1;PL;3;SG;IND;PRS = vmġerit
+მღერის	მღერით	V;2;PL;3;SG;IND;PRS = mġerit
+მღერის	მღერიან	V;3;PL;3;SG;IND;PRS = mġerian
+მღერის	გვმღერი	V;2;SG;1;PL;IND;PRS = gvmġeri
+მღერის	გვმღერის	V;3;SG;1;PL;IND;PRS = gvmġeris
+მღერის	გვმღერით	V;2;PL;1;PL;IND;PRS = gvmġerit
+მღერის	გვმღერიან	V;3;PL;1;PL;IND;PRS = gvmġerian
+მღერის	გმღერით	V;1;SG;2;PL;IND;PRS = gmġerit
+მღერის	გმღერით	V;3;SG;2;PL;IND;PRS = gmġerit
+მღერის	გმღერით	V;1;PL;2;PL;IND;PRS = gmġerit
+მღერის	გმღერიან	V;3;PL;2;PL;IND;PRS = gmġerian
+მღერის	ვმღერი	V;1;SG;3;PL;IND;PRS = vmġeri
+მღერის	მღერი	V;2;SG;3;PL;IND;PRS = mġeri
+მღერის	მღერის	V;3;SG;3;PL;IND;PRS = mġeris
+მღერის	ვმღერით	V;1;PL;3;PL;IND;PRS = vmġerit
+მღერის	მღერით	V;2;PL;3;PL;IND;PRS = mġerit
+მღერის	მღერიან	V;3;PL;3;PL;IND;PRS = mġerian
+
+
+Screeve #2:
+მღერის	მმღეროდი	V;2;SG;1;SG;IND;IPFV = mmġerodi
+მღერის	მმღეროდა	V;3;SG;1;SG;IND;IPFV = mmġeroda
+მღერის	მმღეროდით	V;2;PL;1;SG;IND;IPFV = mmġerodit
+მღერის	მმღეროდნენ	V;3;PL;1;SG;IND;IPFV = mmġerodnen
+მღერის	გმღეროდი	V;1;SG;2;SG;IND;IPFV = gmġerodi
+მღერის	გმღეროდა	V;3;SG;2;SG;IND;IPFV = gmġeroda
+მღერის	გმღეროდით	V;1;PL;2;SG;IND;IPFV = gmġerodit
+მღერის	გმღეროდნენ	V;3;PL;2;SG;IND;IPFV = gmġerodnen
+მღერის	ვმღეროდი	V;1;SG;3;SG;IND;IPFV = vmġerodi
+მღერის	მღეროდი	V;2;SG;3;SG;IND;IPFV = mġerodi
+მღერის	მღეროდა	V;3;SG;3;SG;IND;IPFV = mġeroda
+მღერის	ვმღეროდით	V;1;PL;3;SG;IND;IPFV = vmġerodit
+მღერის	მღეროდით	V;2;PL;3;SG;IND;IPFV = mġerodit
+მღერის	მღეროდნენ	V;3;PL;3;SG;IND;IPFV = mġerodnen
+მღერის	გვმღეროდი	V;2;SG;1;PL;IND;IPFV = gvmġerodi
+მღერის	გვმღეროდა	V;3;SG;1;PL;IND;IPFV = gvmġeroda
+მღერის	გვმღეროდით	V;2;PL;1;PL;IND;IPFV = gvmġerodit
+მღერის	გვმღეროდნენ	V;3;PL;1;PL;IND;IPFV = gvmġerodnen
+მღერის	გმღეროდით	V;1;SG;2;PL;IND;IPFV = gmġerodit
+მღერის	გმღეროდათ	V;3;SG;2;PL;IND;IPFV = gmġerodat
+მღერის	გმღეროდით	V;1;PL;2;PL;IND;IPFV = gmġerodit
+მღერის	გმღეროდნენ	V;3;PL;2;PL;IND;IPFV = gmġerodnen
+მღერის	ვმღეროდი	V;1;SG;3;PL;IND;IPFV = vmġerodi
+მღერის	მღეროდი	V;2;SG;3;PL;IND;IPFV = mġerodi
+მღერის	მღეროდა	V;3;SG;3;PL;IND;IPFV = mġeroda
+მღერის	ვმღეროდით	V;1;PL;3;PL;IND;IPFV = vmġerodit
+მღერის	მღეროდით	V;2;PL;3;PL;IND;IPFV = mġerodit
+მღერის	მღეროდნენ	V;3;PL;3;PL;IND;IPFV = mġerodnen
+
+
+Screeve #3:
+მღერის	მმღეროდი	V;2;SG;1;SG;SBJV;PRS = mmġerodi
+მღერის	მმღეროდს	V;3;SG;1;SG;SBJV;PRS = mmġerods
+მღერის	მმღეროდით	V;2;PL;1;SG;SBJV;PRS = mmġerodit
+მღერის	მმღეროდნენ	V;3;PL;1;SG;SBJV;PRS = mmġerodnen
+მღერის	გმღეროდი	V;1;SG;2;SG;SBJV;PRS = gmġerodi
+მღერის	გმღეროდს	V;3;SG;2;SG;SBJV;PRS = gmġerods
+მღერის	გმღეროდით	V;1;PL;2;SG;SBJV;PRS = gmġerodit
+მღერის	გმღეროდნენ	V;3;PL;2;SG;SBJV;PRS = gmġerodnen
+მღერის	ვმღეროდი	V;1;SG;3;SG;SBJV;PRS = vmġerodi
+მღერის	მღეროდი	V;2;SG;3;SG;SBJV;PRS = mġerodi
+მღერის	მღეროდს	V;3;SG;3;SG;SBJV;PRS = mġerods
+მღერის	ვმღეროდით	V;1;PL;3;SG;SBJV;PRS = vmġerodit
+მღერის	მღეროდით	V;2;PL;3;SG;SBJV;PRS = mġerodit
+მღერის	მღეროდნენ	V;3;PL;3;SG;SBJV;PRS = mġerodnen
+მღერის	გვმღეროდი	V;2;SG;1;PL;SBJV;PRS = gvmġerodi
+მღერის	გვმღეროდს	V;3;SG;1;PL;SBJV;PRS = gvmġerods
+მღერის	გვმღეროდით	V;2;PL;1;PL;SBJV;PRS = gvmġerodit
+მღერის	გვმღეროდნენ	V;3;PL;1;PL;SBJV;PRS = gvmġerodnen
+მღერის	გმღეროდით	V;1;SG;2;PL;SBJV;PRS = gmġerodit
+მღერის	გმღეროდთ	V;3;SG;2;PL;SBJV;PRS = gmġerodt
+მღერის	გმღეროდით	V;1;PL;2;PL;SBJV;PRS = gmġerodit
+მღერის	გმღეროდნენ	V;3;PL;2;PL;SBJV;PRS = gmġerodnen
+მღერის	ვმღეროდი	V;1;SG;3;PL;SBJV;PRS = vmġerodi
+მღერის	მღეროდი	V;2;SG;3;PL;SBJV;PRS = mġerodi
+მღერის	მღეროდს	V;3;SG;3;PL;SBJV;PRS = mġerods
+მღერის	ვმღეროდით	V;1;PL;3;PL;SBJV;PRS = vmġerodit
+მღერის	მღეროდით	V;2;PL;3;PL;SBJV;PRS = mġerodit
+მღერის	მღეროდნენ	V;3;PL;3;PL;SBJV;PRS = mġerodnen
+
+
+Screeve #4:
+მღერის	მიმღერებ	V;2;SG;1;SG;IND;FUT = mimġereb
+მღერის	მიმღერებს	V;3;SG;1;SG;IND;FUT = mimġerebs
+მღერის	მიმღერებთ	V;2;PL;1;SG;IND;FUT = mimġerebt
+მღერის	მიმღერებენ	V;3;PL;1;SG;IND;FUT = mimġereben
+მღერის	გიმღერებ	V;1;SG;2;SG;IND;FUT = gimġereb
+მღერის	გიმღერებს	V;3;SG;2;SG;IND;FUT = gimġerebs
+მღერის	გიმღერებთ	V;1;PL;2;SG;IND;FUT = gimġerebt
+მღერის	გიმღერებენ	V;3;PL;2;SG;IND;FUT = gimġereben
+მღერის	ვიმღერებ	V;1;SG;3;SG;IND;FUT = vimġereb
+მღერის	იმღერებ	V;2;SG;3;SG;IND;FUT = imġereb
+მღერის	იმღერებს	V;3;SG;3;SG;IND;FUT = imġerebs
+მღერის	ვიმღერებთ	V;1;PL;3;SG;IND;FUT = vimġerebt
+მღერის	იმღერებთ	V;2;PL;3;SG;IND;FUT = imġerebt
+მღერის	იმღერებენ	V;3;PL;3;SG;IND;FUT = imġereben
+მღერის	გვიმღერებ	V;2;SG;1;PL;IND;FUT = gvimġereb
+მღერის	გვიმღერებს	V;3;SG;1;PL;IND;FUT = gvimġerebs
+მღერის	გვიმღერებთ	V;2;PL;1;PL;IND;FUT = gvimġerebt
+მღერის	გვიმღერებენ	V;3;PL;1;PL;IND;FUT = gvimġereben
+მღერის	გიმღერებთ	V;1;SG;2;PL;IND;FUT = gimġerebt
+მღერის	გიმღერებთ	V;3;SG;2;PL;IND;FUT = gimġerebt
+მღერის	გიმღერებთ	V;1;PL;2;PL;IND;FUT = gimġerebt
+მღერის	გიმღერებენ	V;3;PL;2;PL;IND;FUT = gimġereben
+მღერის	ვიმღერებ	V;1;SG;3;PL;IND;FUT = vimġereb
+მღერის	იმღერებ	V;2;SG;3;PL;IND;FUT = imġereb
+მღერის	იმღერებს	V;3;SG;3;PL;IND;FUT = imġerebs
+მღერის	ვიმღერებთ	V;1;PL;3;PL;IND;FUT = vimġerebt
+მღერის	იმღერებთ	V;2;PL;3;PL;IND;FUT = imġerebt
+მღერის	იმღერებენ	V;3;PL;3;PL;IND;FUT = imġereben
+
+
+Screeve #5:
+მღერის	მიმღერებდი	V;2;SG;1;SG;COND = mimġerebdi
+მღერის	მიმღერებდა	V;3;SG;1;SG;COND = mimġerebda
+მღერის	მიმღერებდით	V;2;PL;1;SG;COND = mimġerebdit
+მღერის	მიმღერებდნენ	V;3;PL;1;SG;COND = mimġerebdnen
+მღერის	გიმღერებდი	V;1;SG;2;SG;COND = gimġerebdi
+მღერის	გიმღერებდა	V;3;SG;2;SG;COND = gimġerebda
+მღერის	გიმღერებდით	V;1;PL;2;SG;COND = gimġerebdit
+მღერის	გიმღერებდნენ	V;3;PL;2;SG;COND = gimġerebdnen
+მღერის	ვიმღერებდი	V;1;SG;3;SG;COND = vimġerebdi
+მღერის	იმღერებდი	V;2;SG;3;SG;COND = imġerebdi
+მღერის	იმღერებდა	V;3;SG;3;SG;COND = imġerebda
+მღერის	ვიმღერებდით	V;1;PL;3;SG;COND = vimġerebdit
+მღერის	იმღერებდით	V;2;PL;3;SG;COND = imġerebdit
+მღერის	იმღერებდნენ	V;3;PL;3;SG;COND = imġerebdnen
+მღერის	გვიმღერებდი	V;2;SG;1;PL;COND = gvimġerebdi
+მღერის	გვიმღერებდა	V;3;SG;1;PL;COND = gvimġerebda
+მღერის	გვიმღერებდით	V;2;PL;1;PL;COND = gvimġerebdit
+მღერის	გვიმღერებდნენ	V;3;PL;1;PL;COND = gvimġerebdnen
+მღერის	გიმღერებდით	V;1;SG;2;PL;COND = gimġerebdit
+მღერის	გიმღერებდათ	V;3;SG;2;PL;COND = gimġerebdat
+მღერის	გიმღერებდით	V;1;PL;2;PL;COND = gimġerebdit
+მღერის	გიმღერებდნენ	V;3;PL;2;PL;COND = gimġerebdnen
+მღერის	ვიმღერებდი	V;1;SG;3;PL;COND = vimġerebdi
+მღერის	იმღერებდი	V;2;SG;3;PL;COND = imġerebdi
+მღერის	იმღერებდა	V;3;SG;3;PL;COND = imġerebda
+მღერის	ვიმღერებდით	V;1;PL;3;PL;COND = vimġerebdit
+მღერის	იმღერებდით	V;2;PL;3;PL;COND = imġerebdit
+მღერის	იმღერებდნენ	V;3;PL;3;PL;COND = imġerebdnen
+
+
+Screeve #6:
+მღერის	მიმღერებდე	V;2;SG;1;SG;SBJV;FUT = mimġerebde
+მღერის	მიმღერებდეს	V;3;SG;1;SG;SBJV;FUT = mimġerebdes
+მღერის	მიმღერებდეთ	V;2;PL;1;SG;SBJV;FUT = mimġerebdet
+მღერის	მიმღერებდნენ	V;3;PL;1;SG;SBJV;FUT = mimġerebdnen
+მღერის	გიმღერებდე	V;1;SG;2;SG;SBJV;FUT = gimġerebde
+მღერის	გიმღერებდეს	V;3;SG;2;SG;SBJV;FUT = gimġerebdes
+მღერის	გიმღერებდეთ	V;1;PL;2;SG;SBJV;FUT = gimġerebdet
+მღერის	გიმღერებდნენ	V;3;PL;2;SG;SBJV;FUT = gimġerebdnen
+მღერის	ვიმღერებდე	V;1;SG;3;SG;SBJV;FUT = vimġerebde
+მღერის	იმღერებდე	V;2;SG;3;SG;SBJV;FUT = imġerebde
+მღერის	იმღერებდეს	V;3;SG;3;SG;SBJV;FUT = imġerebdes
+მღერის	ვიმღერებდეთ	V;1;PL;3;SG;SBJV;FUT = vimġerebdet
+მღერის	იმღერებდეთ	V;2;PL;3;SG;SBJV;FUT = imġerebdet
+მღერის	იმღერებდნენ	V;3;PL;3;SG;SBJV;FUT = imġerebdnen
+მღერის	გვიმღერებდე	V;2;SG;1;PL;SBJV;FUT = gvimġerebde
+მღერის	გვიმღერებდეს	V;3;SG;1;PL;SBJV;FUT = gvimġerebdes
+მღერის	გვიმღერებდეთ	V;2;PL;1;PL;SBJV;FUT = gvimġerebdet
+მღერის	გვიმღერებდნენ	V;3;PL;1;PL;SBJV;FUT = gvimġerebdnen
+მღერის	გიმღერებდეთ	V;1;SG;2;PL;SBJV;FUT = gimġerebdet
+მღერის	გიმღერებდეთ	V;3;SG;2;PL;SBJV;FUT = gimġerebdet
+მღერის	გიმღერებდეთ	V;1;PL;2;PL;SBJV;FUT = gimġerebdet
+მღერის	გიმღერებდნენ	V;3;PL;2;PL;SBJV;FUT = gimġerebdnen
+მღერის	ვიმღერებდე	V;1;SG;3;PL;SBJV;FUT = vimġerebde
+მღერის	იმღერებდე	V;2;SG;3;PL;SBJV;FUT = imġerebde
+მღერის	იმღერებდეს	V;3;SG;3;PL;SBJV;FUT = imġerebdes
+მღერის	ვიმღერებდეთ	V;1;PL;3;PL;SBJV;FUT = vimġerebdet
+მღერის	იმღერებდეთ	V;2;PL;3;PL;SBJV;FUT = imġerebdet
+მღერის	იმღერებდნენ	V;3;PL;3;PL;SBJV;FUT = imġerebdnen
+
+
+Screeve #7:
+მღერის	მიმღერე	V;2;SG;1;SG;IND;PST;PFV = mimġere
+მღერის	მიმღერa	V;3;SG;1;SG;IND;PST;PFV = mimġera
+მღერის	მიმღერეთ	V;2;PL;1;SG;IND;PST;PFV = mimġeret
+მღერის	მიმღერეს	V;3;PL;1;SG;IND;PST;PFV = mimġeres
+მღერის	გიმღერე	V;1;SG;2;SG;IND;PST;PFV = gimġere
+მღერის	გიმღერa	V;3;SG;2;SG;IND;PST;PFV = gimġera
+მღერის	გიმღერეთ	V;1;PL;2;SG;IND;PST;PFV = gimġeret
+მღერის	გიმღერეს	V;3;PL;2;SG;IND;PST;PFV = gimġeres
+მღერის	ვიმღერე	V;1;SG;3;SG;IND;PST;PFV = vimġere
+მღერის	იმღერე	V;2;SG;3;SG;IND;PST;PFV = imġere
+მღერის	იმღერa	V;3;SG;3;SG;IND;PST;PFV = imġera
+მღერის	ვიმღერეთ	V;1;PL;3;SG;IND;PST;PFV = vimġeret
+მღერის	იმღერეთ	V;2;PL;3;SG;IND;PST;PFV = imġeret
+მღერის	იმღერეს	V;3;PL;3;SG;IND;PST;PFV = imġeres
+მღერის	გვიმღერე	V;2;SG;1;PL;IND;PST;PFV = gvimġere
+მღერის	გვიმღერa	V;3;SG;1;PL;IND;PST;PFV = gvimġera
+მღერის	გვიმღერეთ	V;2;PL;1;PL;IND;PST;PFV = gvimġeret
+მღერის	გვიმღერეს	V;3;PL;1;PL;IND;PST;PFV = gvimġeres
+მღერის	გიმღერეთ	V;1;SG;2;PL;IND;PST;PFV = gimġeret
+მღერის	გიმღერa	V;3;SG;2;PL;IND;PST;PFV = gimġera
+მღერის	გიმღერეთ	V;1;PL;2;PL;IND;PST;PFV = gimġeret
+მღერის	გიმღერეს	V;3;PL;2;PL;IND;PST;PFV = gimġeres
+მღერის	ვიმღერე	V;1;SG;3;PL;IND;PST;PFV = vimġere
+მღერის	იმღერე	V;2;SG;3;PL;IND;PST;PFV = imġere
+მღერის	იმღერa	V;3;SG;3;PL;IND;PST;PFV = imġera
+მღერის	ვიმღერეთ	V;1;PL;3;PL;IND;PST;PFV = vimġeret
+მღერის	იმღერეთ	V;2;PL;3;PL;IND;PST;PFV = imġeret
+მღერის	იმღერეს	V;3;PL;3;PL;IND;PST;PFV = imġeres
+
+მღერის	მიმღერეთ	V;2;PL;1;SG;IMP = mimġeret
+მღერის	მიმღერე	V;2;SG;1;SG;IMP = mimġere
+მღერის	იმღერეთ	V;2;PL;3;SG;IMP = imġeret
+მღერის	იმღერე	V;2;SG;3;SG;IMP = imġere
+მღერის	გვიმღერეთ	V;2;PL;1;PL;IMP = gvimġeret
+მღერის	გვიმღერე	V;2;SG;1;PL;IMP = gvimġere
+მღერის	იმღერეთ	V;2;PL;3;PL;IMP = imġeret
+მღერის	იმღერე	V;2;SG;3;PL;IMP = imġere
+
+
+
+Screeve #8:
+მღერის	მიმღერო	V;2;SG;1;SG;OPT = mimġero
+მღერის	მიმღეროს	V;3;SG;1;SG;OPT = mimġeros
+მღერის	მიმღეროთ	V;2;PL;1;SG;OPT = mimġerot
+მღერის	მიმღერონ	V;3;PL;1;SG;OPT = mimġeron
+მღერის	გიმღერო	V;1;SG;2;SG;OPT = gimġero
+მღერის	გიმღეროს	V;3;SG;2;SG;OPT = gimġeros
+მღერის	გიმღეროთ	V;1;PL;2;SG;OPT = gimġerot
+მღერის	გიმღერონ	V;3;PL;2;SG;OPT = gimġeron
+მღერის	ვიმღერო	V;1;SG;3;SG;OPT = vimġero
+მღერის	იმღერო	V;2;SG;3;SG;OPT = imġero
+მღერის	იმღეროს	V;3;SG;3;SG;OPT = imġeros
+მღერის	ვიმღეროთ	V;1;PL;3;SG;OPT = vimġerot
+მღერის	იმღეროთ	V;2;PL;3;SG;OPT = imġerot
+მღერის	იმღერონ	V;3;PL;3;SG;OPT = imġeron
+მღერის	გვიმღერო	V;2;SG;1;PL;OPT = gvimġero
+მღერის	გვიმღეროს	V;3;SG;1;PL;OPT = gvimġeros
+მღერის	გვიმღეროთ	V;2;PL;1;PL;OPT = gvimġerot
+მღერის	გვიმღერონ	V;3;PL;1;PL;OPT = gvimġeron
+მღერის	გიმღეროთ	V;1;SG;2;PL;OPT = gimġerot
+მღერის	გიმღეროთ	V;3;SG;2;PL;OPT = gimġerot
+მღერის	გიმღეროთ	V;1;PL;2;PL;OPT = gimġerot
+მღერის	გიმღეროთ	V;3;PL;2;PL;OPT = gimġerot
+მღერის	ვიმღერო	V;1;SG;3;PL;OPT = vimġero
+მღერის	იმღერო	V;2;SG;3;PL;OPT = imġero
+მღერის	იმღეროს	V;3;SG;3;PL;OPT = imġeros
+მღერის	ვიმღეროთ	V;1;PL;3;PL;OPT = vimġerot
+მღერის	იმღეროთ	V;2;PL;3;PL;OPT = imġerot
+მღერის	იმღერონ	V;3;PL;3;PL;OPT = imġeron
+
+მღერის	მიმღეროს	V;3;SG;1;SG;IMP = mimġeros
+მღერის	მიმღერონ	V;3;PL;1;SG;IMP = mimġeron
+მღერის	გიმღეროს	V;3;SG;2;SG;IMP = gimġeros
+მღერის	გიმღერონ	V;3;PL;2;SG;IMP = gimġeron
+მღერის	გიმღეროთ	V;1;PL;2;SG;IMP = gimġerot
+მღერის	იმღეროს	V;3;SG;3;SG;IMP = imġeros
+მღერის	იმღერონ	V;3;PL;3;SG;IMP = imġeron
+მღერის	ვიმღეროთ	V;1;PL;3;SG;IMP = vimġerot
+მღერის	გვიმღეროს	V;3;SG;1;PL;IMP = gvimġeros
+მღერის	გვიმღერონ	V;3;PL;1;PL;IMP = gvimġeron
+მღერის	გიმღეროთ	V;3;SG;2;PL;IMP = gimġerot
+მღერის	გიმღეროთ	V;3;PL;2;PL;IMP = gimġerot
+მღერის	გიმღეროთ	V;1;PL;2;PL;IMP = gimġerot
+მღერის	იმღეროს	V;3;SG;3;PL;IMP = imġeros
+მღერის	იმღერონ	V;3;PL;3;PL;IMP = imġeron
+მღერის	ვიმღეროთ	V;1;PL;3;PL;IMP = vimġerot
+
+
+
+Screeve #9:
+მღერის	გიმღერივარ	V;2;SG;1;SG;IND;PRF = gimġerivar
+მღერის	ვუმღერივარ	V;3;SG;1;SG;IND;PRF = vumġerivar
+მღერის	გიმღერივართ	V;2;PL;1;SG;IND;PRF = gimġerivart
+მღერის	ვუმღერივართ	V;3;PL;1;SG;IND;PRF = vumġerivart
+მღერის	მიმღერიხარ	V;1;SG;2;SG;IND;PRF = mimġerixar
+მღერის	უმღერიხარ	V;3;SG;2;SG;IND;PRF = umġerixar
+მღერის	გვიმღერიხარ	V;1;PL;2;SG;IND;PRF = gvimġerixar
+მღერის	უმღერიხართ	V;3;PL;2;SG;IND;PRF = umġerixart
+მღერის	მიმღერია	V;1;SG;3;SG;IND;PRF = mimġeria
+მღერის	გიმღერია	V;2;SG;3;SG;IND;PRF = gimġeria
+მღერის	უმღერია	V;3;SG;3;SG;IND;PRF = umġeria
+მღერის	გვიმღერია	V;1;PL;3;SG;IND;PRF = gvimġeria
+მღერის	გიმღერიათ	V;2;PL;3;SG;IND;PRF = gimġeriat
+მღერის	უმღერიათ	V;3;PL;3;SG;IND;PRF = umġeriat
+მღერის	გიმღერივართ	V;2;SG;1;PL;IND;PRF = gimġerivart
+მღერის	ვუმღერივართ	V;3;SG;1;PL;IND;PRF = vumġerivart
+მღერის	გიმღერივართ	V;2;PL;1;PL;IND;PRF = gimġerivart
+მღერის	ვუმღერივართ	V;3;PL;1;PL;IND;PRF = vumġerivart
+მღერის	მიმღერიხართ	V;1;SG;2;PL;IND;PRF = mimġerixart
+მღერის	უმღერიხართ	V;3;SG;2;PL;IND;PRF = umġerixart
+მღერის	გვიმღერიხართ	V;1;PL;2;PL;IND;PRF = gvimġerixart
+მღერის	უმღერიხართ	V;3;PL;2;PL;IND;PRF = umġerixart
+მღერის	მიმღერია	V;1;SG;3;PL;IND;PRF = mimġeria
+მღერის	გიმღერია	V;2;SG;3;PL;IND;PRF = gimġeria
+მღერის	უმღერია	V;3;SG;3;PL;IND;PRF = umġeria
+მღერის	გვიმღერია	V;1;PL;3;PL;IND;PRF = gvimġeria
+მღერის	გიმღერიათ	V;2;PL;3;PL;IND;PRF = gimġeriat
+მღერის	უმღერიათ	V;3;PL;3;PL;IND;PRF = umġeriat
+
+
+Screeve #10:
+მღერის	გემღერე	V;2;SG;1;SG;IND;PST;PRF = gemġere
+მღერის	ვემღერე	V;3;SG;1;SG;IND;PST;PRF = vemġere
+მღერის	გემღერეთ	V;2;PL;1;SG;IND;PST;PRF = gemġeret
+მღერის	ვემღერეთ	V;3;PL;1;SG;IND;PST;PRF = vemġeret
+მღერის	მემღერე	V;1;SG;2;SG;IND;PST;PRF = memġere
+მღერის	ემღერე	V;3;SG;2;SG;IND;PST;PRF = emġere
+მღერის	გვემღერე	V;1;PL;2;SG;IND;PST;PRF = gvemġere
+მღერის	ემღერეთ	V;3;PL;2;SG;IND;PST;PRF = emġeret
+მღერის	მემღერა	V;1;SG;3;SG;IND;PST;PRF = memġera
+მღერის	გემღერა	V;2;SG;3;SG;IND;PST;PRF = gemġera
+მღერის	ემღერა	V;3;SG;3;SG;IND;PST;PRF = emġera
+მღერის	გვემღერა	V;1;PL;3;SG;IND;PST;PRF = gvemġera
+მღერის	გემღერათ	V;2;PL;3;SG;IND;PST;PRF = gemġerat
+მღერის	ემღერათ	V;3;PL;3;SG;IND;PST;PRF = emġerat
+მღერის	გემღერეთ	V;2;SG;1;PL;IND;PST;PRF = gemġeret
+მღერის	ვემღერეთ	V;3;SG;1;PL;IND;PST;PRF = vemġeret
+მღერის	გემღერეთ	V;2;PL;1;PL;IND;PST;PRF = gemġeret
+მღერის	ვემღერეთ	V;3;PL;1;PL;IND;PST;PRF = vemġeret
+მღერის	მემღერეთ	V;1;SG;2;PL;IND;PST;PRF = memġeret
+მღერის	ემღერეთ	V;3;SG;2;PL;IND;PST;PRF = emġeret
+მღერის	გვემღერეთ	V;1;PL;2;PL;IND;PST;PRF = gvemġeret
+მღერის	ემღერეთ	V;3;PL;2;PL;IND;PST;PRF = emġeret
+მღერის	მემღერა	V;1;SG;3;PL;IND;PST;PRF = memġera
+მღერის	გემღერა	V;2;SG;3;PL;IND;PST;PRF = gemġera
+მღერის	ემღერა	V;3;SG;3;PL;IND;PST;PRF = emġera
+მღერის	გვემღერა	V;1;PL;3;PL;IND;PST;PRF = gvemġera
+მღერის	გემღერათ	V;2;PL;3;PL;IND;PST;PRF = gemġerat
+მღერის	ემღერათ	V;3;PL;3;PL;IND;PST;PRF = emġerat
+
+
+Screeve #11:
+მღერის	გემღერო	V;2;SG;1;SG;SBJV;PRF = gemġero
+მღერის	ვემღერო	V;3;SG;1;SG;SBJV;PRF = vemġero
+მღერის	გემღეროთ	V;2;PL;1;SG;SBJV;PRF = gemġerot
+მღერის	ვემღეროთ	V;3;PL;1;SG;SBJV;PRF = vemġerot
+მღერის	მემღერო	V;1;SG;2;SG;SBJV;PRF = memġero
+მღერის	ემღერო	V;3;SG;2;SG;SBJV;PRF = emġero
+მღერის	გვემღერო	V;1;PL;2;SG;SBJV;PRF = gvemġero
+მღერის	ემღეროთ	V;3;PL;2;SG;SBJV;PRF = emġerot
+მღერის	მემღეროს	V;1;SG;3;SG;SBJV;PRF = memġeros
+მღერის	გემღეროს	V;2;SG;3;SG;SBJV;PRF = gemġeros
+მღერის	ემღეროს	V;3;SG;3;SG;SBJV;PRF = emġeros
+მღერის	გვემღეროს	V;1;PL;3;SG;SBJV;PRF = gvemġeros
+მღერის	გემღეროთ	V;2;PL;3;SG;SBJV;PRF = gemġerot
+მღერის	ემღეროთ	V;3;PL;3;SG;SBJV;PRF = emġerot
+მღერის	გემღეროთ	V;2;SG;1;PL;SBJV;PRF = gemġerot
+მღერის	ვემღეროთ	V;3;SG;1;PL;SBJV;PRF = vemġerot
+მღერის	გემღეროთ	V;2;PL;1;PL;SBJV;PRF = gemġerot
+მღერის	ვემღეროთ	V;3;PL;1;PL;SBJV;PRF = vemġerot
+მღერის	მემღეროთ	V;1;SG;2;PL;SBJV;PRF = memġerot
+მღერის	ემღეროთ	V;3;SG;2;PL;SBJV;PRF = emġerot
+მღერის	გვემღეროთ	V;1;PL;2;PL;SBJV;PRF = gvemġerot
+მღერის	ემღეროთ	V;3;PL;2;PL;SBJV;PRF = emġerot
+მღერის	მემღეროს	V;1;SG;3;PL;SBJV;PRF = memġeros
+მღერის	გემღეროს	V;2;SG;3;PL;SBJV;PRF = gemġeros
+მღერის	ემღეროს	V;3;SG;3;PL;SBJV;PRF = emġeros
+მღერის	გვემღეროს	V;1;PL;3;PL;SBJV;PRF = gvemġeros
+მღერის	გემღეროთ	V;2;PL;3;PL;SBJV;PRF = gemġerot
+მღერის	ემღეროთ	V;3;PL;3;PL;SBJV;PRF = emġerot
+
+
+მღერის	სიმღერა	V;V.MSDR;IPFV

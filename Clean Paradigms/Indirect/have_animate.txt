@@ -1,0 +1,281 @@
+#3 - ჰყავს - have_animate:
+Screeve #1:
+ჰყავს	გყავვარ	V;2;SG;1;SG;IND;PRS = gq'avvar
+ჰყავს	ვყავვარ	V;3;SG;1;SG;IND;PRS = vq'avvar
+ჰყავს	გყავვართ	V;2;PL;1;SG;IND;PRS = gq'avvart
+ჰყავს	ვყავვართ	V;3;PL;1;SG;IND;PRS = vq'avvart
+ჰყავს	მყავხარ	V;1;SG;2;SG;IND;PRS = mq'avxar
+ჰყავს	ჰყავხარ	V;3;SG;2;SG;IND;PRS = hq'avxar
+ჰყავს	გვყავხარ	V;1;PL;2;SG;IND;PRS = gvq'avxar
+ჰყავს	ჰყავხარ	V;3;PL;2;SG;IND;PRS = hq'avxar
+ჰყავს	მყავს	V;1;SG;3;SG;IND;PRS = mq'avs
+ჰყავს	გყავს	V;2;SG;3;SG;IND;PRS = gq'avs
+ჰყავს	ჰყავს	V;3;SG;3;SG;IND;PRS = hq'avs
+ჰყავს	გვყავს	V;1;PL;3;SG;IND;PRS = gvq'avs
+ჰყავს	გყავთ	V;2;PL;3;SG;IND;PRS = gq'avt
+ჰყავს	ჰყავთ	V;3;PL;3;SG;IND;PRS = hq'avt
+ჰყავს	გყავვართ	V;2;SG;1;PL;IND;PRS = gq'avvart
+ჰყავს	ვყავვართ	V;3;SG;1;PL;IND;PRS = vq'avvart
+ჰყავს	გყავვართ	V;2;PL;1;PL;IND;PRS = gq'avvart
+ჰყავს	ვყავვართ	V;3;PL;1;PL;IND;PRS = vq'avvart
+ჰყავს	მყავხართ	V;1;SG;2;PL;IND;PRS = mq'avxart
+ჰყავს	ჰყავხართ	V;3;SG;2;PL;IND;PRS = hq'avxart
+ჰყავს	გვყავხართ	V;1;PL;2;PL;IND;PRS = gvq'avxart
+ჰყავს	ჰყავხართ	V;3;PL;2;PL;IND;PRS = hq'avxart
+ჰყავს	მყავს	V;1;SG;3;PL;IND;PRS = mq'avs
+ჰყავს	გყავს	V;2;SG;3;PL;IND;PRS = gq'avs
+ჰყავს	ჰყავს	V;3;SG;3;PL;IND;PRS = hq'avs
+ჰყავს	გვყავს	V;1;PL;3;PL;IND;PRS = gvq'avs
+ჰყავს	გყავთ	V;2;PL;3;PL;IND;PRS = gq'avt
+ჰყავს	ჰყავთ	V;3;PL;3;PL;IND;PRS = hq'avt
+
+
+Screeve #2:
+ჰყავს	გყავდი	V;2;SG;1;SG;IND;IPFV = gq'avdi
+ჰყავს	ვყავდი	V;3;SG;1;SG;IND;IPFV = vq'avdi
+ჰყავს	გყავდით	V;2;PL;1;SG;IND;IPFV = gq'avdit
+ჰყავს	ვყავდით	V;3;PL;1;SG;IND;IPFV = vq'avdit
+ჰყავს	მყავდი	V;1;SG;2;SG;IND;IPFV = mq'avdi
+ჰყავს	ჰყავდი	V;3;SG;2;SG;IND;IPFV = hq'avdi
+ჰყავს	გვყავდი	V;1;PL;2;SG;IND;IPFV = gvq'avdi
+ჰყავს	ჰყავდი	V;3;PL;2;SG;IND;IPFV = hq'avdi
+ჰყავს	მყავდა	V;1;SG;3;SG;IND;IPFV = mq'avda
+ჰყავს	გყავდა	V;2;SG;3;SG;IND;IPFV = gq'avda
+ჰყავს	ჰყავდა	V;3;SG;3;SG;IND;IPFV = hq'avda
+ჰყავს	გვყავდა	V;1;PL;3;SG;IND;IPFV = gvq'avda
+ჰყავს	გყავდათ	V;2;PL;3;SG;IND;IPFV = gq'avdat
+ჰყავს	ჰყავდათ	V;3;PL;3;SG;IND;IPFV = hq'avdat
+ჰყავს	გყავდით	V;2;SG;1;PL;IND;IPFV = gq'avdit
+ჰყავს	ვყავდით	V;3;SG;1;PL;IND;IPFV = vq'avdit
+ჰყავს	გყავდით	V;2;PL;1;PL;IND;IPFV = gq'avdit
+ჰყავს	ვყავდით	V;3;PL;1;PL;IND;IPFV = vq'avdit
+ჰყავს	მყავდით	V;1;SG;2;PL;IND;IPFV = mq'avdit
+ჰყავს	ჰყავდით	V;3;SG;2;PL;IND;IPFV = hq'avdit
+ჰყავს	გვყავდით	V;1;PL;2;PL;IND;IPFV = gvq'avdit
+ჰყავს	ჰყავდით	V;3;PL;2;PL;IND;IPFV = hq'avdit
+ჰყავს	მყავდა	V;1;SG;3;PL;IND;IPFV = mq'avda
+ჰყავს	გყავდა	V;2;SG;3;PL;IND;IPFV = gq'avda
+ჰყავს	ჰყავდა	V;3;SG;3;PL;IND;IPFV = hq'avda
+ჰყავს	გვყავდა	V;1;PL;3;PL;IND;IPFV = gvq'avda
+ჰყავს	გყავდათ	V;2;PL;3;PL;IND;IPFV = gq'avdat
+ჰყავს	ჰყავდათ	V;3;PL;3;PL;IND;IPFV = hq'avdat
+
+
+Screeve #3:
+ჰყავს	გყავდე	V;2;SG;1;SG;SBJV;PRS = gq'avde
+ჰყავს	ვყავდე	V;3;SG;1;SG;SBJV;PRS = vq'avde
+ჰყავს	გყავდეთ	V;2;PL;1;SG;SBJV;PRS = gq'avdet
+ჰყავს	ვყავდეთ	V;3;PL;1;SG;SBJV;PRS = vq'avdet
+ჰყავს	მყავდე	V;1;SG;2;SG;SBJV;PRS = mq'avde
+ჰყავს	ჰყავდე	V;3;SG;2;SG;SBJV;PRS = hq'avde
+ჰყავს	გვყავდე	V;1;PL;2;SG;SBJV;PRS = gvq'avde
+ჰყავს	ჰყავდე	V;3;PL;2;SG;SBJV;PRS = hq'avde
+ჰყავს	მყავდეს	V;1;SG;3;SG;SBJV;PRS = mq'avdes
+ჰყავს	გყავდეს	V;2;SG;3;SG;SBJV;PRS = gq'avdes
+ჰყავს	ჰყავდეს	V;3;SG;3;SG;SBJV;PRS = hq'avdes
+ჰყავს	გვყავდეს	V;1;PL;3;SG;SBJV;PRS = gvq'avdes
+ჰყავს	გყავდეთ	V;2;PL;3;SG;SBJV;PRS = gq'avdet
+ჰყავს	ჰყავდეთ	V;3;PL;3;SG;SBJV;PRS = hq'avdet
+ჰყავს	გყავდეთ	V;2;SG;1;PL;SBJV;PRS = gq'avdet
+ჰყავს	ვყავდეთ	V;3;SG;1;PL;SBJV;PRS = vq'avdet
+ჰყავს	გყავდეთ	V;2;PL;1;PL;SBJV;PRS = gq'avdet
+ჰყავს	ვყავდეთ	V;3;PL;1;PL;SBJV;PRS = vq'avdet
+ჰყავს	მყავდეთ	V;1;SG;2;PL;SBJV;PRS = mq'avdet
+ჰყავს	ჰყავდეთ	V;3;SG;2;PL;SBJV;PRS = hq'avdet
+ჰყავს	გვყავდეთ	V;1;PL;2;PL;SBJV;PRS = gvq'avdet
+ჰყავს	ჰყავდეთ	V;3;PL;2;PL;SBJV;PRS = hq'avdet
+ჰყავს	მყავდეს	V;1;SG;3;PL;SBJV;PRS = mq'avdes
+ჰყავს	გყავდეს	V;2;SG;3;PL;SBJV;PRS = gq'avdes
+ჰყავს	ჰყავდეს	V;3;SG;3;PL;SBJV;PRS = hq'avdes
+ჰყავს	გვყავდეს	V;1;PL;3;PL;SBJV;PRS = gvq'avdes
+ჰყავს	გყავდეთ	V;2;PL;3;PL;SBJV;PRS = gq'avdet
+ჰყავს	ჰყავდეთ	V;3;PL;3;PL;SBJV;PRS = hq'avdet
+
+
+Screeve #4:
+ჰყავს	გეყოლები	V;2;SG;1;SG;IND;FUT = geq'olebi
+ჰყავს	ვეყოლები	V;3;SG;1;SG;IND;FUT = veq'olebi
+ჰყავს	გეყოლებით	V;2;PL;1;SG;IND;FUT = geq'olebit
+ჰყავს	ვეყოლებით	V;3;PL;1;SG;IND;FUT = veq'olebit
+ჰყავს	მეყოლები	V;1;SG;2;SG;IND;FUT = meq'olebi
+ჰყავს	ეყოლები	V;3;SG;2;SG;IND;FUT = eq'olebi
+ჰყავს	გვეყოლები	V;1;PL;2;SG;IND;FUT = gveq'olebi
+ჰყავს	ეყოლები	V;3;PL;2;SG;IND;FUT = eq'olebi
+ჰყავს	მეყოლება	V;1;SG;3;SG;IND;FUT = meq'oleba
+ჰყავს	გეყოლება	V;2;SG;3;SG;IND;FUT = geq'oleba
+ჰყავს	ეყოლება	V;3;SG;3;SG;IND;FUT = eq'oleba
+ჰყავს	გვეყოლება	V;1;PL;3;SG;IND;FUT = gveq'oleba
+ჰყავს	გეყოლებათ	V;2;PL;3;SG;IND;FUT = geq'olebat
+ჰყავს	ეყოლებათ	V;3;PL;3;SG;IND;FUT = eq'olebat
+ჰყავს	გეყოლებით	V;2;SG;1;PL;IND;FUT = geq'olebit
+ჰყავს	ვეყოლებით	V;3;SG;1;PL;IND;FUT = veq'olebit
+ჰყავს	გეყოლებით	V;2;PL;1;PL;IND;FUT = geq'olebit
+ჰყავს	ვეყოლებით	V;3;PL;1;PL;IND;FUT = veq'olebit
+ჰყავს	მეყოლებით	V;1;SG;2;PL;IND;FUT = meq'olebit
+ჰყავს	ეყოლებით	V;3;SG;2;PL;IND;FUT = eq'olebit
+ჰყავს	გვეყოლებით	V;1;PL;2;PL;IND;FUT = gveq'olebit
+ჰყავს	ეყოლებით	V;3;PL;2;PL;IND;FUT = eq'olebit
+ჰყავს	მეყოლება	V;1;SG;3;PL;IND;FUT = meq'oleba
+ჰყავს	გეყოლება	V;2;SG;3;PL;IND;FUT = geq'oleba
+ჰყავს	ეყოლება	V;3;SG;3;PL;IND;FUT = eq'oleba
+ჰყავს	გვეყოლება	V;1;PL;3;PL;IND;FUT = gveq'oleba
+ჰყავს	გეყოლებათ	V;2;PL;3;PL;IND;FUT = geq'olebat
+ჰყავს	ეყოლებათ	V;3;PL;3;PL;IND;FUT = eq'olebat
+
+
+Screeve #5:
+ჰყავს	გეყოლებოდი	V;2;SG;1;SG;COND = geq'olebodi
+ჰყავს	ვეყოლებოდი	V;3;SG;1;SG;COND = veq'olebodi
+ჰყავს	გეყოლებოდით	V;2;PL;1;SG;COND = geq'olebodit
+ჰყავს	ვეყოლებოდით	V;3;PL;1;SG;COND = veq'olebodit
+ჰყავს	მეყოლებოდი	V;1;SG;2;SG;COND = meq'olebodi
+ჰყავს	ეყოლებოდი	V;3;SG;2;SG;COND = eq'olebodi
+ჰყავს	გვეყოლებოდი	V;1;PL;2;SG;COND = gveq'olebodi
+ჰყავს	ეყოლებოდი	V;3;PL;2;SG;COND = eq'olebodi
+ჰყავს	მეყოლებოდა	V;1;SG;3;SG;COND = meq'oleboda
+ჰყავს	გეყოლებოდა	V;2;SG;3;SG;COND = geq'oleboda
+ჰყავს	ეყოლებოდა	V;3;SG;3;SG;COND = eq'oleboda
+ჰყავს	გვეყოლებოდა	V;1;PL;3;SG;COND = gveq'oleboda
+ჰყავს	გეყოლებოდათ	V;2;PL;3;SG;COND = geq'olebodat
+ჰყავს	ეყოლებოდათ	V;3;PL;3;SG;COND = eq'olebodat
+ჰყავს	გეყოლებოდით	V;2;SG;1;PL;COND = geq'olebodit
+ჰყავს	ვეყოლებოდით	V;3;SG;1;PL;COND = veq'olebodit
+ჰყავს	გეყოლებოდით	V;2;PL;1;PL;COND = geq'olebodit
+ჰყავს	ვეყოლებოდით	V;3;PL;1;PL;COND = veq'olebodit
+ჰყავს	მეყოლებოდით	V;1;SG;2;PL;COND = meq'olebodit
+ჰყავს	ეყოლებოდით	V;3;SG;2;PL;COND = eq'olebodit
+ჰყავს	გვეყოლებოდით	V;1;PL;2;PL;COND = gveq'olebodit
+ჰყავს	ეყოლებოდით	V;3;PL;2;PL;COND = eq'olebodit
+ჰყავს	მეყოლებოდა	V;1;SG;3;PL;COND = meq'oleboda
+ჰყავს	გეყოლებოდა	V;2;SG;3;PL;COND = geq'oleboda
+ჰყავს	ეყოლებოდა	V;3;SG;3;PL;COND = eq'oleboda
+ჰყავს	გვეყოლებოდა	V;1;PL;3;PL;COND = gveq'oleboda
+ჰყავს	გეყოლებოდათ	V;2;PL;3;PL;COND = geq'olebodat
+ჰყავს	ეყოლებოდათ	V;3;PL;3;PL;COND = eq'olebodat
+
+
+Screeve #6:
+ჰყავს	გეყოლებოდე	V;2;SG;1;SG;SBJV;FUT = geq'olebode
+ჰყავს	ვეყოლებოდე	V;3;SG;1;SG;SBJV;FUT = veq'olebode
+ჰყავს	გეყოლებოდეთ	V;2;PL;1;SG;SBJV;FUT = geq'olebodet
+ჰყავს	ვეყოლებოდეთ	V;3;PL;1;SG;SBJV;FUT = veq'olebodet
+ჰყავს	მეყოლებოდე	V;1;SG;2;SG;SBJV;FUT = meq'olebode
+ჰყავს	ეყოლებოდე	V;3;SG;2;SG;SBJV;FUT = eq'olebode
+ჰყავს	გვეყოლებოდე	V;1;PL;2;SG;SBJV;FUT = gveq'olebode
+ჰყავს	ეყოლებოდე	V;3;PL;2;SG;SBJV;FUT = eq'olebode
+ჰყავს	მეყოლებოდეს	V;1;SG;3;SG;SBJV;FUT = meq'olebodes
+ჰყავს	გეყოლებოდეს	V;2;SG;3;SG;SBJV;FUT = geq'olebodes
+ჰყავს	ეყოლებოდეს	V;3;SG;3;SG;SBJV;FUT = eq'olebodes
+ჰყავს	გვეყოლებოდეს	V;1;PL;3;SG;SBJV;FUT = gveq'olebodes
+ჰყავს	გეყოლებოდეთ	V;2;PL;3;SG;SBJV;FUT = geq'olebodet
+ჰყავს	ეყოლებოდეთ	V;3;PL;3;SG;SBJV;FUT = eq'olebodet
+ჰყავს	გეყოლებოდეთ	V;2;SG;1;PL;SBJV;FUT = geq'olebodet
+ჰყავს	ვეყოლებოდეთ	V;3;SG;1;PL;SBJV;FUT = veq'olebodet
+ჰყავს	გეყოლებოდეთ	V;2;PL;1;PL;SBJV;FUT = geq'olebodet
+ჰყავს	ვეყოლებოდეთ	V;3;PL;1;PL;SBJV;FUT = veq'olebodet
+ჰყავს	მეყოლებოდეთ	V;1;SG;2;PL;SBJV;FUT = meq'olebodet
+ჰყავს	ეყოლებოდეთ	V;3;SG;2;PL;SBJV;FUT = eq'olebodet
+ჰყავს	გვეყოლებოდეთ	V;1;PL;2;PL;SBJV;FUT = gveq'olebodet
+ჰყავს	ეყოლებოდეთ	V;3;PL;2;PL;SBJV;FUT = eq'olebodet
+ჰყავს	მეყოლებოდეს	V;1;SG;3;PL;SBJV;FUT = meq'olebodes
+ჰყავს	გეყოლებოდეს	V;2;SG;3;PL;SBJV;FUT = geq'olebodes
+ჰყავს	ეყოლებოდეს	V;3;SG;3;PL;SBJV;FUT = eq'olebodes
+ჰყავს	გვეყოლებოდეს	V;1;PL;3;PL;SBJV;FUT = gveq'olebodes
+ჰყავს	გეყოლებოდეთ	V;2;PL;3;PL;SBJV;FUT = geq'olebodet
+ჰყავს	ეყოლებოდეთ	V;3;PL;3;PL;SBJV;FUT = eq'olebodet
+
+
+Screeve #9:
+ჰყავს	გყოლივარ	V;2;SG;1;SG;IND;PRF = gq'olivar
+ჰყავს	ვყოლივარ	V;3;SG;1;SG;IND;PRF = vq'olivar
+ჰყავს	გყოლივართ	V;2;PL;1;SG;IND;PRF = gq'olivart
+ჰყავს	ვყოლივარ	V;3;PL;1;SG;IND;PRF = vq'olivar
+ჰყავს	მყოლიხარ	V;1;SG;2;SG;IND;PRF = mq'olixar
+ჰყავს	ჰყოლიხარ	V;3;SG;2;SG;IND;PRF = hq'olixar
+ჰყავს	გვყოლიხარ	V;1;PL;2;SG;IND;PRF = gvq'olixar
+ჰყავს	ჰყოლიხარ	V;3;PL;2;SG;IND;PRF = hq'olixar
+ჰყავს	მყოლია	V;1;SG;3;SG;IND;PRF = mq'olia
+ჰყავს	გყოლია	V;2;SG;3;SG;IND;PRF = gq'olia
+ჰყავს	ჰყოლია	V;3;SG;3;SG;IND;PRF = hq'olia
+ჰყავს	გვყოლია	V;1;PL;3;SG;IND;PRF = gvq'olia
+ჰყავს	გყოლიათ	V;2;PL;3;SG;IND;PRF = gq'oliat
+ჰყავს	ჰყოლიათ	V;3;PL;3;SG;IND;PRF = hq'oliat
+ჰყავს	გყოლივართ	V;2;SG;1;PL;IND;PRF = gq'olivart
+ჰყავს	ვყოლივართ	V;3;SG;1;PL;IND;PRF = vq'olivart
+ჰყავს	გყოლივართ	V;2;PL;1;PL;IND;PRF = gq'olivart
+ჰყავს	ვყოლივართ	V;3;PL;1;PL;IND;PRF = vq'olivart
+ჰყავს	მყოლიხართ	V;1;SG;2;PL;IND;PRF = mq'olixart
+ჰყავს	ჰყოლიხართ	V;3;SG;2;PL;IND;PRF = hq'olixart
+ჰყავს	გვყოლიხართ	V;1;PL;2;PL;IND;PRF = gvq'olixart
+ჰყავს	ჰყოლიხართ	V;3;PL;2;PL;IND;PRF = hq'olixart
+ჰყავს	მყოლია	V;1;SG;3;PL;IND;PRF = mq'olia
+ჰყავს	გყოლია	V;2;SG;3;PL;IND;PRF = gq'olia
+ჰყავს	ჰყოლია	V;3;SG;3;PL;IND;PRF = hq'olia
+ჰყავს	გვყოლია	V;1;PL;3;PL;IND;PRF = gvq'olia
+ჰყავს	გყოლიათ	V;2;PL;3;PL;IND;PRF = gq'oliat
+ჰყავს	ჰყოლიათ	V;3;PL;3;PL;IND;PRF = hq'oliat
+
+
+Screeve #10:
+ჰყავს	გყოლოდი	V;2;SG;1;SG;IND;PST;PRF = gq'olodi
+ჰყავს	ვყოლოდი	V;3;SG;1;SG;IND;PST;PRF = vq'olodi
+ჰყავს	გყოლოდით	V;2;PL;1;SG;IND;PST;PRF = gq'olodit
+ჰყავს	ვყოლოდით	V;3;PL;1;SG;IND;PST;PRF = vq'olodit
+ჰყავს	მყოლოდი	V;1;SG;2;SG;IND;PST;PRF = mq'olodi
+ჰყავს	ჰყოლოდი	V;3;SG;2;SG;IND;PST;PRF = hq'olodi
+ჰყავს	გვყოლოდი	V;1;PL;2;SG;IND;PST;PRF = gvq'olodi
+ჰყავს	ჰყოლოდი	V;3;PL;2;SG;IND;PST;PRF = hq'olodi
+ჰყავს	მყოლოდა	V;1;SG;3;SG;IND;PST;PRF = mq'oloda
+ჰყავს	გყოლოდა	V;2;SG;3;SG;IND;PST;PRF = gq'oloda
+ჰყავს	ჰყოლოდა	V;3;SG;3;SG;IND;PST;PRF = hq'oloda
+ჰყავს	გვყოლოდა	V;1;PL;3;SG;IND;PST;PRF = gvq'oloda
+ჰყავს	გყოლოდათ	V;2;PL;3;SG;IND;PST;PRF = gq'olodat
+ჰყავს	ჰყოლოდათ	V;3;PL;3;SG;IND;PST;PRF = hq'olodat
+ჰყავს	გყოლოდით	V;2;SG;1;PL;IND;PST;PRF = gq'olodit
+ჰყავს	ვყოლოდით	V;3;SG;1;PL;IND;PST;PRF = vq'olodit
+ჰყავს	გყოლოდით	V;2;PL;1;PL;IND;PST;PRF = gq'olodit
+ჰყავს	ვყოლოდით	V;3;PL;1;PL;IND;PST;PRF = vq'olodit
+ჰყავს	მყოლოდით	V;1;SG;2;PL;IND;PST;PRF = mq'olodit
+ჰყავს	ჰყოლოდით	V;3;SG;2;PL;IND;PST;PRF = hq'olodit
+ჰყავს	გვყოლოდით	V;1;PL;2;PL;IND;PST;PRF = gvq'olodit
+ჰყავს	ჰყოლოდით	V;3;PL;2;PL;IND;PST;PRF = hq'olodit
+ჰყავს	მყოლოდა	V;1;SG;3;PL;IND;PST;PRF = mq'oloda
+ჰყავს	გყოლოდა	V;2;SG;3;PL;IND;PST;PRF = gq'oloda
+ჰყავს	ჰყოლოდა	V;3;SG;3;PL;IND;PST;PRF = hq'oloda
+ჰყავს	გვყოლოდა	V;1;PL;3;PL;IND;PST;PRF = gvq'oloda
+ჰყავს	გყოლოდათ	V;2;PL;3;PL;IND;PST;PRF = gq'olodat
+ჰყავს	ჰყოლოდათ	V;3;PL;3;PL;IND;PST;PRF = hq'olodat
+
+
+Screeve #11:
+ჰყავს	გყოლოდე	V;2;SG;1;SG;SBJV;PRF = gq'olode
+ჰყავს	ვყოლოდე	V;3;SG;1;SG;SBJV;PRF = vq'olode
+ჰყავს	გყოლოდეთ	V;2;PL;1;SG;SBJV;PRF = gq'olodet
+ჰყავს	ვყოლოდეთ	V;3;PL;1;SG;SBJV;PRF = vq'olodet
+ჰყავს	მყოლოდე	V;1;SG;2;SG;SBJV;PRF = mq'olode
+ჰყავს	ჰყოლოდე	V;3;SG;2;SG;SBJV;PRF = hq'olode
+ჰყავს	გვყოლოდე	V;1;PL;2;SG;SBJV;PRF = gvq'olode
+ჰყავს	ჰყოლოდე	V;3;PL;2;SG;SBJV;PRF = hq'olode
+ჰყავს	მყოლოდეს	V;1;SG;3;SG;SBJV;PRF = mq'olodes
+ჰყავს	გყოლოდეს	V;2;SG;3;SG;SBJV;PRF = gq'olodes
+ჰყავს	ჰყოლოდეს	V;3;SG;3;SG;SBJV;PRF = hq'olodes
+ჰყავს	გვყოლოდეს	V;1;PL;3;SG;SBJV;PRF = gvq'olodes
+ჰყავს	გყოლოდეთ	V;2;PL;3;SG;SBJV;PRF = gq'olodet
+ჰყავს	ჰყოლოდეთ	V;3;PL;3;SG;SBJV;PRF = hq'olodet
+ჰყავს	გყოლოდეთ	V;2;SG;1;PL;SBJV;PRF = gq'olodet
+ჰყავს	ვყოლოდეთ	V;3;SG;1;PL;SBJV;PRF = vq'olodet
+ჰყავს	გყოლოდეთ	V;2;PL;1;PL;SBJV;PRF = gq'olodet
+ჰყავს	ვყოლოდეთ	V;3;PL;1;PL;SBJV;PRF = vq'olodet
+ჰყავს	მყოლოდეთ	V;1;SG;2;PL;SBJV;PRF = mq'olodet
+ჰყავს	ჰყოლოდეთ	V;3;SG;2;PL;SBJV;PRF = hq'olodet
+ჰყავს	გვყოლოდეთ	V;1;PL;2;PL;SBJV;PRF = gvq'olodet
+ჰყავს	ჰყოლოდეთ	V;3;PL;2;PL;SBJV;PRF = hq'olodet
+ჰყავს	მყოლოდეს	V;1;SG;3;PL;SBJV;PRF = mq'olodes
+ჰყავს	გყოლოდეს	V;2;SG;3;PL;SBJV;PRF = gq'olodes
+ჰყავს	ჰყოლოდეს	V;3;SG;3;PL;SBJV;PRF = hq'olodes
+ჰყავს	გვყოლოდეს	V;1;PL;3;PL;SBJV;PRF = gvq'olodes
+ჰყავს	გყოლოდეთ	V;2;PL;3;PL;SBJV;PRF = gq'olodet
+ჰყავს	ჰყოლოდეთ	V;3;PL;3;PL;SBJV;PRF = hq'olodet
+
+
+ჰყავს	ყოლება	V;V.MSDR;IPFV

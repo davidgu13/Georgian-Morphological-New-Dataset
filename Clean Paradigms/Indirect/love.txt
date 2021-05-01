@@ -1,0 +1,281 @@
+#5 - უყვარს - love:
+Screeve #1:
+უყვარს	გიყვარვარ	V;2;SG;1;SG;IND;PRS = giq'varvar
+უყვარს	ვუყვარვარ	V;3;SG;1;SG;IND;PRS = vuq'varvar
+უყვარს	გიყვარვართ	V;2;PL;1;SG;IND;PRS = giq'varvart
+უყვარს	ვუყვარვართ	V;3;PL;1;SG;IND;PRS = vuq'varvart
+უყვარს	მიყვარხარ	V;1;SG;2;SG;IND;PRS = miq'varxar
+უყვარს	უყვარხარ	V;3;SG;2;SG;IND;PRS = uq'varxar
+უყვარს	გვიყვარხარ	V;1;PL;2;SG;IND;PRS = gviq'varxar
+უყვარს	უყვარხარ	V;3;PL;2;SG;IND;PRS = uq'varxar
+უყვარს	მიყვარს	V;1;SG;3;SG;IND;PRS = miq'vars
+უყვარს	გიყვარს	V;2;SG;3;SG;IND;PRS = giq'vars
+უყვარს	უყვარს	V;3;SG;3;SG;IND;PRS = uq'vars
+უყვარს	გვიყვარს	V;1;PL;3;SG;IND;PRS = gviq'vars
+უყვარს	გიყვართ	V;2;PL;3;SG;IND;PRS = giq'vart
+უყვარს	უყვართ	V;3;PL;3;SG;IND;PRS = uq'vart
+უყვარს	გიყვარვართ	V;2;SG;1;PL;IND;PRS = giq'varvart
+უყვარს	ვუყვარვართ	V;3;SG;1;PL;IND;PRS = vuq'varvart
+უყვარს	გიყვარვართ	V;2;PL;1;PL;IND;PRS = giq'varvart
+უყვარს	ვუყვარვართ	V;3;PL;1;PL;IND;PRS = vuq'varvart
+უყვარს	მიყვარხართ	V;1;SG;2;PL;IND;PRS = miq'varxart
+უყვარს	უყვარხართ	V;3;SG;2;PL;IND;PRS = uq'varxart
+უყვარს	გვიყვარხართ	V;1;PL;2;PL;IND;PRS = gviq'varxart
+უყვარს	უყვარხართ	V;3;PL;2;PL;IND;PRS = uq'varxart
+უყვარს	მიყვარს	V;1;SG;3;PL;IND;PRS = miq'vars
+უყვარს	გიყვარს	V;2;SG;3;PL;IND;PRS = giq'vars
+უყვარს	უყვარს	V;3;SG;3;PL;IND;PRS = uq'vars
+უყვარს	გვიყვარს	V;1;PL;3;PL;IND;PRS = gviq'vars
+უყვარს	გიყვართ	V;2;PL;3;PL;IND;PRS = giq'vart
+უყვარს	უყვართ	V;3;PL;3;PL;IND;PRS = uq'vart
+
+
+Screeve #2:
+უყვარს	გიყვარდი	V;2;SG;1;SG;IND;IPFV = giq'vardi
+უყვარს	ვუყვარდი	V;3;SG;1;SG;IND;IPFV = vuq'vardi
+უყვარს	გიყვარდით	V;2;PL;1;SG;IND;IPFV = giq'vardit
+უყვარს	ვუყვარდით	V;3;PL;1;SG;IND;IPFV = vuq'vardit
+უყვარს	მიყვარდი	V;1;SG;2;SG;IND;IPFV = miq'vardi
+უყვარს	უყვარდი	V;3;SG;2;SG;IND;IPFV = uq'vardi
+უყვარს	გვიყვარდი	V;1;PL;2;SG;IND;IPFV = gviq'vardi
+უყვარს	უყვარდი	V;3;PL;2;SG;IND;IPFV = uq'vardi
+უყვარს	მიყვარდა	V;1;SG;3;SG;IND;IPFV = miq'varda
+უყვარს	გიყვარდა	V;2;SG;3;SG;IND;IPFV = giq'varda
+უყვარს	უყვარდა	V;3;SG;3;SG;IND;IPFV = uq'varda
+უყვარს	გვიყვარდა	V;1;PL;3;SG;IND;IPFV = gviq'varda
+უყვარს	გიყვარდათ	V;2;PL;3;SG;IND;IPFV = giq'vardat
+უყვარს	უყვარდათ	V;3;PL;3;SG;IND;IPFV = uq'vardat
+უყვარს	გიყვარდით	V;2;SG;1;PL;IND;IPFV = giq'vardit
+უყვარს	ვუყვარდით	V;3;SG;1;PL;IND;IPFV = vuq'vardit
+უყვარს	გიყვარდით	V;2;PL;1;PL;IND;IPFV = giq'vardit
+უყვარს	ვუყვარდით	V;3;PL;1;PL;IND;IPFV = vuq'vardit
+უყვარს	მიყვარდით	V;1;SG;2;PL;IND;IPFV = miq'vardit
+უყვარს	უყვარდით	V;3;SG;2;PL;IND;IPFV = uq'vardit
+უყვარს	გვიყვარდით	V;1;PL;2;PL;IND;IPFV = gviq'vardit
+უყვარს	უყვარდით	V;3;PL;2;PL;IND;IPFV = uq'vardit
+უყვარს	მიყვარდა	V;1;SG;3;PL;IND;IPFV = miq'varda
+უყვარს	გიყვარდა	V;2;SG;3;PL;IND;IPFV = giq'varda
+უყვარს	უყვარდა	V;3;SG;3;PL;IND;IPFV = uq'varda
+უყვარს	გვიყვარდა	V;1;PL;3;PL;IND;IPFV = gviq'varda
+უყვარს	გიყვარდათ	V;2;PL;3;PL;IND;IPFV = giq'vardat
+უყვარს	უყვარდათ	V;3;PL;3;PL;IND;IPFV = uq'vardat
+
+
+Screeve #3:
+უყვარს	გიყვარდე	V;2;SG;1;SG;SBJV;PRS = giq'varde
+უყვარს	ვუყვარდე	V;3;SG;1;SG;SBJV;PRS = vuq'varde
+უყვარს	გიყვარდეთ	V;2;PL;1;SG;SBJV;PRS = giq'vardet
+უყვარს	ვუყვარდეთ	V;3;PL;1;SG;SBJV;PRS = vuq'vardet
+უყვარს	მიყვარდე	V;1;SG;2;SG;SBJV;PRS = miq'varde
+უყვარს	უყვარდე	V;3;SG;2;SG;SBJV;PRS = uq'varde
+უყვარს	გვიყვარდე	V;1;PL;2;SG;SBJV;PRS = gviq'varde
+უყვარს	უყვარდე	V;3;PL;2;SG;SBJV;PRS = uq'varde
+უყვარს	მიყვარდეს	V;1;SG;3;SG;SBJV;PRS = miq'vardes
+უყვარს	გიყვარდეს	V;2;SG;3;SG;SBJV;PRS = giq'vardes
+უყვარს	უყვარდეს	V;3;SG;3;SG;SBJV;PRS = uq'vardes
+უყვარს	გვიყვარდეს	V;1;PL;3;SG;SBJV;PRS = gviq'vardes
+უყვარს	გიყვარდეთ	V;2;PL;3;SG;SBJV;PRS = giq'vardet
+უყვარს	უყვარდეთ	V;3;PL;3;SG;SBJV;PRS = uq'vardet
+უყვარს	გიყვარდეთ	V;2;SG;1;PL;SBJV;PRS = giq'vardet
+უყვარს	ვუყვარდეთ	V;3;SG;1;PL;SBJV;PRS = vuq'vardet
+უყვარს	გიყვარდეთ	V;2;PL;1;PL;SBJV;PRS = giq'vardet
+უყვარს	ვუყვარდეთ	V;3;PL;1;PL;SBJV;PRS = vuq'vardet
+უყვარს	მიყვარდეთ	V;1;SG;2;PL;SBJV;PRS = miq'vardet
+უყვარს	უყვარდეთ	V;3;SG;2;PL;SBJV;PRS = uq'vardet
+უყვარს	გვიყვარდეთ	V;1;PL;2;PL;SBJV;PRS = gviq'vardet
+უყვარს	უყვარდეთ	V;3;PL;2;PL;SBJV;PRS = uq'vardet
+უყვარს	მიყვარდეს	V;1;SG;3;PL;SBJV;PRS = miq'vardes
+უყვარს	გიყვარდეს	V;2;SG;3;PL;SBJV;PRS = giq'vardes
+უყვარს	უყვარდეს	V;3;SG;3;PL;SBJV;PRS = uq'vardes
+უყვარს	გვიყვარდეს	V;1;PL;3;PL;SBJV;PRS = gviq'vardes
+უყვარს	გიყვარდეთ	V;2;PL;3;PL;SBJV;PRS = giq'vardet
+უყვარს	უყვარდეთ	V;3;PL;3;PL;SBJV;PRS = uq'vardet
+
+
+Screeve #4:
+უყვარს	გეყვარები	V;2;SG;1;SG;IND;FUT = geq'varebi
+უყვარს	ვეყვარები	V;3;SG;1;SG;IND;FUT = veq'varebi
+უყვარს	გეყვარებით	V;2;PL;1;SG;IND;FUT = geq'varebit
+უყვარს	ვეყვარებით	V;3;PL;1;SG;IND;FUT = veq'varebit
+უყვარს	მეყვარები	V;1;SG;2;SG;IND;FUT = meq'varebi
+უყვარს	ეყვარები	V;3;SG;2;SG;IND;FUT = eq'varebi
+უყვარს	გვეყვარები	V;1;PL;2;SG;IND;FUT = gveq'varebi
+უყვარს	ეყვარები	V;3;PL;2;SG;IND;FUT = eq'varebi
+უყვარს	მეყვარება	V;1;SG;3;SG;IND;FUT = meq'vareba
+უყვარს	გეყვარება	V;2;SG;3;SG;IND;FUT = geq'vareba
+უყვარს	ეყვარება	V;3;SG;3;SG;IND;FUT = eq'vareba
+უყვარს	გვეყვარება	V;1;PL;3;SG;IND;FUT = gveq'vareba
+უყვარს	გეყვარებათ	V;2;PL;3;SG;IND;FUT = geq'varebat
+უყვარს	ეყვარებათ	V;3;PL;3;SG;IND;FUT = eq'varebat
+უყვარს	გეყვარებით	V;2;SG;1;PL;IND;FUT = geq'varebit
+უყვარს	ვეყვარებით	V;3;SG;1;PL;IND;FUT = veq'varebit
+უყვარს	გეყვარებით	V;2;PL;1;PL;IND;FUT = geq'varebit
+უყვარს	ვეყვარებით	V;3;PL;1;PL;IND;FUT = veq'varebit
+უყვარს	მეყვარებით	V;1;SG;2;PL;IND;FUT = meq'varebit
+უყვარს	ეყვარებით	V;3;SG;2;PL;IND;FUT = eq'varebit
+უყვარს	გვეყვარებით	V;1;PL;2;PL;IND;FUT = gveq'varebit
+უყვარს	ეყვარებით	V;3;PL;2;PL;IND;FUT = eq'varebit
+უყვარს	მეყვარება	V;1;SG;3;PL;IND;FUT = meq'vareba
+უყვარს	გეყვარება	V;2;SG;3;PL;IND;FUT = geq'vareba
+უყვარს	ეყვარება	V;3;SG;3;PL;IND;FUT = eq'vareba
+უყვარს	გვეყვარება	V;1;PL;3;PL;IND;FUT = gveq'vareba
+უყვარს	გეყვარებათ	V;2;PL;3;PL;IND;FUT = geq'varebat
+უყვარს	ეყვარებათ	V;3;PL;3;PL;IND;FUT = eq'varebat
+
+
+Screeve #5:
+უყვარს	გეყვარებოდი	V;2;SG;1;SG;COND = geq'varebodi
+უყვარს	ვეყვარებოდი	V;3;SG;1;SG;COND = veq'varebodi
+უყვარს	გეყვარებოდით	V;2;PL;1;SG;COND = geq'varebodit
+უყვარს	ვეყვარებოდით	V;3;PL;1;SG;COND = veq'varebodit
+უყვარს	მეყვარებოდი	V;1;SG;2;SG;COND = meq'varebodi
+უყვარს	ეყვარებოდი	V;3;SG;2;SG;COND = eq'varebodi
+უყვარს	გვეყვარებოდი	V;1;PL;2;SG;COND = gveq'varebodi
+უყვარს	ეყვარებოდი	V;3;PL;2;SG;COND = eq'varebodi
+უყვარს	მეყვარებოდა	V;1;SG;3;SG;COND = meq'vareboda
+უყვარს	გეყვარებოდა	V;2;SG;3;SG;COND = geq'vareboda
+უყვარს	ეყვარებოდა	V;3;SG;3;SG;COND = eq'vareboda
+უყვარს	გვეყვარებოდა	V;1;PL;3;SG;COND = gveq'vareboda
+უყვარს	გეყვარებოდათ	V;2;PL;3;SG;COND = geq'varebodat
+უყვარს	ეყვარებოდათ	V;3;PL;3;SG;COND = eq'varebodat
+უყვარს	გეყვარებოდით	V;2;SG;1;PL;COND = geq'varebodit
+უყვარს	ვეყვარებოდით	V;3;SG;1;PL;COND = veq'varebodit
+უყვარს	გეყვარებოდით	V;2;PL;1;PL;COND = geq'varebodit
+უყვარს	ვეყვარებოდით	V;3;PL;1;PL;COND = veq'varebodit
+უყვარს	მეყვარებოდით	V;1;SG;2;PL;COND = meq'varebodit
+უყვარს	ეყვარებოდით	V;3;SG;2;PL;COND = eq'varebodit
+უყვარს	გვეყვარებოდით	V;1;PL;2;PL;COND = gveq'varebodit
+უყვარს	ეყვარებოდით	V;3;PL;2;PL;COND = eq'varebodit
+უყვარს	მეყვარებოდა	V;1;SG;3;PL;COND = meq'vareboda
+უყვარს	გეყვარებოდა	V;2;SG;3;PL;COND = geq'vareboda
+უყვარს	ეყვარებოდა	V;3;SG;3;PL;COND = eq'vareboda
+უყვარს	გვეყვარებოდა	V;1;PL;3;PL;COND = gveq'vareboda
+უყვარს	გეყვარებოდათ	V;2;PL;3;PL;COND = geq'varebodat
+უყვარს	ეყვარებოდათ	V;3;PL;3;PL;COND = eq'varebodat
+
+
+Screeve #6:
+უყვარს	გეყვარებოდე	V;2;SG;1;SG;SBJV;FUT = geq'varebode
+უყვარს	ვეყვარებოდე	V;3;SG;1;SG;SBJV;FUT = veq'varebode
+უყვარს	გეყვარებოდეთ	V;2;PL;1;SG;SBJV;FUT = geq'varebodet
+უყვარს	ვეყვარებოდეთ	V;3;PL;1;SG;SBJV;FUT = veq'varebodet
+უყვარს	მეყვარებოდე	V;1;SG;2;SG;SBJV;FUT = meq'varebode
+უყვარს	ეყვარებოდე	V;3;SG;2;SG;SBJV;FUT = eq'varebode
+უყვარს	გვეყვარებოდე	V;1;PL;2;SG;SBJV;FUT = gveq'varebode
+უყვარს	ეყვარებოდე	V;3;PL;2;SG;SBJV;FUT = eq'varebode
+უყვარს	მეყვარებოდეს	V;1;SG;3;SG;SBJV;FUT = meq'varebodes
+უყვარს	გეყვარებოდეს	V;2;SG;3;SG;SBJV;FUT = geq'varebodes
+უყვარს	ეყვარებოდეს	V;3;SG;3;SG;SBJV;FUT = eq'varebodes
+უყვარს	გვეყვარებოდეს	V;1;PL;3;SG;SBJV;FUT = gveq'varebodes
+უყვარს	გეყვარებოდეთ	V;2;PL;3;SG;SBJV;FUT = geq'varebodet
+უყვარს	ეყვარებოდეთ	V;3;PL;3;SG;SBJV;FUT = eq'varebodet
+უყვარს	გეყვარებოდეთ	V;2;SG;1;PL;SBJV;FUT = geq'varebodet
+უყვარს	ვეყვარებოდეთ	V;3;SG;1;PL;SBJV;FUT = veq'varebodet
+უყვარს	გეყვარებოდეთ	V;2;PL;1;PL;SBJV;FUT = geq'varebodet
+უყვარს	ვეყვარებოდეთ	V;3;PL;1;PL;SBJV;FUT = veq'varebodet
+უყვარს	მეყვარებოდეთ	V;1;SG;2;PL;SBJV;FUT = meq'varebodet
+უყვარს	ეყვარებოდეთ	V;3;SG;2;PL;SBJV;FUT = eq'varebodet
+უყვარს	გვეყვარებოდეთ	V;1;PL;2;PL;SBJV;FUT = gveq'varebodet
+უყვარს	ეყვარებოდეთ	V;3;PL;2;PL;SBJV;FUT = eq'varebodet
+უყვარს	მეყვარებოდეს	V;1;SG;3;PL;SBJV;FUT = meq'varebodes
+უყვარს	გეყვარებოდეს	V;2;SG;3;PL;SBJV;FUT = geq'varebodes
+უყვარს	ეყვარებოდეს	V;3;SG;3;PL;SBJV;FUT = eq'varebodes
+უყვარს	გვეყვარებოდეს	V;1;PL;3;PL;SBJV;FUT = gveq'varebodes
+უყვარს	გეყვარებოდეთ	V;2;PL;3;PL;SBJV;FUT = geq'varebodet
+უყვარს	ეყვარებოდეთ	V;3;PL;3;PL;SBJV;FUT = eq'varebodet
+
+
+Screeve #9:
+უყვარს	გყვარებივარ	V;2;SG;1;SG;IND;PRF = gq'varebivar
+უყვარს	ვყვარებივარ	V;3;SG;1;SG;IND;PRF = vq'varebivar
+უყვარს	გყვარებივართ	V;2;PL;1;SG;IND;PRF = gq'varebivart
+უყვარს	ვყვარებივარ	V;3;PL;1;SG;IND;PRF = vq'varebivar
+უყვარს	მყვარებიხარ	V;1;SG;2;SG;IND;PRF = mq'varebixar
+უყვარს	ჰყვარებიხარ	V;3;SG;2;SG;IND;PRF = hq'varebixar
+უყვარს	გვყვარებიხარ	V;1;PL;2;SG;IND;PRF = gvq'varebixar
+უყვარს	ჰყვარებიხარ	V;3;PL;2;SG;IND;PRF = hq'varebixar
+უყვარს	მყვარებია	V;1;SG;3;SG;IND;PRF = mq'varebia
+უყვარს	გყვარებია	V;2;SG;3;SG;IND;PRF = gq'varebia
+უყვარს	ჰყვარებია	V;3;SG;3;SG;IND;PRF = hq'varebia
+უყვარს	გვყვარებია	V;1;PL;3;SG;IND;PRF = gvq'varebia
+უყვარს	გყვარებიათ	V;2;PL;3;SG;IND;PRF = gq'varebiat
+უყვარს	ჰყვარებიათ	V;3;PL;3;SG;IND;PRF = hq'varebiat
+უყვარს	გყვარებივართ	V;2;SG;1;PL;IND;PRF = gq'varebivart
+უყვარს	ვყვარებივართ	V;3;SG;1;PL;IND;PRF = vq'varebivart
+უყვარს	გყვარებივართ	V;2;PL;1;PL;IND;PRF = gq'varebivart
+უყვარს	ვყვარებივართ	V;3;PL;1;PL;IND;PRF = vq'varebivart
+უყვარს	მყვარებიხართ	V;1;SG;2;PL;IND;PRF = mq'varebixart
+უყვარს	ჰყვარებიხართ	V;3;SG;2;PL;IND;PRF = hq'varebixart
+უყვარს	გვყვარებიხართ	V;1;PL;2;PL;IND;PRF = gvq'varebixart
+უყვარს	ჰყვარებიხართ	V;3;PL;2;PL;IND;PRF = hq'varebixart
+უყვარს	მყვარებია	V;1;SG;3;PL;IND;PRF = mq'varebia
+უყვარს	გყვარებია	V;2;SG;3;PL;IND;PRF = gq'varebia
+უყვარს	ჰყვარებია	V;3;SG;3;PL;IND;PRF = hq'varebia
+უყვარს	გვყვარებია	V;1;PL;3;PL;IND;PRF = gvq'varebia
+უყვარს	გყვარებიათ	V;2;PL;3;PL;IND;PRF = gq'varebiat
+უყვარს	ჰყვარებიათ	V;3;PL;3;PL;IND;PRF = hq'varebiat
+
+
+Screeve #10:
+უყვარს	გყვარებოდი	V;2;SG;1;SG;IND;PST;PRF = gq'varebodi
+უყვარს	ვყვარებოდი	V;3;SG;1;SG;IND;PST;PRF = vq'varebodi
+უყვარს	გყვარებოდით	V;2;PL;1;SG;IND;PST;PRF = gq'varebodit
+უყვარს	ვყვარებოდით	V;3;PL;1;SG;IND;PST;PRF = vq'varebodit
+უყვარს	მყვარებოდი	V;1;SG;2;SG;IND;PST;PRF = mq'varebodi
+უყვარს	ჰყვარებოდი	V;3;SG;2;SG;IND;PST;PRF = hq'varebodi
+უყვარს	გვყვარებოდი	V;1;PL;2;SG;IND;PST;PRF = gvq'varebodi
+უყვარს	ჰყვარებოდი	V;3;PL;2;SG;IND;PST;PRF = hq'varebodi
+უყვარს	მყვარებოდა	V;1;SG;3;SG;IND;PST;PRF = mq'vareboda
+უყვარს	გყვარებოდა	V;2;SG;3;SG;IND;PST;PRF = gq'vareboda
+უყვარს	ჰყვარებოდა	V;3;SG;3;SG;IND;PST;PRF = hq'vareboda
+უყვარს	გვყვარებოდა	V;1;PL;3;SG;IND;PST;PRF = gvq'vareboda
+უყვარს	გყვარებოდათ	V;2;PL;3;SG;IND;PST;PRF = gq'varebodat
+უყვარს	ჰყვარებოდათ	V;3;PL;3;SG;IND;PST;PRF = hq'varebodat
+უყვარს	გყვარებოდით	V;2;SG;1;PL;IND;PST;PRF = gq'varebodit
+უყვარს	ვყვარებოდით	V;3;SG;1;PL;IND;PST;PRF = vq'varebodit
+უყვარს	გყვარებოდით	V;2;PL;1;PL;IND;PST;PRF = gq'varebodit
+უყვარს	ვყვარებოდით	V;3;PL;1;PL;IND;PST;PRF = vq'varebodit
+უყვარს	მყვარებოდით	V;1;SG;2;PL;IND;PST;PRF = mq'varebodit
+უყვარს	ჰყვარებოდით	V;3;SG;2;PL;IND;PST;PRF = hq'varebodit
+უყვარს	გვყვარებოდით	V;1;PL;2;PL;IND;PST;PRF = gvq'varebodit
+უყვარს	ჰყვარებოდით	V;3;PL;2;PL;IND;PST;PRF = hq'varebodit
+უყვარს	მყვარებოდა	V;1;SG;3;PL;IND;PST;PRF = mq'vareboda
+უყვარს	გყვარებოდა	V;2;SG;3;PL;IND;PST;PRF = gq'vareboda
+უყვარს	ჰყვარებოდა	V;3;SG;3;PL;IND;PST;PRF = hq'vareboda
+უყვარს	გვყვარებოდა	V;1;PL;3;PL;IND;PST;PRF = gvq'vareboda
+უყვარს	გყვარებოდათ	V;2;PL;3;PL;IND;PST;PRF = gq'varebodat
+უყვარს	ჰყვარებოდათ	V;3;PL;3;PL;IND;PST;PRF = hq'varebodat
+
+
+Screeve #11:
+უყვარს	გყვარებოდე	V;2;SG;1;SG;SBJV;PRF = gq'varebode
+უყვარს	ვყვარებოდე	V;3;SG;1;SG;SBJV;PRF = vq'varebode
+უყვარს	გყვარებოდეთ	V;2;PL;1;SG;SBJV;PRF = gq'varebodet
+უყვარს	ვყვარებოდეთ	V;3;PL;1;SG;SBJV;PRF = vq'varebodet
+უყვარს	მყვარებოდე	V;1;SG;2;SG;SBJV;PRF = mq'varebode
+უყვარს	ჰყვარებოდე	V;3;SG;2;SG;SBJV;PRF = hq'varebode
+უყვარს	გვყვარებოდე	V;1;PL;2;SG;SBJV;PRF = gvq'varebode
+უყვარს	ჰყვარებოდე	V;3;PL;2;SG;SBJV;PRF = hq'varebode
+უყვარს	მყვარებოდეს	V;1;SG;3;SG;SBJV;PRF = mq'varebodes
+უყვარს	გყვარებოდეს	V;2;SG;3;SG;SBJV;PRF = gq'varebodes
+უყვარს	ჰყვარებოდეს	V;3;SG;3;SG;SBJV;PRF = hq'varebodes
+უყვარს	გვყვარებოდეს	V;1;PL;3;SG;SBJV;PRF = gvq'varebodes
+უყვარს	გყვარებოდეთ	V;2;PL;3;SG;SBJV;PRF = gq'varebodet
+უყვარს	ჰყვარებოდეთ	V;3;PL;3;SG;SBJV;PRF = hq'varebodet
+უყვარს	გყვარებოდეთ	V;2;SG;1;PL;SBJV;PRF = gq'varebodet
+უყვარს	ვყვარებოდეთ	V;3;SG;1;PL;SBJV;PRF = vq'varebodet
+უყვარს	გყვარებოდეთ	V;2;PL;1;PL;SBJV;PRF = gq'varebodet
+უყვარს	ვყვარებოდეთ	V;3;PL;1;PL;SBJV;PRF = vq'varebodet
+უყვარს	მყვარებოდეთ	V;1;SG;2;PL;SBJV;PRF = mq'varebodet
+უყვარს	ჰყვარებოდეთ	V;3;SG;2;PL;SBJV;PRF = hq'varebodet
+უყვარს	გვყვარებოდეთ	V;1;PL;2;PL;SBJV;PRF = gvq'varebodet
+უყვარს	ჰყვარებოდეთ	V;3;PL;2;PL;SBJV;PRF = hq'varebodet
+უყვარს	მყვარებოდეს	V;1;SG;3;PL;SBJV;PRF = mq'varebodes
+უყვარს	გყვარებოდეს	V;2;SG;3;PL;SBJV;PRF = gq'varebodes
+უყვარს	ჰყვარებოდეს	V;3;SG;3;PL;SBJV;PRF = hq'varebodes
+უყვარს	გვყვარებოდეს	V;1;PL;3;PL;SBJV;PRF = gvq'varebodes
+უყვარს	გყვარებოდეთ	V;2;PL;3;PL;SBJV;PRF = gq'varebodet
+უყვარს	ჰყვარებოდეთ	V;3;PL;3;PL;SBJV;PRF = hq'varebodet
+
+
+უყვარს	ყვარება	V;V.MSDR;IPFV

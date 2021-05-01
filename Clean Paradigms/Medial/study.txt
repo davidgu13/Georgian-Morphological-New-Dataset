@@ -1,0 +1,371 @@
+#16 - სწავლობს - study:
+Screeve #1:
+სწავლობს	მსწავლობ	V;2;SG;1;SG;IND;PRS = msc'avlob
+სწავლობს	მსწავლობს	V;3;SG;1;SG;IND;PRS = msc'avlobs
+სწავლობს	მსწავლობთ	V;2;PL;1;SG;IND;PRS = msc'avlobt
+სწავლობს	მსწავლობენ	V;3;PL;1;SG;IND;PRS = msc'avloben
+სწავლობს	გსწავლობ	V;1;SG;2;SG;IND;PRS = gsc'avlob
+სწავლობს	გსწავლობს	V;3;SG;2;SG;IND;PRS = gsc'avlobs
+სწავლობს	გსწავლობთ	V;1;PL;2;SG;IND;PRS = gsc'avlobt
+სწავლობს	გსწავლობენ	V;3;PL;2;SG;IND;PRS = gsc'avloben
+სწავლობს	ვსწავლობ	V;1;SG;3;SG;IND;PRS = vsc'avlob
+სწავლობს	სწავლობ	V;2;SG;3;SG;IND;PRS = sc'avlob
+სწავლობს	სწავლობს	V;3;SG;3;SG;IND;PRS = sc'avlobs
+სწავლობს	ვსწავლობთ	V;1;PL;3;SG;IND;PRS = vsc'avlobt
+სწავლობს	სწავლობთ	V;2;PL;3;SG;IND;PRS = sc'avlobt
+სწავლობს	სწავლობენ	V;3;PL;3;SG;IND;PRS = sc'avloben
+სწავლობს	გვსწავლობ	V;2;SG;1;PL;IND;PRS = gvsc'avlob
+სწავლობს	გვსწავლობს	V;3;SG;1;PL;IND;PRS = gvsc'avlobs
+სწავლობს	გვსწავლობთ	V;2;PL;1;PL;IND;PRS = gvsc'avlobt
+სწავლობს	გვსწავლობენ	V;3;PL;1;PL;IND;PRS = gvsc'avloben
+სწავლობს	გსწავლობთ	V;1;SG;2;PL;IND;PRS = gsc'avlobt
+სწავლობს	გსწავლობთ	V;3;SG;2;PL;IND;PRS = gsc'avlobt
+სწავლობს	გსწავლობთ	V;1;PL;2;PL;IND;PRS = gsc'avlobt
+სწავლობს	გსწავლობენ	V;3;PL;2;PL;IND;PRS = gsc'avloben
+სწავლობს	ვსწავლობ	V;1;SG;3;PL;IND;PRS = vsc'avlob
+სწავლობს	სწავლობ	V;2;SG;3;PL;IND;PRS = sc'avlob
+სწავლობს	სწავლობს	V;3;SG;3;PL;IND;PRS = sc'avlobs
+სწავლობს	ვსწავლობთ	V;1;PL;3;PL;IND;PRS = vsc'avlobt
+სწავლობს	სწავლობთ	V;2;PL;3;PL;IND;PRS = sc'avlobt
+სწავლობს	სწავლობენ	V;3;PL;3;PL;IND;PRS = sc'avloben
+
+
+Screeve #2:
+სწავლობს	მსწავლობდი	V;2;SG;1;SG;IND;IPFV = msc'avlobdi
+სწავლობს	მსწავლობდა	V;3;SG;1;SG;IND;IPFV = msc'avlobda
+სწავლობს	მსწავლობდით	V;2;PL;1;SG;IND;IPFV = msc'avlobdit
+სწავლობს	მსწავლობდნენ	V;3;PL;1;SG;IND;IPFV = msc'avlobdnen
+სწავლობს	გსწავლობდი	V;1;SG;2;SG;IND;IPFV = gsc'avlobdi
+სწავლობს	გსწავლობდა	V;3;SG;2;SG;IND;IPFV = gsc'avlobda
+სწავლობს	გსწავლობდით	V;1;PL;2;SG;IND;IPFV = gsc'avlobdit
+სწავლობს	გსწავლობდნენ	V;3;PL;2;SG;IND;IPFV = gsc'avlobdnen
+სწავლობს	ვსწავლობდი	V;1;SG;3;SG;IND;IPFV = vsc'avlobdi
+სწავლობს	სწავლობდი	V;2;SG;3;SG;IND;IPFV = sc'avlobdi
+სწავლობს	სწავლობდა	V;3;SG;3;SG;IND;IPFV = sc'avlobda
+სწავლობს	ვსწავლობდით	V;1;PL;3;SG;IND;IPFV = vsc'avlobdit
+სწავლობს	სწავლობდით	V;2;PL;3;SG;IND;IPFV = sc'avlobdit
+სწავლობს	სწავლობდნენ	V;3;PL;3;SG;IND;IPFV = sc'avlobdnen
+სწავლობს	გვსწავლობდი	V;2;SG;1;PL;IND;IPFV = gvsc'avlobdi
+სწავლობს	გვსწავლობდა	V;3;SG;1;PL;IND;IPFV = gvsc'avlobda
+სწავლობს	გვსწავლობდით	V;2;PL;1;PL;IND;IPFV = gvsc'avlobdit
+სწავლობს	გვსწავლობდნენ	V;3;PL;1;PL;IND;IPFV = gvsc'avlobdnen
+სწავლობს	გსწავლობდით	V;1;SG;2;PL;IND;IPFV = gsc'avlobdit
+სწავლობს	გსწავლობდათ	V;3;SG;2;PL;IND;IPFV = gsc'avlobdat
+სწავლობს	გსწავლობდით	V;1;PL;2;PL;IND;IPFV = gsc'avlobdit
+სწავლობს	გსწავლობდნენ	V;3;PL;2;PL;IND;IPFV = gsc'avlobdnen
+სწავლობს	ვსწავლობდი	V;1;SG;3;PL;IND;IPFV = vsc'avlobdi
+სწავლობს	სწავლობდი	V;2;SG;3;PL;IND;IPFV = sc'avlobdi
+სწავლობს	სწავლობდა	V;3;SG;3;PL;IND;IPFV = sc'avlobda
+სწავლობს	ვსწავლობდით	V;1;PL;3;PL;IND;IPFV = vsc'avlobdit
+სწავლობს	სწავლობდით	V;2;PL;3;PL;IND;IPFV = sc'avlobdit
+სწავლობს	სწავლობდნენ	V;3;PL;3;PL;IND;IPFV = sc'avlobdnen
+
+
+Screeve #3:
+სწავლობს	მსწავლობდე	V;2;SG;1;SG;SBJV;PRS = msc'avlobde
+სწავლობს	მსწავლობდეს	V;3;SG;1;SG;SBJV;PRS = msc'avlobdes
+სწავლობს	მსწავლობდეთ	V;2;PL;1;SG;SBJV;PRS = msc'avlobdet
+სწავლობს	მსწავლობდნენ	V;3;PL;1;SG;SBJV;PRS = msc'avlobdnen
+სწავლობს	გსწავლობდე	V;1;SG;2;SG;SBJV;PRS = gsc'avlobde
+სწავლობს	გსწავლობდეს	V;3;SG;2;SG;SBJV;PRS = gsc'avlobdes
+სწავლობს	გსწავლობდეთ	V;1;PL;2;SG;SBJV;PRS = gsc'avlobdet
+სწავლობს	გსწავლობდნენ	V;3;PL;2;SG;SBJV;PRS = gsc'avlobdnen
+სწავლობს	ვსწავლობდე	V;1;SG;3;SG;SBJV;PRS = vsc'avlobde
+სწავლობს	სწავლობდე	V;2;SG;3;SG;SBJV;PRS = sc'avlobde
+სწავლობს	სწავლობდეს	V;3;SG;3;SG;SBJV;PRS = sc'avlobdes
+სწავლობს	ვსწავლობდეთ	V;1;PL;3;SG;SBJV;PRS = vsc'avlobdet
+სწავლობს	სწავლობდეთ	V;2;PL;3;SG;SBJV;PRS = sc'avlobdet
+სწავლობს	სწავლობდნენ	V;3;PL;3;SG;SBJV;PRS = sc'avlobdnen
+სწავლობს	გვსწავლობდე	V;2;SG;1;PL;SBJV;PRS = gvsc'avlobde
+სწავლობს	გვსწავლობდეს	V;3;SG;1;PL;SBJV;PRS = gvsc'avlobdes
+სწავლობს	გვსწავლობდეთ	V;2;PL;1;PL;SBJV;PRS = gvsc'avlobdet
+სწავლობს	გვსწავლობდნენ	V;3;PL;1;PL;SBJV;PRS = gvsc'avlobdnen
+სწავლობს	გსწავლობდეთ	V;1;SG;2;PL;SBJV;PRS = gsc'avlobdet
+სწავლობს	გსწავლობდეთ	V;3;SG;2;PL;SBJV;PRS = gsc'avlobdet
+სწავლობს	გსწავლობდეთ	V;1;PL;2;PL;SBJV;PRS = gsc'avlobdet
+სწავლობს	გსწავლობდნენ	V;3;PL;2;PL;SBJV;PRS = gsc'avlobdnen
+სწავლობს	ვსწავლობდე	V;1;SG;3;PL;SBJV;PRS = vsc'avlobde
+სწავლობს	სწავლობდე	V;2;SG;3;PL;SBJV;PRS = sc'avlobde
+სწავლობს	სწავლობდეს	V;3;SG;3;PL;SBJV;PRS = sc'avlobdes
+სწავლობს	ვსწავლობდეთ	V;1;PL;3;PL;SBJV;PRS = vsc'avlobdet
+სწავლობს	სწავლობდეთ	V;2;PL;3;PL;SBJV;PRS = sc'avlobdet
+სწავლობს	სწავლობდნენ	V;3;PL;3;PL;SBJV;PRS = sc'avlobdnen
+
+
+Screeve #4:
+სწავლობს	მისწავლი	V;2;SG;1;SG;IND;FUT = misc'avli
+სწავლობს	მისწავლის	V;3;SG;1;SG;IND;FUT = misc'avlis
+სწავლობს	მისწავლით	V;2;PL;1;SG;IND;FUT = misc'avlit
+სწავლობს	მისწავლიენ	V;3;PL;1;SG;IND;FUT = misc'avlien
+სწავლობს	გისწავლი	V;1;SG;2;SG;IND;FUT = gisc'avli
+სწავლობს	გისწავლის	V;3;SG;2;SG;IND;FUT = gisc'avlis
+სწავლობს	გისწავლით	V;1;PL;2;SG;IND;FUT = gisc'avlit
+სწავლობს	გისწავლიენ	V;3;PL;2;SG;IND;FUT = gisc'avlien
+სწავლობს	ვისწავლი	V;1;SG;3;SG;IND;FUT = visc'avli
+სწავლობს	ისწავლი	V;2;SG;3;SG;IND;FUT = isc'avli
+სწავლობს	ისწავლის	V;3;SG;3;SG;IND;FUT = isc'avlis
+სწავლობს	ვისწავლით	V;1;PL;3;SG;IND;FUT = visc'avlit
+სწავლობს	ისწავლით	V;2;PL;3;SG;IND;FUT = isc'avlit
+სწავლობს	ისწავლიენ	V;3;PL;3;SG;IND;FUT = isc'avlien
+სწავლობს	გვისწავლი	V;2;SG;1;PL;IND;FUT = gvisc'avli
+სწავლობს	გვისწავლის	V;3;SG;1;PL;IND;FUT = gvisc'avlis
+სწავლობს	გვისწავლით	V;2;PL;1;PL;IND;FUT = gvisc'avlit
+სწავლობს	გვისწავლიენ	V;3;PL;1;PL;IND;FUT = gvisc'avlien
+სწავლობს	გისწავლით	V;1;SG;2;PL;IND;FUT = gisc'avlit
+სწავლობს	გისწავლით	V;3;SG;2;PL;IND;FUT = gisc'avlit
+სწავლობს	გისწავლით	V;1;PL;2;PL;IND;FUT = gisc'avlit
+სწავლობს	გისწავლიენ	V;3;PL;2;PL;IND;FUT = gisc'avlien
+სწავლობს	ვისწავლი	V;1;SG;3;PL;IND;FUT = visc'avli
+სწავლობს	ისწავლი	V;2;SG;3;PL;IND;FUT = isc'avli
+სწავლობს	ისწავლის	V;3;SG;3;PL;IND;FUT = isc'avlis
+სწავლობს	ვისწავლით	V;1;PL;3;PL;IND;FUT = visc'avlit
+სწავლობს	ისწავლით	V;2;PL;3;PL;IND;FUT = isc'avlit
+სწავლობს	ისწავლიენ	V;3;PL;3;PL;IND;FUT = isc'avlien
+
+
+Screeve #5:
+სწავლობს	მისწავლიდი	V;2;SG;1;SG;COND = misc'avlidi
+სწავლობს	მისწავლიდა	V;3;SG;1;SG;COND = misc'avlida
+სწავლობს	მისწავლიდით	V;2;PL;1;SG;COND = misc'avlidit
+სწავლობს	მისწავლიდნენ	V;3;PL;1;SG;COND = misc'avlidnen
+სწავლობს	გისწავლიდი	V;1;SG;2;SG;COND = gisc'avlidi
+სწავლობს	გისწავლიდა	V;3;SG;2;SG;COND = gisc'avlida
+სწავლობს	გისწავლიდით	V;1;PL;2;SG;COND = gisc'avlidit
+სწავლობს	გისწავლიდნენ	V;3;PL;2;SG;COND = gisc'avlidnen
+სწავლობს	ვისწავლიდი	V;1;SG;3;SG;COND = visc'avlidi
+სწავლობს	ისწავლიდი	V;2;SG;3;SG;COND = isc'avlidi
+სწავლობს	ისწავლიდა	V;3;SG;3;SG;COND = isc'avlida
+სწავლობს	ვისწავლიდით	V;1;PL;3;SG;COND = visc'avlidit
+სწავლობს	ისწავლიდით	V;2;PL;3;SG;COND = isc'avlidit
+სწავლობს	ისწავლიდნენ	V;3;PL;3;SG;COND = isc'avlidnen
+სწავლობს	გვისწავლიდი	V;2;SG;1;PL;COND = gvisc'avlidi
+სწავლობს	გვისწავლიდა	V;3;SG;1;PL;COND = gvisc'avlida
+სწავლობს	გვისწავლიდით	V;2;PL;1;PL;COND = gvisc'avlidit
+სწავლობს	გვისწავლიდნენ	V;3;PL;1;PL;COND = gvisc'avlidnen
+სწავლობს	გისწავლიდით	V;1;SG;2;PL;COND = gisc'avlidit
+სწავლობს	გისწავლიდათ	V;3;SG;2;PL;COND = gisc'avlidat
+სწავლობს	გისწავლიდით	V;1;PL;2;PL;COND = gisc'avlidit
+სწავლობს	გისწავლიდნენ	V;3;PL;2;PL;COND = gisc'avlidnen
+სწავლობს	ვისწავლიდი	V;1;SG;3;PL;COND = visc'avlidi
+სწავლობს	ისწავლიდი	V;2;SG;3;PL;COND = isc'avlidi
+სწავლობს	ისწავლიდა	V;3;SG;3;PL;COND = isc'avlida
+სწავლობს	ვისწავლიდით	V;1;PL;3;PL;COND = visc'avlidit
+სწავლობს	ისწავლიდით	V;2;PL;3;PL;COND = isc'avlidit
+სწავლობს	ისწავლიდნენ	V;3;PL;3;PL;COND = isc'avlidnen
+
+
+Screeve #6:
+სწავლობს	მისწავლიდე	V;2;SG;1;SG;SBJV;FUT = misc'avlide
+სწავლობს	მისწავლიდეს	V;3;SG;1;SG;SBJV;FUT = misc'avlides
+სწავლობს	მისწავლიდეთ	V;2;PL;1;SG;SBJV;FUT = misc'avlidet
+სწავლობს	მისწავლიდნენ	V;3;PL;1;SG;SBJV;FUT = misc'avlidnen
+სწავლობს	გისწავლიდე	V;1;SG;2;SG;SBJV;FUT = gisc'avlide
+სწავლობს	გისწავლიდეს	V;3;SG;2;SG;SBJV;FUT = gisc'avlides
+სწავლობს	გისწავლიდეთ	V;1;PL;2;SG;SBJV;FUT = gisc'avlidet
+სწავლობს	გისწავლიდნენ	V;3;PL;2;SG;SBJV;FUT = gisc'avlidnen
+სწავლობს	ვისწავლიდე	V;1;SG;3;SG;SBJV;FUT = visc'avlide
+სწავლობს	ისწავლიდე	V;2;SG;3;SG;SBJV;FUT = isc'avlide
+სწავლობს	ისწავლიდეს	V;3;SG;3;SG;SBJV;FUT = isc'avlides
+სწავლობს	ვისწავლიდეთ	V;1;PL;3;SG;SBJV;FUT = visc'avlidet
+სწავლობს	ისწავლიდეთ	V;2;PL;3;SG;SBJV;FUT = isc'avlidet
+სწავლობს	ისწავლიდნენ	V;3;PL;3;SG;SBJV;FUT = isc'avlidnen
+სწავლობს	გვისწავლიდე	V;2;SG;1;PL;SBJV;FUT = gvisc'avlide
+სწავლობს	გვისწავლიდეს	V;3;SG;1;PL;SBJV;FUT = gvisc'avlides
+სწავლობს	გვისწავლიდეთ	V;2;PL;1;PL;SBJV;FUT = gvisc'avlidet
+სწავლობს	გვისწავლიდნენ	V;3;PL;1;PL;SBJV;FUT = gvisc'avlidnen
+სწავლობს	გისწავლიდეთ	V;1;SG;2;PL;SBJV;FUT = gisc'avlidet
+სწავლობს	გისწავლიდეთ	V;3;SG;2;PL;SBJV;FUT = gisc'avlidet
+სწავლობს	გისწავლიდეთ	V;1;PL;2;PL;SBJV;FUT = gisc'avlidet
+სწავლობს	გისწავლიდნენ	V;3;PL;2;PL;SBJV;FUT = gisc'avlidnen
+სწავლობს	ვისწავლიდე	V;1;SG;3;PL;SBJV;FUT = visc'avlide
+სწავლობს	ისწავლიდე	V;2;SG;3;PL;SBJV;FUT = isc'avlide
+სწავლობს	ისწავლიდეს	V;3;SG;3;PL;SBJV;FUT = isc'avlides
+სწავლობს	ვისწავლიდეთ	V;1;PL;3;PL;SBJV;FUT = visc'avlidet
+სწავლობს	ისწავლიდეთ	V;2;PL;3;PL;SBJV;FUT = isc'avlidet
+სწავლობს	ისწავლიდნენ	V;3;PL;3;PL;SBJV;FUT = isc'avlidnen
+
+
+Screeve #7:
+სწავლობს	მისწავლე	V;2;SG;1;SG;IND;PST;PFV = misc'avle
+სწავლობს	მისწავლa	V;3;SG;1;SG;IND;PST;PFV = misc'avla
+სწავლობს	მისწავლეთ	V;2;PL;1;SG;IND;PST;PFV = misc'avlet
+სწავლობს	მისწავლეს	V;3;PL;1;SG;IND;PST;PFV = misc'avles
+სწავლობს	გისწავლე	V;1;SG;2;SG;IND;PST;PFV = gisc'avle
+სწავლობს	გისწავლa	V;3;SG;2;SG;IND;PST;PFV = gisc'avla
+სწავლობს	გისწავლეთ	V;1;PL;2;SG;IND;PST;PFV = gisc'avlet
+სწავლობს	გისწავლეს	V;3;PL;2;SG;IND;PST;PFV = gisc'avles
+სწავლობს	ვისწავლე	V;1;SG;3;SG;IND;PST;PFV = visc'avle
+სწავლობს	ისწავლე	V;2;SG;3;SG;IND;PST;PFV = isc'avle
+სწავლობს	ისწავლa	V;3;SG;3;SG;IND;PST;PFV = isc'avla
+სწავლობს	ვისწავლეთ	V;1;PL;3;SG;IND;PST;PFV = visc'avlet
+სწავლობს	ისწავლეთ	V;2;PL;3;SG;IND;PST;PFV = isc'avlet
+სწავლობს	ისწავლეს	V;3;PL;3;SG;IND;PST;PFV = isc'avles
+სწავლობს	გვისწავლე	V;2;SG;1;PL;IND;PST;PFV = gvisc'avle
+სწავლობს	გვისწავლa	V;3;SG;1;PL;IND;PST;PFV = gvisc'avla
+სწავლობს	გვისწავლეთ	V;2;PL;1;PL;IND;PST;PFV = gvisc'avlet
+სწავლობს	გვისწავლეს	V;3;PL;1;PL;IND;PST;PFV = gvisc'avles
+სწავლობს	გისწავლეთ	V;1;SG;2;PL;IND;PST;PFV = gisc'avlet
+სწავლობს	გისწავლa	V;3;SG;2;PL;IND;PST;PFV = gisc'avla
+სწავლობს	გისწავლეთ	V;1;PL;2;PL;IND;PST;PFV = gisc'avlet
+სწავლობს	გისწავლეს	V;3;PL;2;PL;IND;PST;PFV = gisc'avles
+სწავლობს	ვისწავლე	V;1;SG;3;PL;IND;PST;PFV = visc'avle
+სწავლობს	ისწავლე	V;2;SG;3;PL;IND;PST;PFV = isc'avle
+სწავლობს	ისწავლa	V;3;SG;3;PL;IND;PST;PFV = isc'avla
+სწავლობს	ვისწავლეთ	V;1;PL;3;PL;IND;PST;PFV = visc'avlet
+სწავლობს	ისწავლეთ	V;2;PL;3;PL;IND;PST;PFV = isc'avlet
+სწავლობს	ისწავლეს	V;3;PL;3;PL;IND;PST;PFV = isc'avles
+
+სწავლობს	მისწავლე	V;2;SG;1;SG;IMP = misc'avle
+სწავლობს	მისწავლეთ	V;2;PL;1;SG;IMP = misc'avlet
+სწავლობს	ისწავლე	V;2;SG;3;SG;IMP = isc'avle
+სწავლობს	ისწავლეთ	V;2;PL;3;SG;IMP = isc'avlet
+სწავლობს	გვისწავლე	V;2;SG;1;PL;IMP = gvisc'avle
+სწავლობს	გვისწავლეთ	V;2;PL;1;PL;IMP = gvisc'avlet
+სწავლობს	ისწავლე	V;2;SG;3;PL;IMP = isc'avle
+სწავლობს	ისწავლეთ	V;2;PL;3;PL;IMP = isc'avlet
+
+
+
+Screeve #8:
+სწავლობს	მისწავლო	V;2;SG;1;SG;OPT = misc'avlo
+სწავლობს	მისწავლოს	V;3;SG;1;SG;OPT = misc'avlos
+სწავლობს	მისწავლოთ	V;2;PL;1;SG;OPT = misc'avlot
+სწავლობს	მისწავლონ	V;3;PL;1;SG;OPT = misc'avlon
+სწავლობს	გისწავლო	V;1;SG;2;SG;OPT = gisc'avlo
+სწავლობს	გისწავლოს	V;3;SG;2;SG;OPT = gisc'avlos
+სწავლობს	გისწავლოთ	V;1;PL;2;SG;OPT = gisc'avlot
+სწავლობს	გისწავლონ	V;3;PL;2;SG;OPT = gisc'avlon
+სწავლობს	ვისწავლო	V;1;SG;3;SG;OPT = visc'avlo
+სწავლობს	ისწავლო	V;2;SG;3;SG;OPT = isc'avlo
+სწავლობს	ისწავლოს	V;3;SG;3;SG;OPT = isc'avlos
+სწავლობს	ვისწავლოთ	V;1;PL;3;SG;OPT = visc'avlot
+სწავლობს	ისწავლოთ	V;2;PL;3;SG;OPT = isc'avlot
+სწავლობს	ისწავლონ	V;3;PL;3;SG;OPT = isc'avlon
+სწავლობს	გვისწავლო	V;2;SG;1;PL;OPT = gvisc'avlo
+სწავლობს	გვისწავლოს	V;3;SG;1;PL;OPT = gvisc'avlos
+სწავლობს	გვისწავლოთ	V;2;PL;1;PL;OPT = gvisc'avlot
+სწავლობს	გვისწავლონ	V;3;PL;1;PL;OPT = gvisc'avlon
+სწავლობს	გისწავლოთ	V;1;SG;2;PL;OPT = gisc'avlot
+სწავლობს	გისწავლოთ	V;3;SG;2;PL;OPT = gisc'avlot
+სწავლობს	გისწავლოთ	V;1;PL;2;PL;OPT = gisc'avlot
+სწავლობს	გისწავლოთ	V;3;PL;2;PL;OPT = gisc'avlot
+სწავლობს	ვისწავლო	V;1;SG;3;PL;OPT = visc'avlo
+სწავლობს	ისწავლო	V;2;SG;3;PL;OPT = isc'avlo
+სწავლობს	ისწავლოს	V;3;SG;3;PL;OPT = isc'avlos
+სწავლობს	ვისწავლოთ	V;1;PL;3;PL;OPT = visc'avlot
+სწავლობს	ისწავლოთ	V;2;PL;3;PL;OPT = isc'avlot
+სწავლობს	ისწავლონ	V;3;PL;3;PL;OPT = isc'avlon
+
+სწავლობს	მისწავლოს	V;3;SG;1;SG;IMP = misc'avlos
+სწავლობს	მისწავლონ	V;3;PL;1;SG;IMP = misc'avlon
+სწავლობს	გისწავლოს	V;3;SG;2;SG;IMP = gisc'avlos
+სწავლობს	გისწავლოთ	V;1;PL;2;SG;IMP = gisc'avlot
+სწავლობს	გისწავლონ	V;3;PL;2;SG;IMP = gisc'avlon
+სწავლობს	ისწავლოს	V;3;SG;3;SG;IMP = isc'avlos
+სწავლობს	ვისწავლოთ	V;1;PL;3;SG;IMP = visc'avlot
+სწავლობს	ისწავლონ	V;3;PL;3;SG;IMP = isc'avlon
+სწავლობს	გვისწავლოს	V;3;SG;1;PL;IMP = gvisc'avlos
+სწავლობს	გვისწავლონ	V;3;PL;1;PL;IMP = gvisc'avlon
+სწავლობს	გისწავლოთ	V;3;SG;2;PL;IMP = gisc'avlot
+სწავლობს	გისწავლოთ	V;1;PL;2;PL;IMP = gisc'avlot
+სწავლობს	გისწავლოთ	V;3;PL;2;PL;IMP = gisc'avlot
+სწავლობს	ისწავლოს	V;3;SG;3;PL;IMP = isc'avlos
+სწავლობს	ვისწავლოთ	V;1;PL;3;PL;IMP = visc'avlot
+სწავლობს	ისწავლონ	V;3;PL;3;PL;IMP = isc'avlon
+
+
+
+Screeve #9:
+სწავლობს	გისწავლივარ	V;2;SG;1;SG;IND;PRF = gisc'avlivar
+სწავლობს	ვუსწავლივარ	V;3;SG;1;SG;IND;PRF = vusc'avlivar
+სწავლობს	გისწავლივართ	V;2;PL;1;SG;IND;PRF = gisc'avlivart
+სწავლობს	ვუსწავლივართ	V;3;PL;1;SG;IND;PRF = vusc'avlivart
+სწავლობს	მისწავლიხარ	V;1;SG;2;SG;IND;PRF = misc'avlixar
+სწავლობს	უსწავლიხარ	V;3;SG;2;SG;IND;PRF = usc'avlixar
+სწავლობს	გვისწავლიხარ	V;1;PL;2;SG;IND;PRF = gvisc'avlixar
+სწავლობს	უსწავლიხართ	V;3;PL;2;SG;IND;PRF = usc'avlixart
+სწავლობს	მისწავლია	V;1;SG;3;SG;IND;PRF = misc'avlia
+სწავლობს	გისწავლია	V;2;SG;3;SG;IND;PRF = gisc'avlia
+სწავლობს	უსწავლია	V;3;SG;3;SG;IND;PRF = usc'avlia
+სწავლობს	გვისწავლია	V;1;PL;3;SG;IND;PRF = gvisc'avlia
+სწავლობს	გისწავლიათ	V;2;PL;3;SG;IND;PRF = gisc'avliat
+სწავლობს	უსწავლიათ	V;3;PL;3;SG;IND;PRF = usc'avliat
+სწავლობს	გისწავლივართ	V;2;SG;1;PL;IND;PRF = gisc'avlivart
+სწავლობს	ვუსწავლივართ	V;3;SG;1;PL;IND;PRF = vusc'avlivart
+სწავლობს	გისწავლივართ	V;2;PL;1;PL;IND;PRF = gisc'avlivart
+სწავლობს	ვუსწავლივართ	V;3;PL;1;PL;IND;PRF = vusc'avlivart
+სწავლობს	მისწავლიხართ	V;1;SG;2;PL;IND;PRF = misc'avlixart
+სწავლობს	უსწავლიხართ	V;3;SG;2;PL;IND;PRF = usc'avlixart
+სწავლობს	გვისწავლიხართ	V;1;PL;2;PL;IND;PRF = gvisc'avlixart
+სწავლობს	უსწავლიხართ	V;3;PL;2;PL;IND;PRF = usc'avlixart
+სწავლობს	მისწავლია	V;1;SG;3;PL;IND;PRF = misc'avlia
+სწავლობს	გისწავლია	V;2;SG;3;PL;IND;PRF = gisc'avlia
+სწავლობს	უსწავლია	V;3;SG;3;PL;IND;PRF = usc'avlia
+სწავლობს	გვისწავლია	V;1;PL;3;PL;IND;PRF = gvisc'avlia
+სწავლობს	გისწავლიათ	V;2;PL;3;PL;IND;PRF = gisc'avliat
+სწავლობს	უსწავლიათ	V;3;PL;3;PL;IND;PRF = usc'avliat
+
+
+Screeve #10:
+სწავლობს	გესწავლე	V;2;SG;1;SG;IND;PST;PRF = gesc'avle
+სწავლობს	ვესწავლე	V;3;SG;1;SG;IND;PST;PRF = vesc'avle
+სწავლობს	გესწავლეთ	V;2;PL;1;SG;IND;PST;PRF = gesc'avlet
+სწავლობს	ვესწავლეთ	V;3;PL;1;SG;IND;PST;PRF = vesc'avlet
+სწავლობს	მესწავლე	V;1;SG;2;SG;IND;PST;PRF = mesc'avle
+სწავლობს	ესწავლე	V;3;SG;2;SG;IND;PST;PRF = esc'avle
+სწავლობს	გვესწავლე	V;1;PL;2;SG;IND;PST;PRF = gvesc'avle
+სწავლობს	ესწავლეთ	V;3;PL;2;SG;IND;PST;PRF = esc'avlet
+სწავლობს	მესწავლა	V;1;SG;3;SG;IND;PST;PRF = mesc'avla
+სწავლობს	გესწავლა	V;2;SG;3;SG;IND;PST;PRF = gesc'avla
+სწავლობს	ესწავლა	V;3;SG;3;SG;IND;PST;PRF = esc'avla
+სწავლობს	გვესწავლა	V;1;PL;3;SG;IND;PST;PRF = gvesc'avla
+სწავლობს	გესწავლათ	V;2;PL;3;SG;IND;PST;PRF = gesc'avlat
+სწავლობს	ესწავლათ	V;3;PL;3;SG;IND;PST;PRF = esc'avlat
+სწავლობს	გესწავლეთ	V;2;SG;1;PL;IND;PST;PRF = gesc'avlet
+სწავლობს	ვესწავლეთ	V;3;SG;1;PL;IND;PST;PRF = vesc'avlet
+სწავლობს	გესწავლეთ	V;2;PL;1;PL;IND;PST;PRF = gesc'avlet
+სწავლობს	ვესწავლეთ	V;3;PL;1;PL;IND;PST;PRF = vesc'avlet
+სწავლობს	მესწავლეთ	V;1;SG;2;PL;IND;PST;PRF = mesc'avlet
+სწავლობს	ესწავლეთ	V;3;SG;2;PL;IND;PST;PRF = esc'avlet
+სწავლობს	გვესწავლეთ	V;1;PL;2;PL;IND;PST;PRF = gvesc'avlet
+სწავლობს	ესწავლეთ	V;3;PL;2;PL;IND;PST;PRF = esc'avlet
+სწავლობს	მესწავლა	V;1;SG;3;PL;IND;PST;PRF = mesc'avla
+სწავლობს	გესწავლა	V;2;SG;3;PL;IND;PST;PRF = gesc'avla
+სწავლობს	ესწავლა	V;3;SG;3;PL;IND;PST;PRF = esc'avla
+სწავლობს	გვესწავლა	V;1;PL;3;PL;IND;PST;PRF = gvesc'avla
+სწავლობს	გესწავლათ	V;2;PL;3;PL;IND;PST;PRF = gesc'avlat
+სწავლობს	ესწავლათ	V;3;PL;3;PL;IND;PST;PRF = esc'avlat
+
+
+Screeve #11:
+სწავლობს	გესწავლო	V;2;SG;1;SG;SBJV;PRF = gesc'avlo
+სწავლობს	ვესწავლო	V;3;SG;1;SG;SBJV;PRF = vesc'avlo
+სწავლობს	გესწავლოთ	V;2;PL;1;SG;SBJV;PRF = gesc'avlot
+სწავლობს	ვესწავლოთ	V;3;PL;1;SG;SBJV;PRF = vesc'avlot
+სწავლობს	მესწავლო	V;1;SG;2;SG;SBJV;PRF = mesc'avlo
+სწავლობს	ესწავლო	V;3;SG;2;SG;SBJV;PRF = esc'avlo
+სწავლობს	გვესწავლო	V;1;PL;2;SG;SBJV;PRF = gvesc'avlo
+სწავლობს	ესწავლოთ	V;3;PL;2;SG;SBJV;PRF = esc'avlot
+სწავლობს	მესწავლოს	V;1;SG;3;SG;SBJV;PRF = mesc'avlos
+სწავლობს	გესწავლოს	V;2;SG;3;SG;SBJV;PRF = gesc'avlos
+სწავლობს	ესწავლოს	V;3;SG;3;SG;SBJV;PRF = esc'avlos
+სწავლობს	გვესწავლოს	V;1;PL;3;SG;SBJV;PRF = gvesc'avlos
+სწავლობს	გესწავლოთ	V;2;PL;3;SG;SBJV;PRF = gesc'avlot
+სწავლობს	ესწავლოთ	V;3;PL;3;SG;SBJV;PRF = esc'avlot
+სწავლობს	გესწავლოთ	V;2;SG;1;PL;SBJV;PRF = gesc'avlot
+სწავლობს	ვესწავლოთ	V;3;SG;1;PL;SBJV;PRF = vesc'avlot
+სწავლობს	გესწავლოთ	V;2;PL;1;PL;SBJV;PRF = gesc'avlot
+სწავლობს	ვესწავლოთ	V;3;PL;1;PL;SBJV;PRF = vesc'avlot
+სწავლობს	მესწავლოთ	V;1;SG;2;PL;SBJV;PRF = mesc'avlot
+სწავლობს	ესწავლოთ	V;3;SG;2;PL;SBJV;PRF = esc'avlot
+სწავლობს	გვესწავლოთ	V;1;PL;2;PL;SBJV;PRF = gvesc'avlot
+სწავლობს	ესწავლოთ	V;3;PL;2;PL;SBJV;PRF = esc'avlot
+სწავლობს	მესწავლოს	V;1;SG;3;PL;SBJV;PRF = mesc'avlos
+სწავლობს	გესწავლოს	V;2;SG;3;PL;SBJV;PRF = gesc'avlos
+სწავლობს	ესწავლოს	V;3;SG;3;PL;SBJV;PRF = esc'avlos
+სწავლობს	გვესწავლოს	V;1;PL;3;PL;SBJV;PRF = gvesc'avlos
+სწავლობს	გესწავლოთ	V;2;PL;3;PL;SBJV;PRF = gesc'avlot
+სწავლობს	ესწავლოთ	V;3;PL;3;PL;SBJV;PRF = esc'avlot
+
+
+სწავლობს	სწავლა	V;V.MSDR;IPFV

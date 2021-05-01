@@ -1,0 +1,371 @@
+#13 - თამაშობს - play:
+Screeve #1:
+თამაშობს	მთამაშობ	V;2;SG;1;SG;IND;PRS = mtamašob
+თამაშობს	მთამაშობს	V;3;SG;1;SG;IND;PRS = mtamašobs
+თამაშობს	მთამაშობთ	V;2;PL;1;SG;IND;PRS = mtamašobt
+თამაშობს	მთამაშობენ	V;3;PL;1;SG;IND;PRS = mtamašoben
+თამაშობს	გთამაშობ	V;1;SG;2;SG;IND;PRS = gtamašob
+თამაშობს	გთამაშობს	V;3;SG;2;SG;IND;PRS = gtamašobs
+თამაშობს	გთამაშობთ	V;1;PL;2;SG;IND;PRS = gtamašobt
+თამაშობს	გთამაშობენ	V;3;PL;2;SG;IND;PRS = gtamašoben
+თამაშობს	ვთამაშობ	V;1;SG;3;SG;IND;PRS = vtamašob
+თამაშობს	თამაშობ	V;2;SG;3;SG;IND;PRS = tamašob
+თამაშობს	თამაშობს	V;3;SG;3;SG;IND;PRS = tamašobs
+თამაშობს	ვთამაშობთ	V;1;PL;3;SG;IND;PRS = vtamašobt
+თამაშობს	თამაშობთ	V;2;PL;3;SG;IND;PRS = tamašobt
+თამაშობს	თამაშობენ	V;3;PL;3;SG;IND;PRS = tamašoben
+თამაშობს	გვთამაშობ	V;2;SG;1;PL;IND;PRS = gvtamašob
+თამაშობს	გვთამაშობს	V;3;SG;1;PL;IND;PRS = gvtamašobs
+თამაშობს	გვთამაშობთ	V;2;PL;1;PL;IND;PRS = gvtamašobt
+თამაშობს	გვთამაშობენ	V;3;PL;1;PL;IND;PRS = gvtamašoben
+თამაშობს	გთამაშობთ	V;1;SG;2;PL;IND;PRS = gtamašobt
+თამაშობს	გთამაშობთ	V;3;SG;2;PL;IND;PRS = gtamašobt
+თამაშობს	გთამაშობთ	V;1;PL;2;PL;IND;PRS = gtamašobt
+თამაშობს	გთამაშობენ	V;3;PL;2;PL;IND;PRS = gtamašoben
+თამაშობს	ვთამაშობ	V;1;SG;3;PL;IND;PRS = vtamašob
+თამაშობს	თამაშობ	V;2;SG;3;PL;IND;PRS = tamašob
+თამაშობს	თამაშობს	V;3;SG;3;PL;IND;PRS = tamašobs
+თამაშობს	ვთამაშობთ	V;1;PL;3;PL;IND;PRS = vtamašobt
+თამაშობს	თამაშობთ	V;2;PL;3;PL;IND;PRS = tamašobt
+თამაშობს	თამაშობენ	V;3;PL;3;PL;IND;PRS = tamašoben
+
+
+Screeve #2:
+თამაშობს	მთამაშობდი	V;2;SG;1;SG;IND;IPFV = mtamašobdi
+თამაშობს	მთამაშობდა	V;3;SG;1;SG;IND;IPFV = mtamašobda
+თამაშობს	მთამაშობდით	V;2;PL;1;SG;IND;IPFV = mtamašobdit
+თამაშობს	მთამაშობდნენ	V;3;PL;1;SG;IND;IPFV = mtamašobdnen
+თამაშობს	გთამაშობდი	V;1;SG;2;SG;IND;IPFV = gtamašobdi
+თამაშობს	გთამაშობდა	V;3;SG;2;SG;IND;IPFV = gtamašobda
+თამაშობს	გთამაშობდით	V;1;PL;2;SG;IND;IPFV = gtamašobdit
+თამაშობს	გთამაშობდნენ	V;3;PL;2;SG;IND;IPFV = gtamašobdnen
+თამაშობს	ვთამაშობდი	V;1;SG;3;SG;IND;IPFV = vtamašobdi
+თამაშობს	თამაშობდი	V;2;SG;3;SG;IND;IPFV = tamašobdi
+თამაშობს	თამაშობდა	V;3;SG;3;SG;IND;IPFV = tamašobda
+თამაშობს	ვთამაშობდით	V;1;PL;3;SG;IND;IPFV = vtamašobdit
+თამაშობს	თამაშობდით	V;2;PL;3;SG;IND;IPFV = tamašobdit
+თამაშობს	თამაშობდნენ	V;3;PL;3;SG;IND;IPFV = tamašobdnen
+თამაშობს	გვთამაშობდი	V;2;SG;1;PL;IND;IPFV = gvtamašobdi
+თამაშობს	გვთამაშობდა	V;3;SG;1;PL;IND;IPFV = gvtamašobda
+თამაშობს	გვთამაშობდით	V;2;PL;1;PL;IND;IPFV = gvtamašobdit
+თამაშობს	გვთამაშობდნენ	V;3;PL;1;PL;IND;IPFV = gvtamašobdnen
+თამაშობს	გთამაშობდით	V;1;SG;2;PL;IND;IPFV = gtamašobdit
+თამაშობს	გთამაშობდათ	V;3;SG;2;PL;IND;IPFV = gtamašobdat
+თამაშობს	გთამაშობდით	V;1;PL;2;PL;IND;IPFV = gtamašobdit
+თამაშობს	გთამაშობდნენ	V;3;PL;2;PL;IND;IPFV = gtamašobdnen
+თამაშობს	ვთამაშობდი	V;1;SG;3;PL;IND;IPFV = vtamašobdi
+თამაშობს	თამაშობდი	V;2;SG;3;PL;IND;IPFV = tamašobdi
+თამაშობს	თამაშობდა	V;3;SG;3;PL;IND;IPFV = tamašobda
+თამაშობს	ვთამაშობდით	V;1;PL;3;PL;IND;IPFV = vtamašobdit
+თამაშობს	თამაშობდით	V;2;PL;3;PL;IND;IPFV = tamašobdit
+თამაშობს	თამაშობდნენ	V;3;PL;3;PL;IND;IPFV = tamašobdnen
+
+
+Screeve #3:
+თამაშობს	მთამაშობდე	V;2;SG;1;SG;SBJV;PRS = mtamašobde
+თამაშობს	მთამაშობდეს	V;3;SG;1;SG;SBJV;PRS = mtamašobdes
+თამაშობს	მთამაშობდეთ	V;2;PL;1;SG;SBJV;PRS = mtamašobdet
+თამაშობს	მთამაშობდნენ	V;3;PL;1;SG;SBJV;PRS = mtamašobdnen
+თამაშობს	გთამაშობდე	V;1;SG;2;SG;SBJV;PRS = gtamašobde
+თამაშობს	გთამაშობდეს	V;3;SG;2;SG;SBJV;PRS = gtamašobdes
+თამაშობს	გთამაშობდეთ	V;1;PL;2;SG;SBJV;PRS = gtamašobdet
+თამაშობს	გთამაშობდნენ	V;3;PL;2;SG;SBJV;PRS = gtamašobdnen
+თამაშობს	ვთამაშობდე	V;1;SG;3;SG;SBJV;PRS = vtamašobde
+თამაშობს	თამაშობდე	V;2;SG;3;SG;SBJV;PRS = tamašobde
+თამაშობს	თამაშობდეს	V;3;SG;3;SG;SBJV;PRS = tamašobdes
+თამაშობს	ვთამაშობდეთ	V;1;PL;3;SG;SBJV;PRS = vtamašobdet
+თამაშობს	თამაშობდეთ	V;2;PL;3;SG;SBJV;PRS = tamašobdet
+თამაშობს	თამაშობდნენ	V;3;PL;3;SG;SBJV;PRS = tamašobdnen
+თამაშობს	გვთამაშობდე	V;2;SG;1;PL;SBJV;PRS = gvtamašobde
+თამაშობს	გვთამაშობდეს	V;3;SG;1;PL;SBJV;PRS = gvtamašobdes
+თამაშობს	გვთამაშობდეთ	V;2;PL;1;PL;SBJV;PRS = gvtamašobdet
+თამაშობს	გვთამაშობდნენ	V;3;PL;1;PL;SBJV;PRS = gvtamašobdnen
+თამაშობს	გთამაშობდეთ	V;1;SG;2;PL;SBJV;PRS = gtamašobdet
+თამაშობს	გთამაშობდეთ	V;3;SG;2;PL;SBJV;PRS = gtamašobdet
+თამაშობს	გთამაშობდეთ	V;1;PL;2;PL;SBJV;PRS = gtamašobdet
+თამაშობს	გთამაშობდნენ	V;3;PL;2;PL;SBJV;PRS = gtamašobdnen
+თამაშობს	ვთამაშობდე	V;1;SG;3;PL;SBJV;PRS = vtamašobde
+თამაშობს	თამაშობდე	V;2;SG;3;PL;SBJV;PRS = tamašobde
+თამაშობს	თამაშობდეს	V;3;SG;3;PL;SBJV;PRS = tamašobdes
+თამაშობს	ვთამაშობდეთ	V;1;PL;3;PL;SBJV;PRS = vtamašobdet
+თამაშობს	თამაშობდეთ	V;2;PL;3;PL;SBJV;PRS = tamašobdet
+თამაშობს	თამაშობდნენ	V;3;PL;3;PL;SBJV;PRS = tamašobdnen
+
+
+Screeve #4:
+თამაშობს	მითამაშებ	V;2;SG;1;SG;IND;FUT = mitamašeb
+თამაშობს	მითამაშებს	V;3;SG;1;SG;IND;FUT = mitamašebs
+თამაშობს	მითამაშებთ	V;2;PL;1;SG;IND;FUT = mitamašebt
+თამაშობს	მითამაშებენ	V;3;PL;1;SG;IND;FUT = mitamašeben
+თამაშობს	გითამაშებ	V;1;SG;2;SG;IND;FUT = gitamašeb
+თამაშობს	გითამაშებს	V;3;SG;2;SG;IND;FUT = gitamašebs
+თამაშობს	გითამაშებთ	V;1;PL;2;SG;IND;FUT = gitamašebt
+თამაშობს	გითამაშებენ	V;3;PL;2;SG;IND;FUT = gitamašeben
+თამაშობს	ვითამაშებ	V;1;SG;3;SG;IND;FUT = vitamašeb
+თამაშობს	ითამაშებ	V;2;SG;3;SG;IND;FUT = itamašeb
+თამაშობს	ითამაშებს	V;3;SG;3;SG;IND;FUT = itamašebs
+თამაშობს	ვითამაშებთ	V;1;PL;3;SG;IND;FUT = vitamašebt
+თამაშობს	ითამაშებთ	V;2;PL;3;SG;IND;FUT = itamašebt
+თამაშობს	ითამაშებენ	V;3;PL;3;SG;IND;FUT = itamašeben
+თამაშობს	გვითამაშებ	V;2;SG;1;PL;IND;FUT = gvitamašeb
+თამაშობს	გვითამაშებს	V;3;SG;1;PL;IND;FUT = gvitamašebs
+თამაშობს	გვითამაშებთ	V;2;PL;1;PL;IND;FUT = gvitamašebt
+თამაშობს	გვითამაშებენ	V;3;PL;1;PL;IND;FUT = gvitamašeben
+თამაშობს	გითამაშებთ	V;1;SG;2;PL;IND;FUT = gitamašebt
+თამაშობს	გითამაშებთ	V;3;SG;2;PL;IND;FUT = gitamašebt
+თამაშობს	გითამაშებთ	V;1;PL;2;PL;IND;FUT = gitamašebt
+თამაშობს	გითამაშებენ	V;3;PL;2;PL;IND;FUT = gitamašeben
+თამაშობს	ვითამაშებ	V;1;SG;3;PL;IND;FUT = vitamašeb
+თამაშობს	ითამაშებ	V;2;SG;3;PL;IND;FUT = itamašeb
+თამაშობს	ითამაშებს	V;3;SG;3;PL;IND;FUT = itamašebs
+თამაშობს	ვითამაშებთ	V;1;PL;3;PL;IND;FUT = vitamašebt
+თამაშობს	ითამაშებთ	V;2;PL;3;PL;IND;FUT = itamašebt
+თამაშობს	ითამაშებენ	V;3;PL;3;PL;IND;FUT = itamašeben
+
+
+Screeve #5:
+თამაშობს	მითამაშებდი	V;2;SG;1;SG;COND = mitamašebdi
+თამაშობს	მითამაშებდა	V;3;SG;1;SG;COND = mitamašebda
+თამაშობს	მითამაშებდით	V;2;PL;1;SG;COND = mitamašebdit
+თამაშობს	მითამაშებდნენ	V;3;PL;1;SG;COND = mitamašebdnen
+თამაშობს	გითამაშებდი	V;1;SG;2;SG;COND = gitamašebdi
+თამაშობს	გითამაშებდა	V;3;SG;2;SG;COND = gitamašebda
+თამაშობს	გითამაშებდით	V;1;PL;2;SG;COND = gitamašebdit
+თამაშობს	გითამაშებდნენ	V;3;PL;2;SG;COND = gitamašebdnen
+თამაშობს	ვითამაშებდი	V;1;SG;3;SG;COND = vitamašebdi
+თამაშობს	ითამაშებდი	V;2;SG;3;SG;COND = itamašebdi
+თამაშობს	ითამაშებდა	V;3;SG;3;SG;COND = itamašebda
+თამაშობს	ვითამაშებდით	V;1;PL;3;SG;COND = vitamašebdit
+თამაშობს	ითამაშებდით	V;2;PL;3;SG;COND = itamašebdit
+თამაშობს	ითამაშებდნენ	V;3;PL;3;SG;COND = itamašebdnen
+თამაშობს	გვითამაშებდი	V;2;SG;1;PL;COND = gvitamašebdi
+თამაშობს	გვითამაშებდა	V;3;SG;1;PL;COND = gvitamašebda
+თამაშობს	გვითამაშებდით	V;2;PL;1;PL;COND = gvitamašebdit
+თამაშობს	გვითამაშებდნენ	V;3;PL;1;PL;COND = gvitamašebdnen
+თამაშობს	გითამაშებდით	V;1;SG;2;PL;COND = gitamašebdit
+თამაშობს	გითამაშებდათ	V;3;SG;2;PL;COND = gitamašebdat
+თამაშობს	გითამაშებდით	V;1;PL;2;PL;COND = gitamašebdit
+თამაშობს	გითამაშებდნენ	V;3;PL;2;PL;COND = gitamašebdnen
+თამაშობს	ვითამაშებდი	V;1;SG;3;PL;COND = vitamašebdi
+თამაშობს	ითამაშებდი	V;2;SG;3;PL;COND = itamašebdi
+თამაშობს	ითამაშებდა	V;3;SG;3;PL;COND = itamašebda
+თამაშობს	ვითამაშებდით	V;1;PL;3;PL;COND = vitamašebdit
+თამაშობს	ითამაშებდით	V;2;PL;3;PL;COND = itamašebdit
+თამაშობს	ითამაშებდნენ	V;3;PL;3;PL;COND = itamašebdnen
+
+
+Screeve #6:
+თამაშობს	მითამაშებდე	V;2;SG;1;SG;SBJV;FUT = mitamašebde
+თამაშობს	მითამაშებდეს	V;3;SG;1;SG;SBJV;FUT = mitamašebdes
+თამაშობს	მითამაშებდეთ	V;2;PL;1;SG;SBJV;FUT = mitamašebdet
+თამაშობს	მითამაშებდნენ	V;3;PL;1;SG;SBJV;FUT = mitamašebdnen
+თამაშობს	გითამაშებდე	V;1;SG;2;SG;SBJV;FUT = gitamašebde
+თამაშობს	გითამაშებდეს	V;3;SG;2;SG;SBJV;FUT = gitamašebdes
+თამაშობს	გითამაშებდეთ	V;1;PL;2;SG;SBJV;FUT = gitamašebdet
+თამაშობს	გითამაშებდნენ	V;3;PL;2;SG;SBJV;FUT = gitamašebdnen
+თამაშობს	ვითამაშებდე	V;1;SG;3;SG;SBJV;FUT = vitamašebde
+თამაშობს	ითამაშებდე	V;2;SG;3;SG;SBJV;FUT = itamašebde
+თამაშობს	ითამაშებდეს	V;3;SG;3;SG;SBJV;FUT = itamašebdes
+თამაშობს	ვითამაშებდეთ	V;1;PL;3;SG;SBJV;FUT = vitamašebdet
+თამაშობს	ითამაშებდეთ	V;2;PL;3;SG;SBJV;FUT = itamašebdet
+თამაშობს	ითამაშებდნენ	V;3;PL;3;SG;SBJV;FUT = itamašebdnen
+თამაშობს	გვითამაშებდე	V;2;SG;1;PL;SBJV;FUT = gvitamašebde
+თამაშობს	გვითამაშებდეს	V;3;SG;1;PL;SBJV;FUT = gvitamašebdes
+თამაშობს	გვითამაშებდეთ	V;2;PL;1;PL;SBJV;FUT = gvitamašebdet
+თამაშობს	გვითამაშებდნენ	V;3;PL;1;PL;SBJV;FUT = gvitamašebdnen
+თამაშობს	გითამაშებდეთ	V;1;SG;2;PL;SBJV;FUT = gitamašebdet
+თამაშობს	გითამაშებდეთ	V;3;SG;2;PL;SBJV;FUT = gitamašebdet
+თამაშობს	გითამაშებდეთ	V;1;PL;2;PL;SBJV;FUT = gitamašebdet
+თამაშობს	გითამაშებდნენ	V;3;PL;2;PL;SBJV;FUT = gitamašebdnen
+თამაშობს	ვითამაშებდე	V;1;SG;3;PL;SBJV;FUT = vitamašebde
+თამაშობს	ითამაშებდე	V;2;SG;3;PL;SBJV;FUT = itamašebde
+თამაშობს	ითამაშებდეს	V;3;SG;3;PL;SBJV;FUT = itamašebdes
+თამაშობს	ვითამაშებდეთ	V;1;PL;3;PL;SBJV;FUT = vitamašebdet
+თამაშობს	ითამაშებდეთ	V;2;PL;3;PL;SBJV;FUT = itamašebdet
+თამაშობს	ითამაშებდნენ	V;3;PL;3;PL;SBJV;FUT = itamašebdnen
+
+
+Screeve #7:
+თამაშობს	მითამაშე	V;2;SG;1;SG;IND;PST;PFV = mitamaše
+თამაშობს	მითამაშa	V;3;SG;1;SG;IND;PST;PFV = mitamaša
+თამაშობს	მითამაშეთ	V;2;PL;1;SG;IND;PST;PFV = mitamašet
+თამაშობს	მითამაშეს	V;3;PL;1;SG;IND;PST;PFV = mitamašes
+თამაშობს	გითამაშე	V;1;SG;2;SG;IND;PST;PFV = gitamaše
+თამაშობს	გითამაშa	V;3;SG;2;SG;IND;PST;PFV = gitamaša
+თამაშობს	გითამაშეთ	V;1;PL;2;SG;IND;PST;PFV = gitamašet
+თამაშობს	გითამაშეს	V;3;PL;2;SG;IND;PST;PFV = gitamašes
+თამაშობს	ვითამაშე	V;1;SG;3;SG;IND;PST;PFV = vitamaše
+თამაშობს	ითამაშე	V;2;SG;3;SG;IND;PST;PFV = itamaše
+თამაშობს	ითამაშa	V;3;SG;3;SG;IND;PST;PFV = itamaša
+თამაშობს	ვითამაშეთ	V;1;PL;3;SG;IND;PST;PFV = vitamašet
+თამაშობს	ითამაშეთ	V;2;PL;3;SG;IND;PST;PFV = itamašet
+თამაშობს	ითამაშეს	V;3;PL;3;SG;IND;PST;PFV = itamašes
+თამაშობს	გვითამაშე	V;2;SG;1;PL;IND;PST;PFV = gvitamaše
+თამაშობს	გვითამაშa	V;3;SG;1;PL;IND;PST;PFV = gvitamaša
+თამაშობს	გვითამაშეთ	V;2;PL;1;PL;IND;PST;PFV = gvitamašet
+თამაშობს	გვითამაშეს	V;3;PL;1;PL;IND;PST;PFV = gvitamašes
+თამაშობს	გითამაშეთ	V;1;SG;2;PL;IND;PST;PFV = gitamašet
+თამაშობს	გითამაშa	V;3;SG;2;PL;IND;PST;PFV = gitamaša
+თამაშობს	გითამაშეთ	V;1;PL;2;PL;IND;PST;PFV = gitamašet
+თამაშობს	გითამაშეს	V;3;PL;2;PL;IND;PST;PFV = gitamašes
+თამაშობს	ვითამაშე	V;1;SG;3;PL;IND;PST;PFV = vitamaše
+თამაშობს	ითამაშე	V;2;SG;3;PL;IND;PST;PFV = itamaše
+თამაშობს	ითამაშa	V;3;SG;3;PL;IND;PST;PFV = itamaša
+თამაშობს	ვითამაშეთ	V;1;PL;3;PL;IND;PST;PFV = vitamašet
+თამაშობს	ითამაშეთ	V;2;PL;3;PL;IND;PST;PFV = itamašet
+თამაშობს	ითამაშეს	V;3;PL;3;PL;IND;PST;PFV = itamašes
+
+თამაშობს	მითამაშე	V;2;SG;1;SG;IMP = mitamaše
+თამაშობს	მითამაშეთ	V;2;PL;1;SG;IMP = mitamašet
+თამაშობს	ითამაშე	V;2;SG;3;SG;IMP = itamaše
+თამაშობს	ითამაშეთ	V;2;PL;3;SG;IMP = itamašet
+თამაშობს	გვითამაშე	V;2;SG;1;PL;IMP = gvitamaše
+თამაშობს	გვითამაშეთ	V;2;PL;1;PL;IMP = gvitamašet
+თამაშობს	ითამაშე	V;2;SG;3;PL;IMP = itamaše
+თამაშობს	ითამაშეთ	V;2;PL;3;PL;IMP = itamašet
+
+
+
+Screeve #8:
+თამაშობს	მითამაშო	V;2;SG;1;SG;OPT = mitamašo
+თამაშობს	მითამაშოს	V;3;SG;1;SG;OPT = mitamašos
+თამაშობს	მითამაშოთ	V;2;PL;1;SG;OPT = mitamašot
+თამაშობს	მითამაშონ	V;3;PL;1;SG;OPT = mitamašon
+თამაშობს	გითამაშო	V;1;SG;2;SG;OPT = gitamašo
+თამაშობს	გითამაშოს	V;3;SG;2;SG;OPT = gitamašos
+თამაშობს	გითამაშოთ	V;1;PL;2;SG;OPT = gitamašot
+თამაშობს	გითამაშონ	V;3;PL;2;SG;OPT = gitamašon
+თამაშობს	ვითამაშო	V;1;SG;3;SG;OPT = vitamašo
+თამაშობს	ითამაშო	V;2;SG;3;SG;OPT = itamašo
+თამაშობს	ითამაშოს	V;3;SG;3;SG;OPT = itamašos
+თამაშობს	ვითამაშოთ	V;1;PL;3;SG;OPT = vitamašot
+თამაშობს	ითამაშოთ	V;2;PL;3;SG;OPT = itamašot
+თამაშობს	ითამაშონ	V;3;PL;3;SG;OPT = itamašon
+თამაშობს	გვითამაშო	V;2;SG;1;PL;OPT = gvitamašo
+თამაშობს	გვითამაშოს	V;3;SG;1;PL;OPT = gvitamašos
+თამაშობს	გვითამაშოთ	V;2;PL;1;PL;OPT = gvitamašot
+თამაშობს	გვითამაშონ	V;3;PL;1;PL;OPT = gvitamašon
+თამაშობს	გითამაშოთ	V;1;SG;2;PL;OPT = gitamašot
+თამაშობს	გითამაშოთ	V;3;SG;2;PL;OPT = gitamašot
+თამაშობს	გითამაშოთ	V;1;PL;2;PL;OPT = gitamašot
+თამაშობს	გითამაშოთ	V;3;PL;2;PL;OPT = gitamašot
+თამაშობს	ვითამაშო	V;1;SG;3;PL;OPT = vitamašo
+თამაშობს	ითამაშო	V;2;SG;3;PL;OPT = itamašo
+თამაშობს	ითამაშოს	V;3;SG;3;PL;OPT = itamašos
+თამაშობს	ვითამაშოთ	V;1;PL;3;PL;OPT = vitamašot
+თამაშობს	ითამაშოთ	V;2;PL;3;PL;OPT = itamašot
+თამაშობს	ითამაშონ	V;3;PL;3;PL;OPT = itamašon
+
+თამაშობს	მითამაშოს	V;3;SG;1;SG;IMP = mitamašos
+თამაშობს	მითამაშონ	V;3;PL;1;SG;IMP = mitamašon
+თამაშობს	გითამაშოთ	V;1;PL;2;SG;IMP = gitamašot
+თამაშობს	გითამაშოს	V;3;SG;2;SG;IMP = gitamašos
+თამაშობს	გითამაშონ	V;3;PL;2;SG;IMP = gitamašon
+თამაშობს	ვითამაშოთ	V;1;PL;3;SG;IMP = vitamašot
+თამაშობს	ითამაშოს	V;3;SG;3;SG;IMP = itamašos
+თამაშობს	ითამაშონ	V;3;PL;3;SG;IMP = itamašon
+თამაშობს	გვითამაშოს	V;3;SG;1;PL;IMP = gvitamašos
+თამაშობს	გვითამაშონ	V;3;PL;1;PL;IMP = gvitamašon
+თამაშობს	გითამაშოთ	V;1;PL;2;PL;IMP = gitamašot
+თამაშობს	გითამაშოთ	V;3;SG;2;PL;IMP = gitamašot
+თამაშობს	გითამაშოთ	V;3;PL;2;PL;IMP = gitamašot
+თამაშობს	ვითამაშოთ	V;1;PL;3;PL;IMP = vitamašot
+თამაშობს	ითამაშოს	V;3;SG;3;PL;IMP = itamašos
+თამაშობს	ითამაშონ	V;3;PL;3;PL;IMP = itamašon
+
+
+
+Screeve #9:
+თამაშობს	გითამაშივარ	V;2;SG;1;SG;IND;PRF = gitamašivar
+თამაშობს	ვუთამაშივარ	V;3;SG;1;SG;IND;PRF = vutamašivar
+თამაშობს	გითამაშივართ	V;2;PL;1;SG;IND;PRF = gitamašivart
+თამაშობს	ვუთამაშივართ	V;3;PL;1;SG;IND;PRF = vutamašivart
+თამაშობს	მითამაშიხარ	V;1;SG;2;SG;IND;PRF = mitamašixar
+თამაშობს	უთამაშიხარ	V;3;SG;2;SG;IND;PRF = utamašixar
+თამაშობს	გვითამაშიხარ	V;1;PL;2;SG;IND;PRF = gvitamašixar
+თამაშობს	უთამაშიხართ	V;3;PL;2;SG;IND;PRF = utamašixart
+თამაშობს	მითამაშია	V;1;SG;3;SG;IND;PRF = mitamašia
+თამაშობს	გითამაშია	V;2;SG;3;SG;IND;PRF = gitamašia
+თამაშობს	უთამაშია	V;3;SG;3;SG;IND;PRF = utamašia
+თამაშობს	გვითამაშია	V;1;PL;3;SG;IND;PRF = gvitamašia
+თამაშობს	გითამაშიათ	V;2;PL;3;SG;IND;PRF = gitamašiat
+თამაშობს	უთამაშიათ	V;3;PL;3;SG;IND;PRF = utamašiat
+თამაშობს	გითამაშივართ	V;2;SG;1;PL;IND;PRF = gitamašivart
+თამაშობს	ვუთამაშივართ	V;3;SG;1;PL;IND;PRF = vutamašivart
+თამაშობს	გითამაშივართ	V;2;PL;1;PL;IND;PRF = gitamašivart
+თამაშობს	ვუთამაშივართ	V;3;PL;1;PL;IND;PRF = vutamašivart
+თამაშობს	მითამაშიხართ	V;1;SG;2;PL;IND;PRF = mitamašixart
+თამაშობს	უთამაშიხართ	V;3;SG;2;PL;IND;PRF = utamašixart
+თამაშობს	გვითამაშიხართ	V;1;PL;2;PL;IND;PRF = gvitamašixart
+თამაშობს	უთამაშიხართ	V;3;PL;2;PL;IND;PRF = utamašixart
+თამაშობს	მითამაშია	V;1;SG;3;PL;IND;PRF = mitamašia
+თამაშობს	გითამაშია	V;2;SG;3;PL;IND;PRF = gitamašia
+თამაშობს	უთამაშია	V;3;SG;3;PL;IND;PRF = utamašia
+თამაშობს	გვითამაშია	V;1;PL;3;PL;IND;PRF = gvitamašia
+თამაშობს	გითამაშიათ	V;2;PL;3;PL;IND;PRF = gitamašiat
+თამაშობს	უთამაშიათ	V;3;PL;3;PL;IND;PRF = utamašiat
+
+
+Screeve #10:
+თამაშობს	გეთამაშე	V;2;SG;1;SG;IND;PST;PRF = getamaše
+თამაშობს	ვეთამაშე	V;3;SG;1;SG;IND;PST;PRF = vetamaše
+თამაშობს	გეთამაშეთ	V;2;PL;1;SG;IND;PST;PRF = getamašet
+თამაშობს	ვეთამაშეთ	V;3;PL;1;SG;IND;PST;PRF = vetamašet
+თამაშობს	მეთამაშე	V;1;SG;2;SG;IND;PST;PRF = metamaše
+თამაშობს	ეთამაშე	V;3;SG;2;SG;IND;PST;PRF = etamaše
+თამაშობს	გვეთამაშე	V;1;PL;2;SG;IND;PST;PRF = gvetamaše
+თამაშობს	ეთამაშეთ	V;3;PL;2;SG;IND;PST;PRF = etamašet
+თამაშობს	მეთამაშა	V;1;SG;3;SG;IND;PST;PRF = metamaša
+თამაშობს	გეთამაშა	V;2;SG;3;SG;IND;PST;PRF = getamaša
+თამაშობს	ეთამაშა	V;3;SG;3;SG;IND;PST;PRF = etamaša
+თამაშობს	გვეთამაშა	V;1;PL;3;SG;IND;PST;PRF = gvetamaša
+თამაშობს	გეთამაშათ	V;2;PL;3;SG;IND;PST;PRF = getamašat
+თამაშობს	ეთამაშათ	V;3;PL;3;SG;IND;PST;PRF = etamašat
+თამაშობს	გეთამაშეთ	V;2;SG;1;PL;IND;PST;PRF = getamašet
+თამაშობს	ვეთამაშეთ	V;3;SG;1;PL;IND;PST;PRF = vetamašet
+თამაშობს	გეთამაშეთ	V;2;PL;1;PL;IND;PST;PRF = getamašet
+თამაშობს	ვეთამაშეთ	V;3;PL;1;PL;IND;PST;PRF = vetamašet
+თამაშობს	მეთამაშეთ	V;1;SG;2;PL;IND;PST;PRF = metamašet
+თამაშობს	ეთამაშეთ	V;3;SG;2;PL;IND;PST;PRF = etamašet
+თამაშობს	გვეთამაშეთ	V;1;PL;2;PL;IND;PST;PRF = gvetamašet
+თამაშობს	ეთამაშეთ	V;3;PL;2;PL;IND;PST;PRF = etamašet
+თამაშობს	მეთამაშა	V;1;SG;3;PL;IND;PST;PRF = metamaša
+თამაშობს	გეთამაშა	V;2;SG;3;PL;IND;PST;PRF = getamaša
+თამაშობს	ეთამაშა	V;3;SG;3;PL;IND;PST;PRF = etamaša
+თამაშობს	გვეთამაშა	V;1;PL;3;PL;IND;PST;PRF = gvetamaša
+თამაშობს	გეთამაშათ	V;2;PL;3;PL;IND;PST;PRF = getamašat
+თამაშობს	ეთამაშათ	V;3;PL;3;PL;IND;PST;PRF = etamašat
+
+
+Screeve #11:
+თამაშობს	გეთამაშო	V;2;SG;1;SG;SBJV;PRF = getamašo
+თამაშობს	ვეთამაშო	V;3;SG;1;SG;SBJV;PRF = vetamašo
+თამაშობს	გეთამაშოთ	V;2;PL;1;SG;SBJV;PRF = getamašot
+თამაშობს	ვეთამაშოთ	V;3;PL;1;SG;SBJV;PRF = vetamašot
+თამაშობს	მეთამაშო	V;1;SG;2;SG;SBJV;PRF = metamašo
+თამაშობს	ეთამაშო	V;3;SG;2;SG;SBJV;PRF = etamašo
+თამაშობს	გვეთამაშო	V;1;PL;2;SG;SBJV;PRF = gvetamašo
+თამაშობს	ეთამაშოთ	V;3;PL;2;SG;SBJV;PRF = etamašot
+თამაშობს	მეთამაშოს	V;1;SG;3;SG;SBJV;PRF = metamašos
+თამაშობს	გეთამაშოს	V;2;SG;3;SG;SBJV;PRF = getamašos
+თამაშობს	ეთამაშოს	V;3;SG;3;SG;SBJV;PRF = etamašos
+თამაშობს	გვეთამაშოს	V;1;PL;3;SG;SBJV;PRF = gvetamašos
+თამაშობს	გეთამაშოთ	V;2;PL;3;SG;SBJV;PRF = getamašot
+თამაშობს	ეთამაშოთ	V;3;PL;3;SG;SBJV;PRF = etamašot
+თამაშობს	გეთამაშოთ	V;2;SG;1;PL;SBJV;PRF = getamašot
+თამაშობს	ვეთამაშოთ	V;3;SG;1;PL;SBJV;PRF = vetamašot
+თამაშობს	გეთამაშოთ	V;2;PL;1;PL;SBJV;PRF = getamašot
+თამაშობს	ვეთამაშოთ	V;3;PL;1;PL;SBJV;PRF = vetamašot
+თამაშობს	მეთამაშოთ	V;1;SG;2;PL;SBJV;PRF = metamašot
+თამაშობს	ეთამაშოთ	V;3;SG;2;PL;SBJV;PRF = etamašot
+თამაშობს	გვეთამაშოთ	V;1;PL;2;PL;SBJV;PRF = gvetamašot
+თამაშობს	ეთამაშოთ	V;3;PL;2;PL;SBJV;PRF = etamašot
+თამაშობს	მეთამაშოს	V;1;SG;3;PL;SBJV;PRF = metamašos
+თამაშობს	გეთამაშოს	V;2;SG;3;PL;SBJV;PRF = getamašos
+თამაშობს	ეთამაშოს	V;3;SG;3;PL;SBJV;PRF = etamašos
+თამაშობს	გვეთამაშოს	V;1;PL;3;PL;SBJV;PRF = gvetamašos
+თამაშობს	გეთამაშოთ	V;2;PL;3;PL;SBJV;PRF = getamašot
+თამაშობს	ეთამაშოთ	V;3;PL;3;PL;SBJV;PRF = etamašot
+
+
+თამაშობს	თამაშობა	V;V.MSDR;IPFV

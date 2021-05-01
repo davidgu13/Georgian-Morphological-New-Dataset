@@ -1,0 +1,281 @@
+#16 - ეცოდება - pity:
+Screeve #1:
+ეცოდება	გეცოდებვარ	V;2;SG;1;SG;IND;PRS = gecodebvar
+ეცოდება	ვეცოდებვარ	V;3;SG;1;SG;IND;PRS = vecodebvar
+ეცოდება	გეცოდებვართ	V;2;PL;1;SG;IND;PRS = gecodebvart
+ეცოდება	ვეცოდებვართ	V;3;PL;1;SG;IND;PRS = vecodebvart
+ეცოდება	მეცოდებხარ	V;1;SG;2;SG;IND;PRS = mecodebxar
+ეცოდება	ეცოდებხარ	V;3;SG;2;SG;IND;PRS = ecodebxar
+ეცოდება	გვეცოდებხარ	V;1;PL;2;SG;IND;PRS = gvecodebxar
+ეცოდება	ეცოდებხარ	V;3;PL;2;SG;IND;PRS = ecodebxar
+ეცოდება	მეცოდება	V;1;SG;3;SG;IND;PRS = mecodeba
+ეცოდება	გეცოდება	V;2;SG;3;SG;IND;PRS = gecodeba
+ეცოდება	ეცოდება	V;3;SG;3;SG;IND;PRS = ecodeba
+ეცოდება	გვეცოდება	V;1;PL;3;SG;IND;PRS = gvecodeba
+ეცოდება	გეცოდებათ	V;2;PL;3;SG;IND;PRS = gecodebat
+ეცოდება	ეცოდებათ	V;3;PL;3;SG;IND;PRS = ecodebat
+ეცოდება	გეცოდებვართ	V;2;SG;1;PL;IND;PRS = gecodebvart
+ეცოდება	ვეცოდებვართ	V;3;SG;1;PL;IND;PRS = vecodebvart
+ეცოდება	გეცოდებვართ	V;2;PL;1;PL;IND;PRS = gecodebvart
+ეცოდება	ვეცოდებვართ	V;3;PL;1;PL;IND;PRS = vecodebvart
+ეცოდება	მეცოდებხართ	V;1;SG;2;PL;IND;PRS = mecodebxart
+ეცოდება	ეცოდებხართ	V;3;SG;2;PL;IND;PRS = ecodebxart
+ეცოდება	გვეცოდებხართ	V;1;PL;2;PL;IND;PRS = gvecodebxart
+ეცოდება	ეცოდებხართ	V;3;PL;2;PL;IND;PRS = ecodebxart
+ეცოდება	მეცოდება	V;1;SG;3;PL;IND;PRS = mecodeba
+ეცოდება	გეცოდება	V;2;SG;3;PL;IND;PRS = gecodeba
+ეცოდება	ეცოდება	V;3;SG;3;PL;IND;PRS = ecodeba
+ეცოდება	გვეცოდება	V;1;PL;3;PL;IND;PRS = gvecodeba
+ეცოდება	გეცოდებათ	V;2;PL;3;PL;IND;PRS = gecodebat
+ეცოდება	ეცოდებათ	V;3;PL;3;PL;IND;PRS = ecodebat
+
+
+Screeve #2:
+ეცოდება	გეცოდებოდი	V;2;SG;1;SG;IND;IPFV = gecodebodi
+ეცოდება	ვეცოდებოდი	V;3;SG;1;SG;IND;IPFV = vecodebodi
+ეცოდება	გეცოდებოდით	V;2;PL;1;SG;IND;IPFV = gecodebodit
+ეცოდება	ვეცოდებოდით	V;3;PL;1;SG;IND;IPFV = vecodebodit
+ეცოდება	მეცოდებოდი	V;1;SG;2;SG;IND;IPFV = mecodebodi
+ეცოდება	ეცოდებოდი	V;3;SG;2;SG;IND;IPFV = ecodebodi
+ეცოდება	გვეცოდებოდი	V;1;PL;2;SG;IND;IPFV = gvecodebodi
+ეცოდება	ეცოდებოდი	V;3;PL;2;SG;IND;IPFV = ecodebodi
+ეცოდება	მეცოდებოდა	V;1;SG;3;SG;IND;IPFV = mecodeboda
+ეცოდება	გეცოდებოდა	V;2;SG;3;SG;IND;IPFV = gecodeboda
+ეცოდება	ეცოდებოდა	V;3;SG;3;SG;IND;IPFV = ecodeboda
+ეცოდება	გვეცოდებოდა	V;1;PL;3;SG;IND;IPFV = gvecodeboda
+ეცოდება	გეცოდებოდათ	V;2;PL;3;SG;IND;IPFV = gecodebodat
+ეცოდება	ეცოდებოდათ	V;3;PL;3;SG;IND;IPFV = ecodebodat
+ეცოდება	გეცოდებოდით	V;2;SG;1;PL;IND;IPFV = gecodebodit
+ეცოდება	ვეცოდებოდით	V;3;SG;1;PL;IND;IPFV = vecodebodit
+ეცოდება	გეცოდებოდით	V;2;PL;1;PL;IND;IPFV = gecodebodit
+ეცოდება	ვეცოდებოდით	V;3;PL;1;PL;IND;IPFV = vecodebodit
+ეცოდება	მეცოდებოდით	V;1;SG;2;PL;IND;IPFV = mecodebodit
+ეცოდება	ეცოდებოდით	V;3;SG;2;PL;IND;IPFV = ecodebodit
+ეცოდება	გვეცოდებოდით	V;1;PL;2;PL;IND;IPFV = gvecodebodit
+ეცოდება	ეცოდებოდით	V;3;PL;2;PL;IND;IPFV = ecodebodit
+ეცოდება	მეცოდებოდა	V;1;SG;3;PL;IND;IPFV = mecodeboda
+ეცოდება	გეცოდებოდა	V;2;SG;3;PL;IND;IPFV = gecodeboda
+ეცოდება	ეცოდებოდა	V;3;SG;3;PL;IND;IPFV = ecodeboda
+ეცოდება	გვეცოდებოდა	V;1;PL;3;PL;IND;IPFV = gvecodeboda
+ეცოდება	გეცოდებოდათ	V;2;PL;3;PL;IND;IPFV = gecodebodat
+ეცოდება	ეცოდებოდათ	V;3;PL;3;PL;IND;IPFV = ecodebodat
+
+
+Screeve #3:
+ეცოდება	გეცოდებოდე	V;2;SG;1;SG;SBJV;PRS = gecodebode
+ეცოდება	ვეცოდებოდე	V;3;SG;1;SG;SBJV;PRS = vecodebode
+ეცოდება	გეცოდებოდეთ	V;2;PL;1;SG;SBJV;PRS = gecodebodet
+ეცოდება	ვეცოდებოდეთ	V;3;PL;1;SG;SBJV;PRS = vecodebodet
+ეცოდება	მეცოდებოდე	V;1;SG;2;SG;SBJV;PRS = mecodebode
+ეცოდება	ეცოდებოდე	V;3;SG;2;SG;SBJV;PRS = ecodebode
+ეცოდება	გვეცოდებოდე	V;1;PL;2;SG;SBJV;PRS = gvecodebode
+ეცოდება	ეცოდებოდე	V;3;PL;2;SG;SBJV;PRS = ecodebode
+ეცოდება	მეცოდებოდეს	V;1;SG;3;SG;SBJV;PRS = mecodebodes
+ეცოდება	გეცოდებოდეს	V;2;SG;3;SG;SBJV;PRS = gecodebodes
+ეცოდება	ეცოდებოდეს	V;3;SG;3;SG;SBJV;PRS = ecodebodes
+ეცოდება	გვეცოდებოდეს	V;1;PL;3;SG;SBJV;PRS = gvecodebodes
+ეცოდება	გეცოდებოდეთ	V;2;PL;3;SG;SBJV;PRS = gecodebodet
+ეცოდება	ეცოდებოდეთ	V;3;PL;3;SG;SBJV;PRS = ecodebodet
+ეცოდება	გეცოდებოდეთ	V;2;SG;1;PL;SBJV;PRS = gecodebodet
+ეცოდება	ვეცოდებოდეთ	V;3;SG;1;PL;SBJV;PRS = vecodebodet
+ეცოდება	გეცოდებოდეთ	V;2;PL;1;PL;SBJV;PRS = gecodebodet
+ეცოდება	ვეცოდებოდეთ	V;3;PL;1;PL;SBJV;PRS = vecodebodet
+ეცოდება	მეცოდებოდეთ	V;1;SG;2;PL;SBJV;PRS = mecodebodet
+ეცოდება	ეცოდებოდეთ	V;3;SG;2;PL;SBJV;PRS = ecodebodet
+ეცოდება	გვეცოდებოდეთ	V;1;PL;2;PL;SBJV;PRS = gvecodebodet
+ეცოდება	ეცოდებოდეთ	V;3;PL;2;PL;SBJV;PRS = ecodebodet
+ეცოდება	მეცოდებოდეს	V;1;SG;3;PL;SBJV;PRS = mecodebodes
+ეცოდება	გეცოდებოდეს	V;2;SG;3;PL;SBJV;PRS = gecodebodes
+ეცოდება	ეცოდებოდეს	V;3;SG;3;PL;SBJV;PRS = ecodebodes
+ეცოდება	გვეცოდებოდეს	V;1;PL;3;PL;SBJV;PRS = gvecodebodes
+ეცოდება	გეცოდებოდეთ	V;2;PL;3;PL;SBJV;PRS = gecodebodet
+ეცოდება	ეცოდებოდეთ	V;3;PL;3;PL;SBJV;PRS = ecodebodet
+
+
+Screeve #4:
+ეცოდება	შეგეცოდები	V;2;SG;1;SG;IND;FUT = šegecodebi
+ეცოდება	შევეცოდები	V;3;SG;1;SG;IND;FUT = ševecodebi
+ეცოდება	შეგეცოდებით	V;2;PL;1;SG;IND;FUT = šegecodebit
+ეცოდება	შევეცოდებით	V;3;PL;1;SG;IND;FUT = ševecodebit
+ეცოდება	შემეცოდები	V;1;SG;2;SG;IND;FUT = šemecodebi
+ეცოდება	შეეცოდები	V;3;SG;2;SG;IND;FUT = šeecodebi
+ეცოდება	შეგვეცოდები	V;1;PL;2;SG;IND;FUT = šegvecodebi
+ეცოდება	შეეცოდები	V;3;PL;2;SG;IND;FUT = šeecodebi
+ეცოდება	შემეცოდება	V;1;SG;3;SG;IND;FUT = šemecodeba
+ეცოდება	შეგეცოდება	V;2;SG;3;SG;IND;FUT = šegecodeba
+ეცოდება	შეეცოდება	V;3;SG;3;SG;IND;FUT = šeecodeba
+ეცოდება	შეგვეცოდება	V;1;PL;3;SG;IND;FUT = šegvecodeba
+ეცოდება	შეგეცოდებათ	V;2;PL;3;SG;IND;FUT = šegecodebat
+ეცოდება	შეეცოდებათ	V;3;PL;3;SG;IND;FUT = šeecodebat
+ეცოდება	შეგეცოდებით	V;2;SG;1;PL;IND;FUT = šegecodebit
+ეცოდება	შევეცოდებით	V;3;SG;1;PL;IND;FUT = ševecodebit
+ეცოდება	შეგეცოდებით	V;2;PL;1;PL;IND;FUT = šegecodebit
+ეცოდება	შევეცოდებით	V;3;PL;1;PL;IND;FUT = ševecodebit
+ეცოდება	შემეცოდებით	V;1;SG;2;PL;IND;FUT = šemecodebit
+ეცოდება	შეეცოდებით	V;3;SG;2;PL;IND;FUT = šeecodebit
+ეცოდება	შეგვეცოდებით	V;1;PL;2;PL;IND;FUT = šegvecodebit
+ეცოდება	შეეცოდებით	V;3;PL;2;PL;IND;FUT = šeecodebit
+ეცოდება	შემეცოდება	V;1;SG;3;PL;IND;FUT = šemecodeba
+ეცოდება	შეგეცოდება	V;2;SG;3;PL;IND;FUT = šegecodeba
+ეცოდება	შეეცოდება	V;3;SG;3;PL;IND;FUT = šeecodeba
+ეცოდება	შეგვეცოდება	V;1;PL;3;PL;IND;FUT = šegvecodeba
+ეცოდება	შეგეცოდებათ	V;2;PL;3;PL;IND;FUT = šegecodebat
+ეცოდება	შეეცოდებათ	V;3;PL;3;PL;IND;FUT = šeecodebat
+
+
+Screeve #5:
+ეცოდება	შეგეცოდებოდი	V;2;SG;1;SG;COND = šegecodebodi
+ეცოდება	შევეცოდებოდი	V;3;SG;1;SG;COND = ševecodebodi
+ეცოდება	შეგეცოდებოდით	V;2;PL;1;SG;COND = šegecodebodit
+ეცოდება	შევეცოდებოდით	V;3;PL;1;SG;COND = ševecodebodit
+ეცოდება	შემეცოდებოდი	V;1;SG;2;SG;COND = šemecodebodi
+ეცოდება	შეეცოდებოდი	V;3;SG;2;SG;COND = šeecodebodi
+ეცოდება	შეგვეცოდებოდი	V;1;PL;2;SG;COND = šegvecodebodi
+ეცოდება	შეეცოდებოდი	V;3;PL;2;SG;COND = šeecodebodi
+ეცოდება	შემეცოდებოდა	V;1;SG;3;SG;COND = šemecodeboda
+ეცოდება	შეგეცოდებოდა	V;2;SG;3;SG;COND = šegecodeboda
+ეცოდება	შეეცოდებოდა	V;3;SG;3;SG;COND = šeecodeboda
+ეცოდება	შეგვეცოდებოდა	V;1;PL;3;SG;COND = šegvecodeboda
+ეცოდება	შეგეცოდებოდათ	V;2;PL;3;SG;COND = šegecodebodat
+ეცოდება	შეეცოდებოდათ	V;3;PL;3;SG;COND = šeecodebodat
+ეცოდება	შეგეცოდებოდით	V;2;SG;1;PL;COND = šegecodebodit
+ეცოდება	შევეცოდებოდით	V;3;SG;1;PL;COND = ševecodebodit
+ეცოდება	შეგეცოდებოდით	V;2;PL;1;PL;COND = šegecodebodit
+ეცოდება	შევეცოდებოდით	V;3;PL;1;PL;COND = ševecodebodit
+ეცოდება	შემეცოდებოდით	V;1;SG;2;PL;COND = šemecodebodit
+ეცოდება	შეეცოდებოდით	V;3;SG;2;PL;COND = šeecodebodit
+ეცოდება	შეგვეცოდებოდით	V;1;PL;2;PL;COND = šegvecodebodit
+ეცოდება	შეეცოდებოდით	V;3;PL;2;PL;COND = šeecodebodit
+ეცოდება	შემეცოდებოდა	V;1;SG;3;PL;COND = šemecodeboda
+ეცოდება	შეგეცოდებოდა	V;2;SG;3;PL;COND = šegecodeboda
+ეცოდება	შეეცოდებოდა	V;3;SG;3;PL;COND = šeecodeboda
+ეცოდება	შეგვეცოდებოდა	V;1;PL;3;PL;COND = šegvecodeboda
+ეცოდება	შეგეცოდებოდათ	V;2;PL;3;PL;COND = šegecodebodat
+ეცოდება	შეეცოდებოდათ	V;3;PL;3;PL;COND = šeecodebodat
+
+
+Screeve #6:
+ეცოდება	შეგეცოდებოდე	V;2;SG;1;SG;SBJV;FUT = šegecodebode
+ეცოდება	შევეცოდებოდე	V;3;SG;1;SG;SBJV;FUT = ševecodebode
+ეცოდება	შეგეცოდებოდეთ	V;2;PL;1;SG;SBJV;FUT = šegecodebodet
+ეცოდება	შევეცოდებოდეთ	V;3;PL;1;SG;SBJV;FUT = ševecodebodet
+ეცოდება	შემეცოდებოდე	V;1;SG;2;SG;SBJV;FUT = šemecodebode
+ეცოდება	შეეცოდებოდე	V;3;SG;2;SG;SBJV;FUT = šeecodebode
+ეცოდება	შეგვეცოდებოდე	V;1;PL;2;SG;SBJV;FUT = šegvecodebode
+ეცოდება	შეეცოდებოდე	V;3;PL;2;SG;SBJV;FUT = šeecodebode
+ეცოდება	შემეცოდებოდეს	V;1;SG;3;SG;SBJV;FUT = šemecodebodes
+ეცოდება	შეგეცოდებოდეს	V;2;SG;3;SG;SBJV;FUT = šegecodebodes
+ეცოდება	შეეცოდებოდეს	V;3;SG;3;SG;SBJV;FUT = šeecodebodes
+ეცოდება	შეგვეცოდებოდეს	V;1;PL;3;SG;SBJV;FUT = šegvecodebodes
+ეცოდება	შეგეცოდებოდეთ	V;2;PL;3;SG;SBJV;FUT = šegecodebodet
+ეცოდება	შეეცოდებოდეთ	V;3;PL;3;SG;SBJV;FUT = šeecodebodet
+ეცოდება	შეგეცოდებოდეთ	V;2;SG;1;PL;SBJV;FUT = šegecodebodet
+ეცოდება	შევეცოდებოდეთ	V;3;SG;1;PL;SBJV;FUT = ševecodebodet
+ეცოდება	შეგეცოდებოდეთ	V;2;PL;1;PL;SBJV;FUT = šegecodebodet
+ეცოდება	შევეცოდებოდეთ	V;3;PL;1;PL;SBJV;FUT = ševecodebodet
+ეცოდება	შემეცოდებოდეთ	V;1;SG;2;PL;SBJV;FUT = šemecodebodet
+ეცოდება	შეეცოდებოდეთ	V;3;SG;2;PL;SBJV;FUT = šeecodebodet
+ეცოდება	შეგვეცოდებოდეთ	V;1;PL;2;PL;SBJV;FUT = šegvecodebodet
+ეცოდება	შეეცოდებოდეთ	V;3;PL;2;PL;SBJV;FUT = šeecodebodet
+ეცოდება	შემეცოდებოდეს	V;1;SG;3;PL;SBJV;FUT = šemecodebodes
+ეცოდება	შეგეცოდებოდეს	V;2;SG;3;PL;SBJV;FUT = šegecodebodes
+ეცოდება	შეეცოდებოდეს	V;3;SG;3;PL;SBJV;FUT = šeecodebodes
+ეცოდება	შეგვეცოდებოდეს	V;1;PL;3;PL;SBJV;FUT = šegvecodebodes
+ეცოდება	შეგეცოდებოდეთ	V;2;PL;3;PL;SBJV;FUT = šegecodebodet
+ეცოდება	შეეცოდებოდეთ	V;3;PL;3;PL;SBJV;FUT = šeecodebodet
+
+
+Screeve #9:
+ეცოდება	შეგცოდებივარ	V;2;SG;1;SG;IND;PRF = šegcodebivar
+ეცოდება	შევცოდებივარ	V;3;SG;1;SG;IND;PRF = ševcodebivar
+ეცოდება	შეგცოდებივართ	V;2;PL;1;SG;IND;PRF = šegcodebivart
+ეცოდება	შევცოდებივარ	V;3;PL;1;SG;IND;PRF = ševcodebivar
+ეცოდება	შემცოდებიხარ	V;1;SG;2;SG;IND;PRF = šemcodebixar
+ეცოდება	შესცოდებიხარ	V;3;SG;2;SG;IND;PRF = šescodebixar
+ეცოდება	შეგვცოდებიხარ	V;1;PL;2;SG;IND;PRF = šegvcodebixar
+ეცოდება	შესცოდებიხარ	V;3;PL;2;SG;IND;PRF = šescodebixar
+ეცოდება	შემცოდებია	V;1;SG;3;SG;IND;PRF = šemcodebia
+ეცოდება	შეგცოდებია	V;2;SG;3;SG;IND;PRF = šegcodebia
+ეცოდება	შესცოდებია	V;3;SG;3;SG;IND;PRF = šescodebia
+ეცოდება	შეგვცოდებია	V;1;PL;3;SG;IND;PRF = šegvcodebia
+ეცოდება	შეგცოდებიათ	V;2;PL;3;SG;IND;PRF = šegcodebiat
+ეცოდება	შესცოდებიათ	V;3;PL;3;SG;IND;PRF = šescodebiat
+ეცოდება	შეგცოდებივართ	V;2;SG;1;PL;IND;PRF = šegcodebivart
+ეცოდება	შევცოდებივართ	V;3;SG;1;PL;IND;PRF = ševcodebivart
+ეცოდება	შეგცოდებივართ	V;2;PL;1;PL;IND;PRF = šegcodebivart
+ეცოდება	შევცოდებივართ	V;3;PL;1;PL;IND;PRF = ševcodebivart
+ეცოდება	შემცოდებიხართ	V;1;SG;2;PL;IND;PRF = šemcodebixart
+ეცოდება	შესცოდებიხართ	V;3;SG;2;PL;IND;PRF = šescodebixart
+ეცოდება	შეგვცოდებიხართ	V;1;PL;2;PL;IND;PRF = šegvcodebixart
+ეცოდება	შესცოდებიხართ	V;3;PL;2;PL;IND;PRF = šescodebixart
+ეცოდება	შემცოდებია	V;1;SG;3;PL;IND;PRF = šemcodebia
+ეცოდება	შეგცოდებია	V;2;SG;3;PL;IND;PRF = šegcodebia
+ეცოდება	შესცოდებია	V;3;SG;3;PL;IND;PRF = šescodebia
+ეცოდება	შეგვცოდებია	V;1;PL;3;PL;IND;PRF = šegvcodebia
+ეცოდება	შეგცოდებიათ	V;2;PL;3;PL;IND;PRF = šegcodebiat
+ეცოდება	შესცოდებიათ	V;3;PL;3;PL;IND;PRF = šescodebiat
+
+
+Screeve #10:
+ეცოდება	შეგცოდებოდი	V;2;SG;1;SG;IND;PST;PRF = šegcodebodi
+ეცოდება	შევცოდებოდი	V;3;SG;1;SG;IND;PST;PRF = ševcodebodi
+ეცოდება	შეგცოდებოდით	V;2;PL;1;SG;IND;PST;PRF = šegcodebodit
+ეცოდება	შევცოდებოდით	V;3;PL;1;SG;IND;PST;PRF = ševcodebodit
+ეცოდება	შემცოდებოდი	V;1;SG;2;SG;IND;PST;PRF = šemcodebodi
+ეცოდება	შესცოდებოდი	V;3;SG;2;SG;IND;PST;PRF = šescodebodi
+ეცოდება	შეგვცოდებოდი	V;1;PL;2;SG;IND;PST;PRF = šegvcodebodi
+ეცოდება	შესცოდებოდი	V;3;PL;2;SG;IND;PST;PRF = šescodebodi
+ეცოდება	შემცოდებოდა	V;1;SG;3;SG;IND;PST;PRF = šemcodeboda
+ეცოდება	შეგცოდებოდა	V;2;SG;3;SG;IND;PST;PRF = šegcodeboda
+ეცოდება	შესცოდებოდა	V;3;SG;3;SG;IND;PST;PRF = šescodeboda
+ეცოდება	შეგვცოდებოდა	V;1;PL;3;SG;IND;PST;PRF = šegvcodeboda
+ეცოდება	შეგცოდებოდათ	V;2;PL;3;SG;IND;PST;PRF = šegcodebodat
+ეცოდება	შესცოდებოდათ	V;3;PL;3;SG;IND;PST;PRF = šescodebodat
+ეცოდება	შეგცოდებოდით	V;2;SG;1;PL;IND;PST;PRF = šegcodebodit
+ეცოდება	შევცოდებოდით	V;3;SG;1;PL;IND;PST;PRF = ševcodebodit
+ეცოდება	შეგცოდებოდით	V;2;PL;1;PL;IND;PST;PRF = šegcodebodit
+ეცოდება	შევცოდებოდით	V;3;PL;1;PL;IND;PST;PRF = ševcodebodit
+ეცოდება	შემცოდებოდით	V;1;SG;2;PL;IND;PST;PRF = šemcodebodit
+ეცოდება	შესცოდებოდით	V;3;SG;2;PL;IND;PST;PRF = šescodebodit
+ეცოდება	შეგვცოდებოდით	V;1;PL;2;PL;IND;PST;PRF = šegvcodebodit
+ეცოდება	შესცოდებოდით	V;3;PL;2;PL;IND;PST;PRF = šescodebodit
+ეცოდება	შემცოდებოდა	V;1;SG;3;PL;IND;PST;PRF = šemcodeboda
+ეცოდება	შეგცოდებოდა	V;2;SG;3;PL;IND;PST;PRF = šegcodeboda
+ეცოდება	შესცოდებოდა	V;3;SG;3;PL;IND;PST;PRF = šescodeboda
+ეცოდება	შეგვცოდებოდა	V;1;PL;3;PL;IND;PST;PRF = šegvcodeboda
+ეცოდება	შეგცოდებოდათ	V;2;PL;3;PL;IND;PST;PRF = šegcodebodat
+ეცოდება	შესცოდებოდათ	V;3;PL;3;PL;IND;PST;PRF = šescodebodat
+
+
+Screeve #11:
+ეცოდება	შეგცოდებოდე	V;2;SG;1;SG;SBJV;PRF = šegcodebode
+ეცოდება	შევცოდებოდე	V;3;SG;1;SG;SBJV;PRF = ševcodebode
+ეცოდება	შეგცოდებოდეთ	V;2;PL;1;SG;SBJV;PRF = šegcodebodet
+ეცოდება	შევცოდებოდეთ	V;3;PL;1;SG;SBJV;PRF = ševcodebodet
+ეცოდება	შემცოდებოდე	V;1;SG;2;SG;SBJV;PRF = šemcodebode
+ეცოდება	შესცოდებოდე	V;3;SG;2;SG;SBJV;PRF = šescodebode
+ეცოდება	შეგვცოდებოდე	V;1;PL;2;SG;SBJV;PRF = šegvcodebode
+ეცოდება	შესცოდებოდე	V;3;PL;2;SG;SBJV;PRF = šescodebode
+ეცოდება	შემცოდებოდეს	V;1;SG;3;SG;SBJV;PRF = šemcodebodes
+ეცოდება	შეგცოდებოდეს	V;2;SG;3;SG;SBJV;PRF = šegcodebodes
+ეცოდება	შესცოდებოდეს	V;3;SG;3;SG;SBJV;PRF = šescodebodes
+ეცოდება	შეგვცოდებოდეს	V;1;PL;3;SG;SBJV;PRF = šegvcodebodes
+ეცოდება	შეგცოდებოდეთ	V;2;PL;3;SG;SBJV;PRF = šegcodebodet
+ეცოდება	შესცოდებოდეთ	V;3;PL;3;SG;SBJV;PRF = šescodebodet
+ეცოდება	შეგცოდებოდეთ	V;2;SG;1;PL;SBJV;PRF = šegcodebodet
+ეცოდება	შევცოდებოდეთ	V;3;SG;1;PL;SBJV;PRF = ševcodebodet
+ეცოდება	შეგცოდებოდეთ	V;2;PL;1;PL;SBJV;PRF = šegcodebodet
+ეცოდება	შევცოდებოდეთ	V;3;PL;1;PL;SBJV;PRF = ševcodebodet
+ეცოდება	შემცოდებოდეთ	V;1;SG;2;PL;SBJV;PRF = šemcodebodet
+ეცოდება	შესცოდებოდეთ	V;3;SG;2;PL;SBJV;PRF = šescodebodet
+ეცოდება	შეგვცოდებოდეთ	V;1;PL;2;PL;SBJV;PRF = šegvcodebodet
+ეცოდება	შესცოდებოდეთ	V;3;PL;2;PL;SBJV;PRF = šescodebodet
+ეცოდება	შემცოდებოდეს	V;1;SG;3;PL;SBJV;PRF = šemcodebodes
+ეცოდება	შეგცოდებოდეს	V;2;SG;3;PL;SBJV;PRF = šegcodebodes
+ეცოდება	შესცოდებოდეს	V;3;SG;3;PL;SBJV;PRF = šescodebodes
+ეცოდება	შეგვცოდებოდეს	V;1;PL;3;PL;SBJV;PRF = šegvcodebodes
+ეცოდება	შეგცოდებოდეთ	V;2;PL;3;PL;SBJV;PRF = šegcodebodet
+ეცოდება	შესცოდებოდეთ	V;3;PL;3;PL;SBJV;PRF = šescodebodet
+
+
+ეცოდება	შეცოდება	V;V.MSDR;IPFV
