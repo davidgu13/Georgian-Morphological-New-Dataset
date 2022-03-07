@@ -9,4 +9,4 @@ Note: we decided to ignore Animacy restrictions, except when it was impossible t
 The features order is
 "V;[Subject_features];[Object_features];[Screeve]"
 
-See the complete dataset at katVerbsCompleteDataset.txt., and the dataset separated to the Georgian verbal classes at "Final Tables By Classes".
+See the complete dataset at katVerbsCompleteDataset.txt, and the dataset separated to the Georgian verbal classes at "Final Tables By Classes".
