@@ -380,7 +380,7 @@ class Medial_Screeve(Screeve):
             lemma.version = lemma.pluperfect_version
 
         if self.idx == 7:
-            self.set_subject_affix('suff','sg3','a')
+            self.set_subject_affix('suff','sg3','ა')
             # self.paas['sg3']['suff'] = 'ა' # instead of lemma.aor_indic_3rd_sg - can be "a" except the verb "feel".
 
         if self.idx in {7, 8, 10, 11}:
